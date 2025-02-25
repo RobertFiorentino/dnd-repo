@@ -1,13 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/baldurs-gate/circus-of-hostages/","created":"2025-02-22T16:51:31.576-05:00","updated":"2025-02-24T23:34:59.764-05:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/baldurs-gate/circus-of-hostages/","created":"2025-02-22T16:51:31.576-05:00","updated":"2025-02-24T23:40:13.799-05:00"}
 ---
 
 > [!infobox]
-> ###### Sessions Appeared
+
+>[!infobox]
+>###### Groups Associated
 > - [[3-Mechanics/Guilds and Groups/Plague Rats\|Plague Rats]]
 > 
 { .block-language-dataview}
->##### Circus of Hostages
+>###### NPCs Associated
+  > - [[3-Mechanics/NPCs/Laverneous\|Laverneous]]
+> 
+{ .block-language-dataview}
+> ###### Sessions Appeared
+> ```dataview 
+> LIST WITHOUT ID file.link  
+> FROM "1-Session Journals"  
+> WHERE contains(file.outlinks, this.file.link)  
+> SORT file.name ASC
+
 
 
 A circus originally run by halflings and other humanoids, the [[3-Mechanics/Guilds and Groups/Plague Rats\|Plague Rats]] cult took it over seemingly to have a cover to travel and spread the plague.
