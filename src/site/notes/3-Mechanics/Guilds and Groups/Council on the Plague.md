@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/guilds-and-groups/council-on-the-plague/","tags":["Category/Group"],"created":"2025-02-24T13:20:19.999-05:00","updated":"2025-02-24T21:19:24.303-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/guilds-and-groups/council-on-the-plague/","tags":["Category/Group"],"created":"2025-02-24T13:20:19.999-05:00","updated":"2025-02-25T14:24:14.994-05:00"}
 ---
 
 
 
 > [!infobox]
 > # Council on the Plague
-> ![ImagePlaceholder.png](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
+> ![CouncilOnthePlagueImage.png](/img/user/z_Assets/CouncilOnthePlagueImage.png)
 > ###### Key Members
 >  | File                                         | Race                    | Gender |
 > | -------------------------------------------- | ----------------------- | ------ |
