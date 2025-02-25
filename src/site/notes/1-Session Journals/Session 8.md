@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/session-8/","tags":["journal"],"created":"2025-02-23T18:10:26.859-05:00","updated":"2025-02-24T20:30:31.318-05:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/session-8/","tags":["journal"],"created":"2025-02-23T18:10:26.859-05:00","updated":"2025-02-24T21:27:27.704-05:00"}
 ---
 
 # Roster - 2025-02-11T00:00:00.000-05:00
@@ -13,9 +13,9 @@
 ## Absent
 
 # Big Top Melee
-[[1-Party/The Plague Wardens/The Plague Wardens\|The Plague Wardens]] discussed their next steps with the circus hostages. They decided to head back to [[2-World/Faerûn/Baldur's Gate/Baldur's Gate\|Baldur's Gate]] to try to find refuge for their new friends. Strangely, [[1-Party/The Plague Wardens/Cinder\|Cinder]] unknowingly began speaking in a strange language no one could understand, before absent-mindedly clutching the hag's necklace around his neck.
+[[1-Party/The Plague Wardens/The Plague Wardens\|The Plague Wardens]] discussed their next steps with the circus hostages. They decided to head back to [[2-World/Faerûn/Baldurs Gate/Baldurs Gate\|Baldurs Gate]] to try to find refuge for their new friends. Strangely, [[1-Party/The Plague Wardens/Cinder\|Cinder]] unknowingly began speaking in a strange language no one could understand, before absent-mindedly clutching the hag's necklace around his neck.
 
-Upon returning to [[2-World/Faerûn/Baldur's Gate/Baldur's Gate\|Baldur's Gate]], the group informed the ranking officer about the recovered circus prisoners. He did not seem overly concerned to help, being more preoccupied with [[2-World/Faerûn/Waterdeep/Waterdeep Plague/Waterdeep Plague\|plague]] at hand. The group did some shopping, with [[1-Party/The Plague Wardens/Cinder\|Cinder]] borrowing from [[1-Party/The Plague Wardens/Ragnar\|Ragnar]] and [[1-Party/The Plague Wardens/Jelma\|Jelma]] to buy a fresh set of [[3-Mechanics/CLI/items/half-plate-armor-xphb\|Half Plate Armor]]. To be able to afford the armor, he had to trade in his [[3-Mechanics/CLI/items/scale-mail-xphb\|Scale Mail]] as well as his [[3-Mechanics/CLI/items/longsword-xphb\|Longsword]], which puzzled to group as to how Cinder planned to fight without a weapon (and what would he argue with now?).
+Upon returning to [[2-World/Faerûn/Baldurs Gate/Baldurs Gate\|Baldurs Gate]], the group informed the ranking officer about the recovered circus prisoners. He did not seem overly concerned to help, being more preoccupied with [[2-World/Faerûn/Waterdeep/Waterdeep Plague/Waterdeep Plague\|plague]] at hand. The group did some shopping, with [[1-Party/The Plague Wardens/Cinder\|Cinder]] borrowing from [[1-Party/The Plague Wardens/Ragnar\|Ragnar]] and [[1-Party/The Plague Wardens/Jelma\|Jelma]] to buy a fresh set of [[3-Mechanics/CLI/items/half-plate-armor-xphb\|Half Plate Armor]]. To be able to afford the armor, he had to trade in his [[3-Mechanics/CLI/items/scale-mail-xphb\|Scale Mail]] as well as his [[3-Mechanics/CLI/items/longsword-xphb\|Longsword]], which puzzled to group as to how Cinder planned to fight without a weapon (and what would he argue with now?).
 
 When facing the ranking officer again, he informed the group that he received a missive from the [[3-Mechanics/Guilds and Groups/Council on the Plague\|Council on the Plague]] in Waterdeep that the party is to return to Waterdeep immediately. He was very cagey with information, seeming to know more than he let on but he would answer no further questions.
 
@@ -35,8 +35,8 @@ While the goblin was quickly dispatched by the group, the fight was readied for 
 
 ### Locations
 
-- [[2-World/Faerûn/Baldur's Gate/Baldur's Gate\|Baldur's Gate]]
-- [[2-World/Faerûn/Baldur's Gate/Circus of Hostages\|Circus of Hostages]]
+- [[2-World/Faerûn/Baldurs Gate/Baldurs Gate\|Baldurs Gate]]
+- [[2-World/Faerûn/Baldurs Gate/Circus of Hostages\|Circus of Hostages]]
 <br>
 ### NPCs
 - [[3-Mechanics/NPCs/Laverneous\|Laverneous]]<br>

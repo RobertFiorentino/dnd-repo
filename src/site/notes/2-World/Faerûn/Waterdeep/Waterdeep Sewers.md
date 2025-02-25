@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/waterdeep-sewers/","tags":["Category/Settlement"],"created":"2025-02-23T11:37:41.720-05:00","updated":"2025-02-24T20:32:53.882-05:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/waterdeep-sewers/","tags":["Category/Settlement"],"created":"2025-02-23T11:37:41.720-05:00","updated":"2025-02-24T21:16:39.933-05:00"}
 ---
 
 > [!infobox]
@@ -44,11 +44,14 @@
 > 
 { .block-language-dataview}
 > ###### Sessions Appeared
-> ```dataview 
-> LIST WITHOUT ID file.link  
-> FROM "1-Session Journals"  
-> WHERE contains(file.outlinks, this.file.link)  
-> SORT file.name ASC
+>  - [[1-Session Journals/Session 1\|Session 1]]
+> - [[1-Session Journals/Session 2\|Session 2]]
+> - [[1-Session Journals/Session 3\|Session 3]]
+> - [[1-Session Journals/Session 4\|Session 4]]
+> - [[1-Session Journals/Session 5\|Session 5]]
+> - [[1-Session Journals/Session 6\|Session 6]]
+> 
+{ .block-language-dataview}
 
 
 # Waterdeep Sewers

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/guilds-and-groups/council-on-the-plague/","tags":["Category/Group"],"created":"2025-02-24T13:20:19.999-05:00","updated":"2025-02-24T20:33:02.496-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/guilds-and-groups/council-on-the-plague/","tags":["Category/Group"],"created":"2025-02-24T13:20:19.999-05:00","updated":"2025-02-24T21:19:24.303-05:00"}
 ---
 
 
@@ -15,11 +15,11 @@
 > 
 { .block-language-dataview}
 > ###### Sessions Appeared
-> ```dataview  
-> LIST WITHOUT ID file.link  
-> FROM "1-Session Journals"  
-> WHERE contains(file.outlinks, this.file.link)  
-> SORT file.name ASC
+>  - [[1-Session Journals/Session 1\|Session 1]]
+> - [[1-Session Journals/Session 6\|Session 6]]
+> - [[1-Session Journals/Session 8\|Session 8]]
+> 
+{ .block-language-dataview}
 # Council on the Plague
 ## Overview
 The council at [[2-World/Faerûn/Waterdeep/Waterdeep\|Waterdeep]] in charge of investigating and combating the [[2-World/Faerûn/Waterdeep/Waterdeep Plague/Waterdeep Plague\|Waterdeep Plague]].
