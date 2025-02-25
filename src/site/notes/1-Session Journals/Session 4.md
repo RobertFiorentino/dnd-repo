@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/session-4/","tags":["journal"],"created":"2025-02-23T00:03:02.875-05:00","updated":"2025-02-24T20:30:02.760-05:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/session-4/","tags":["journal"],"created":"2025-02-23T00:03:02.875-05:00","updated":"2025-02-24T23:03:59.036-05:00"}
 ---
 
 # Roster - 2024-11-20T00:00:00.000-05:00
@@ -26,7 +26,7 @@ As the party caught its breath, they spotted a pile of halfling performers, some
 
 Further investigation of the sewers led the party outside into a swamp. There they fought and killed that were also dressed yellow circus clothes. They were bringing out wheelbarrows full of [[2-World/Faerûn/Waterdeep/Waterdeep Plague/Black Goo\|Black Goo]], seemingly to be picked up by ship.
 
-The group went back into the sewers to investigate another tunnel from earlier. They recognized this large room as the well room they had seen [[1-Session Journals/Session 1\|earlier in their adventure]]. Also present was the mustashioed  [[3-Mechanics/CLI/bestiary/monstrosity/wererat-xmm\|Wererat]] that disappeared earlier, along with giant rats to back him up. This time we were able to damage him with the silver weapons we found earlier before confronting [[3-Mechanics/NPCs/Baron von Cheddarsburgh\|Baron von Cheddarsburgh]]. During the fight, [[1-Party/The Plague Wardens/Jelma\|Jelma]] had a lot of trouble in the water and almost drowned himself, possibly due to karma for drowning a goblin earlier.
+The group went back into the sewers to investigate another tunnel from earlier. They recognized this large room as the well room they had seen [[1-Session Journals/Session 1\|earlier in their adventure]]. Also present was the mustashioed  [[3-Mechanics/CLI/bestiary/monstrosity/wererat-xmm\|Wererat]] that disappeared earlier, along with giant rats to back him up. This time we were able to damage him with the silver weapons we found earlier before confronting [[3-Mechanics/NPCs/Baron von Cheddarsburgh\|Baron von Cheddarsburgh]]. During the fight, [[1-Party/The Plague Wardens/Jelma\|Jelma]] had a lot of trouble in the water and almost drowned himself, possibly due to karma for drowning a goblin earlier. [[1-Party/The Plague Wardens/Ragnar\|Ragnar]] obliterated the wererat with a ferocious [[3-Mechanics/CLI/spells/divine-smite-xphb\|Divine Smite]].
 
 
 ### Locations
