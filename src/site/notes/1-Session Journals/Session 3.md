@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/session-3/","created":"2025-02-22T22:47:13.566-05:00","updated":"2025-02-25T13:40:04.459-05:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/session-3/","created":"2025-02-22T22:47:13.566-05:00","updated":"2025-02-25T14:05:04.562-05:00"}
 ---
 
 >[!infobox]
@@ -18,7 +18,7 @@
 
 ![BaronCheddar.png|right|400](/img/user/z_Assets/BaronCheddar.png)On the other side of the rubble was [[3-Mechanics/NPCs/Baron von Cheddarsburgh\|Baron von Cheddarsburgh]], a [[3-Mechanics/CLI/bestiary/undead/wight-xmm\|Wight]] several hundred years old. The Baron was very crude, insulting our female ancestors and implying he had intimate relations with many of them. [[1-Party/The Plague Wardens/Cinder\|Cinder]] tried to reason with him, noble to noble, rolling a 27 but his hatred was too deep. The Baron had a painting on hand that he cherished, and "was able to prove the painting was fake and kept it as trophy as triumph over fake news". On the Baron's death, [[1-Party/The Plague Wardens/Cinder\|Cinder]] seemed to suck his essence into his own body through his sword. Several cheese wheels of various sizes were available for the taking after dispatching the undead nobleman.
 
-The party moved upwards to find an alternate route out and stumbled into a nest of [[3-Mechanics/CLI/bestiary/monstrosity/carrion-crawler-xmm\|4 foot long multi-legged worms]]. The party needed a rest and decided to rest here, advancing to Level 2!
+The party moved upwards to find an alternate route out and stumbled into a nest of [[3-Mechanics/CLI/bestiary/monstrosity/carrion-crawler-xmm\|4 foot long multi-legged worms]]. The party needed a rest and decided to rest here, [[3-Mechanics/CLI/books/players-handbook-2024/03-chapter-2-creating-a-character#Gaining a Level\|advancing to Level 2]]!
 <br>
 
 ### Locations

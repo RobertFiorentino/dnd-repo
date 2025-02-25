@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/session-7/","created":"2025-02-23T17:01:24.757-05:00","updated":"2025-02-25T13:46:41.330-05:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/session-7/","created":"2025-02-23T17:01:24.757-05:00","updated":"2025-02-25T14:05:49.954-05:00"}
 ---
 
 >[!infobox]
@@ -28,7 +28,7 @@ Two of the party tried their luck with a fortune teller, with one winning a heal
 
 ![FireworksCircus.png|right|700](/img/user/z_Assets/FireworksCircus.png) The group noticed a well-stocked fireworks cart not far from the main circus tent. [[1-Party/The Plague Wardens/Renan\|Renan]] hatched a plan to create a diversion with the fireworks while [[1-Party/The Plague Wardens/The Plague Wardens\|The Plague Wardens]] freed the hostages. [[1-Party/The Plague Wardens/Dr. Buckles\|Dr. Buckles]] used a [[3-Mechanics/CLI/spells/mage-hand-xphb\|mysterious hand]] to bring a torch onto the fireworks cart and all mayhem broke loose as the fireworks began setting the entire circus on fire. The party successfully freed most if not all of the hostages and [[3-Mechanics/NPCs/Laverneous\|Laverneous]] brought them to safety at a predetermined location halfway to [[2-World/Faerûn/Baldurs Gate/Baldurs Gate\|Baldurs Gate]].
 
-The party met at the rendezvous point and were surprised at how well the plan worked out, without even needing to fight. They were rewarded with their ingenuity with a level up to 3!
+The party met at the rendezvous point and were surprised at how well the plan worked out, without even needing to fight. They were rewarded with their ingenuity with a [[3-Mechanics/CLI/books/players-handbook-2024/03-chapter-2-creating-a-character#Gaining a Level\| level up to 3]]!
 <br>
 ### Locations
 

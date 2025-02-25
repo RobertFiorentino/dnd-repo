@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/session-8/","created":"2025-02-23T18:10:26.859-05:00","updated":"2025-02-25T13:47:19.466-05:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/session-8/","created":"2025-02-23T18:10:26.859-05:00","updated":"2025-02-25T14:08:35.913-05:00"}
 ---
 
 >[!infobox]
@@ -23,7 +23,7 @@ Sneaking around the perimeter of the circus, mayhem still ruled the circus as fi
 
 While the goblin was quickly dispatched by the group, the fight was readied for the [[3-Mechanics/CLI/bestiary/monstrosity/wererat-xmm\|Wererat]] leader and his rat ogre companion, as well as a slew of cultists. [[1-Party/The Plague Wardens/Cinder\|Cinder]] opened his hands and a shadow [[3-Mechanics/CLI/items/glaive-xphb\|Glaive]] [[3-Mechanics/CLI/optional-features/pact-of-the-blade-xphb\|materialized]]. He chanted infernal utterances and darkness streamed from the hag's locket, enveloping him and his foes in complete [[3-Mechanics/CLI/spells/darkness-xphb\|darkness]] .
 
-![LionCircus.png|left |600](/img/user/z_Assets/LionCircus.png)Meanwhile, [[1-Party/The Plague Wardens/Dr. Buckles\|Dr. Buckles]] took a shining to the lion and cast a spell to [[3-Mechanics/CLI/spells/enlarge-reduce-xphb\|grow it]] to a massive size. Unfortunately, the spell didn't seem to give the wizard any actual control over the beast, who meandered about but at least didn't attack the team.
+![LionCircus.png|left |500](/img/user/z_Assets/LionCircus.png)Meanwhile, [[1-Party/The Plague Wardens/Dr. Buckles\|Dr. Buckles]] took a shining to the lion and cast a spell to [[3-Mechanics/CLI/spells/enlarge-reduce-xphb\|grow it]] to a massive size. Unfortunately, the spell didn't seem to give the wizard any actual control over the beast, who meandered about but at least didn't attack the team.
 
 [[1-Party/The Plague Wardens/Renan\|Renan]] hid in a nearby wagon and surprised an approaching cultist, obliterating his head with a shot from his bow. He was not able to flee in time from the massive rat ogre, who pounded the wood elf mercilessly. With the battle turning against him, the wererat ringleader ran into the circus tent for reinforcements.
 

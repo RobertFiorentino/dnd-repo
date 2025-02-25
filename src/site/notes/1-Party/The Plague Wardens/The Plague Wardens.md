@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/the-plague-wardens/the-plague-wardens/","tags":["gardenEntry"],"created":"2025-02-19T20:56:05.000-05:00","updated":"2025-02-25T08:05:13.767-05:00"}
+{"dg-publish":true,"permalink":"/1-party/the-plague-wardens/the-plague-wardens/","tags":["gardenEntry"],"created":"2025-02-19T20:56:05.000-05:00","updated":"2025-02-25T14:11:15.004-05:00"}
 ---
 
+# The Plague Wardens
 | Character Name                                             | Player  | Class                              | Race                       | level |
 | ---------------------------------------------------------- | ------- | ---------------------------------- | -------------------------- | ----- |
 | [[1-Party/The Plague Wardens/Dr. Buckles\|Dr. Buckles]] | Garrett | <ul><li>Wizard</li></ul>           | <ul><li>Half-Elf</li></ul> | 3     |
