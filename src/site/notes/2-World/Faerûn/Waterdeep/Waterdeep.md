@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/waterdeep/","tags":["Category/Settlement"],"created":"2025-02-22T16:39:58.745-05:00","updated":"2025-02-24T21:29:31.222-05:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/waterdeep/","tags":["Category/Settlement"],"created":"2025-02-22T16:39:58.745-05:00","updated":"2025-02-25T16:10:22.214-05:00"}
 ---
 
 
@@ -38,8 +38,8 @@
 > ---|---|
 >  | Group                                                                             | Leader |
 > | --------------------------------------------------------------------------------- | ------ |
-> | [[3-Mechanics/Guilds and Groups/Council on the Plague\|Council on the Plague]] | \-     |
 > | [[3-Mechanics/Guilds and Groups/Plague Rats\|Plague Rats]]                     | \-     |
+> | [[3-Mechanics/Guilds and Groups/Council on the Plague\|Council on the Plague]] | \-     |
 > 
 { .block-language-dataview}
 > ###### Sessions Appeared
@@ -70,28 +70,3 @@ It was one of if not the most powerful and influential member-states of the Lord
 - [[3-Mechanics/NPCs/Thurgor\|Thurgor]]
 
 { .block-language-dataview}
-
-## Profile
-Placeholder
-
-## Story
-Placeholder
-
-## Points of Interest
-Placeholder
-
-## Valuables
-Placeholder
-
-## Internal Relationships
-Placeholder
-
-## Outward Relationships
-Placeholder
-
-## Background
-Placeholder
-
-## Additional Details
-Placeholder
-

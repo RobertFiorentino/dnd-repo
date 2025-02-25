@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/baldurs-gate/baldurs-gate/","tags":["Category/Settlement"],"created":"2025-02-22T16:40:09.034-05:00","updated":"2025-02-24T21:51:30.138-05:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/baldurs-gate/baldurs-gate/","tags":["Category/Settlement"],"created":"2025-02-22T16:40:09.034-05:00","updated":"2025-02-25T16:10:41.260-05:00"}
 ---
 
 
@@ -62,28 +62,4 @@ The strong peace-keeping force known as the Watch, along with the presence of th
 ## Notable NPCs
 
 { .block-language-dataview}
-
-## Profile
-Placeholder
-
-## Story
-Placeholder
-
-## Points of Interest
-Placeholder
-
-## Valuables
-Placeholder
-
-## Internal Relationships
-Placeholder
-
-## Outward Relationships
-Placeholder
-
-## Background
-Placeholder
-
-## Additional Details
-Placeholder
 

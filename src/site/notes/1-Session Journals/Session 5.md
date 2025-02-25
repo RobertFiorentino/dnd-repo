@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/session-5/","created":"2025-02-23T00:43:16.451-05:00","updated":"2025-02-25T13:41:18.893-05:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/session-5/","created":"2025-02-23T00:43:16.451-05:00","updated":"2025-02-25T16:28:43.559-05:00"}
 ---
 
 >[!infobox]
@@ -11,7 +11,7 @@
 >- [[1-Party/The Plague Wardens/Jelma\|Jelma]]
 >- [[1-Party/The Plague Wardens/Ragnar\|Ragnar]]
 # Escape from Ratcatraz
-After some much needed time to bathe and shop back in the city, [[1-Party/The Plague Wardens/The Plague Wardens\|The Plague Wardens]] had a few avenues to investigate. They decided to try to find out who was going to be picking up the [[2-World/Faerûn/Waterdeep/Waterdeep Plague/Black Goo\|Black Goo]] from the [[2-World/Faerûn/Waterdeep/Waterdeep Sewers\|Waterdeep Sewers]]. A week prior, [[1-Party/The Plague Wardens/Cinder\|Cinder]] had the idea to tell the perpetrators exactly when and where the group would be back.
+After some much needed time to bathe and shop back in the city, [[1-Party/The Plague Wardens/The Plague Wardens\|The Plague Wardens]] had a few avenues to investigate. They decided to try to find out who was going to be picking up the [[2-World/Faerûn/Waterdeep/Waterdeep Plague/Black Goo\|Black Goo]] from the sewers. A week prior, [[1-Party/The Plague Wardens/Cinder\|Cinder]] had the idea to tell the perpetrators exactly when and where the group would be back.
 
 It turns out that wasn't the brightest idea, as they were quickly outnumbered by a large contingent of [[3-Mechanics/CLI/bestiary/monstrosity/wererat-xmm\|Wererats]] and taken prisoner. Confined to cells underneath the [[2-World/Faerûn/Waterdeep/Rat Hills\|Rat Hills]], the party met fellow inmate [[3-Mechanics/NPCs/Laverneous\|Laverneous]], a famous performer. The [[3-Mechanics/Guilds and Groups/Plague Rats\|Plague Rats]] had kept him alive because of the entertainment he provided.
 

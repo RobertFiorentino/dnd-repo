@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/baldurs-gate/circus-of-hostages/","created":"2025-02-22T16:51:31.576-05:00","updated":"2025-02-25T12:48:49.980-05:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/baldurs-gate/circus-of-hostages/","created":"2025-02-22T16:51:31.576-05:00","updated":"2025-02-25T16:26:19.993-05:00"}
 ---
 
 
+>[!infobox]
 >##### Groups Associated
 > - [[3-Mechanics/Guilds and Groups/Plague Rats\|Plague Rats]]
 > 

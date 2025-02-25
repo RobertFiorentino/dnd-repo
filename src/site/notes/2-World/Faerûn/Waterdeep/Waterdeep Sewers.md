@@ -1,46 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/waterdeep-sewers/","tags":["Category/Settlement"],"created":"2025-02-23T11:37:41.720-05:00","updated":"2025-02-24T21:16:39.933-05:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/waterdeep-sewers/","tags":["Category/Settlement"],"created":"2025-02-23T11:37:41.720-05:00","updated":"2025-02-25T16:20:33.120-05:00"}
 ---
 
 > [!infobox]
 > # Waterdeep Sewers 
-> ![MapPlaceholder.png|cover hsmall](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
+> ![WaterdeepSewersIcon.png](/img/user/z_Assets/WaterdeepSewersIcon.png)
 > ###### Geography
-> Type |  Stat |
+>  |   |
 > ---|---|
 > Type | `VIEW[{type}][text]` |
 > Size | `VIEW[{size}][text]` |
 > Region | `VIEW[{region}][text]` |
-> ###### Travel (`VIEW[{Travel Calculator#HoursPerDay}][math]` hrs per day)
-> ###### [[1-DM Toolkit/Travel Calculator\|Travel Calculator]]  / [[Exhaustion\|Exhaustion]]: `VIEW[{Travel Calculator#ExhaustionLevel}][math]`
-> Destination |  Travel Days  |
-> ---|---|
-> [[Voonlar\|Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politics
-> Type |  Stat |
-> ---|---|
-> Govt Type | `VIEW[{politics}][text]` |
-> Ruler | `VIEW[{leader}][text]`|
-> Defense | `VIEW[{defences}][text]`|
-> ###### Society
-> Type |  Stat |
-> ---|---|
-> Population | `VIEW[{population}][text]` |
-> Races | `VIEW[{commonraces}][text]`|
-> Temples | `VIEW[{religion}][text]` |
-> ###### Commerce
-> Type |  Stat |
-> ---|---|
-> Exports | `VIEW[{exports}][text]` |
-> Imports | `VIEW[{imports}][text]` |
 > ###### Organizations
-> Type |  Stat |
+>  |   |
 > ---|---|
->  | Group                                                                    | Leader |
-> | ------------------------------------------------------------------------ | ------ |
-> | [[3-Mechanics/Guilds and Groups/Plague Rats\|Plague Rats]]            | \-     |
-> | [[3-Mechanics/NPCs/Laverneous\|Laverneous]]                           | \-     |
-> | [[3-Mechanics/NPCs/Baron von Cheddarsburgh\|Baron von Cheddarsburgh]] | \-     |
+>  | Group                                                         | Leader |
+> | ------------------------------------------------------------- | ------ |
+> | [[3-Mechanics/Guilds and Groups/Plague Rats\|Plague Rats]] | \-     |
 > 
 { .block-language-dataview}
 > ###### Sessions Appeared
@@ -48,7 +24,6 @@
 > - [[1-Session Journals/Session 2\|Session 2]]
 > - [[1-Session Journals/Session 3\|Session 3]]
 > - [[1-Session Journals/Session 4\|Session 4]]
-> - [[1-Session Journals/Session 5\|Session 5]]
 > - [[1-Session Journals/Session 6\|Session 6]]
 > 
 { .block-language-dataview}
@@ -56,40 +31,10 @@
 
 # Waterdeep Sewers
 ## Overview
-Placeholder
-
-### Placeholder Map
-![MapPlaceholder.png|Placeholder Map](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
-
-### Placeholder Picture
-![ImagePlaceholder.png|Placeholder Picture](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
-
-Placeholder
+[[1-Party/The Plague Wardens/The Plague Wardens\|The Plague Wardens]] spent a lot of their early adventures investigating the [[2-World/Faerûn/Waterdeep/Waterdeep Plague/Waterdeep Plague\|Waterdeep Plague]] here, running into members of the [[3-Mechanics/Guilds and Groups/Plague Rats\|Plague Rats]].
 
 ## Notable NPCs
-Placeholder
+- [[3-Mechanics/NPCs/Baron von Cheddarsburgh\|Baron von Cheddarsburgh]]
+- [[3-Mechanics/NPCs/Laverneous\|Laverneous]]
 
-## Profile
-Placeholder
-
-## Story
-Placeholder
-
-## Points of Interest
-Placeholder
-
-## Valuables
-Placeholder
-
-## Internal Relationships
-Placeholder
-
-## Outward Relationships
-Placeholder
-
-## Background
-Placeholder
-
-## Additional Details
-Placeholder
-
+{ .block-language-dataview}

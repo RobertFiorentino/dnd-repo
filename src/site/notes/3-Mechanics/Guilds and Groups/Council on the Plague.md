@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/guilds-and-groups/council-on-the-plague/","tags":["Category/Group"],"created":"2025-02-24T13:20:19.999-05:00","updated":"2025-02-25T14:24:14.994-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/guilds-and-groups/council-on-the-plague/","tags":["Category/Group"],"created":"2025-02-24T13:20:19.999-05:00","updated":"2025-02-25T16:09:53.873-05:00"}
 ---
 
 
@@ -25,28 +25,4 @@
 The council at [[2-World/Faerûn/Waterdeep/Waterdeep\|Waterdeep]] in charge of investigating and combating the [[2-World/Faerûn/Waterdeep/Waterdeep Plague/Waterdeep Plague\|Waterdeep Plague]].
 
 The members of the council are not immune to the plague, and several members have died during the course of the campaign. They tasked [[1-Party/The Plague Wardens/The Plague Wardens\|The Plague Wardens]], among other groups, to investigate the plague.
-
-## Etymology
-...
-## Activities
-...
-
-## Society
-### Beliefs
-...
-### Culture
-...
-
-### Religion
-...
-
-## Possessions
-...
-
-## History
-...
-
-## Rumors & Legends
-...
-
 
