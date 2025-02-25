@@ -1,37 +1,21 @@
----
-{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/rat-hills/","tags":["Category/Settlement"],"created":"2025-02-23T10:38:16.625-05:00","updated":"2025-02-25T16:23:19.613-05:00"}
----
-
-> [!infobox]
-> # Rat Hills 
-> ![RatHillsImg.png](/img/user/z_Assets/RatHillsImg.png)
-> ###### Geography
->  |   |
-> ---|---|
-> Type | `VIEW[{type}][text]` |
-> Size | `VIEW[{size}][text]` |
-> Region | `VIEW[{region}][text]` |
-> ###### Organizations
->  |   |
-> ---|---|
->  | Group                                                         | Leader |
-> | ------------------------------------------------------------- | ------ |
-> | [[3-Mechanics/Guilds and Groups/Plague Rats\|Plague Rats]] | \-     |
-> 
-{ .block-language-dataview}
-> ###### Sessions Appeared
->  - [[1-Session Journals/Session 5\|Session 5]]
-> - [[1-Session Journals/Session 6\|Session 6]]
-> 
-{ .block-language-dataview}
+```dataview 
+> LIST WITHOUT ID file.link  
+> FROM "1-Session Journals"  
+> WHERE contains(file.outlinks, this.file.link)  
+> SORT file.name ASC
 
 
-# Rat Hills
+# `=this.file.name`
 ## Overview
-The **Rat Hills** was the name given to a stretch of coastline a short distance to the south of [[2-World/Faerûn/Waterdeep/Waterdeep\|Waterdeep]], often used as a dump by the city.
+The **Rat Hills** was the name given to a stretch of coastline a short distance to the south of [[Waterdeep]], often used as a dump by the city.
+%%
+### Placeholder Map
 
+
+### Placeholder Picture
+
+
+%%
 
 ## Notable NPCs
-- [[3-Mechanics/NPCs/Laverneous\|Laverneous]]
-
-{ .block-language-dataview}
+```
