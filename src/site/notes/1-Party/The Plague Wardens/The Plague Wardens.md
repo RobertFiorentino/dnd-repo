@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/the-plague-wardens/the-plague-wardens/","tags":["gardenEntry"],"created":"2025-02-19T20:56:05.000-05:00","updated":"2025-02-24T21:39:30.112-05:00"}
+{"dg-publish":true,"permalink":"/1-party/the-plague-wardens/the-plague-wardens/","tags":["gardenEntry"],"created":"2025-02-19T20:56:05.000-05:00","updated":"2025-02-25T08:05:13.767-05:00"}
 ---
 
 | Character Name                                             | Player  | Class                              | Race                       | level |
@@ -12,7 +12,7 @@
 
 { .block-language-dataview}
 
-Tasked with uncovering the source of the [[2-World/Faerûn/Waterdeep/Waterdeep Plague/Waterdeep Plague\|Waterdeep Plague]]. The party will travel the corners [[2-World/Faerûn/Faerûn\|Faerûn]] to find the truth.
+A party of adventurers tasked with uncovering the source of the [[2-World/Faerûn/Waterdeep/Waterdeep Plague/Waterdeep Plague\|Waterdeep Plague]]. The [[3-Mechanics/Guilds and Groups/Council on the Plague\|Council on the Plague]] have directed the group to travel the corners [[2-World/Faerûn/Faerûn\|Faerûn]] to find the truth.
 
 
 | Session                                        | Summary                                                                              |
