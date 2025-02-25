@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/monk-xphb/","tags":["ttrpg-cli/class/monk","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-02-22T12:02:28.212-05:00","updated":"2025-02-25T08:54:46.557-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/monk-xphb/","tags":["ttrpg-cli/class/monk","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-02-22T12:02:28.212-05:00","updated":"2025-02-25T09:28:38.018-05:00"}
 ---
 
 # Monk
@@ -13,7 +13,7 @@
 > <tr class="class-progression"><th class="level">Level</th><th class="pb">PB</th><th class="feature">Features</th><th class="value">Martial Arts</th><th class="value">Focus Points</th><th class="value">Unarmored Movement</th></tr>
 > </thead><tbody>
 > <tr class="class-progression"><td class="level">1st</td><td class="pb">+2</td><td class="feature"><a href='#Martial%20Arts%20(Level%201)'>Martial Arts</a>, <a href='#Unarmored%20Defense%20(Level%201)'>Unarmored Defense</a></td><td class="value">1d6</td><td class="value">⏤</td><td class="value">+0</td></tr>
-> <tr class="class-progression"><td class="level">2nd</td><td class="pb">+2</td><td class="feature"><a href='#Monk's%20Focus%20(Level%202)'>Monk's Focus</a>, <a href='#Unarmored%20Movement%20(Level%202)'>Unarmored Movement</a>, <a href='#Uncanny%20Metabolism%20(Level%202)'>Uncanny Metabolism</a></td><td class="value">1d6</td><td class="value">2</td><td class="value">+10</td></tr>
+> <tr class="class-progression"><td class="level">2nd</td><td class="pb">+2</td><td class="feature"><a href="#Monk's%20Focus%20(Level%202)">Monk's Focus</a>, <a href='#Unarmored%20Movement%20(Level%202)'>Unarmored Movement</a>, <a href='#Uncanny%20Metabolism%20(Level%202)'>Uncanny Metabolism</a></td><td class="value">1d6</td><td class="value">2</td><td class="value">+10</td></tr>
 > <tr class="class-progression"><td class="level">3rd</td><td class="pb">+2</td><td class="feature"><a href='#Deflect%20Attacks%20(Level%203)'>Deflect Attacks</a>, <a href='#Monk%20Subclass%20(Level%203)'>Monk Subclass</a></td><td class="value">1d6</td><td class="value">3</td><td class="value">+10</td></tr>
 > <tr class="class-progression"><td class="level">4th</td><td class="pb">+2</td><td class="feature"><a href='#Ability%20Score%20Improvement%20(Level%204)'>Ability Score Improvement</a>, <a href='#Slow%20Fall%20(Level%204)'>Slow Fall</a></td><td class="value">1d6</td><td class="value">4</td><td class="value">+10</td></tr>
 > <tr class="class-progression"><td class="level">5th</td><td class="pb">+3</td><td class="feature"><a href='#Extra%20Attack%20(Level%205)'>Extra Attack</a>, <a href='#Stunning%20Strike%20(Level%205)'>Stunning Strike</a></td><td class="value">1d8</td><td class="value">5</td><td class="value">+10</td></tr>
