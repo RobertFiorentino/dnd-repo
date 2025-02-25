@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/session-7/","tags":["journal"],"created":"2025-02-23T17:01:24.757-05:00","updated":"2025-02-24T21:27:27.575-05:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/session-7/","tags":["journal"],"created":"2025-02-23T17:01:24.757-05:00","updated":"2025-02-24T23:44:12.406-05:00"}
 ---
 
 # Roster - 2025-01-23T00:00:00.000-05:00
@@ -11,7 +11,7 @@
 
 ## Absent
 - [[1-Party/The Plague Wardens/Jelma\|Jelma]]
-
+<br>
 # The Old Circus and the Sea
 After some back and forth, it was decided [[1-Party/The Plague Wardens/The Plague Wardens\|The Plague Wardens]] would need to make haste to catch up with the circus that the [[3-Mechanics/Guilds and Groups/Plague Rats\|Plague Rats]] infiltrated. [[3-Mechanics/NPCs/Laverneous\|Laverneous]] remained with the group, intent on freeing his friends. Using the group funds, they paid 25 GP apiece to get to [[2-World/Faerûn/Baldurs Gate/Baldurs Gate\|Baldurs Gate]] in around five days.
 

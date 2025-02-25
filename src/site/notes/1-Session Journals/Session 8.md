@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/session-8/","tags":["journal"],"created":"2025-02-23T18:10:26.859-05:00","updated":"2025-02-24T21:43:47.687-05:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/session-8/","tags":["journal"],"created":"2025-02-23T18:10:26.859-05:00","updated":"2025-02-24T23:44:35.237-05:00"}
 ---
 
 # Roster - 2025-02-11T00:00:00.000-05:00
@@ -11,6 +11,7 @@
 - [[1-Party/The Plague Wardens/Jelma\|Jelma]]
 
 ## Absent
+<br>
 
 # Big Top Melee
 [[1-Party/The Plague Wardens/The Plague Wardens\|The Plague Wardens]] discussed their next steps with the circus hostages. They decided to head back to [[2-World/Faerûn/Baldurs Gate/Baldurs Gate\|Baldurs Gate]] to try to find refuge for their new friends. Strangely, [[1-Party/The Plague Wardens/Cinder\|Cinder]] unknowingly began speaking in a strange language no one could understand, before absent-mindedly clutching the hag's necklace around his neck.
