@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/waterdeep-plague/waterdeep-plague/","created":"2025-02-22T18:12:57.812-05:00","updated":"2025-02-24T20:01:30.622-05:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/waterdeep-plague/waterdeep-plague/","created":"2025-02-22T18:12:57.812-05:00","updated":"2025-02-24T22:25:18.707-05:00"}
 ---
 
 ![WaterdeepPlagueConspiracy.png|right|450](/img/user/z_Assets/WaterdeepPlagueConspiracy.png)
@@ -16,6 +16,7 @@ An unknown group we call the [[3-Mechanics/Guilds and Groups/Gray Cloaks\|Gray C
 - How is it created? (Alchemical lab, [[2-World/Faerûn/Waterdeep/Waterdeep Plague/Black Goo\|Black Goo]], [[2-World/Faerûn/Waterdeep/Waterdeep Plague/Plague mushrooms\|Plague mushrooms]])
 - How is it spread? (Circus, [[2-World/Faerûn/Waterdeep/Waterdeep Plague/Black Goo\|Black Goo]])
 - What is the goal in its spread?
+- Who are the Plague Rats worshipping?
 - How can it be stopped?
 - Who else is involved, or who stands to gain from it?
 - Why are some immune ?

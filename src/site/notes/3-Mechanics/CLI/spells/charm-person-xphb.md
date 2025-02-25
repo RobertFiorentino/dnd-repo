@@ -1,0 +1,20 @@
+---
+{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/charm-person-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/warlock","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/feat/fey-touched","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/school/enchantment","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/college-of-glamour","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/eldritch-knight","ttrpg-cli/spell/subclass/fey-wanderer","ttrpg-cli/spell/subclass/trickery-domain"],"created":"2025-02-22T12:02:28.347-05:00","updated":"2025-02-24T22:59:17.917-05:00"}
+---
+
+# Charm Person
+*1st-level, Enchantment*  
+
+
+- **Casting time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** 1 hour
+
+One Humanoid you can see within range makes a Wisdom saving throw. It does so with [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) if you or your allies are fighting it. On a failed save, the target has the [Charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) condition until the spell ends or until you or your allies damage it. The [Charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) creature is Friendly to you. When the spell ends, the target knows it was [Charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) by you.
+
+**Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
+
+**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Warlock](list-spells-classes-warlock); [Warlock](list-spells-classes-warlock); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Rogue (Arcane Trickster)](list-spells-classes-rogue-xphb-arcane-trickster-xphb); [Bard (College of Glamour)](list-spells-classes-bard-xphb-college-of-glamour-xphb); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb); [Fighter (Eldritch Knight)](list-spells-classes-fighter-xphb-eldritch-knight-xphb); [Ranger (Fey Wanderer)](list-spells-classes-ranger-xphb-fey-wanderer-xphb); [Cleric (Trickery Domain)](list-spells-classes-cleric-xphb-trickery-domain-xphb)
+
+*Source: Player's Handbook (2024) p. 249. Available in the Free Rules (2024)*

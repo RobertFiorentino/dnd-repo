@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/baldurs-gate/baldurs-gate/","tags":["Category/Settlement"],"created":"2025-02-22T16:40:09.034-05:00","updated":"2025-02-24T20:54:57.507-05:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/baldurs-gate/baldurs-gate/","tags":["Category/Settlement"],"created":"2025-02-22T16:40:09.034-05:00","updated":"2025-02-24T21:51:30.138-05:00"}
 ---
 
 
@@ -46,6 +46,7 @@
 > - [[1-Session Journals/Session 8\|Session 8]]
 > 
 { .block-language-dataview}
+
 # Baldurs Gate
 ## Overview
 Baldur's Gate, the Halfway to Everywhere, the City of Blood, also simply called the Gate, is one of the largest metropolises and city-states on the Sword Coast, within the greater Western Heartlands. It is a crowded city of commerce and opportunity, and one of the most prosperous and influential merchant cities on the western coast of Faerûn. Despite its long-standing presence as a neutral power, the leaders of Baldur's Gate were members of the Lords' Alliance of powers in the west.

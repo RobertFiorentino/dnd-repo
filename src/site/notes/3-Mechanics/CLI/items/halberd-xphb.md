@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/3-mechanics/cli/items/halberd-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/item/rarity/none","ttrpg-cli/item/weapon/martial","ttrpg-cli/item/weapon/melee"],"created":"2025-02-22T12:02:28.254-05:00","updated":"2025-02-24T23:00:23.933-05:00"}
+---
+
+# Halberd
+*Weapon*  
+![](3-Mechanics/CLI/items/img/halberd.webp#right)
+
+- **Damage**: 1d10 S
+- **Properties**: [Heavy](3-Mechanics/CLI/rules/item-properties.md#Heavy), [Reach](3-Mechanics/CLI/rules/item-properties.md#Reach), [Two-Handed](3-Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Cost**: 20 gp
+- **Weight**: 6.0 lbs.
+
+*Source: Player's Handbook (2024) p. 215. Available in the Free Rules (2024)*

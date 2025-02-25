@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/session-8/","tags":["journal"],"created":"2025-02-23T18:10:26.859-05:00","updated":"2025-02-24T21:27:27.704-05:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/session-8/","tags":["journal"],"created":"2025-02-23T18:10:26.859-05:00","updated":"2025-02-24T21:43:47.687-05:00"}
 ---
 
 # Roster - 2025-02-11T00:00:00.000-05:00
@@ -23,7 +23,7 @@ When facing the ranking officer again, he informed the group that he received a 
 
 Sneaking around the perimeter of the circus, mayhem still ruled the circus as fires needed to be put out. Viewing the caged animals as the biggest threats, [[1-Party/The Plague Wardens/Renan\|Renan]] meddled with the [[3-Mechanics/CLI/bestiary/monstrosity/owlbear-xmm\|Owlbear]] lock to jam it shut. This however alerted the owlbear and the goblin tamer. The goblin immediately ran to a lion's cage and freed it. [[1-Party/The Plague Wardens/Ragnar\|Ragnar]] attempted to tame the lion, and at least got it to leave in disinterest.
 
-While the goblin was quickly dispatched by the group, the fight was readied for the [[3-Mechanics/CLI/bestiary/monstrosity/wererat-xmm\|Wererat]] leader and his rat ogre companion, as well as a slew of cultists. [[1-Party/The Plague Wardens/Cinder\|Cinder]] opened his hands and a [[3-Mechanics/CLI/optional-features/pact-of-the-blade-xphb\|shadow glaive]] materialized. He chanted infernal utterances and darkness streamed from the hag's locket, enveloping him and his foes in complete [[3-Mechanics/CLI/spells/darkness-xphb\|darkness]] .
+While the goblin was quickly dispatched by the group, the fight was readied for the [[3-Mechanics/CLI/bestiary/monstrosity/wererat-xmm\|Wererat]] leader and his rat ogre companion, as well as a slew of cultists. [[1-Party/The Plague Wardens/Cinder\|Cinder]] opened his hands and a shadow [[3-Mechanics/CLI/items/glaive-xphb\|Glaive]] [[3-Mechanics/CLI/optional-features/pact-of-the-blade-xphb\|materialized]]. He chanted infernal utterances and darkness streamed from the hag's locket, enveloping him and his foes in complete [[3-Mechanics/CLI/spells/darkness-xphb\|darkness]] .
 
 ![LionCircus.png|left |600](/img/user/z_Assets/LionCircus.png)Meanwhile, [[1-Party/The Plague Wardens/Dr. Buckles\|Dr. Buckles]] took a shining to the lion and cast a spell to [[3-Mechanics/CLI/spells/enlarge-reduce-xphb\|grow it]] to a massive size. Unfortunately, the spell didn't seem to give the wizard any actual control over the beast, who meandered about but at least didn't attack the team.
 

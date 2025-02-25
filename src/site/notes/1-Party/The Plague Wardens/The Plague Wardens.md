@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/the-plague-wardens/the-plague-wardens/","tags":["gardenEntry"],"created":"2025-02-19T20:56:05.000-05:00","updated":"2025-02-24T20:53:45.583-05:00"}
+{"dg-publish":true,"permalink":"/1-party/the-plague-wardens/the-plague-wardens/","tags":["gardenEntry"],"created":"2025-02-19T20:56:05.000-05:00","updated":"2025-02-24T21:39:30.112-05:00"}
 ---
 
 | Character Name                                             | Player  | Class                              | Race                       | level |
@@ -11,7 +11,7 @@
 | [[1-Party/The Plague Wardens/Ragnar\|Ragnar]]           | Mike    | <ul><li>Paladin</li></ul>          | <ul><li>Half-Orc</li></ul> | 3     |
 
 { .block-language-dataview}
-<br> 
+
 Tasked with uncovering the source of the [[2-World/Faerûn/Waterdeep/Waterdeep Plague/Waterdeep Plague\|Waterdeep Plague]]. The party will travel the corners [[2-World/Faerûn/Faerûn\|Faerûn]] to find the truth.
 
 
