@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/rat-hills/","tags":["Category/Settlement"],"created":"2025-02-23T10:38:16.625-05:00","updated":"2025-02-25T16:53:28.684-05:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/rat-hills/","tags":["Category/Settlement"],"created":"2025-02-23T10:38:16.625-05:00","updated":"2025-02-25T17:54:29.899-05:00"}
 ---
 
 > [!infobox]
@@ -8,9 +8,9 @@
 > ###### Geography
 > |   |   |
 >|---|---|
->| Type | `VIEW[{type}][text]` |
->| Size | `VIEW[{size}][text]` |
->| Region | `VIEW[{region}][text]` |
+>| Type |Location |
+>| Size | Small |
+>| Region | Sword Coast|
 > ###### Organizations
 >  | Group                                                         | Leader |
 > | ------------------------------------------------------------- | ------ |
