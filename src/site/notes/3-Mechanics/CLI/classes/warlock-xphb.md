@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/warlock-xphb/","tags":["ttrpg-cli/class/warlock","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-02-22T12:02:28.220-05:00","updated":"2025-02-25T08:46:55.763-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/warlock-xphb/","tags":["ttrpg-cli/class/warlock","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-02-22T12:02:28.220-05:00","updated":"2025-02-25T08:54:56.037-05:00"}
 ---
 
 # Warlock
@@ -10,7 +10,7 @@
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='8'></th></tr>
-> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value"><a href="3-Mechanics/CLI/lists/list-optfeaturetype-ei.md">Invocations</a></th><th class="value">Cantrips</th><th class="value">Prepared Spells</th><th class="value">Spell Slots</th><th class="value">Slot Level</th></tr>
+> <tr class="class-progression"><th class="level">Level</th><th class="pb">PB</th><th class="feature">Features</th><th class="value"><a href="3-Mechanics/CLI/lists/list-optfeaturetype-ei.md">Invocations</a></th><th class="value">Cantrips</th><th class="value">Prepared Spells</th><th class="value">Spell Slots</th><th class="value">Slot Level</th></tr>
 > </thead><tbody>
 > <tr class="class-progression"><td class="level">1st</td><td class="pb">+2</td><td class="feature"><a href='#Eldritch%20Invocations%20(Level%201)'>Eldritch Invocations</a>, <a href='#Pact%20Magic%20(Level%201)'>Pact Magic</a>, <a href='#Eldritch%20Invocation%20Options%20(Level%201)'>Eldritch Invocation Options</a></td><td class="value">1</td><td class="value">2</td><td class="value">2</td><td class="value">1</td><td class="value">1</td></tr>
 > <tr class="class-progression"><td class="level">2nd</td><td class="pb">+2</td><td class="feature"><a href='#Magical%20Cunning%20(Level%202)'>Magical Cunning</a></td><td class="value">3</td><td class="value">2</td><td class="value">3</td><td class="value">2</td><td class="value">1</td></tr>

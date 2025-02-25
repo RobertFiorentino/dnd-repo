@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/monk-xphb/","tags":["ttrpg-cli/class/monk","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-02-22T12:02:28.212-05:00","updated":"2025-02-25T08:48:04.970-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/monk-xphb/","tags":["ttrpg-cli/class/monk","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-02-22T12:02:28.212-05:00","updated":"2025-02-25T08:54:46.557-05:00"}
 ---
 
 # Monk
@@ -10,7 +10,7 @@
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='6'></th></tr>
-> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Martial Arts</th><th class="value">Focus Points</th><th class="value">Unarmored Movement</th></tr>
+> <tr class="class-progression"><th class="level">Level</th><th class="pb">PB</th><th class="feature">Features</th><th class="value">Martial Arts</th><th class="value">Focus Points</th><th class="value">Unarmored Movement</th></tr>
 > </thead><tbody>
 > <tr class="class-progression"><td class="level">1st</td><td class="pb">+2</td><td class="feature"><a href='#Martial%20Arts%20(Level%201)'>Martial Arts</a>, <a href='#Unarmored%20Defense%20(Level%201)'>Unarmored Defense</a></td><td class="value">1d6</td><td class="value">⏤</td><td class="value">+0</td></tr>
 > <tr class="class-progression"><td class="level">2nd</td><td class="pb">+2</td><td class="feature"><a href='#Monk's%20Focus%20(Level%202)'>Monk's Focus</a>, <a href='#Unarmored%20Movement%20(Level%202)'>Unarmored Movement</a>, <a href='#Uncanny%20Metabolism%20(Level%202)'>Uncanny Metabolism</a></td><td class="value">1d6</td><td class="value">2</td><td class="value">+10</td></tr>

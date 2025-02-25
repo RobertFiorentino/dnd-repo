@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/paladin-xphb/","tags":["ttrpg-cli/class/paladin","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-02-22T12:02:28.331-05:00","updated":"2025-02-25T08:42:31.967-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/paladin-xphb/","tags":["ttrpg-cli/class/paladin","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-02-22T12:02:28.331-05:00","updated":"2025-02-25T08:55:33.541-05:00"}
 ---
 
 # Paladin
@@ -10,7 +10,7 @@
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='5'></th><th colspan='5'>Spell Slots per Spell Level</th></tr>
-> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Channel Divinity</th><th class="value">Prepared Spells</th><th class="spellSlot">1st</th><th class="spellSlot">2nd</th><th class="spellSlot">3rd</th><th class="spellSlot">4th</th><th class="spellSlot">5th</th></tr>
+> <tr class="class-progression"><th class="level">Level</th><th class="pb">PB</th><th class="feature">Features</th><th class="value">Channel Divinity</th><th class="value">Prepared Spells</th><th class="spellSlot">1st</th><th class="spellSlot">2nd</th><th class="spellSlot">3rd</th><th class="spellSlot">4th</th><th class="spellSlot">5th</th></tr>
 > </thead><tbody>
 > <tr class="class-progression"><td class="level">1st</td><td class="pb">+2</td><td class="feature"><a href='#Lay%20on%20Hands%20(Level%201)'>Lay on Hands</a>, <a href='#Spellcasting%20(Level%201)'>Spellcasting</a>, <a href='#Weapon%20Mastery%20(Level%201)'>Weapon Mastery</a></td><td class="value">⏤</td><td class="value">2</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
 > <tr class="class-progression"><td class="level">2nd</td><td class="pb">+2</td><td class="feature"><a href='#Fighting%20Style%20(Level%202)'>Fighting Style</a>, <a href='#Paladin's%20Smite%20(Level%202)'>Paladin's Smite</a></td><td class="value">⏤</td><td class="value">3</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>

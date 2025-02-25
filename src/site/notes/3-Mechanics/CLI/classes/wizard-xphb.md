@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/wizard-xphb/","tags":["ttrpg-cli/class/wizard","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-02-22T12:02:28.069-05:00","updated":"2025-02-25T08:47:42.609-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/wizard-xphb/","tags":["ttrpg-cli/class/wizard","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-02-22T12:02:28.069-05:00","updated":"2025-02-25T08:55:08.842-05:00"}
 ---
 
 # Wizard
@@ -10,7 +10,7 @@
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='5'></th><th colspan='9'>Spell Slots per Spell Level</th></tr>
-> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Cantrips</th><th class="value">Prepared Spells</th><th class="spellSlot">1st</th><th class="spellSlot">2nd</th><th class="spellSlot">3rd</th><th class="spellSlot">4th</th><th class="spellSlot">5th</th><th class="spellSlot">6th</th><th class="spellSlot">7th</th><th class="spellSlot">8th</th><th class="spellSlot">9th</th></tr>
+> <tr class="class-progression"><th class="level">Level</th><th class="pb">PB</th><th class="feature">Features</th><th class="value">Cantrips</th><th class="value">Prepared Spells</th><th class="spellSlot">1st</th><th class="spellSlot">2nd</th><th class="spellSlot">3rd</th><th class="spellSlot">4th</th><th class="spellSlot">5th</th><th class="spellSlot">6th</th><th class="spellSlot">7th</th><th class="spellSlot">8th</th><th class="spellSlot">9th</th></tr>
 > </thead><tbody>
 > <tr class="class-progression"><td class="level">1st</td><td class="pb">+2</td><td class="feature"><a href='#Spellcasting%20(Level%201)'>Spellcasting</a>, <a href='#Ritual%20Adept%20(Level%201)'>Ritual Adept</a>, <a href='#Arcane%20Recovery%20(Level%201)'>Arcane Recovery</a></td><td class="value">3</td><td class="value">4</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
 > <tr class="class-progression"><td class="level">2nd</td><td class="pb">+2</td><td class="feature"><a href='#Scholar%20(Level%202)'>Scholar</a></td><td class="value">3</td><td class="value">5</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>

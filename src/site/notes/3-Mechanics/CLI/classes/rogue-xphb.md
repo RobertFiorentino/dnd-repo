@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/rogue-xphb/","tags":["ttrpg-cli/class/rogue","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-02-22T12:02:28.283-05:00","updated":"2025-02-25T08:47:18.804-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/rogue-xphb/","tags":["ttrpg-cli/class/rogue","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-02-22T12:02:28.283-05:00","updated":"2025-02-25T08:55:19.560-05:00"}
 ---
 
 # Rogue
@@ -10,7 +10,7 @@
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='4'></th></tr>
-> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Sneak Attack</th></tr>
+> <tr class="class-progression"><th class="level">Level</th><th class="pb">PB</th><th class="feature">Features</th><th class="value">Sneak Attack</th></tr>
 > </thead><tbody>
 > <tr class="class-progression"><td class="level">1st</td><td class="pb">+2</td><td class="feature"><a href='#Expertise%20(Level%201)'>Expertise</a>, <a href='#Sneak%20Attack%20(Level%201)'>Sneak Attack</a>, <a href='#Thieves'%20Cant%20(Level%201)'>Thieves' Cant</a>, <a href='#Weapon%20Mastery%20(Level%201)'>Weapon Mastery</a></td><td class="value">1d6</td></tr>
 > <tr class="class-progression"><td class="level">2nd</td><td class="pb">+2</td><td class="feature"><a href='#Cunning%20Action%20(Level%202)'>Cunning Action</a></td><td class="value">1d6</td></tr>
