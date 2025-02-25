@@ -1,22 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/session-1/","tags":["journal"],"created":"2025-02-22T18:03:19.711-05:00","updated":"2025-02-25T13:07:47.066-05:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/session-1/","tags":["journal"],"created":"2025-02-22T18:03:19.711-05:00","updated":"2025-02-25T13:33:23.421-05:00"}
 ---
 
-# Roster - Oct 9, 2024
-
-
-
-- [[1-Party/The Plague Wardens/Cinder\|Cinder]]
-- [[1-Party/The Plague Wardens/Dr. Buckles\|Dr. Buckles]]
-- [[1-Party/The Plague Wardens/Cynthoria\|Cynthoria]]
-- [[1-Party/The Plague Wardens/Renan\|Renan]]
-- [[1-Party/The Plague Wardens/Jelma\|Jelma]]
-- [[1-Party/The Plague Wardens/Ragnar\|Ragnar]]
-
-## Absent
-
-<br>
-
+>[!infobox]
+># Oct 9, 2024
+>##### Roster
+>- [[1-Party/The Plague Wardens/Cinder\|Cinder]]
+>- [[1-Party/The Plague Wardens/Dr. Buckles\|Dr. Buckles]]
+>- [[1-Party/The Plague Wardens/Cynthoria\|Cynthoria]]
+>- [[1-Party/The Plague Wardens/Renan\|Renan]]
+>- [[1-Party/The Plague Wardens/Jelma\|Jelma]]
+>- [[1-Party/The Plague Wardens/Ragnar\|Ragnar]]
 # The Menace Beneath
 
 
