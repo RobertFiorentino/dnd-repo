@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/session-7/","tags":["journal"],"created":"2025-02-23T17:01:24.757-05:00","updated":"2025-02-25T13:11:45.600-05:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/session-7/","created":"2025-02-23T17:01:24.757-05:00","updated":"2025-02-25T13:46:41.330-05:00"}
 ---
 
-# Roster - Jan 23, 2025
-
-- [[1-Party/The Plague Wardens/Cinder\|Cinder]]
-- [[1-Party/The Plague Wardens/Dr. Buckles\|Dr. Buckles]]
-- [[1-Party/The Plague Wardens/Renan\|Renan]]
-- [[1-Party/The Plague Wardens/Ragnar\|Ragnar]]
-
-## Absent
-- [[1-Party/The Plague Wardens/Jelma\|Jelma]]
-<br>
+>[!infobox]
+># Jan 23, 2025
+>##### Roster
+>- [[1-Party/The Plague Wardens/Cinder\|Cinder]]
+>- [[1-Party/The Plague Wardens/Dr. Buckles\|Dr. Buckles]]
+>- [[1-Party/The Plague Wardens/Renan\|Renan]]
+>- [[1-Party/The Plague Wardens/Ragnar\|Ragnar]]
+>##### Absent
+>- [[1-Party/The Plague Wardens/Jelma\|Jelma]]
 # The Old Circus and the Sea
 After some back and forth, it was decided [[1-Party/The Plague Wardens/The Plague Wardens\|The Plague Wardens]] would need to make haste to catch up with the circus that the [[3-Mechanics/Guilds and Groups/Plague Rats\|Plague Rats]] infiltrated. [[3-Mechanics/NPCs/Laverneous\|Laverneous]] remained with the group, intent on freeing his friends. Using the group funds, they paid 25 GP apiece to get to [[2-World/Faerûn/Baldurs Gate/Baldurs Gate\|Baldurs Gate]] in around five days.
 

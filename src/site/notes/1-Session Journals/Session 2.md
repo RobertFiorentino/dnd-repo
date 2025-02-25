@@ -1,21 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/session-2/","tags":["journal"],"created":"2025-02-22T22:36:27.869-05:00","updated":"2025-02-25T13:10:46.671-05:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/session-2/","created":"2025-02-22T22:36:27.869-05:00","updated":"2025-02-25T13:39:19.312-05:00"}
 ---
 
-# Roster - Oct 23, 2024
-
-
-
-- [[1-Party/The Plague Wardens/Cinder\|Cinder]]
-- [[1-Party/The Plague Wardens/Dr. Buckles\|Dr. Buckles]]
-- [[1-Party/The Plague Wardens/Renan\|Renan]]
-- [[1-Party/The Plague Wardens/Jelma\|Jelma]]
-- [[1-Party/The Plague Wardens/Ragnar\|Ragnar]]
-
-## Absent
-[[1-Party/The Plague Wardens/Cynthoria\|Cynthoria]]
-<br>
-
+>[!infobox]
+># Oct 23, 2024
+>##### Roster
+>- [[1-Party/The Plague Wardens/Cinder\|Cinder]]
+>- [[1-Party/The Plague Wardens/Dr. Buckles\|Dr. Buckles]]
+>- [[1-Party/The Plague Wardens/Renan\|Renan]]
+>- [[1-Party/The Plague Wardens/Jelma\|Jelma]]
+>- [[1-Party/The Plague Wardens/Ragnar\|Ragnar]]
+> ##### Absent
+>- [[1-Party/The Plague Wardens/Cynthoria\|Cynthoria]]
 # My Alchemical Romance
 
 

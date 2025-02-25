@@ -1,20 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/session-3/","tags":["journal"],"created":"2025-02-22T22:47:13.566-05:00","updated":"2025-02-25T13:10:57.643-05:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/session-3/","created":"2025-02-22T22:47:13.566-05:00","updated":"2025-02-25T13:40:04.459-05:00"}
 ---
 
-# Roster - Nov 13, 2024
-
-
-
-- [[1-Party/The Plague Wardens/Cinder\|Cinder]]
-- [[1-Party/The Plague Wardens/Dr. Buckles\|Dr. Buckles]]
-- [[1-Party/The Plague Wardens/Renan\|Renan]]
-- [[1-Party/The Plague Wardens/Jelma\|Jelma]]
-- [[1-Party/The Plague Wardens/Ragnar\|Ragnar]]
-
-## Absent
-<br>
-
+>[!infobox]
+># Nov 13, 2024
+>##### Roster
+>- [[1-Party/The Plague Wardens/Cinder\|Cinder]]
+>- [[1-Party/The Plague Wardens/Dr. Buckles\|Dr. Buckles]]
+>- [[1-Party/The Plague Wardens/Renan\|Renan]]
+>- [[1-Party/The Plague Wardens/Jelma\|Jelma]]
+>- [[1-Party/The Plague Wardens/Ragnar\|Ragnar]]
 # The Muenster Mash
 
 

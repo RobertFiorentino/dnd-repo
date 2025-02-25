@@ -1,23 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/session-4/","tags":["journal"],"created":"2025-02-23T00:03:02.875-05:00","updated":"2025-02-25T13:11:09.553-05:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/session-4/","created":"2025-02-23T00:03:02.875-05:00","updated":"2025-02-25T13:40:44.601-05:00"}
 ---
 
-# Roster - Nov 20, 2024
-
-
-
-- [[1-Party/The Plague Wardens/Cinder\|Cinder]]
-- [[1-Party/The Plague Wardens/Dr. Buckles\|Dr. Buckles]]
-- [[1-Party/The Plague Wardens/Renan\|Renan]]
-- [[1-Party/The Plague Wardens/Jelma\|Jelma]]
-- [[1-Party/The Plague Wardens/Ragnar\|Ragnar]]
-
-## Absent
-<br>
-
+>[!infobox]
+># Nov 20, 2024
+>##### Roster
+>- [[1-Party/The Plague Wardens/Cinder\|Cinder]]
+>- [[1-Party/The Plague Wardens/Dr. Buckles\|Dr. Buckles]]
+>- [[1-Party/The Plague Wardens/Renan\|Renan]]
+>- [[1-Party/The Plague Wardens/Jelma\|Jelma]]
+>- [[1-Party/The Plague Wardens/Ragnar\|Ragnar]]
 # Here a Rat, Were a Rat
-
-
 ![DrownedGoblin.png|right|500](/img/user/z_Assets/DrownedGoblin.png)The party moved forward, encountering a [[3-Mechanics/CLI/bestiary/fey/goblin-minion-xmm\|goblin]] with a very dumb [[3-Mechanics/CLI/bestiary/giant/ogre-xmm\|Ogre]] wearing brightly colored performers clothes and claiming once again to work for the city.  This time, the group merely followed them as they brought a big vat of the [[2-World/Faerûn/Waterdeep/Waterdeep Plague/Black Goo\|Black Goo]] to the marshes where it appeared they were getting ready to load it onto a ship.  After debating how to handle the issue, the goblin and ogre returned and set upon the party.  The party defeated them, but not before [[1-Party/The Plague Wardens/Jelma\|Jelma]] took a strong thrashing from the ogre, but not before he performed his signature Crouching-Monk-Drowning-Goblin maneuver. 
 
 Returning into the sewers, the party entered the well room that [[1-Party/The Plague Wardens/Dr. Buckles\|Dr. Buckles]] had [[1-Session Journals/Session 1\|initially descended into]].  They encountered a [[3-Mechanics/CLI/bestiary/monstrosity/wererat-xmm\|Wererat]], surrounded by several well-groomed giant rats we assumed to be his pets.  [[1-Party/The Plague Wardens/Jelma\|Jelma]] immediately ate got swept into a river again, perhaps as penance for drowning a goblin earlier. [[1-Party/The Plague Wardens/Dr. Buckles\|Dr. Buckles]] rained fire down upon the rats.  [[1-Party/The Plague Wardens/Cinder\|Cinder]] used magical energy to rip pieces from the were rat.  At the climax of the fight, the wererat bit down upon [[1-Party/The Plague Wardens/Ragnar\|Ragnar]], and if it were not for a high constitution roll, the party could’ve been very different.  Shaking it off, [[1-Party/The Plague Wardens/Ragnar\|Ragnar]] used thunderous smite to launch the wererat into a wall, killing him instantly and transforming him back into the mustached man we’d initially encountered in the alchemy lab.

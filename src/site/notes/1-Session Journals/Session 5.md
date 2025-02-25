@@ -1,20 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/session-5/","tags":["journal"],"created":"2025-02-23T00:43:16.451-05:00","updated":"2025-02-25T13:11:25.344-05:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/session-5/","created":"2025-02-23T00:43:16.451-05:00","updated":"2025-02-25T13:41:18.893-05:00"}
 ---
 
-# Roster - Dec 4, 2024
-
-
-
-- [[1-Party/The Plague Wardens/Cinder\|Cinder]]
-- [[1-Party/The Plague Wardens/Dr. Buckles\|Dr. Buckles]]
-- [[1-Party/The Plague Wardens/Renan\|Renan]]
-- [[1-Party/The Plague Wardens/Jelma\|Jelma]]
-- [[1-Party/The Plague Wardens/Ragnar\|Ragnar]]
-
-## Absent
-<br>
-
+>[!infobox]
+># Dec 4, 2024
+>##### Roster
+>- [[1-Party/The Plague Wardens/Cinder\|Cinder]]
+>- [[1-Party/The Plague Wardens/Dr. Buckles\|Dr. Buckles]]
+>- [[1-Party/The Plague Wardens/Renan\|Renan]]
+>- [[1-Party/The Plague Wardens/Jelma\|Jelma]]
+>- [[1-Party/The Plague Wardens/Ragnar\|Ragnar]]
 # Escape from Ratcatraz
 After some much needed time to bathe and shop back in the city, [[1-Party/The Plague Wardens/The Plague Wardens\|The Plague Wardens]] had a few avenues to investigate. They decided to try to find out who was going to be picking up the [[2-World/Faerûn/Waterdeep/Waterdeep Plague/Black Goo\|Black Goo]] from the [[2-World/Faerûn/Waterdeep/Waterdeep Sewers\|Waterdeep Sewers]]. A week prior, [[1-Party/The Plague Wardens/Cinder\|Cinder]] had the idea to tell the perpetrators exactly when and where the group would be back.
 

@@ -1,18 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/session-6/","tags":["journal"],"created":"2025-02-23T16:26:26.320-05:00","updated":"2025-02-25T13:11:35.936-05:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/session-6/","created":"2025-02-23T16:26:26.320-05:00","updated":"2025-02-25T13:45:35.319-05:00"}
 ---
 
-# Roster - Jan 8, 2025
-
-- [[1-Party/The Plague Wardens/Cinder\|Cinder]]
-- [[1-Party/The Plague Wardens/Dr. Buckles\|Dr. Buckles]]
-- [[1-Party/The Plague Wardens/Renan\|Renan]]
-- [[1-Party/The Plague Wardens/Jelma\|Jelma]]
-- [[1-Party/The Plague Wardens/Ragnar\|Ragnar]]
-
-## Absent
-<br>
-
+>[!infobox]
+># Jan 8, 2025
+>##### Roster
+>- [[1-Party/The Plague Wardens/Cinder\|Cinder]]
+>- [[1-Party/The Plague Wardens/Dr. Buckles\|Dr. Buckles]]
+>- [[1-Party/The Plague Wardens/Renan\|Renan]]
+>- [[1-Party/The Plague Wardens/Jelma\|Jelma]]
+>- [[1-Party/The Plague Wardens/Ragnar\|Ragnar]]
 # Chip and Dale. And a Hag
 After the battle against the Frankenstein beast, the group headed back to the sewers to escape as quickly as possible. There they met an old woman who claimed to help people find their way through the sewers. [[1-Party/The Plague Wardens/The Plague Wardens\|The Plague Wardens]] agreed to a hefty price and let her lead the way.
 
