@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/baldurs-gate/circus-of-hostages/","created":"2025-02-22T16:51:31.576-05:00","updated":"2025-02-24T23:40:13.799-05:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/baldurs-gate/circus-of-hostages/","created":"2025-02-22T16:51:31.576-05:00","updated":"2025-02-25T09:37:42.058-05:00"}
 ---
 
 > [!infobox]
@@ -14,11 +14,11 @@
 > 
 { .block-language-dataview}
 > ###### Sessions Appeared
-> ```dataview 
-> LIST WITHOUT ID file.link  
-> FROM "1-Session Journals"  
-> WHERE contains(file.outlinks, this.file.link)  
-> SORT file.name ASC
+>  - [[1-Session Journals/Session 7\|Session 7]]
+> - [[1-Session Journals/Session 8\|Session 8]]
+> 
+{ .block-language-dataview}
+> ##### Circus of Hostages
 
 
 
