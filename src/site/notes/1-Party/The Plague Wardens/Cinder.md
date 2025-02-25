@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/the-plague-wardens/cinder/","tags":["player"],"created":"2025-02-22T14:10:57.263-05:00","updated":"2025-02-24T20:30:51.606-05:00"}
+{"dg-publish":true,"permalink":"/1-party/the-plague-wardens/cinder/","tags":["player"],"created":"2025-02-22T14:10:57.263-05:00","updated":"2025-02-25T18:20:46.153-05:00"}
 ---
 
 # Cinder
 
-| Image            | Char Name         | Player Name      | Class           | Race           | Level           |
-| ---------------- | ----------------- | ---------------- | --------------- | -------------- | --------------- |
-| ![Cinder4.png](/img/user/z_Assets/Cinder4.png) | Cinder | `VIEW[{Player}]` | `VIEW[{Class}]` | `VIEW[{Race}]` | `VIEW[{level}]` |
-|                  |                   |                  |                 |                |                 |
+| Image            | Char Name         | Player Name    | Class         | Race         | Level         |
+| ---------------- | ----------------- | -------------- | ------------- | ------------ | ------------- |
+| ![Cinder4.png](/img/user/z_Assets/Cinder4.png) | Cinder | Bobby | Hexblade Warlock | Half-Elf | 3 |
+|                  |                   |                |               |              |               |
 The son of the noble [[2-World/Faerûn/Waterdeep/House Belabranta\|House Belabranta]], the half-elven second son was born with the elven name Bel'cinderian though he goes by Cinder among the nobility and non-elves.
 
 ![CinderYelling.png|400](/img/user/z_Assets/CinderYelling.png)
