@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/session-8/","tags":["journal"],"created":"2025-02-23T18:10:26.859-05:00","updated":"2025-02-24T23:44:35.237-05:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/session-8/","tags":["journal"],"created":"2025-02-23T18:10:26.859-05:00","updated":"2025-02-25T13:11:54.773-05:00"}
 ---
 
-# Roster - 2025-02-11T00:00:00.000-05:00
+# Roster - Feb 11, 2025
 
 - [[1-Party/The Plague Wardens/Cinder\|Cinder]]
 - [[1-Party/The Plague Wardens/Dr. Buckles\|Dr. Buckles]]

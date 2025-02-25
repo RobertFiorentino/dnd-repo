@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/session-3/","tags":["journal"],"created":"2025-02-22T22:47:13.566-05:00","updated":"2025-02-24T20:29:55.764-05:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/session-3/","tags":["journal"],"created":"2025-02-22T22:47:13.566-05:00","updated":"2025-02-25T13:10:57.643-05:00"}
 ---
 
-# Roster - 2024-11-13T00:00:00.000-05:00
+# Roster - Nov 13, 2024
 
 
 
