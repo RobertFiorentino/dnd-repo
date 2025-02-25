@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/the-plague-wardens/the-plague-wardens/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/1-party/the-plague-wardens/the-plague-wardens/","tags":["gardenEntry"],"created":"2025-02-19T20:56:05.000-05:00","updated":"2025-02-24T19:52:31.185-05:00"}
 ---
 
 | Character Name                                             | Player  | Class                              | Race                       | level |
