@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/waterdeep/","tags":["Category/Settlement"],"created":"2025-02-22T16:39:58.745-05:00","updated":"2025-02-25T21:00:02.066-05:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/waterdeep/","tags":["Category/Settlement"],"created":"2025-02-22T16:39:58.745-05:00","updated":"2025-02-25T21:30:02.571-05:00"}
 ---
 
 > [!infobox]
@@ -19,21 +19,21 @@
 > ###### Society
 > | | |
 > |---|---|
-> |Population | 133,000 |
+> |Population | 2,000,000 |
 > |Races | Humans,Elves,Dwarves,Halflings,Half-Elves,Gnomes,Half-Orcs|
 > |Temples | Deneir,Mystra,Oghma,Tempus |
 > ###### Commerce
 > | | |
 > |---|---|
-> |Exports | `=this.exports` |
-> |Imports | `=this.imports` |
+> |Exports | Ale,Arms,Cloth,Fish,Furnishings,Leather Goods,Pottery,Refined Metals,Finished Goods |
+> |Imports | Grain,Livestock,Leather,Ore,Timer,Exotic Goods |
 > ###### Organizations
 > | | |
 > |---|---|
 >  | Group                                                                             | Leader |
 > | --------------------------------------------------------------------------------- | ------ |
-> | [[3-Mechanics/Guilds and Groups/Plague Rats\|Plague Rats]]                     | \-     |
 > | [[3-Mechanics/Guilds and Groups/Council on the Plague\|Council on the Plague]] | \-     |
+> | [[3-Mechanics/Guilds and Groups/Plague Rats\|Plague Rats]]                     | \-     |
 > 
 { .block-language-dataview}
 > ###### Sessions Appeared

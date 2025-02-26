@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/session-0/","created":"2025-02-22T17:19:08.536-05:00","updated":"2025-02-25T13:37:09.291-05:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/session-0/","created":"2025-02-22T17:19:08.536-05:00","updated":"2025-02-25T21:12:59.615-05:00"}
 ---
 
 
@@ -18,6 +18,7 @@
 
 
  - [[1-Party/The Plague Wardens/Ragnar\|Ragnar]] (Had not joined the game yet)
+<br>
 
 # Session 0 Overview
 

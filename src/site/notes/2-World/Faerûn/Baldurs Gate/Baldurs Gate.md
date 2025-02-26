@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/baldurs-gate/baldurs-gate/","tags":["Category/Settlement"],"created":"2025-02-22T16:40:09.034-05:00","updated":"2025-02-25T20:55:14.059-05:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/baldurs-gate/baldurs-gate/","tags":["Category/Settlement"],"created":"2025-02-22T16:40:09.034-05:00","updated":"2025-02-25T21:28:35.186-05:00"}
 ---
 
 
@@ -16,18 +16,18 @@
 > | |  |
 > |---|---|
 > |Govt Type | Lordship |
-> |Ruler | `=this.leader`|
+> |Ruler | Council of Four|
 > ###### Society
 > | |  |
 > |---|---|
-> |Population | 125000 |
+> |Population | 125,000 |
 > |Races | Humans,Elves,Dwarves|
-> |Temples | `=this.religion` |
+> |Temples | Gond,Tymora,Umberlee,Helm,Lathander,Cults of the Dead Three |
 > ###### Commerce
 > Type |  Stat |
 > ---|---|
-> Exports | `=this.exports` |
-> Imports | `=this.imports` |
+> Exports | Dyes,Fish,Lamp Oil,Trade-Coinage |
+> Imports | Stone |
 > ###### Organizations
 > | | |
 > |---|---|
