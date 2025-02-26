@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/alabaster/","tags":["NPC"],"created":"2025-02-22T20:28:16.832-05:00","updated":"2025-02-24T20:33:37.975-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/alabaster/","tags":["NPC"],"created":"2025-02-22T20:28:16.832-05:00","updated":"2025-02-25T21:52:35.405-05:00"}
 ---
 
 
 
 > [!column] Basic Details
 >> [!info] Name
->> Home Location:  `=this.Location` 
+>> Home Location:  Waterdeep 
 >> Titles:
 >> Gender:  Male
 >> Race:  Human 
@@ -22,45 +22,8 @@
 
 
 #### Description
-`Enter textual description here`
-
-- Paladin in [Waterdeep](app://obsidian.md/Waterdeep)
-- Part of (the group)
-- Tasked [The Plague Wardens](app://obsidian.md/The%20Plague%20Wardens) with discovering the source of the [Waterdeep Plague](app://obsidian.md/Waterdeep%20Plague)
-
-> [!NOTE]- Relationships
-> Parents:
-> Partner:
-> Children:
-> Friends:
-> Enemies:
-
-> [!NOTE]- Role Details
-> Occupation:
-
-> [!NOTE]- Life Details
-> Contents
-
-> [!NOTE] Equipment and Belongings
-> Contents
-
-
-Place of Residence
-Place of Origin
-Place of Demise
-
-Traits and Characteristics:
-Unique/Unusual Features
-
-Stats:
-
-Equipment:
-Wealth:
-Known Skills:
-Known Spells:
-
-Known Languages:
-Known Magical Teachings:
-Known Technlogy/Science:
+- Paladin in [[2-World/Faerûn/Waterdeep/Waterdeep\|Waterdeep]]
+- Part of the [[3-Mechanics/Guilds and Groups/Council on the Plague\|Council on the Plague]]
+- Tasked [[1-Party/The Plague Wardens/The Plague Wardens\|The Plague Wardens]] with discovering the source of the [[2-World/Faerûn/Waterdeep/Waterdeep Plague/Waterdeep Plague\|Waterdeep Plague]]
 
 

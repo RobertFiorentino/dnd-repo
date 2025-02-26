@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/thurgor/","tags":["NPC"],"created":"2025-02-22T20:43:12.448-05:00","updated":"2025-02-24T20:33:57.422-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/thurgor/","tags":["NPC"],"created":"2025-02-22T20:43:12.448-05:00","updated":"2025-02-25T21:55:00.972-05:00"}
 ---
 
 
@@ -26,39 +26,3 @@
 
 - Cleric, hospice
 - Died from the plague?
-
-> [!NOTE]- Relationships
-> Parents:
-> Partner:
-> Children:
-> Friends:
-> Enemies:
-
-> [!NOTE]- Role Details
-> Occupation:
-
-> [!NOTE]- Life Details
-> Contents
-
-> [!NOTE] Equipment and Belongings
-> Contents
-
-
-Place of Residence
-Place of Origin
-Place of Demise
-
-Traits and Characteristics:
-Unique/Unusual Features
-
-Stats:
-
-Equipment:
-Wealth:
-Known Skills:
-Known Spells:
-
-Known Languages:
-Known Magical Teachings:
-Known Technlogy/Science:
-

@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/laverneous/","tags":["NPC"],"created":"2025-02-23T10:37:12.686-05:00","updated":"2025-02-24T20:33:50.429-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/laverneous/","tags":["NPC"],"created":"2025-02-23T10:37:12.686-05:00","updated":"2025-02-25T21:54:36.167-05:00"}
 ---
 
 > [!column] Basic Details
 >> [!info] Name
->> Home Location: `INPUT[suggester(optionQuery("2-World")):Location]` 
+>> Home Location: Waterdeep Sewers,Circus of Hostages,Rat Hills 
 >> Titles:
->> Gender: `INPUT[suggester(optionQuery("#New Character^GenderSelect")):Gender]`
->> Race: `INPUT[suggester(optionQuery("2-World")):Race]`
->> Age: `INPUT[suggester(optionQuery("2-World")):Age]`
+>> Gender: Male
+>> Race: Halfling
+>> Age: `=this.Age`
 >> Height:
 >> Weight:
 >
@@ -26,39 +26,3 @@ The most handsome person we've ever seen. A famous and accomplished performer.
 | [[1-Session Journals/Session 8\|Session 8]] |
 
 { .block-language-dataview}
-
-> [!NOTE]- Relationships
-> Parents:
-> Partner:
-> Children:
-> Friends:
-> Enemies:
-
-> [!NOTE]- Role Details
-> Occupation:
-
-> [!NOTE]- Life Details
-> Contents
-
-> [!NOTE] Equipment and Belongings
-> Contents
-
-
-Place of Residence
-Place of Origin
-Place of Demise
-
-Traits and Characteristics:
-Unique/Unusual Features
-
-Stats:
-
-Equipment:
-Wealth:
-Known Skills:
-Known Spells:
-
-Known Languages:
-Known Magical Teachings:
-Known Technlogy/Science:
-
