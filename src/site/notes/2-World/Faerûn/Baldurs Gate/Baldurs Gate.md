@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/baldurs-gate/baldurs-gate/","tags":["Category/Settlement"],"created":"2025-02-22T16:40:09.034-05:00","updated":"2025-02-25T16:10:41.260-05:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/baldurs-gate/baldurs-gate/","tags":["Category/Settlement"],"created":"2025-02-22T16:40:09.034-05:00","updated":"2025-02-25T20:55:14.059-05:00"}
 ---
 
 
@@ -7,36 +7,30 @@
 > # Baldurs Gate 
 > ![BaldursGateCoatOfArms.png](/img/user/z_Assets/BaldursGateCoatOfArms.png)
 > ###### Geography
-> Type |  Stat |
-> ---|---|
-> Type | `VIEW[{type}][text]` |
-> Size | `VIEW[{size}][text]` |
-> Region | `VIEW[{region}][text]` |
-> ###### Travel (`VIEW[{Travel Calculator#HoursPerDay}][math]` hrs per day)
-> ###### [[1-DM Toolkit/Travel Calculator\|Travel Calculator]]  / [[Exhaustion\|Exhaustion]]: `VIEW[{Travel Calculator#ExhaustionLevel}][math]`
-> Destination |  Travel Days  |
-> ---|---|
-> [[Voonlar\|Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
+> |   |   |
+> |---|---|
+> |Type |Settlement |
+> |Size | Medium City |
+> |Region | Sword Coast |
 > ###### Politics
-> Type |  Stat |
-> ---|---|
-> Govt Type | `VIEW[{politics}][text]` |
-> Ruler | `VIEW[{leader}][text]`|
-> Defense | `VIEW[{defences}][text]`|
+> | |  |
+> |---|---|
+> |Govt Type | Lordship |
+> |Ruler | `=this.leader`|
 > ###### Society
-> Type |  Stat |
-> ---|---|
-> Population | `VIEW[{population}][text]` |
-> Races | `VIEW[{commonraces}][text]`|
-> Temples | `VIEW[{religion}][text]` |
+> | |  |
+> |---|---|
+> |Population | 125000 |
+> |Races | Humans,Elves,Dwarves|
+> |Temples | `=this.religion` |
 > ###### Commerce
 > Type |  Stat |
 > ---|---|
-> Exports | `VIEW[{exports}][text]` |
-> Imports | `VIEW[{imports}][text]` |
+> Exports | `=this.exports` |
+> Imports | `=this.imports` |
 > ###### Organizations
-> Type |  Stat |
-> ---|---|
+> | | |
+> |---|---|
 >  | Group | Leader |
 > | ----- | ------ |
 > 

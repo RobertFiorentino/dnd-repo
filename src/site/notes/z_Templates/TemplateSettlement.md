@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-templates/template-settlement/","tags":["Category/Settlement"],"created":"2025-02-19T20:56:05.000-05:00","updated":"2025-02-24T21:20:47.496-05:00"}
+{"dg-publish":true,"permalink":"/z-templates/template-settlement/","tags":["Category/Settlement"],"created":"2025-02-19T20:56:05.000-05:00","updated":"2025-02-25T21:01:50.621-05:00"}
 ---
 
 
@@ -18,36 +18,30 @@ _%>
 > # TemplateSettlement 
 > ![MapPlaceholder.png|cover hsmall](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
 > ###### Geography
-> Type |  Stat |
-> ---|---|
-> Type | `VIEW[{type}][text]` |
-> Size | `VIEW[{size}][text]` |
-> Region | `VIEW[{region}][text]` |
-> ###### Travel (`VIEW[{Travel Calculator#HoursPerDay}][math]` hrs per day)
-> ###### [[1-DM Toolkit/Travel Calculator\|Travel Calculator]]  / [[Exhaustion\|Exhaustion]]: `VIEW[{Travel Calculator#ExhaustionLevel}][math]`
-> Destination |  Travel Days  |
-> ---|---|
-> [[Voonlar\|Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
+> | |  |
+> |---|---|
+> |Type | Settlement |
+> |Size | `=this.size` |
+> |Region | `=this.region` |
 > ###### Politics
-> Type |  Stat |
-> ---|---|
-> Govt Type | `VIEW[{politics}][text]` |
-> Ruler | `VIEW[{leader}][text]`|
-> Defense | `VIEW[{defences}][text]`|
+> | |  |
+> |---|---|
+> |Govt Type | `=this.politics` |
+> |Ruler | `=this.leader`|
 > ###### Society
-> Type |  Stat |
-> ---|---|
-> Population | `VIEW[{population}][text]` |
-> Races | `VIEW[{commonraces}][text]`|
-> Temples | `VIEW[{religion}][text]` |
+> | | |
+> |---|---|
+> |Population | `=this.population` |
+> |Races | Humans|
+> |Temples | `=this.religion` |
 > ###### Commerce
-> Type |  Stat |
-> ---|---|
-> Exports | `VIEW[{exports}][text]` |
-> Imports | `VIEW[{imports}][text]` |
+> | | |
+> |---|---|
+> |Exports | `=this.exports` |
+> |Imports | `=this.imports` |
 > ###### Organizations
-> Type |  Stat |
-> ---|---|
+> | | |
+> |---|---|
 >  | Group | Leader |
 > | ----- | ------ |
 > 
@@ -55,6 +49,9 @@ _%>
 > ###### Sessions Appeared
 >  
 { .block-language-dataview}
+
+
+
 # TemplateSettlement
 ## Overview
 Placeholder

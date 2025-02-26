@@ -1,41 +1,35 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/waterdeep/","tags":["Category/Settlement"],"created":"2025-02-22T16:39:58.745-05:00","updated":"2025-02-25T16:10:22.214-05:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/waterdeep/","tags":["Category/Settlement"],"created":"2025-02-22T16:39:58.745-05:00","updated":"2025-02-25T21:00:02.066-05:00"}
 ---
-
 
 > [!infobox]
 > # Waterdeep
 > ![WaterdeepSeal.png|200](/img/user/z_Assets/WaterdeepSeal.png)
 > ###### Geography
-> Type |  Stat |
-> ---|---|
-> Type | `VIEW[{type}][text]` |
-> Size | `VIEW[{size}][text]` |
-> Region | `VIEW[{region}][text]` |
-> ###### Travel (`VIEW[{Travel Calculator#HoursPerDay}][math]` hrs per day)
-> ###### [[1-DM Toolkit/Travel Calculator\|Travel Calculator]]  / [[Exhaustion\|Exhaustion]]: `VIEW[{Travel Calculator#ExhaustionLevel}][math]`
-> Destination |  Travel Days  |
-> ---|---|
-> [[Voonlar\|Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
+> | |  |
+> |---|---|
+> |Type | Settlement |
+> |Size | Large City |
+> |Region | Sword Coast |
 > ###### Politics
-> Type |  Stat |
-> ---|---|
-> Govt Type | `VIEW[{politics}][text]` |
-> Ruler | `VIEW[{leader}][text]`|
+> | |  |
+> |---|---|
+> |Govt Type | Lordship |
+> |Ruler | Open Lord|
 > ###### Society
-> Type |  Stat |
-> ---|---|
-> Population | `VIEW[{population}][text]` |
-> Races | `VIEW[{commonraces}][text]`|
-> Temples | `VIEW[{religion}][text]` |
+> | | |
+> |---|---|
+> |Population | 133,000 |
+> |Races | Humans,Elves,Dwarves,Halflings,Half-Elves,Gnomes,Half-Orcs|
+> |Temples | Deneir,Mystra,Oghma,Tempus |
 > ###### Commerce
-> Type |  Stat |
-> ---|---|
-> Exports | `VIEW[{exports}][text]` |
-> Imports | `VIEW[{imports}][text]` |
+> | | |
+> |---|---|
+> |Exports | `=this.exports` |
+> |Imports | `=this.imports` |
 > ###### Organizations
-> Type |  Stat |
-> ---|---|
+> | | |
+> |---|---|
 >  | Group                                                                             | Leader |
 > | --------------------------------------------------------------------------------- | ------ |
 > | [[3-Mechanics/Guilds and Groups/Plague Rats\|Plague Rats]]                     | \-     |
