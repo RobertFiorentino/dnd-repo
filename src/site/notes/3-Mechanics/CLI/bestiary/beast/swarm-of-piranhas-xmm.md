@@ -1,0 +1,53 @@
+---
+{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/beast/swarm-of-piranhas-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1","ttrpg-cli/monster/environment/underwater","ttrpg-cli/monster/size/medium","ttrpg-cli/monster/type/beast"],"created":"2025-02-22T12:02:28.090-05:00","updated":"2025-02-26T17:46:10.630-05:00"}
+---
+
+# [Swarm of Piranhas](3-Mechanics/CLI/bestiary/beast/swarm-of-piranhas-xmm.md)
+*Source: Monster Manual (2024) p. 370*  
+
+```statblock
+"name": "Swarm of Piranhas (XMM)"
+"size": "Medium"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "13"
+"hp": !!int "28"
+"hit_dice": "8d8 - 8"
+"stats":
+- !!int "13"
+- !!int "16"
+- !!int "9"
+- !!int "1"
+- !!int "7"
+- !!int "2"
+"speed": "5 ft., swim 40 ft."
+"damage_resistances": "bludgeoning, piercing, slashing"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
+  \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained), [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)"
+"senses": "darkvision 60 ft., passive Perception 8"
+"languages": ""
+"cr": "1"
+"traits":
+- "desc": "The swarm can occupy another creature's space and vice versa, and the swarm\
+    \ can move through any opening large enough for a Tiny piranha. The swarm can't\
+    \ regain [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
+    \ or gain [Temporary Hit Points](3-Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md)."
+  "name": "Swarm"
+- "desc": "The swarm can breathe only underwater."
+  "name": "Water Breathing"
+"actions":
+- "desc": "Melee Attack: +5 (with [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+    \ if the target doesn't have all its [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)),\
+    \ reach 5 ft. Hit: 8 (2d4 + 3) Piercing damage, or 5 (1d4 + 3) Piercing\
+    \ damage if the swarm is [Bloodied](3-Mechanics/CLI/rules/variant-rules/bloodied-xphb.md)."
+  "name": "Bites"
+"source":
+- "XMM"
+```{ #statblock}
+
+
+## Environment
+
+underwater

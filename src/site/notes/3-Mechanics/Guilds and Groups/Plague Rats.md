@@ -14,6 +14,7 @@
 >  - [[1-Session Journals/Session 5\|Session 5]]
 > - [[1-Session Journals/Session 7\|Session 7]]
 > - [[1-Session Journals/Session 8\|Session 8]]
+> - [[1-Session Journals/Session 9\|Session 9]]
 > 
 { .block-language-dataview}
 # Plague Rats
