@@ -5,11 +5,11 @@
 # The Plague Wardens
 | Character Name                                             | Player  | Class                                                                                                                                                                  | Race                       | level |
 | ---------------------------------------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ----- |
+| [[1-Party/The Plague Wardens/Cinder\|Cinder]]           | Bobby   | <ul><li>[[3-Mechanics/CLI/classes/warlock-xphb.md\\|Warlock]]</li><li>[[3-Mechanics/CLI/classes/warlock-xphb-the-hexblade-xge.md\\|The Hexblade]]</li></ul>            | <ul><li>Half-Elf</li></ul> | 3     |
 | [[1-Party/The Plague Wardens/Dr. Buckles\|Dr. Buckles]] | Garrett | <ul><li>[[3-Mechanics/CLI/classes/wizard-xphb.md\\|Wizard]]</li></ul>                                                                                                  | <ul><li>Half-Elf</li></ul> | 3     |
-| [[1-Party/The Plague Wardens/Cinder\|Cinder]]           | Bobby   | <ul><li>[[3-Mechanics/CLI/classes/warlock-xphb.md\\|Warlock]]</li></ul>                                                                                                | <ul><li>Half-Elf</li></ul> | 3     |
-| [[1-Party/The Plague Wardens/Renan\|Renan]]             | Jesse   | <ul><li>[[3-Mechanics/CLI/classes/rogue-xphb-assassin-xphb.md\\|Assassin]]</li><li>[[3-Mechanics/CLI/classes/rogue-xphb.md\\|Rogue]]</li></ul>                         | <ul><li>Wood Elf</li></ul> | 3     |
 | [[1-Party/The Plague Wardens/Jelma\|Jelma]]             | Evan    | <ul><li>[[3-Mechanics/CLI/classes/monk-xphb.md\\|Monk]]</li></ul>                                                                                                      | <ul><li>Half-Orc</li></ul> | 3     |
-| [[1-Party/The Plague Wardens/Ragnar\|Ragnar]]           | Mike    | <ul><li>[[3-Mechanics/CLI/classes/paladin-xphb-oath-of-vengeance-xphb.md\\|Oath of Vengeance]]</li><li>[[3-Mechanics/CLI/classes/paladin-xphb.md\\|Paladin]]</li></ul> | <ul><li>Half-Orc</li></ul> | 3     |
+| [[1-Party/The Plague Wardens/Ragnar\|Ragnar]]           | Mike    | <ul><li>[[3-Mechanics/CLI/classes/paladin-xphb.md\\|Paladin]]</li><li>[[3-Mechanics/CLI/classes/paladin-xphb-oath-of-vengeance-xphb.md\\|Oath of Vengeance]]</li></ul> | <ul><li>Half-Orc</li></ul> | 3     |
+| [[1-Party/The Plague Wardens/Renan\|Renan]]             | Jesse   | <ul><li>[[3-Mechanics/CLI/classes/rogue-xphb.md\\|Rogue]]</li><li>[[3-Mechanics/CLI/classes/rogue-xphb-assassin-xphb.md\\|Assassin]]</li></ul>                         | <ul><li>Wood Elf</li></ul> | 3     |
 
 { .block-language-dataview}
 
