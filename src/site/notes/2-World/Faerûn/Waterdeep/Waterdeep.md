@@ -60,7 +60,10 @@ It was one of if not the most powerful and influential member-states of the Lord
 ## Notable NPCs
 
 { .block-language-dataview}
-- [[3-Mechanics/NPCs/Alabaster\|Alabaster]]
-- [[3-Mechanics/NPCs/Thurgor\|Thurgor]]
+- [[3-Mechanics/NPCs/Alabaster Cunningham\|Alabaster Cunningham]]
+- [[3-Mechanics/NPCs/Kalas Tuin\|Kalas Tuin]]
+- [[3-Mechanics/NPCs/Lara Romanov\|Lara Romanov]]
+- [[3-Mechanics/NPCs/Thurgor Oakensunder\|Thurgor Oakensunder]]
+- [[3-Mechanics/NPCs/Warwick Mahningham\|Warwick Mahningham]]
 
 { .block-language-dataview}

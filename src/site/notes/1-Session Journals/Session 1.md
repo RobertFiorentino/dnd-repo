@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/session-1/","tags":["journal"],"created":"2025-02-22T18:03:19.711-05:00","updated":"2025-02-25T13:33:23.421-05:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/session-1/","tags":["journal"],"created":"2025-02-22T18:03:19.711-05:00","updated":"2025-02-26T20:31:40.415-05:00"}
 ---
 
 >[!infobox]
@@ -42,6 +42,6 @@ The party found another entrance into the sewers and were confronted by goblins 
 
 ### NPCs Encountered
 
-- [[3-Mechanics/NPCs/Alabaster\|Alabaster]]
-- [[3-Mechanics/NPCs/Thurgor\|Thurgor]]
+- [[3-Mechanics/NPCs/Alabaster Cunningham\|Alabaster Cunningham]]
+- [[3-Mechanics/NPCs/Thurgor Oakensunder\|Thurgor Oakensunder]]
 

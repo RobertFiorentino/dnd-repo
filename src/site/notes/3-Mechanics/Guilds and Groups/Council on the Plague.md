@@ -8,16 +8,20 @@
 > # Council on the Plague
 > ![CouncilOnthePlagueImage.png](/img/user/z_Assets/CouncilOnthePlagueImage.png)
 > ###### Key Members
->  | File                                         | Race                    | Gender |
-> | -------------------------------------------- | ----------------------- | ------ |
-> | [[3-Mechanics/NPCs/Alabaster\|Alabaster]] | <ul><li>Human</li></ul> | Male   |
-> | [[3-Mechanics/NPCs/Thurgor\|Thurgor]]     | <ul><li>Dwarf</li></ul> | Male   |
+>  | File                                                               | Race                       | Gender |
+> | ------------------------------------------------------------------ | -------------------------- | ------ |
+> | [[3-Mechanics/NPCs/Alabaster Cunningham\|Alabaster Cunningham]] | <ul><li>Human</li></ul>    | Male   |
+> | [[3-Mechanics/NPCs/Lara Romanov\|Lara Romanov]]                 | <ul><li>Half-Elf</li></ul> | Male   |
+> | [[3-Mechanics/NPCs/Kalas Tuin\|Kalas Tuin]]                     | <ul><li>Drow Elf</li></ul> | Male   |
+> | [[3-Mechanics/NPCs/Warwick Mahningham\|Warwick Mahningham]]     | <ul><li>Halfling</li></ul> | Male   |
+> | [[3-Mechanics/NPCs/Thurgor Oakensunder\|Thurgor Oakensunder]]   | <ul><li>Dwarf</li></ul>    | Male   |
 > 
 { .block-language-dataview}
 > ###### Sessions Appeared
 >  - [[1-Session Journals/Session 1\|Session 1]]
 > - [[1-Session Journals/Session 6\|Session 6]]
 > - [[1-Session Journals/Session 8\|Session 8]]
+> - [[1-Session Journals/Session 9\|Session 9]]
 > 
 { .block-language-dataview}
 # Council on the Plague

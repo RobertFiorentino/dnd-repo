@@ -24,6 +24,5 @@ The most handsome person we've ever seen. A famous and accomplished performer.
 | [[1-Session Journals/Session 6\|Session 6]] |
 | [[1-Session Journals/Session 7\|Session 7]] |
 | [[1-Session Journals/Session 8\|Session 8]] |
-| [[1-Session Journals/Session 9\|Session 9]] |
 
 { .block-language-dataview}
