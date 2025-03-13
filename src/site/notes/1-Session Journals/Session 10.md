@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/session-10/","created":"2025-03-12T20:47:15.378-04:00","updated":"2025-03-13T17:54:15.514-04:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/session-10/","created":"2025-03-12T20:47:15.378-04:00","updated":"2025-03-13T18:02:05.113-04:00"}
 ---
 
 >[!infobox]
@@ -31,13 +31,13 @@ But Titus' ambitions do not stop there. He announced that Waterdeep would be tak
 
 [[3-Mechanics/NPCs/Alabaster Cunningham\|Alabaster Cunningham]] had proudly grown a beard to hide his identity and recommended [[1-Party/The Plague Wardens/Ragnar\|Ragnar]] do the same. He discussed the events leading to the coronation but admitted not having many resources to help the adventurers out on their quest. When presented with [[3-Mechanics/NPCs/MurkTail\|MurkTail]] the prisoner, Alabaster dispatched the wererat without hesitation.
 
-The council did have the means to magically disguise the party and help them infiltrate a noble dinner at the [[2-World/Faerûn/Waterdeep/Von CheddarsBurgh Estate\|Von CheddarsBurgh Estate]] to gather information and potential allies. [[1-Party/The Plague Wardens/Cinder\|Cinder]] is pretending to be Nero Roaringhorn, a house famous for arts and arcane studies. [[1-Party/The Plague Wardens/Jelma\|Jelma]] his musician, specializing in playing the war gong and [[1-Party/The Plague Wardens/Ragnar\|Ragnar]] playing the part of a cleric of [[2-World/Faerûn/Talona\|Talona]]. [[1-Party/The Plague Wardens/Dr. Buckles\|Dr. Buckles]] represented the magical house Wands, with [[1-Party/The Plague Wardens/Renan\|Renan]] as his servant Gouda.
+The council did have the means to magically disguise the party and help them infiltrate a noble dinner at the [[2-World/Faerûn/Waterdeep/Von Cheddarsburgh Estate\|Von Cheddarsburgh Estate]] to gather information and potential allies. [[1-Party/The Plague Wardens/Cinder\|Cinder]] is pretending to be Nero Roaringhorn, a house famous for arts and arcane studies. [[1-Party/The Plague Wardens/Jelma\|Jelma]] his musician, specializing in playing the war gong and [[1-Party/The Plague Wardens/Ragnar\|Ragnar]] playing the part of a cleric of [[2-World/Faerûn/Talona\|Talona]]. [[1-Party/The Plague Wardens/Dr. Buckles\|Dr. Buckles]] represented the magical house Wands, with [[1-Party/The Plague Wardens/Renan\|Renan]] as his servant Gouda.
 <div style="clear: both;"></div><br>
 
 ### Locations
 - [[2-World/Faerûn/Baldurs Gate/Baldurs Gate\|Baldurs Gate]]
 - [[2-World/Faerûn/Waterdeep/Waterdeep\|Waterdeep]]
-- [[2-World/Faerûn/Waterdeep/Von CheddarsBurgh Estate\|Von CheddarsBurgh Estate]]
+- [[2-World/Faerûn/Waterdeep/Von Cheddarsburgh Estate\|Von Cheddarsburgh Estate]]
 <br>
 ### NPCs
 - [[3-Mechanics/NPCs/MurkTail\|MurkTail]] (slain)
