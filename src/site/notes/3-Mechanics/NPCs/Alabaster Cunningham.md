@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/alabaster-cunningham/","tags":["NPC"],"created":"2025-02-22T20:28:16.832-05:00","updated":"2025-02-26T20:34:13.479-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/alabaster-cunningham/","tags":["NPC"],"created":"2025-02-22T20:28:16.832-05:00","updated":"2025-03-13T14:17:15.759-04:00"}
 ---
 
 
@@ -15,7 +15,7 @@
 >> Weight:
 >
 >> [!note] Column 3
->> ![Pasted image 20240607151510.png|300](/img/user/z_Assets/Pasted%20image%2020240607151510.png)
+>> ![AlabasterPortrait.png](/img/user/z_Assets/AlabasterPortrait.png)
 
 
 

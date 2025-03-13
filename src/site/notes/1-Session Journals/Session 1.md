@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/session-1/","tags":["journal"],"created":"2025-02-22T18:03:19.711-05:00","updated":"2025-02-26T20:31:40.415-05:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/session-1/","tags":["journal"],"created":"2025-02-22T18:03:19.711-05:00","updated":"2025-03-13T10:51:25.904-04:00"}
 ---
 
 >[!infobox]
@@ -39,9 +39,11 @@ The party found another entrance into the sewers and were confronted by goblins 
 - [[2-World/Faerûn/Waterdeep/Boarded up inn\|Boarded up inn]]
 - [[2-World/Faerûn/Waterdeep/Waterdeep Sewers\|Waterdeep Sewers]]
 <br>
-
 ### NPCs Encountered
 
 - [[3-Mechanics/NPCs/Alabaster Cunningham\|Alabaster Cunningham]]
 - [[3-Mechanics/NPCs/Thurgor Oakensunder\|Thurgor Oakensunder]]
+- [[3-Mechanics/NPCs/Warwick Mahningham\|Warwick Mahningham]]
+- [[3-Mechanics/NPCs/Lara Romanov\|Lara Romanov]]
+- [[3-Mechanics/NPCs/Kalas Tuin\|Kalas Tuin]]
 

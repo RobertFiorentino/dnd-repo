@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/the-plague-wardens/cinder/","tags":["player"],"created":"2025-02-22T14:10:57.263-05:00","updated":"2025-02-27T12:07:17.241-05:00"}
+{"dg-publish":true,"permalink":"/1-party/the-plague-wardens/cinder/","tags":["player"],"created":"2025-02-22T14:10:57.263-05:00","updated":"2025-03-13T16:26:47.256-04:00"}
 ---
 
 # Cinder
@@ -12,12 +12,12 @@
 The son of the noble [[2-World/Faerûn/Waterdeep/House Belabranta\|House Belabranta]], the half-elven second son was born with the elven name Bel'cinderian though he goes by Cinder among the nobility and non-elves.
 
 ![CinderYelling.png|400](/img/user/z_Assets/CinderYelling.png)
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Faction</span><span class="dataview small-text">6</span></th><th class="table-view-th"><span>Your Standing</span></th><th class="table-view-th"><span>Benefits</span></th><th class="table-view-th"><span>Primary Contact</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>-</span></td><td>0</td><td><span>No benefits yet</span></td><td><span>No contact set</span></td></tr><tr><td><span>-</span></td><td>0</td><td><span>No benefits yet</span></td><td><span>No contact set</span></td></tr><tr><td><span>Harpers</span></td><td>0</td><td><span>No benefits yet</span></td><td><span><a data-tooltip-position="top" aria-label="Jasmine" data-href="Jasmine" href="Jasmine" class="internal-link" target="_blank" rel="noopener nofollow">Jasmine</a></span></td></tr><tr><td><span>Magicians</span></td><td>0</td><td><span>No benefits yet</span></td><td><span><a data-tooltip-position="top" aria-label="Wilma" data-href="Wilma" href="Wilma" class="internal-link" target="_blank" rel="noopener nofollow">Wilma</a></span></td></tr><tr><td><span>-</span></td><td>0</td><td><span>No benefits yet</span></td><td><span>No contact set</span></td></tr><tr><td><span>-</span></td><td>0</td><td><span>No benefits yet</span></td><td><span>No contact set</span></td></tr></tbody></table></div>
-
 
 ### Later Level Possibilities
 
 ##### Spells & Level Available
+[[3-Mechanics/CLI/spells/mage-hand-xphb\|Mage Hand]] / 4
+[[3-Mechanics/CLI/spells/create-bonfire-xge\|Create Bonfire]] / 4
 [[3-Mechanics/CLI/spells/invisibility-xphb\|Invisibility]] / 4
 [[3-Mechanics/CLI/spells/shield-xphb\|Shield]] / 4
 [[3-Mechanics/CLI/spells/blink-xphb\|Blink]] / 5
@@ -63,3 +63,47 @@ The son of the noble [[2-World/Faerûn/Waterdeep/House Belabranta\|House Belabra
 | 19th  | +6         | Ability Score Improvement, _Eldritch Versatility (Optional)_ | 4              | 15           | 4           | 5th        | 8           |
 | 20th  | +6         | Eldritch Master                                              | 4              | 15           | 4           | 5th        | 8           |
 
+> [!hint | clean no-i]+ Spells
+>> [!column| 3 clean no-t]
+>>> [!hint | clean]+ Cantrips
+>>> - [[3-Mechanics/CLI/spells/booming-blade-tce\|Booming Blade]]
+>>> - [[3-Mechanics/CLI/spells/eldritch-blast-xphb\|Eldritch Blast]]
+>>> - [[3-Mechanics/CLI/spells/minor-illusion-xphb\|Minor Illusion]]
+>>
+>>> [!hint | bg-c-red]+ 1<sup>st</sup> level spells (`VIEW[{spells.slots1}]`/0) 
+>>> `INPUT[slider(minValue(0), maxValue(1), addLabels):spells.slots1]`
+>>> - [x]  [[3-Mechanics/CLI/spells/hex-xphb\|Hex]]
+>>> - [x]  [[3-Mechanics/CLI/spells/charm-person-xphb\|Charm Person]]
+>>
+>>> [!hint | bg-c-blue]+ 2<sup>nd</sup> level spells (`VIEW[{spells.slots2}]`/2)  
+>>> `INPUT[slider(minValue(0), maxValue(2), addLabels):spells.slots2]`
+>>> - [x]  [[3-Mechanics/CLI/spells/darkness-xphb\|Darkness]]
+>>> - [x]  [[3-Mechanics/CLI/spells/misty-step-xphb\|Misty Step]]
+>>
+>>> [!hint | bg-c-yellow]+ 3<sup>rd</sup> level spells (`VIEW[{spells.slots3}]`/0) 
+>>> `INPUT[slider(minValue(0), maxValue(1), addLabels):spells.slots3]`
+>>> - [ ] 
+>>
+>>> [!hint | bg-c-green]+ 4<sup>th</sup> level spells (`VIEW[{spells.slots4}]`/0) 
+>>> `INPUT[slider(minValue(0), maxValue(1), addLabels):spells.slots4]`
+>>> - [ ] 
+>>
+>>> [!hint | bg-c-pink]+ 5<sup>th</sup> level spells (`VIEW[{spells.slots5}]`/0) 
+>>> `INPUT[slider(minValue(0), maxValue(1), addLabels):spells.slots5]`
+>>> - [ ] 
+>>
+>>> [!hint | bg-c-orange]+ 6<sup>th</sup> level spells (`VIEW[{spells.slots6}]`/0) 
+>>> `INPUT[slider(minValue(0), maxValue(1), addLabels):spells.slots6]`
+>>> - [ ] 
+>>
+>>> [!hint | bg-c-gray]+ 7<sup>th</sup> level spells (`VIEW[{spells.slots7}]`/0) 
+>>> `INPUT[slider(minValue(0), maxValue(1), addLabels):spells.slots7]`
+>>> - [ ] 
+>>
+>>> [!hint | bg-c-brown]+ 8<sup>th</sup> level spells (`VIEW[{spells.slots8}]`/0) 
+>>> `INPUT[slider(minValue(0), maxValue(1), addLabels):spells.slots8]`
+>>> - [ ] 
+>>
+>>> [!hint | bg-c-purple]+ 9<sup>th</sup> level spells (`VIEW[{spells.slots9}]`/0) 
+>>> `INPUT[slider(minValue(0), maxValue(1), addLabels):spells.slots9]`
+>>> - [ ] 

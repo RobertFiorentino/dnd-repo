@@ -36,7 +36,8 @@
 > 
 { .block-language-dataview}
 > ###### Sessions Appeared
->  - [[1-Session Journals/Session 7\|Session 7]]
+>  - [[1-Session Journals/Session 10\|Session 10]]
+> - [[1-Session Journals/Session 7\|Session 7]]
 > - [[1-Session Journals/Session 8\|Session 8]]
 > 
 { .block-language-dataview}

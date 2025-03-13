@@ -32,12 +32,13 @@
 > |---|---|
 >  | Group                                                                             | Leader |
 > | --------------------------------------------------------------------------------- | ------ |
-> | [[3-Mechanics/Guilds and Groups/Plague Rats\|Plague Rats]]                     | \-     |
 > | [[3-Mechanics/Guilds and Groups/Council on the Plague\|Council on the Plague]] | \-     |
+> | [[3-Mechanics/Guilds and Groups/Plague Rats\|Plague Rats]]                     | \-     |
 > 
 { .block-language-dataview}
 > ###### Sessions Appeared
 >  - [[1-Session Journals/Session 1\|Session 1]]
+> - [[1-Session Journals/Session 10\|Session 10]]
 > - [[1-Session Journals/Session 5\|Session 5]]
 > - [[1-Session Journals/Session 6\|Session 6]]
 > - [[1-Session Journals/Session 7\|Session 7]]
@@ -64,6 +65,7 @@ It was one of if not the most powerful and influential member-states of the Lord
 - [[3-Mechanics/NPCs/Kalas Tuin\|Kalas Tuin]]
 - [[3-Mechanics/NPCs/Lara Romanov\|Lara Romanov]]
 - [[3-Mechanics/NPCs/Thurgor Oakensunder\|Thurgor Oakensunder]]
+- [[3-Mechanics/NPCs/Titus Belabranta\|Titus Belabranta]]
 - [[3-Mechanics/NPCs/Warwick Mahningham\|Warwick Mahningham]]
 
 { .block-language-dataview}

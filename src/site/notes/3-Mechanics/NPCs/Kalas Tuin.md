@@ -15,8 +15,10 @@
 >> [!note] Column 3
 >> ![Pasted image 20240607151510.png|300](/img/user/z_Assets/Pasted%20image%2020240607151510.png)
 
-| Sessions Appeared |
-| ----------------- |
+| Sessions Appeared                                |
+| ------------------------------------------------ |
+| [[1-Session Journals/Session 1\|Session 1]]   |
+| [[1-Session Journals/Session 10\|Session 10]] |
 
 { .block-language-dataview}
 
