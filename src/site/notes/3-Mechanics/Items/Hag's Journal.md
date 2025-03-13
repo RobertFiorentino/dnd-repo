@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/3-mechanics/items/hag-s-journal/","tags":["item"],"created":"2025-03-13T10:07:28.006-04:00","updated":"2025-03-13T10:11:24.273-04:00"}
 ---
 
-| Sessions Appeared                              |
-| ---------------------------------------------- |
-| [[1-Session Journals/Session 6\|Session 6]] |
+| Sessions Appeared                                |
+| ------------------------------------------------ |
+| [[1-Session Journals/Session 06\|Session 06]] |
 
 { .block-language-dataview}
 # Hag's Journal

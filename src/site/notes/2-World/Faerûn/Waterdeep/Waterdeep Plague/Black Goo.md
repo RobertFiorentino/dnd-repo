@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/waterdeep-plague/black-goo/","created":"2025-02-22T18:32:55.431-05:00","updated":"2025-02-25T21:42:27.104-05:00"}
 ---
 
-| Sessions Appeared                              |
-| ---------------------------------------------- |
-| [[1-Session Journals/Session 1\|Session 1]] |
-| [[1-Session Journals/Session 4\|Session 4]] |
-| [[1-Session Journals/Session 5\|Session 5]] |
+| Sessions Appeared                                |
+| ------------------------------------------------ |
+| [[1-Session Journals/Session 01\|Session 01]] |
+| [[1-Session Journals/Session 04\|Session 04]] |
+| [[1-Session Journals/Session 05\|Session 05]] |
 
 { .block-language-dataview}
 <br>

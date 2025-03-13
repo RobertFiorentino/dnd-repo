@@ -13,7 +13,7 @@
 > 
 { .block-language-dataview}
 > ###### Sessions Appeared
->  - [[1-Session Journals/Session 7\|Session 7]]
+>  - [[1-Session Journals/Session 07\|Session 07]]
 > 
 { .block-language-dataview}
 # Flaming Fist

@@ -18,11 +18,11 @@
 > 
 { .block-language-dataview}
 > ###### Sessions Appeared
->  - [[1-Session Journals/Session 1\|Session 1]]
+>  - [[1-Session Journals/Session 01\|Session 01]]
+> - [[1-Session Journals/Session 06\|Session 06]]
+> - [[1-Session Journals/Session 08\|Session 08]]
+> - [[1-Session Journals/Session 09\|Session 09]]
 > - [[1-Session Journals/Session 10\|Session 10]]
-> - [[1-Session Journals/Session 6\|Session 6]]
-> - [[1-Session Journals/Session 8\|Session 8]]
-> - [[1-Session Journals/Session 9\|Session 9]]
 > 
 { .block-language-dataview}
 # Council on the Plague

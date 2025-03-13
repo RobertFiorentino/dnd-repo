@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/the-plague-wardens/the-plague-wardens/","tags":["gardenEntry"],"created":"2025-02-19T20:56:05.000-05:00","updated":"2025-03-13T16:56:04.754-04:00"}
+{"dg-publish":true,"permalink":"/1-party/the-plague-wardens/the-plague-wardens/","tags":["gardenEntry"],"created":"2025-02-19T20:56:05.000-05:00","updated":"2025-03-13T17:50:34.364-04:00"}
 ---
 
 # The Plague Wardens
@@ -26,20 +26,20 @@ A party of adventurers tasked with uncovering the source of the [[2-World/Faerû
 
 #### Side Quests
 - Investigate [[2-World/Undermountain\|Undermountain]]
-- Explore the planes as described in the [[1-Session Journals/Session 6\|Hag's notebook]]
+- Explore the planes as described in the [[1-Session Journals/Session 06\|Hag's notebook]]
 
 | Session                                          | Summary                                                                                       |
 | ------------------------------------------------ | --------------------------------------------------------------------------------------------- |
-| [[1-Session Journals/Session 9\|Session 9]]   | The party wiped out the remainder of the circus enemies and captures the wererat              |
-| [[1-Session Journals/Session 8\|Session 8]]   | Despite being summoned back to Waterdeep, the party went back to kill off the circus          |
-| [[1-Session Journals/Session 7\|Session 7]]   | Sailed to Baldur's Gate to find it infected and freed prisoners from the circus               |
-| [[1-Session Journals/Session 6\|Session 6]]   | Escaped the rat prison and got jumped by a hag and her octopi lovers                          |
-| [[1-Session Journals/Session 5\|Session 5]]   | Got imprisoned by wererats, escaped and killed a frankenstein monster                         |
-| [[1-Session Journals/Session 4\|Session 4]]   | Fought minions and a wererat                                                                  |
-| [[1-Session Journals/Session 3\|Session 3]]   | Met and dispatched a nobleman wight from a cheese empire                                      |
-| [[1-Session Journals/Session 2\|Session 2]]   | Continued exploring the sewers, encountered a wererat                                         |
 | [[1-Session Journals/Session 10\|Session 10]] | Titus was coronated first king of Waterdeep while the party is accused of starting the plague |
-| [[1-Session Journals/Session 1\|Session 1]]   | Got our backstory, formed a party, and started investigating the Waterdeep Plague             |
+| [[1-Session Journals/Session 09\|Session 09]] | The party wiped out the remainder of the circus enemies and captures the wererat              |
+| [[1-Session Journals/Session 08\|Session 08]] | Despite being summoned back to Waterdeep, the party went back to kill off the circus          |
+| [[1-Session Journals/Session 07\|Session 07]] | Sailed to Baldur's Gate to find it infected and freed prisoners from the circus               |
+| [[1-Session Journals/Session 06\|Session 06]] | Escaped the rat prison and got jumped by a hag and her octopi lovers                          |
+| [[1-Session Journals/Session 05\|Session 05]] | Got imprisoned by wererats, escaped and killed a frankenstein monster                         |
+| [[1-Session Journals/Session 04\|Session 04]] | Fought minions and a wererat                                                                  |
+| [[1-Session Journals/Session 03\|Session 03]] | Met and dispatched a nobleman wight from a cheese empire                                      |
+| [[1-Session Journals/Session 02\|Session 02]] | Continued exploring the sewers, encountered a wererat                                         |
+| [[1-Session Journals/Session 01\|Session 01]] | Got our backstory, formed a party, and started investigating the Waterdeep Plague             |
 | [[1-Session Journals/Session 0\|Session 0]]   | Rolled our abilities and made our character sheets                                            |
 
 { .block-language-dataview}

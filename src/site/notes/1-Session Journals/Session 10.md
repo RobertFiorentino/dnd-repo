@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/session-10/","created":"2025-03-12T20:47:15.378-04:00","updated":"2025-03-13T17:47:19.795-04:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/session-10/","created":"2025-03-12T20:47:15.378-04:00","updated":"2025-03-13T17:54:15.514-04:00"}
 ---
 
 >[!infobox]
@@ -13,9 +13,9 @@
 # The Devil You Know
 On the boat ride back to [[2-World/Faerûn/Waterdeep/Waterdeep\|Waterdeep]], the party interrogated the captured wererat whom they learned was named [[3-Mechanics/NPCs/MurkTail\|MurkTail]]. He mostly just followed orders and didn't know much, but did reveal the names of the head priest Vermund and his paladin bodyguard Cheddarclaw. They worship the goddess of disease, [[2-World/Faerûn/Talona\|Talona]]. They have a shrine, though we're not sure if it's the same location the party was imprisoned at under the [[2-World/Faerûn/Waterdeep/Rat Hills\|Rat Hills]].
 
-![Pasted image 20250313103451.png|left|300](/img/user/z_Assets/Pasted%20image%2020250313103451.png) [[1-Party/The Plague Wardens/Ragnar\|Ragnar]] brought up [[1-Party/The Plague Wardens/Cinder\|Cinder]]'s troubling behavior as of late, and Cinder felt the need to explain what happened to him. He recounted his past as a nobleman, his kind father, older brother Walter, and younger brother [[3-Mechanics/NPCs/Titus Belabranta\|Titus Belabranta]]. Cinder's brother and father died in quick succession and under mysterious circumstances. Cinder found himself ill-equipped to run the Belabranta estate, but did not have long before Titus challenged him to a duel for the right to rule the house under an obscure ancient law.
+[[1-Party/The Plague Wardens/Ragnar\|Ragnar]] brought up [[1-Party/The Plague Wardens/Cinder\|Cinder]]'s troubling behavior as of late, and Cinder felt the need to explain what happened to him. He recounted his past as a nobleman, his kind father, older brother Walter, and younger brother [[3-Mechanics/NPCs/Titus Belabranta\|Titus Belabranta]]. Cinder's brother and father died in quick succession and under mysterious circumstances. Cinder found himself ill-equipped to run the Belabranta estate, but did not have long before Titus challenged him to a duel for the right to rule the house under an obscure ancient law.
 
-Cinder was never a martial sort, in stark contrast to the combative and ambitious Titus. The younger brother always had resentment toward his father for "polluting the Belabranta line" with non-human blood, and this enmity passed on to Cinder. Titus easily won the duel, leaving Cinder with a fatal wound and having his lackeys dump him in an alley.
+![Pasted image 20250313103451.png|left|300](/img/user/z_Assets/Pasted%20image%2020250313103451.png) Cinder was never a martial sort, in stark contrast to the combative and ambitious Titus. The younger brother always had resentment toward his father for "polluting the Belabranta line" with non-human blood, and this enmity passed on to Cinder. Titus easily won the duel, leaving Cinder with a fatal wound and having his lackeys dump him in an alley.
 
 With Cinder's last grasps of consciousness, he felt the blade at his side speak to him and give him power. This [[3-Mechanics/CLI/classes/warlock-xphb-the-hexblade-xge\|otherworldly entity]] would infuse Cinder with its magic, in exchange for the death and violence he would impart on his quest to reclaim his title. Cinder dispatched the dumbstruck lackey and absorbed his life force, healing his wounds.
 

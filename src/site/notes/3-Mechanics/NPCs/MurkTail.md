@@ -17,8 +17,8 @@
 
 | Sessions Appeared                                |
 | ------------------------------------------------ |
+| [[1-Session Journals/Session 09\|Session 09]] |
 | [[1-Session Journals/Session 10\|Session 10]] |
-| [[1-Session Journals/Session 9\|Session 9]]   |
 
 { .block-language-dataview}
 

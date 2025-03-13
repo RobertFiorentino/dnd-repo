@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/thurgor-oakensunder/","tags":["NPC"],"created":"2025-02-22T20:43:12.448-05:00","updated":"2025-02-26T20:49:57.403-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/thurgor-oakensunder/","tags":["NPC"],"created":"2025-02-22T20:43:12.448-05:00","updated":"2025-03-13T17:50:17.769-04:00"}
 ---
 
 

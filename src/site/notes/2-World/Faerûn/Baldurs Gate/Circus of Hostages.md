@@ -13,9 +13,9 @@
 > 
 { .block-language-dataview}
 > ###### Sessions Appeared
->  - [[1-Session Journals/Session 7\|Session 7]]
-> - [[1-Session Journals/Session 8\|Session 8]]
-> - [[1-Session Journals/Session 9\|Session 9]]
+>  - [[1-Session Journals/Session 07\|Session 07]]
+> - [[1-Session Journals/Session 08\|Session 08]]
+> - [[1-Session Journals/Session 09\|Session 09]]
 > 
 { .block-language-dataview}
 

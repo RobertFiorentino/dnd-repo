@@ -20,11 +20,11 @@
 > 
 { .block-language-dataview}
 > ###### Sessions Appeared
->  - [[1-Session Journals/Session 1\|Session 1]]
-> - [[1-Session Journals/Session 2\|Session 2]]
-> - [[1-Session Journals/Session 3\|Session 3]]
-> - [[1-Session Journals/Session 4\|Session 4]]
-> - [[1-Session Journals/Session 6\|Session 6]]
+>  - [[1-Session Journals/Session 01\|Session 01]]
+> - [[1-Session Journals/Session 02\|Session 02]]
+> - [[1-Session Journals/Session 03\|Session 03]]
+> - [[1-Session Journals/Session 04\|Session 04]]
+> - [[1-Session Journals/Session 06\|Session 06]]
 > 
 { .block-language-dataview}
 # Waterdeep Sewers
