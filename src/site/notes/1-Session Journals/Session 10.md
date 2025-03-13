@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/session-10/","created":"2025-03-12T20:47:15.378-04:00","updated":"2025-03-13T17:19:28.044-04:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/session-10/","created":"2025-03-12T20:47:15.378-04:00","updated":"2025-03-13T17:47:19.795-04:00"}
 ---
 
 >[!infobox]
@@ -25,7 +25,7 @@ Since then, Cinder has devoted his focus to perfecting his skills at dueling in 
 
 Here [[3-Mechanics/NPCs/Warwick Mahningham\|Warwick Mahningham]] would lead the announcement. He recounted the news of [[2-World/Faerûn/Baldurs Gate/Baldurs Gate\|Baldurs Gate]] being struck by the plague, and how the nobility had been decimated as well. This led to the disbanding of the [[2-World/Faerûn/Waterdeep/Lords of Waterdeep\|Lords of Waterdeep]], and the council (supposedly) appointed the new Open Lord to be the first king of [[2-World/Faerûn/Waterdeep/Waterdeep\|Waterdeep]].
 
-![TitusBelabrantaPortrait.png|left|300](/img/user/z_Assets/TitusBelabrantaPortrait.png) This new king was none other than Cinder's brother, [[3-Mechanics/NPCs/Titus Belabranta\|Titus Belabranta]]! Titus was given credit for curing the disease, but even worse, he falsely named all the members of the [[3-Mechanics/Guilds and Groups/Council on the Plague\|Council on the Plague]] and [[1-Party/The Plague Wardens/The Plague Wardens\|The Plague Wardens]] as the originators and spreaders of the plague. Wanted posters were put up around the city for each of the members. Priests of [[2-World/Faerûn/Talona\|Talona]] replaced priests of [[3-Mechanics/CLI/deities/forgotten-realms-ilmater\|Ilmater]] as the main force of spiritual wisdom in the city. 
+![TitusBelabrantaPortrait.png|left|300](/img/user/z_Assets/TitusBelabrantaPortrait.png) This new king was none other than Cinder's brother, [[3-Mechanics/NPCs/Titus Belabranta\|Titus Belabranta]]! Titus was given credit for curing the disease, but even worse, he falsely named all the members of the [[3-Mechanics/Guilds and Groups/Council on the Plague\|Council on the Plague]] and [[1-Party/The Plague Wardens/The Plague Wardens\|The Plague Wardens]] as the originators and spreaders of the plague. Wanted posters were put up around the city for each of the members. Priests of [[2-World/Faerûn/Talona\|Talona]] (the [[3-Mechanics/Guilds and Groups/Gray Cloaks\|Gray Cloaks]] the party had noticed) replaced priests of [[3-Mechanics/CLI/deities/forgotten-realms-ilmater\|Ilmater]] as the main force of spiritual wisdom in the city. 
 
 But Titus' ambitions do not stop there. He announced that Waterdeep would be taking over the ruling of [[2-World/Faerûn/Baldurs Gate/Baldurs Gate\|Baldurs Gate]] due to its level of destruction from the plague. As the group wheeled away their screaming goats, a hooded figure pulled [[1-Party/The Plague Wardens/Jelma\|Jelma]] down an alley and the group followed. It turned out to be [[3-Mechanics/NPCs/Lara Romanov\|Lara Romanov]], who led them to a closed tavern with the remaining council members.
 

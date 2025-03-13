@@ -11,7 +11,8 @@
 > 
 { .block-language-dataview}
 > ###### Sessions Appeared
->  - [[1-Session Journals/Session 7\|Session 7]]
+>  - [[1-Session Journals/Session 10\|Session 10]]
+> - [[1-Session Journals/Session 7\|Session 7]]
 > 
 { .block-language-dataview}
 # Gray Cloaks
