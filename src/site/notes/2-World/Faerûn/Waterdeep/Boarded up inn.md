@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/boarded-up-inn/","created":"2025-02-22T18:33:07.951-05:00","updated":"2025-02-24T20:32:33.848-05:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/boarded-up-inn/","created":"2025-02-22T18:33:07.951-05:00","updated":"2025-03-13T20:24:51.003-04:00"}
 ---
 
-| Sessions Appeared                                |
-| ------------------------------------------------ |
-| [[1-Session Journals/Session 01\|Session 01]] |
+| Sessions Appeared                                                           |
+| --------------------------------------------------------------------------- |
+| [[1-Session Journals/The Plague Wardens Journal/Session 01\|Session 01]] |
 
 { .block-language-dataview}
 

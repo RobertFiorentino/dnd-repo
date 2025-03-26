@@ -18,9 +18,9 @@
 > 
 { .block-language-dataview}
 > ###### Sessions Appeared
->  - [[1-Session Journals/Session 05\|Session 05]]
-> - [[1-Session Journals/Session 06\|Session 06]]
-> - [[1-Session Journals/Session 10\|Session 10]]
+>  - [[1-Session Journals/The Plague Wardens Journal/Session 05\|Session 05]]
+> - [[1-Session Journals/The Plague Wardens Journal/Session 06\|Session 06]]
+> - [[1-Session Journals/The Plague Wardens Journal/Session 10\|Session 10]]
 > 
 { .block-language-dataview}
 # Rat Hills

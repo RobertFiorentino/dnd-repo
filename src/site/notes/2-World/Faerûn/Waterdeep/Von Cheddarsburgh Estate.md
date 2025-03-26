@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/von-cheddarsburgh-estate/","created":"2025-03-12T22:26:32.155-04:00","updated":"2025-03-13T18:02:25.236-04:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/von-cheddarsburgh-estate/","created":"2025-03-12T22:26:32.155-04:00","updated":"2025-03-13T20:24:41.852-04:00"}
 ---
 
-| Sessions Appeared                                |
-| ------------------------------------------------ |
-| [[1-Session Journals/Session 10\|Session 10]] |
+| Sessions Appeared                                                           |
+| --------------------------------------------------------------------------- |
+| [[1-Session Journals/The Plague Wardens Journal/Session 10\|Session 10]] |
 
 { .block-language-dataview}
 

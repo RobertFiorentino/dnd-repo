@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/kalas-tuin/","tags":["NPC"],"created":"2025-02-26T20:41:30.211-05:00","updated":"2025-02-26T20:48:56.704-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/kalas-tuin/","tags":["NPC"],"created":"2025-02-26T20:41:30.211-05:00","updated":"2025-03-13T19:53:01.356-04:00"}
 ---
 
 > [!column] Basic Details
@@ -15,10 +15,10 @@
 >> [!note] Column 3
 >> ![Pasted image 20240607151510.png|300](/img/user/z_Assets/Pasted%20image%2020240607151510.png)
 
-| Sessions Appeared                                |
-| ------------------------------------------------ |
-| [[1-Session Journals/Session 01\|Session 01]] |
-| [[1-Session Journals/Session 10\|Session 10]] |
+| Sessions Appeared                                                           |
+| --------------------------------------------------------------------------- |
+| [[1-Session Journals/The Plague Wardens Journal/Session 01\|Session 01]] |
+| [[1-Session Journals/The Plague Wardens Journal/Session 10\|Session 10]] |
 
 { .block-language-dataview}
 

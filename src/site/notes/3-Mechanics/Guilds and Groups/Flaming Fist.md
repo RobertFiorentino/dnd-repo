@@ -13,7 +13,7 @@
 > 
 { .block-language-dataview}
 > ###### Sessions Appeared
->  - [[1-Session Journals/Session 07\|Session 07]]
+>  - [[1-Session Journals/The Plague Wardens Journal/Session 07\|Session 07]]
 > 
 { .block-language-dataview}
 # Flaming Fist

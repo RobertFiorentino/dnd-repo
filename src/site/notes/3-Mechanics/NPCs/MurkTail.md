@@ -15,10 +15,10 @@
 >> [!note] Column 3
 >> ![FireworksCircus.png](/img/user/z_Assets/FireworksCircus.png)
 
-| Sessions Appeared                                |
-| ------------------------------------------------ |
-| [[1-Session Journals/Session 09\|Session 09]] |
-| [[1-Session Journals/Session 10\|Session 10]] |
+| Sessions Appeared                                                           |
+| --------------------------------------------------------------------------- |
+| [[1-Session Journals/The Plague Wardens Journal/Session 09\|Session 09]] |
+| [[1-Session Journals/The Plague Wardens Journal/Session 10\|Session 10]] |
 
 { .block-language-dataview}
 

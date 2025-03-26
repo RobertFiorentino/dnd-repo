@@ -18,11 +18,11 @@
 #### Description
 The most handsome person we've ever seen. A famous and accomplished performer.
 
-| Sessions Appeared                                |
-| ------------------------------------------------ |
-| [[1-Session Journals/Session 05\|Session 05]] |
-| [[1-Session Journals/Session 06\|Session 06]] |
-| [[1-Session Journals/Session 07\|Session 07]] |
-| [[1-Session Journals/Session 08\|Session 08]] |
+| Sessions Appeared                                                           |
+| --------------------------------------------------------------------------- |
+| [[1-Session Journals/The Plague Wardens Journal/Session 05\|Session 05]] |
+| [[1-Session Journals/The Plague Wardens Journal/Session 06\|Session 06]] |
+| [[1-Session Journals/The Plague Wardens Journal/Session 07\|Session 07]] |
+| [[1-Session Journals/The Plague Wardens Journal/Session 08\|Session 08]] |
 
 { .block-language-dataview}

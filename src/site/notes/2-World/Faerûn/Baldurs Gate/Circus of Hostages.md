@@ -13,9 +13,9 @@
 > 
 { .block-language-dataview}
 > ###### Sessions Appeared
->  - [[1-Session Journals/Session 07\|Session 07]]
-> - [[1-Session Journals/Session 08\|Session 08]]
-> - [[1-Session Journals/Session 09\|Session 09]]
+>  - [[1-Session Journals/The Plague Wardens Journal/Session 07\|Session 07]]
+> - [[1-Session Journals/The Plague Wardens Journal/Session 08\|Session 08]]
+> - [[1-Session Journals/The Plague Wardens Journal/Session 09\|Session 09]]
 > 
 { .block-language-dataview}
 

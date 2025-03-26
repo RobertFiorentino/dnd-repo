@@ -20,11 +20,11 @@
 > 
 { .block-language-dataview}
 > ###### Sessions Appeared
->  - [[1-Session Journals/Session 01\|Session 01]]
-> - [[1-Session Journals/Session 02\|Session 02]]
-> - [[1-Session Journals/Session 03\|Session 03]]
-> - [[1-Session Journals/Session 04\|Session 04]]
-> - [[1-Session Journals/Session 06\|Session 06]]
+>  - [[1-Session Journals/The Plague Wardens Journal/Session 01\|Session 01]]
+> - [[1-Session Journals/The Plague Wardens Journal/Session 02\|Session 02]]
+> - [[1-Session Journals/The Plague Wardens Journal/Session 03\|Session 03]]
+> - [[1-Session Journals/The Plague Wardens Journal/Session 04\|Session 04]]
+> - [[1-Session Journals/The Plague Wardens Journal/Session 06\|Session 06]]
 > 
 { .block-language-dataview}
 # Waterdeep Sewers
