@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/the-dream-team/the-dream-team/","created":"2025-03-14T23:40:36.437-04:00","updated":"2025-03-25T22:44:08.560-04:00"}
+{"dg-publish":true,"permalink":"/1-party/the-dream-team/the-dream-team/","created":"2025-03-14T23:40:36.437-04:00","updated":"2025-03-25T22:52:23.442-04:00"}
 ---
 
 # The Dream Team
@@ -15,7 +15,7 @@
 A party of new adventurers who met at Dragon's Rest.
 
 ### Main Quest
-
+- 
 
 > [!skill]- Completed
 >- Dragons of Stormwreck Isle
@@ -29,8 +29,7 @@ A party of new adventurers who met at Dragon's Rest.
 
 
 #### Side Quests
-- Investigate [[2-World/Faerûn/Waterdeep/Undermountain\|Undermountain]]
-- Explore the planes as described in the [[1-Session Journals/The Plague Wardens Journal/Session 06\|Hag's notebook]]
+- 
 
 #### Character Quests
 - Kanjigar - Create a Corgi Dragon using the [[3-Mechanics/Items/Ritual of Create New Creature\|Ritual of Create New Creature]]

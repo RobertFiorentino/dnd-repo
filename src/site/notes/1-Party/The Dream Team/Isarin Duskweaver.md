@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/the-dream-team/isarin-duskweaver/","tags":["player"],"created":"2025-03-08T15:08:51.252-05:00","updated":"2025-03-25T21:49:35.308-04:00"}
+{"dg-publish":true,"permalink":"/1-party/the-dream-team/isarin-duskweaver/","tags":["player"],"created":"2025-03-08T15:08:51.252-05:00","updated":"2025-03-25T22:50:34.462-04:00"}
 ---
 
 # Isarin Duskweaver
@@ -59,4 +59,5 @@
 
 | Image                            | Char Name         | Player Name    | Class         | Race         | Level         |
 | -------------------------------- | ----------------- | -------------- | ------------- | ------------ | ------------- |
-| ![[Isarin Duskweaver.webp\|300]] | Isarin Duskweaver | Finn | [[3-Mechanics/CLI/classes/wizard-xphb\|Wizard]] | High Elf | 3 |
+| ![Isarin Duskweaver.webp|300](/img/user/z_Assets/Isarin%20Duskweaver.webp) | Isarin Duskweaver | Finn | [[3-Mechanics/CLI/classes/wizard-xphb\|Wizard]] | High Elf | 3 |
+isarin
