@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/the-dream-team/the-dream-team/","created":"2025-03-14T23:40:36.437-04:00","updated":"2025-03-25T22:52:23.442-04:00"}
+{"dg-publish":true,"permalink":"/1-party/the-dream-team/the-dream-team/","created":"2025-03-14T23:40:36.437-04:00","updated":"2025-03-26T21:03:17.038-04:00"}
 ---
 
 # The Dream Team
@@ -17,7 +17,7 @@ A party of new adventurers who met at Dragon's Rest.
 ### Main Quest
 - 
 
-> [!skill]- Completed
+> [!skill]+ Completed
 >- Dragons of Stormwreck Isle
 >	- Clifftop Observatory - Stop Sparkrender's evil ritual
 >	- Curse of the Compass Rose

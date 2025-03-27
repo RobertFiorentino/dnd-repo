@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/the-dream-team-journal/session-03/","tags":["journal"],"created":"2025-03-17T21:23:10.654-04:00","updated":"2025-03-25T22:53:49.787-04:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/the-dream-team-journal/session-03/","tags":["journal"],"created":"2025-03-17T21:23:10.654-04:00","updated":"2025-03-26T21:01:53.229-04:00"}
 ---
 
 >[!infobox]
@@ -25,9 +25,7 @@ Below deck, more zombies awaited in knee-high water that made movement difficult
 The deck below was completely submerged. Loreanna volunteered to swim down and investigate the treasure chest, while the rest of the party showed their typical cowardice. Inside was a strange locket that emanated evil magic, some gems, and [[3-Mechanics/Items/Boots of Elvenkind\|Boots of Elvenkind]]. A journal was included, detailing the captain's witnessing of events. A woman onboard was desperate to reunite with her merchant husband (both from the painting), and as she was dying from the shipwreck used dark magic from the locket to ensure they could be together forever. This inadvertently turned her undead, and created the curse that has been raising the dead for the past 40 years.
 
 
-<div style="width: 330px; height: 400px; overflow: hidden; float: left; margin-right: 15px;">
-  <img src="harpy.webp" style="object-fit: cover; object-position: center; width: 330px; height: 400px;">
-</div>
+![HarpyCloseup.png|left|300](/img/user/z_Assets/HarpyCloseup.png)
 Just then, Isarin's raven started squawking uncontrollably. The monster flying earlier was coming back! The party rushed to the top deck to find a [[3-Mechanics/CLI/bestiary/monstrosity/harpy-xmm\|Harpy]] at the crow's nest, and she brought a harpy friend along with her. Her magical singing started luring the group to climb up the crow's nest and possibly fall to their deaths, but most resisted. After damaging the first harpy through ranged attacks, she flew away leaving only the second one. This harpy successfully enchanted [[1-Party/The Dream Team/Kanjigar The Courageous\|Kanjigar]] and [[1-Party/The Dream Team/Aevarius Starblade\|Aevarius]], who pushed each other out of their way to try to get closer to what they perceived as the most beautiful woman in the world. More attacks from Loreanna and Isarin finally damaged the harpy enough to send her off for good.
 
 When the party returned to [[2-World/Faerûn/Stormwreck Isle/Dragon's Rest\|Dragon's Rest]], Runara confirmed that she knew the merchant from that ship and he died many years ago and was buried at a nearby cemetery. This raised questions about Runara's apparent age, but the party focused on breaking the curse. They traveled to the cemetery and buried the locket in the merchant's grave, which caused a thick fog to envelop them and what sounded like a sigh of relief. When the fog cleared, to the north they saw that the [[2-World/Faerûn/Stormwreck Isle/Compass Rose\|Compass Rose]] was gone.

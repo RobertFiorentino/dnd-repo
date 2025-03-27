@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/the-dream-team-journal/session-01/","tags":["journal"],"created":"2025-03-17T14:02:51.188-04:00","updated":"2025-03-25T22:53:37.280-04:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/the-dream-team-journal/session-01/","tags":["journal"],"created":"2025-03-17T14:02:51.188-04:00","updated":"2025-03-26T21:00:26.062-04:00"}
 ---
 
 >[!infobox]
@@ -19,17 +19,7 @@ A group of adventurers sail to the remote Stormwreck Isle. Not knowing each othe
 
 ![DragonsRestStairs.webp|right|400](/img/user/z_Assets/DragonsRestStairs.webp)Once there, they were bombarded by many curious kobolds asking annoying questions. The leader, [[3-Mechanics/NPCs/Runara\|Runara]] introduced the mountaintop retreat as a cloister dedicated to the dragon god Bahamut. They also met her human assistants, [[3-Mechanics/NPCs/Tarak\|Tarak]] and [[3-Mechanics/NPCs/Varnoth\|Varnoth]]. The adventurers spent time getting to know the retreat and its inhabitants.
 <br>
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <div style="width: 150px; height: 200px; overflow: hidden;">
-    <img src="z_Assets/Tarak.webp" style="object-fit: cover; object-position: center; width: 300px; height: 300px;">
-  </div>
-  <div style="width: 150px; height: 200px; overflow: hidden;">
-    <img src="z_Assets/Runara.webp" style="object-fit: cover; object-position: center; width: 300px; height: 300px;">
-  </div>
-  <div style="width: 150px; height: 200px; overflow: hidden;">
-    <img src="z_Assets/Varnoth.webp" style="object-fit: cover; object-position: center; width: 300px; height: 300px;">
-  </div>
-</div>
+![DragonsRestTrio.png|center|500](/img/user/z_Assets/DragonsRestTrio.png)
 
 ### Locations
 
