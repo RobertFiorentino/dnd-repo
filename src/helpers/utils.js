@@ -1,11 +1,12 @@
 const slugify = require("@sindresorhus/slugify");
 
 function headerToId(heading) {
-    var slugifiedHeader = slugify(heading);
-    if(!slugifiedHeader){
-        return heading;
-    }
-    return slugifiedHeader;
+    const slugifiedHeader = slugify(heading, {
+    lowercase: true,
+    remove: /[*+~.()'"!:@]/g  // This line strips problematic characters
+  });
+
+  return slugifiedHeader || heading;
 }
 
 function namedHeadings(md, state) {
