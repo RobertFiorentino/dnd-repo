@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/the-dream-team-journal/session-05/","tags":["journal"],"created":"2025-03-31T22:05:09.471-04:00","updated":"2025-04-01T13:51:02.899-04:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/the-dream-team-journal/session-05/","tags":["journal"],"created":"2025-03-31T22:05:09.471-04:00","updated":"2025-04-01T13:55:13.368-04:00"}
 ---
 
 >[!infobox]
@@ -25,12 +25,10 @@ When the party came out to calm things down, [[1-Party/The Dream Team/Dandydalf\
 <div style="clear: both;"></div> 
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center; gap: 1em;">
   <div style="display: flex; justify-content: center; gap: 1em;">
-    ![Helms Hold.png|235](/img/user/z_Assets/Helms%20Hold.png)
-    ![Gunther Wuldrogen.png|300](/img/user/z_Assets/Gunther%20Wuldrogen.png)
+![Helms Hold.png|235](/img/user/z_Assets/Helms%20Hold.png) ![Gunther Wuldrogen.png|300](/img/user/z_Assets/Gunther%20Wuldrogen.png)
   </div>
   <div style="display: flex; justify-content: center; gap: 1em;">
-    ![Thordram Steelmantle.png|240](/img/user/z_Assets/Thordram%20Steelmantle.png)
-    ![Larassandra Devin.png|240](/img/user/z_Assets/Larassandra%20Devin.png)
+![Thordram Steelmantle.png|240](/img/user/z_Assets/Thordram%20Steelmantle.png) ![Larassandra Devin.png|240](/img/user/z_Assets/Larassandra%20Devin.png)
   </div>
 </div>
 
