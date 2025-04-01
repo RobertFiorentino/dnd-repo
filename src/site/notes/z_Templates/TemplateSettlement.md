@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-templates/template-settlement/","tags":["Category/Settlement"],"created":"2025-02-19T20:56:05.000-05:00","updated":"2025-02-25T21:01:50.621-05:00"}
+{"dg-publish":true,"permalink":"/z-templates/template-settlement/","tags":["Category/Settlement"],"created":"2025-02-19T20:56:05.000-05:00","updated":"2025-03-30T00:00:52.971-04:00"}
 ---
 
 
@@ -50,9 +50,6 @@ _%>
 >  
 { .block-language-dataview}
 
-
-
-# TemplateSettlement
 ## Overview
 Placeholder
 

@@ -1,10 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/the-dream-team/kanjigar-the-courageous/","tags":["player"],"created":"2025-03-16T19:42:29.974-04:00","updated":"2025-03-26T21:14:40.468-04:00"}
+{"dg-publish":true,"permalink":"/1-party/the-dream-team/kanjigar-the-courageous/","tags":["player"],"created":"2025-03-16T19:42:29.974-04:00","updated":"2025-03-29T17:55:57.087-04:00"}
 ---
 
+>[!statblock]+ Stats
+| Image              | Char Name         | Player Name    | Class         | Race         | Level         |
+| ------------------ | ----------------- | -------------- | ------------- | ------------ | ------------- |
+| ![Kanjigar.webp](/img/user/z_Assets/Kanjigar.webp) | Kanjigar The Courageous | Ben | [[3-Mechanics/CLI/classes/cleric-xphb\|Cleric]] | Dwarf | 3 |
 
-# Kanjigar The Courageous
-
+##### Kanjigar
 > [!hint | clean no-i]+ Spells
 >> [!column| 3 clean no-t]
 >>> [!hint | bg-c-brown]+ Cantrips
@@ -23,7 +26,3 @@
 >>> `INPUT[slider(minValue(0), maxValue(2), addLabels):spells.slots2]`
 >>> - [ ] [[3-Mechanics/CLI/spells/hold-person-xphb\|Hold Person]]
 >>> - [ ] [[3-Mechanics/CLI/spells/spiritual-weapon-xphb\|Spiritual Weapon]]
-
-| Image              | Char Name         | Player Name    | Class         | Race         | Level         |
-| ------------------ | ----------------- | -------------- | ------------- | ------------ | ------------- |
-| ![Kanjigar.webp](/img/user/z_Assets/Kanjigar.webp) | Kanjigar The Courageous | Ben | [[3-Mechanics/CLI/classes/cleric-xphb\|Cleric]] | Dwarf | 3 |

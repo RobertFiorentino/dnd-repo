@@ -17,6 +17,7 @@
 > - [[1-Session Journals/The Dream Team Journal/Session 02\|Session 02]]
 > - [[1-Session Journals/The Dream Team Journal/Session 03\|Session 03]]
 > - [[1-Session Journals/The Dream Team Journal/Session 04\|Session 04]]
+> - [[1-Session Journals/The Dream Team Journal/Session 05\|Session 05]]
 > 
 { .block-language-dataview}
 

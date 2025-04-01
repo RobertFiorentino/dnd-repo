@@ -32,8 +32,8 @@
 > |---|---|
 >  | Group                                                                             | Leader |
 > | --------------------------------------------------------------------------------- | ------ |
-> | [[3-Mechanics/Guilds and Groups/Plague Rats\|Plague Rats]]                     | \-     |
 > | [[3-Mechanics/Guilds and Groups/Council on the Plague\|Council on the Plague]] | \-     |
+> | [[3-Mechanics/Guilds and Groups/Plague Rats\|Plague Rats]]                     | \-     |
 > 
 { .block-language-dataview}
 > ###### Sessions Appeared

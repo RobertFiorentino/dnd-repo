@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/the-dream-team/aevarius-starblade/","tags":["player"],"created":"2025-03-16T19:41:31.367-04:00","updated":"2025-03-25T22:56:24.778-04:00"}
+{"dg-publish":true,"permalink":"/1-party/the-dream-team/aevarius-starblade/","tags":["player"],"created":"2025-03-16T19:41:31.367-04:00","updated":"2025-03-26T23:21:10.560-04:00"}
 ---
 
-
-# Aevarius Starblade
 
 | Image                        | Char Name         | Player Name    | Class         | Race         | Level         |
 | ---------------------------- | ----------------- | -------------- | ------------- | ------------ | ------------- |
