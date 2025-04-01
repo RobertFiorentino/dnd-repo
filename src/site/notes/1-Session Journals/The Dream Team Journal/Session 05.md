@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/the-dream-team-journal/session-05/","tags":["journal"],"created":"2025-03-31T22:05:09.471-04:00","updated":"2025-04-01T13:39:14.102-04:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/the-dream-team-journal/session-05/","tags":["journal"],"created":"2025-03-31T22:05:09.471-04:00","updated":"2025-04-01T13:45:01.523-04:00"}
 ---
 
 >[!infobox]
@@ -25,7 +25,7 @@ When the party came out to calm things down, [[1-Party/The Dream Team/Dandydalf\
 <div style="clear: both;"></div> 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center;">
 
-![Helms Hold.png|235](/img/user/z_Assets/Helms%20Hold.png) ![Gunther Wuldrogen.png|300](/img/user/z_Assets/Gunther%20Wuldrogen.png) <div style="clear: both;"></div>![Thordram Steelmantle.png|260](/img/user/z_Assets/Thordram%20Steelmantle.png) ![Larassandra Devin.png|260](/img/user/z_Assets/Larassandra%20Devin.png)<div style="clear: both;"></div>
+![Helms Hold.png|235](/img/user/z_Assets/Helms%20Hold.png) ![Gunther Wuldrogen.png|300](/img/user/z_Assets/Gunther%20Wuldrogen.png) <div style="clear: both;"></div>![Thordram Steelmantle.png|240](/img/user/z_Assets/Thordram%20Steelmantle.png) ![Larassandra Devin.png|240](/img/user/z_Assets/Larassandra%20Devin.png)<div style="clear: both;"></div>
 </div>
 
 In the chapel they met the Chief Speaker [[3-Mechanics/NPCs/Gunther Wuldrogen\|Gunther Wuldrogen]], as well as council members [[3-Mechanics/NPCs/Thordram Steelmantle\|Thordram Steelmantle]] and [[3-Mechanics/NPCs/Larassandra De'vin\|Larassandra De'vin]]. Gunther organized the investigation into the goblin presence in Neverwinter Wood, while Thordram and Larassandra opposed the investigation, not believing the rumors. Gunther thought it prudent to at least look into the possibility, and offered the adventurers 50 gold apiece if they could find evidence of such an organized army forming.
@@ -34,7 +34,7 @@ In the chapel they met the Chief Speaker [[3-Mechanics/NPCs/Gunther Wuldrogen\|G
 
 ![Thertume bear pins Kanjigar.png|left|500](/img/user/z_Assets/Thertume%20bear%20pins%20Kanjigar.png)As the party squabbled about the best path forward, a giant brown bear sprung out of the trees and pounced on [[1-Party/The Dream Team/Kanjigar The Courageous\|Kanjigar]], claws raised ready to take his head off! A tense standoff took place, which was broken by everyone's surprise when the bear started talking. He accused the group of being a part of the goblin army that has been destroying large swaths of the forest, uprooting trees to build siege weapons and burning other parts down.
 
-![Thertume.png|right|300](/img/user/z_Assets/Thertume.png)The group convinced the bear that they were the good guys, and the bear shifted its shape to reveal that it was actually a dragonborn druid named [[1-Party/The Dream Team/Thertume Moonbeam\|Thertume Moonbeam]]. This was the same dragonborn that Runara had mentioned earlier. Kanjigar asked for his participation in the [[3-Mechanics/Items/Ritual of Create New Creature\|Ritual of Create New Creature]], and Thertume agreed in exchange for the group helping rid the forest of the goblin forces.
+![Thertume.png|right|250](/img/user/z_Assets/Thertume.png)The group convinced the bear that they were the good guys, and the bear shifted its shape to reveal that it was actually a dragonborn druid named [[1-Party/The Dream Team/Thertume Moonbeam\|Thertume Moonbeam]]. This was the same dragonborn that Runara had mentioned earlier. Kanjigar asked for his participation in the [[3-Mechanics/Items/Ritual of Create New Creature\|Ritual of Create New Creature]], and Thertume agreed in exchange for the group helping rid the forest of the goblin forces.
 
 ![BlackBettyPortrait.png|left|500](/img/user/z_Assets/BlackBettyPortrait.png)With Goliath and Thertume leading the way through the woods, the party approached a clearing surrounded by high hilltops. To their surprise, a host of goblins, bugbears, and [[3-Mechanics/NPCs/Bethzarra\|Black Betty]] herself sprung out from hiding, completely surrounding the group. Betty gave orders to kill the party and make it look like an accident, while casually commenting that [[3-Mechanics/NPCs/Larassandra De'vin\|Larassandra]]'s information was good and that they would keep her on the payroll. They were set up!
 
