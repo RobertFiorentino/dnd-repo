@@ -103,7 +103,10 @@ module.exports = function (eleventyConfig) {
     linkify: true,
   })
     .use(require("markdown-it-anchor"), {
-      slugify: headerToId,
+      slugify: s => slugify(s, {
+        lowercase: true,
+        remove: /[*+~.()'"!:@]/g
+      })
     })
     .use(require("markdown-it-mark"))
     .use(require("markdown-it-footnote"))
