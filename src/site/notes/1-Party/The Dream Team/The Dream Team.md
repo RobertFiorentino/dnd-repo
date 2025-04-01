@@ -3,13 +3,13 @@
 ---
 
 
-| Session                                                                 | Summary                                                                   |
-| ----------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [[1-Session Journals/The Dream Team Journal/Session 05\|Session 05]] | Traveled to Helm's Hold and investigated a goblin army led by Black Betty |
-| [[1-Session Journals/The Dream Team Journal/Session 04\|Session 04]] | Stopped Sparkrender's ritual at the Clifftop Observatory                  |
-| [[1-Session Journals/The Dream Team Journal/Session 03\|Session 03]] | Investigated the Compass Rose shipwreck and ended the undead curse        |
-| [[1-Session Journals/The Dream Team Journal/Session 02\|Session 02]] | Helped the Myconids at the Seagrow Cave with a fungal plague              |
-| [[1-Session Journals/The Dream Team Journal/Session 01\|Session 01]] | Attacked by zombies and met with the residents of Dragons Rest            |
+| Session                                                                 | Summary                                                                      |
+| ----------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| [[1-Session Journals/The Dream Team Journal/Session 05\|Session 05]] | Traveled to Helm's Hold and got ambushed by a goblin army led by Black Betty |
+| [[1-Session Journals/The Dream Team Journal/Session 04\|Session 04]] | Stopped Sparkrender's ritual at the Clifftop Observatory                     |
+| [[1-Session Journals/The Dream Team Journal/Session 03\|Session 03]] | Investigated the Compass Rose shipwreck and ended the undead curse           |
+| [[1-Session Journals/The Dream Team Journal/Session 02\|Session 02]] | Helped the Myconids at the Seagrow Cave with a fungal plague                 |
+| [[1-Session Journals/The Dream Team Journal/Session 01\|Session 01]] | Attacked by zombies and met with the residents of Dragons Rest               |
 
 { .block-language-dataview}
 
