@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/the-dream-team-journal/session-05/","tags":["journal"],"created":"2025-03-31T22:05:09.471-04:00","updated":"2025-04-01T14:10:59.505-04:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/the-dream-team-journal/session-05/","tags":["journal"],"created":"2025-03-31T22:05:09.471-04:00","updated":"2025-04-01T14:14:28.280-04:00"}
 ---
 
 >[!infobox]
@@ -44,7 +44,7 @@ The fight ended with Goliath sending an arrow through the last [[3-Mechanics/CLI
 
 ![Goblin Camp Scroll.png|center|400](/img/user/z_Assets/Goblin%20Camp%20Scroll.png)
 
-[[1-Party/The Dream Team/The Dream Team\|Back to all Sessions]]
+[[1-Party/The Dream Team/The Dream Team\|< Back to all Sessions]]
 
 ### Locations
 
