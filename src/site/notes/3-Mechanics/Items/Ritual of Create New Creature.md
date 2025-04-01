@@ -4,6 +4,7 @@
 
 | Sessions Appeared                                                       |
 | ----------------------------------------------------------------------- |
+| [[1-Session Journals/The Dream Team Journal/Session 04\|Session 04]] |
 | [[1-Session Journals/The Dream Team Journal/Session 05\|Session 05]] |
 
 { .block-language-dataview}

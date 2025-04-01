@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/the-dream-team-journal/session-04/","tags":["journal"],"created":"2025-03-17T21:23:15.323-04:00","updated":"2025-03-25T22:53:45.537-04:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/the-dream-team-journal/session-04/","tags":["journal"],"created":"2025-03-17T21:23:15.323-04:00","updated":"2025-04-01T13:30:39.862-04:00"}
 ---
 
 >[!infobox]
@@ -48,7 +48,7 @@ In their haste, Aevarius and Kanjigar forgot about a book they saw in the Dragon
 
 As the rest of the party laid on attacks, Sparkrender was severely weakened. The time had come to start the ritual, as a comet hung low in the sky. The blue dragon flew to the central sculpture of planets and stars and began chanting. The crude dragon statues surrounding began to glow and infuse him with powerful energy.
 
-His wounds started to close up, as his body and muscles began to grow. Soon he would be unstoppable, the party feared. Loreanna had the idea to start firing arrows at the dragon statues, which successfully cut off energy to Sparkrender. Each statue toppled diminished his power. With the ritual interrupted, the party teamed up to finally slaw the evil blue dragon.
+His wounds started to close up, as his body and muscles began to grow. Soon he would be unstoppable, the party feared. Loreanna had the idea to start firing arrows at the dragon statues, which successfully cut off energy to Sparkrender. Each statue toppled diminished his power. With the ritual interrupted, the party teamed up to finally slew the evil blue dragon. While searching the dragon's treasure pile, [[1-Party/The Dream Team/Kanjigar The Courageous\|Kanjigar]] was delighted to find a scroll to cast [[3-Mechanics/Items/Ritual of Create New Creature\|Ritual of Create New Creature]], just what he needed to make his dreams of a dragon-corgi hybrid come true!
 
 The kobolds entered the rotunda and seemed confused and adrift. Not knowing where they would go now, the group invited them to return back to Dragon's Rest. There Myla was overjoyed to be reunited with her brothers, after a little chastising for leaving her in the first place. Runara was sad to hear that Sparkrender needed to be killed, but she was happy the party stopped the evil ritual from taking place.
 

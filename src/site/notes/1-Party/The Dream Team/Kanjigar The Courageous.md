@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/the-dream-team/kanjigar-the-courageous/","tags":["player"],"created":"2025-03-16T19:42:29.974-04:00","updated":"2025-03-29T17:55:57.087-04:00"}
+{"dg-publish":true,"permalink":"/1-party/the-dream-team/kanjigar-the-courageous/","tags":["player"],"created":"2025-03-16T19:42:29.974-04:00","updated":"2025-04-01T13:26:25.186-04:00"}
 ---
 
->[!statblock]+ Stats
+
 | Image              | Char Name         | Player Name    | Class         | Race         | Level         |
 | ------------------ | ----------------- | -------------- | ------------- | ------------ | ------------- |
 | ![Kanjigar.webp](/img/user/z_Assets/Kanjigar.webp) | Kanjigar The Courageous | Ben | [[3-Mechanics/CLI/classes/cleric-xphb\|Cleric]] | Dwarf | 3 |

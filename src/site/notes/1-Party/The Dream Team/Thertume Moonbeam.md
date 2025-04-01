@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/the-dream-team/thertume-moonbeam/","tags":["player"],"created":"2025-03-29T14:04:49.681-04:00","updated":"2025-04-01T13:07:03.315-04:00"}
+{"dg-publish":true,"permalink":"/1-party/the-dream-team/thertume-moonbeam/","tags":["player"],"created":"2025-03-29T14:04:49.681-04:00","updated":"2025-04-01T13:26:45.424-04:00"}
 ---
 
-> [!statblock]+ Stats
-| Image                      | Char Name         | Player Name    | Class         | Race         | Level         |
-| -------------------------- | ----------------- | -------------- | ------------- | ------------ | ------------- |
+
+| Image             | Char Name         | Player Name    | Class         | Race         | Level         |
+| ----------------- | ----------------- | -------------- | ------------- | ------------ | ------------- |
 | ![Thertume.png](/img/user/z_Assets/Thertume.png) | Thertume Moonbeam | Westley | [[3-Mechanics/CLI/classes/druid-xphb\|Druid]] | Dragonborn | 3 |
-|                            |                   |                |               |              |               |
+|                   |                   |                |               |              |               |
 
 ##### Thertume
 > [!hint | clean no-i]+ Spells
