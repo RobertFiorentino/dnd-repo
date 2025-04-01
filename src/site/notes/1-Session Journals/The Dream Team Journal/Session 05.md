@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/the-dream-team-journal/session-05/","tags":["journal"],"created":"2025-03-31T22:05:09.471-04:00","updated":"2025-04-01T14:07:49.022-04:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/the-dream-team-journal/session-05/","tags":["journal"],"created":"2025-03-31T22:05:09.471-04:00","updated":"2025-04-01T14:10:59.505-04:00"}
 ---
 
 >[!infobox]
@@ -43,6 +43,8 @@ As Betty left, her squad attacked. Although surrounded, surprised,  half compose
 The fight ended with Goliath sending an arrow through the last [[3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm\|bugbear's]] back, causing him to cough up blood all over Dandydalf, Mylo, and Kanjigar. The last goblin archer realized the fight was over and dashed into the woods, eager to let Black Betty know about the turn of events. When they searched one of the fallen bugbears, they found an incriminating note from [[3-Mechanics/NPCs/Larassandra De'vin\|Larassandra]]:
 
 ![Goblin Camp Scroll.png|center|400](/img/user/z_Assets/Goblin%20Camp%20Scroll.png)
+
+[[1-Party/The Dream Team/The Dream Team\|Back to all Sessions]]
 
 ### Locations
 
