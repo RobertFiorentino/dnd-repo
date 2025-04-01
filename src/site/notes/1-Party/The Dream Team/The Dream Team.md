@@ -24,7 +24,7 @@
 | [[1-Party/The Dream Team/Mylo\|Mylo]]                                       | Calvin  | <ul><li>[[3-Mechanics/CLI/classes/rogue-xphb.md\\|Rogue]]</li></ul>     | <ul><li>Halfling</li></ul>   | 2     |
 | [[1-Party/The Dream Team/Goliath\|Goliath]]                                 | Paul    | <ul><li>[[3-Mechanics/CLI/classes/rogue-xphb.md\\|Rogue]]</li></ul>     | <ul><li>Half-Elf</li></ul>   | 2     |
 | [[1-Party/The Dream Team/Dandydalf\|Dandydalf]]                             | Dan     | <ul><li>[[3-Mechanics/CLI/classes/wizard-xphb.md\\|Wizard]]</li></ul>   | <ul><li>High Elf</li></ul>   | 2     |
-| [[1-Party/The Dream Team/Onion\|Onion]]                                     | Alex    | <ul><li>[[3-Mechanics/CLI/classes/wizard-xphb.md\\|Wizard]]</li></ul>   | <ul><li>Human</li></ul>      | 2     |
+| [[1-Party/The Dream Team/Onion\|Onion]]                                     | Alex    | <ul><li>[[3-Mechanics/CLI/classes/bard-xphb.md\\|Bard]]</li></ul>       | <ul><li>Human</li></ul>      | 2     |
 
 { .block-language-dataview}
 
