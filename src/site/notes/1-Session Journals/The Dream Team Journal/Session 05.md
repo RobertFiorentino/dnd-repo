@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/the-dream-team-journal/session-05/","tags":["journal"],"created":"2025-03-31T22:05:09.471-04:00","updated":"2025-04-01T13:45:01.523-04:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/the-dream-team-journal/session-05/","tags":["journal"],"created":"2025-03-31T22:05:09.471-04:00","updated":"2025-04-01T13:51:02.899-04:00"}
 ---
 
 >[!infobox]
@@ -23,9 +23,15 @@ When the party came out to calm things down, [[1-Party/The Dream Team/Dandydalf\
 ![Kanjigar chasing chickens.png|right|400](/img/user/z_Assets/Kanjigar%20chasing%20chickens.png) The group left Neverwinter and headed down the High Road to the walled city of [[2-World/Helms Hold\|Helms Hold]]. While walking through the marketplace, [[1-Party/The Dream Team/Kanjigar The Courageous\|Kanjigar]] was overtaken by a desire to steal a chicken. Despite a round woman running out and beating him with a rolling pin, Kanjigar couldn't resist trying to nab a chicken again. [[1-Party/The Dream Team/Mylo\|Mylo]] soon joined in the frenzy. Eventually the group decided to split up, with [[1-Party/The Dream Team/Dandydalf\|Dandydalf]], [[1-Party/The Dream Team/Isarin Duskweaver\|Isarin]], [[1-Party/The Dream Team/Goliath\|Goliath]], and [[1-Party/The Dream Team/Mylo\|Mylo]] heading to the chapel and [[1-Party/The Dream Team/Kanjigar The Courageous\|Kanjigar]], [[1-Party/The Dream Team/Loreanna Ashara\|Loreanna]], and [[1-Party/The Dream Team/Onion\|Onion]] going to a local tavern to investigate rumors of a dog-man.
 
 <div style="clear: both;"></div> 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center;">
-
-![Helms Hold.png|235](/img/user/z_Assets/Helms%20Hold.png) ![Gunther Wuldrogen.png|300](/img/user/z_Assets/Gunther%20Wuldrogen.png) <div style="clear: both;"></div>![Thordram Steelmantle.png|240](/img/user/z_Assets/Thordram%20Steelmantle.png) ![Larassandra Devin.png|240](/img/user/z_Assets/Larassandra%20Devin.png)<div style="clear: both;"></div>
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center; gap: 1em;">
+  <div style="display: flex; justify-content: center; gap: 1em;">
+    ![Helms Hold.png|235](/img/user/z_Assets/Helms%20Hold.png)
+    ![Gunther Wuldrogen.png|300](/img/user/z_Assets/Gunther%20Wuldrogen.png)
+  </div>
+  <div style="display: flex; justify-content: center; gap: 1em;">
+    ![Thordram Steelmantle.png|240](/img/user/z_Assets/Thordram%20Steelmantle.png)
+    ![Larassandra Devin.png|240](/img/user/z_Assets/Larassandra%20Devin.png)
+  </div>
 </div>
 
 In the chapel they met the Chief Speaker [[3-Mechanics/NPCs/Gunther Wuldrogen\|Gunther Wuldrogen]], as well as council members [[3-Mechanics/NPCs/Thordram Steelmantle\|Thordram Steelmantle]] and [[3-Mechanics/NPCs/Larassandra De'vin\|Larassandra De'vin]]. Gunther organized the investigation into the goblin presence in Neverwinter Wood, while Thordram and Larassandra opposed the investigation, not believing the rumors. Gunther thought it prudent to at least look into the possibility, and offered the adventurers 50 gold apiece if they could find evidence of such an organized army forming.
