@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/druid-xphb/","tags":["ttrpg-cli/class/druid","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-03-01T17:25:17.973-05:00","updated":"2025-04-01T12:21:34.703-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/druid-xphb/","tags":["ttrpg-cli/class/druid","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-03-01T17:25:17.973-05:00","updated":"2025-04-01T13:20:48.567-04:00"}
 ---
 
 # Druid
@@ -31,7 +31,7 @@
 > <tr class="class-progression"><td class="level">17th</td><td class="pb">+6</td><td class="feature"></td><td class="value">4</td><td class="value">4</td><td class="value">19</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">1</td><td class="spellSlot">1</td><td class="spellSlot">1</td><td class="spellSlot">1</td></tr>
 > <tr class="class-progression"><td class="level">18th</td><td class="pb">+6</td><td class="feature"><a href='#Beast%20Spells%20(Level%2018)%27>Beast Spells</a></td><td class="value">4</td><td class="value">4</td><td class="value">20</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">1</td><td class="spellSlot">1</td><td class="spellSlot">1</td><td class="spellSlot">1</td></tr>
 > <tr class="class-progression"><td class="level">19th</td><td class="pb">+6</td><td class="feature"><a href='#Epic%20Boon%20(Level%2019)%27>Epic Boon</a></td><td class="value">4</td><td class="value">4</td><td class="value">21</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">1</td><td class="spellSlot">1</td><td class="spellSlot">1</td></tr>
-> <tr class="class-progression"><td class="level">20th</td><td class="pb">+6</td><td class="feature"><a href='#Archdruid%20(Level%2020)%27>Archdruid</a></td><td class="value">4</td><td class="value">4</td><td class="value">22</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">2</td><td class="spellSlot">1</td><td class="spellSlot">1</td></tr>
+> <tr class="class-progression"><td class="level">20th</td><td class="pb">+6</td><td class="feature"><a href="#fhdruid%20(Level%2020)%27">Archdruid</a></td><td class="value">4</td><td class="value">4</td><td class="value">22</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">2</td><td class="spellSlot">1</td><td class="spellSlot">1</td></tr>
 > </tbody></table>{ #class-progession}
 
 
