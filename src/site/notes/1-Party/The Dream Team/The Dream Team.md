@@ -1,6 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/the-dream-team/the-dream-team/","created":"2025-03-14T23:40:36.437-04:00","updated":"2025-03-31T22:30:16.719-04:00"}
+{"dg-publish":true,"permalink":"/1-party/the-dream-team/the-dream-team/","created":"2025-03-14T23:40:36.437-04:00","updated":"2025-04-01T12:29:58.841-04:00"}
 ---
+
+
+| Session                                                                 | Summary                                                                   |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [[1-Session Journals/The Dream Team Journal/Session 05\|Session 05]] | Traveled to Helm's Hold and investigated a goblin army led by Black Betty |
+| [[1-Session Journals/The Dream Team Journal/Session 04\|Session 04]] | Stopped Sparkrender's ritual at the Clifftop Observatory                  |
+| [[1-Session Journals/The Dream Team Journal/Session 03\|Session 03]] | Investigated the Compass Rose shipwreck and ended the undead curse        |
+| [[1-Session Journals/The Dream Team Journal/Session 02\|Session 02]] | Helped the Myconids at the Seagrow Cave with a fungal plague              |
+| [[1-Session Journals/The Dream Team Journal/Session 01\|Session 01]] | Attacked by zombies and met with the residents of Dragons Rest            |
+
+{ .block-language-dataview}
 
 # The Dream Team
 | Character Name                                                                 | Player  | Class                                                                   | Race                         | level |
@@ -40,13 +51,3 @@ A party of new adventurers who met at [[2-World/Faerûn/Stormwreck Isle/Dragon's
 - [[1-Party/The Dream Team/Kanjigar The Courageous\|Kanjigar]] - Create a Corgi Dragon using the [[3-Mechanics/Items/Ritual of Create New Creature\|Ritual of Create New Creature]]
 - [[1-Party/The Dream Team/Isarin Duskweaver\|Isarin]] - Find out more about [[1-Party/The Dream Team/Goliath\|Goliath]]'s betrayal
 - [[1-Party/The Dream Team/Thertume Moonbeam\|Thertume]] - Eliminate the goblin army harming Neverwinter Wood
-
-| Session                                                                 | Summary                                                                   |
-| ----------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [[1-Session Journals/The Dream Team Journal/Session 05\|Session 05]] | Traveled to Helm's Hold and investigated a goblin army led by Black Betty |
-| [[1-Session Journals/The Dream Team Journal/Session 04\|Session 04]] | Stopped Sparkrender's ritual at the Clifftop Observatory                  |
-| [[1-Session Journals/The Dream Team Journal/Session 03\|Session 03]] | Investigated the Compass Rose shipwreck and ended the undead curse        |
-| [[1-Session Journals/The Dream Team Journal/Session 02\|Session 02]] | Helped the Myconids at the Seagrow Cave with a fungal plague              |
-| [[1-Session Journals/The Dream Team Journal/Session 01\|Session 01]] | Attacked by zombies and met with the residents of Dragons Rest            |
-
-{ .block-language-dataview}

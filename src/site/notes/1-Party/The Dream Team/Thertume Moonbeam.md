@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/the-dream-team/thertume-moonbeam/","tags":["player"],"created":"2025-03-29T14:04:49.681-04:00","updated":"2025-04-01T12:17:03.758-04:00"}
+{"dg-publish":true,"permalink":"/1-party/the-dream-team/thertume-moonbeam/","tags":["player"],"created":"2025-03-29T14:04:49.681-04:00","updated":"2025-04-01T13:07:03.315-04:00"}
 ---
 
 > [!statblock]+ Stats
@@ -37,3 +37,6 @@
 	- CR 1 animals: [[3-Mechanics/CLI/bestiary/beast/brown-bear-xmm\|Brown Bear]], [[3-Mechanics/CLI/bestiary/beast/lion-xmm\|Lion]], [[3-Mechanics/CLI/bestiary/beast/wolf-xmm\|Wolf]], [[3-Mechanics/CLI/bestiary/beast/spider-xmm\|Spider]]
 	- AC is 13+ WIS (so 17) or animal's if higher
 	- Your game statistics are replaced by the Beast's stat block, but you retain your creature type; Hit Points; Hit Point Dice; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your skill and saving throw proficiencies and use your Proficiency Bonus for them, in addition to gaining the proficiencies of the creature. If a skill or saving throw modifier in the Beast's stat block is higher than yours, use the one in the stat block.
+
+#### Description
+Thertume left his quiet life in the [[2-World/Neverwinter Wood\|Neverwinter Wood]] to help protect against goblins and other invaders.
