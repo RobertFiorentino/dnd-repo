@@ -7,6 +7,7 @@
 | Sessions Appeared                                                           |
 | --------------------------------------------------------------------------- |
 | [[1-Session Journals/The Plague Wardens Journal/Session 10\|Session 10]] |
+| [[1-Session Journals/The Plague Wardens Journal/Session 11\|Session 11]] |
 
 { .block-language-dataview}
 Talona, one of the Dark Gods, is the goddess of poison and disease.  

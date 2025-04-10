@@ -18,6 +18,7 @@
 > - [[1-Session Journals/The Plague Wardens Journal/Session 08\|Session 08]]
 > - [[1-Session Journals/The Plague Wardens Journal/Session 09\|Session 09]]
 > - [[1-Session Journals/The Plague Wardens Journal/Session 10\|Session 10]]
+> - [[1-Session Journals/The Plague Wardens Journal/Session 11\|Session 11]]
 > 
 { .block-language-dataview}
 # Plague Rats

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/the-plague-wardens/cinder-belabranta/","tags":["player"],"created":"2025-02-22T14:10:57.263-05:00","updated":"2025-03-27T23:54:58.069-04:00"}
+{"dg-publish":true,"permalink":"/1-party/the-plague-wardens/cinder-belabranta/","tags":["player"],"created":"2025-02-22T14:10:57.263-05:00","updated":"2025-04-01T17:45:02.826-04:00"}
 ---
 
 # Cinder Belabranta
@@ -83,30 +83,3 @@ Received pronunciation accent, slightly breathy. Shoulder length wavy platinum h
 >>> - [x]  [[3-Mechanics/CLI/spells/darkness-xphb\|Darkness]]
 >>> - [x]  [[3-Mechanics/CLI/spells/misty-step-xphb\|Misty Step]]
 >>
->>> [!hint | bg-c-yellow]+ 3<sup>rd</sup> level spells (`VIEW[{spells.slots3}]`/0) 
->>> `INPUT[slider(minValue(0), maxValue(1), addLabels):spells.slots3]`
->>> - [ ] 
->>
->>> [!hint | bg-c-green]+ 4<sup>th</sup> level spells (`VIEW[{spells.slots4}]`/0) 
->>> `INPUT[slider(minValue(0), maxValue(1), addLabels):spells.slots4]`
->>> - [ ] 
->>
->>> [!hint | bg-c-pink]+ 5<sup>th</sup> level spells (`VIEW[{spells.slots5}]`/0) 
->>> `INPUT[slider(minValue(0), maxValue(1), addLabels):spells.slots5]`
->>> - [ ] 
->>
->>> [!hint | bg-c-orange]+ 6<sup>th</sup> level spells (`VIEW[{spells.slots6}]`/0) 
->>> `INPUT[slider(minValue(0), maxValue(1), addLabels):spells.slots6]`
->>> - [ ] 
->>
->>> [!hint | bg-c-gray]+ 7<sup>th</sup> level spells (`VIEW[{spells.slots7}]`/0) 
->>> `INPUT[slider(minValue(0), maxValue(1), addLabels):spells.slots7]`
->>> - [ ] 
->>
->>> [!hint | bg-c-brown]+ 8<sup>th</sup> level spells (`VIEW[{spells.slots8}]`/0) 
->>> `INPUT[slider(minValue(0), maxValue(1), addLabels):spells.slots8]`
->>> - [ ] 
->>
->>> [!hint | bg-c-purple]+ 9<sup>th</sup> level spells (`VIEW[{spells.slots9}]`/0) 
->>> `INPUT[slider(minValue(0), maxValue(1), addLabels):spells.slots9]`
->>> - [ ] 

@@ -30,7 +30,8 @@ A party of adventurers tasked with uncovering the source of the [[2-World/Faerû
 
 | Session                                                                     | Summary                                                                                       |
 | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [[1-Session Journals/The Plague Wardens Journal/Session 11\|Session 11]] | \-                                                                                            |
+| [[1-Session Journals/The Plague Wardens Journal/Session 12\|Session 12]] | \-                                                                                            |
+| [[1-Session Journals/The Plague Wardens Journal/Session 11\|Session 11]] | Investigated the butler and found the real Von Cheddarsburgh imprisoned                       |
 | [[1-Session Journals/The Plague Wardens Journal/Session 10\|Session 10]] | Titus was coronated first king of Waterdeep while the party is accused of starting the plague |
 | [[1-Session Journals/The Plague Wardens Journal/Session 09\|Session 09]] | The party wiped out the remainder of the circus enemies and captures the wererat              |
 | [[1-Session Journals/The Plague Wardens Journal/Session 08\|Session 08]] | Despite being summoned back to Waterdeep, the party went back to kill off the circus          |

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/marco-and-victoria-von-cheddarsburgh/","tags":["NPC"],"created":"2025-03-27T20:47:58.263-04:00","updated":"2025-04-01T12:21:34.712-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/gerad-the-butler/","tags":["NPC"],"created":"2025-04-10T11:56:32.121-04:00","updated":"2025-04-10T11:57:29.245-04:00"}
 ---
 
 
 > [!infobox]
-> ##### Marco & Victoria Von Cheddarsburgh
+> ##### Gerad The Butler
 >  ![ImagePlaceholder.png|cover hsmall](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
 > ##### Details
 > | | |
@@ -16,7 +16,6 @@
 > | Groups | `=this.AssociatedGroup` |
 > ###### Sessions Appeared
 >  - [[1-Session Journals/The Plague Wardens Journal/Session 11\|Session 11]]
-> - [[1-Session Journals/The Plague Wardens Journal/Session 12\|Session 12]]
 > 
 { .block-language-dataview}
 
@@ -27,7 +26,7 @@
 
 
 #### Description
-Nobles of the [[2-World/Faerûn/Waterdeep/Von Cheddarsburgh Estate\|Von Cheddarsburgh Estate]].
+A butler at the [[2-World/Faerûn/Waterdeep/Von Cheddarsburgh Estate\|Von Cheddarsburgh Estate]] who was installed by [[3-Mechanics/NPCs/Titus Belabranta\|Titus Belabranta]] and imprisoned the real [[3-Mechanics/NPCs/Marco & Victoria Von Cheddarsburgh\|Marco & Victoria Von Cheddarsburgh]].
 %%
 > [!NOTE]- Relationships
 > Parents:

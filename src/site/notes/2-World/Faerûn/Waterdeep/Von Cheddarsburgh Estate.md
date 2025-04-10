@@ -6,6 +6,7 @@
 | --------------------------------------------------------------------------- |
 | [[1-Session Journals/The Plague Wardens Journal/Session 10\|Session 10]] |
 | [[1-Session Journals/The Plague Wardens Journal/Session 11\|Session 11]] |
+| [[1-Session Journals/The Plague Wardens Journal/Session 12\|Session 12]] |
 
 { .block-language-dataview}
 

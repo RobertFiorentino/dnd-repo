@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/the-dream-team/the-dream-team/","created":"2025-03-14T23:40:36.437-04:00","updated":"2025-04-01T12:29:58.841-04:00"}
+{"dg-publish":true,"permalink":"/1-party/the-dream-team/the-dream-team/","created":"2025-03-14T23:40:36.437-04:00","updated":"2025-04-07T13:31:18.156-04:00"}
 ---
 
 
@@ -49,5 +49,7 @@ A party of new adventurers who met at [[2-World/Faerûn/Stormwreck Isle/Dragon's
 
 #### Character Quests
 - [[1-Party/The Dream Team/Kanjigar The Courageous\|Kanjigar]] - Create a Corgi Dragon using the [[3-Mechanics/Items/Ritual of Create New Creature\|Ritual of Create New Creature]]
+	- Found a [[3-Mechanics/CLI/races/dragonborn-xphb\|Dragonborn]] named [[1-Party/The Dream Team/Thertume Moonbeam\|Thertume]]
+	- Heard rumors of a half-dog half-man in the mountains
 - [[1-Party/The Dream Team/Isarin Duskweaver\|Isarin]] - Find out more about [[1-Party/The Dream Team/Goliath\|Goliath]]'s betrayal
 - [[1-Party/The Dream Team/Thertume Moonbeam\|Thertume]] - Eliminate the goblin army harming Neverwinter Wood

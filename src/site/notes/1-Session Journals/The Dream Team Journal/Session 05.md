@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/the-dream-team-journal/session-05/","tags":["journal"],"created":"2025-03-31T22:05:09.471-04:00","updated":"2025-04-01T14:33:02.984-04:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/the-dream-team-journal/session-05/","tags":["journal"],"created":"2025-03-31T22:05:09.471-04:00","updated":"2025-04-04T13:16:31.617-04:00"}
 ---
 
 >[!infobox]
@@ -30,7 +30,7 @@ When the party came out to calm things down, [[1-Party/The Dream Team/Dandydalf\
 
 In the chapel they met the Chief Speaker [[3-Mechanics/NPCs/Gunther Wuldrogen\|Gunther Wuldrogen]], as well as council members [[3-Mechanics/NPCs/Thordram Steelmantle\|Thordram Steelmantle]] and [[3-Mechanics/NPCs/Larassandra De'vin\|Larassandra De'vin]]. Gunther organized the investigation into the goblin presence in Neverwinter Wood, while Thordram and Larassandra opposed the investigation, not believing the rumors. Gunther thought it prudent to at least look into the possibility, and offered the adventurers 50 gold apiece if they could find evidence of such an organized army forming.
 
-[[1-Party/The Dream Team/Goliath\|Goliath]] led the group through the Neverwinter Wood, having previously met with the imposing hobgoblin [[3-Mechanics/NPCs/Bethzarra\|Bethzarra]] "Black Betty" along with his thief mentor. Kanjigar used divine magic to yell really loudly for goblins, and when that didn't work suggested that they just burn down the entire forest. At times Goliath seemed lost, and [[1-Party/The Dream Team/Isarin Duskweaver\|Isarin]] was growing increasingly frustrated at being led around by his criminal half-brother. He used his raven familiar to begin scouting a path on his own, while other party members started making their own suggestions of different paths to take.
+[[1-Party/The Dream Team/Goliath\|Goliath]] led the group through the Neverwinter Wood, having previously met with the imposing hobgoblin [[3-Mechanics/NPCs/Bethzarra\|Bethzarra]] "Black Betty" along with his thief mentor [[3-Mechanics/NPCs/Sypher\|Sypher]]. Kanjigar used divine magic to yell really loudly for goblins, and when that didn't work suggested that they just burn down the entire forest. At times Goliath seemed lost, and [[1-Party/The Dream Team/Isarin Duskweaver\|Isarin]] was growing increasingly frustrated at being led around by his criminal half-brother. He used his raven familiar to begin scouting a path on his own, while other party members started making their own suggestions of different paths to take.
 
 ![Thertume bear pins Kanjigar.png|left|500](/img/user/z_Assets/Thertume%20bear%20pins%20Kanjigar.png)As the party squabbled about the best path forward, a giant brown bear sprung out of the trees and pounced on [[1-Party/The Dream Team/Kanjigar The Courageous\|Kanjigar]], claws raised ready to take his head off! A tense standoff took place, which was broken by everyone's surprise when the bear started talking. He accused the group of being a part of the goblin army that has been destroying large swaths of the forest, uprooting trees to build siege weapons and burning other parts down.
 
