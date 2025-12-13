@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/stormwreck-isle/dragon-s-rest/","created":"2025-03-17T23:31:45.332-04:00","updated":"2025-03-21T16:54:22.341-04:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/stormwreck-isle/dragon-s-rest/","created":"2025-03-17T23:31:45.000-04:00","updated":"2025-03-21T16:54:22.340-04:00"}
 ---
 
 >[!infobox]

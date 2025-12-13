@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/sacred-flame-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/cleric","ttrpg-cli/spell/feat/blessed-warrior","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/level/cantrip","ttrpg-cli/spell/optfeature/pact-of-the-tome","ttrpg-cli/spell/school/evocation","ttrpg-cli/spell/subclass/celestial-patron","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/divine-soul"],"created":"2025-03-01T17:25:24.016-05:00","updated":"2025-03-25T22:27:48.478-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/sacred-flame-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/cleric","ttrpg-cli/spell/feat/blessed-warrior","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/level/cantrip","ttrpg-cli/spell/optfeature/pact-of-the-tome","ttrpg-cli/spell/school/evocation","ttrpg-cli/spell/subclass/celestial-patron","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/divine-soul"],"created":"2025-03-01T17:25:24.000-05:00","updated":"2025-03-25T22:27:48.470-04:00"}
 ---
 
 # Sacred Flame

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/darkness-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/warlock","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/level/2nd-level","ttrpg-cli/spell/race/elf","ttrpg-cli/spell/school/evocation","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/eldritch-knight","ttrpg-cli/spell/subclass/evoker","ttrpg-cli/spell/subclass/shadow-magic","ttrpg-cli/spell/subclass/warrior-of-shadow"],"created":"2025-03-01T17:25:23.078-05:00","updated":"2025-03-01T18:44:36.649-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/darkness-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/warlock","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/level/2nd-level","ttrpg-cli/spell/race/elf","ttrpg-cli/spell/school/evocation","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/eldritch-knight","ttrpg-cli/spell/subclass/evoker","ttrpg-cli/spell/subclass/shadow-magic","ttrpg-cli/spell/subclass/warrior-of-shadow"],"created":"2025-03-01T17:25:23.000-05:00","updated":"2025-03-01T18:44:36.640-05:00"}
 ---
 
 # Darkness

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/items/defender-shield/","tags":["item"],"created":"2025-03-22T12:10:24.935-04:00","updated":"2025-03-22T12:25:18.125-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/items/defender-shield/","tags":["item"],"created":"2025-03-22T12:10:24.000-04:00","updated":"2025-03-22T12:25:18.120-04:00"}
 ---
 
 > [!infobox]

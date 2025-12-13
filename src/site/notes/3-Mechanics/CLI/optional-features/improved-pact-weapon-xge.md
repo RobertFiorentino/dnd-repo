@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/optional-features/improved-pact-weapon-xge/","tags":["ttrpg-cli/compendium/src/5e/xge","ttrpg-cli/optional-feature/ei"],"created":"2025-03-01T17:25:22.468-05:00","updated":"2025-03-01T18:44:36.635-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/optional-features/improved-pact-weapon-xge/","tags":["ttrpg-cli/compendium/src/5e/xge","ttrpg-cli/optional-feature/ei"],"created":"2025-03-01T17:25:22.000-05:00","updated":"2025-03-01T18:44:36.630-05:00"}
 ---
 
 # Improved Pact Weapon

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/beast/brown-bear-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1","ttrpg-cli/monster/environment/arctic","ttrpg-cli/monster/environment/forest","ttrpg-cli/monster/environment/hill","ttrpg-cli/monster/size/large","ttrpg-cli/monster/type/beast"],"created":"2025-03-01T17:25:20.135-05:00","updated":"2025-04-01T12:21:34.710-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/beast/brown-bear-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1","ttrpg-cli/monster/environment/arctic","ttrpg-cli/monster/environment/forest","ttrpg-cli/monster/environment/hill","ttrpg-cli/monster/size/large","ttrpg-cli/monster/type/beast"],"created":"2025-03-01T17:25:20.000-05:00","updated":"2025-04-01T12:21:34.710-04:00"}
 ---
 
 # [Brown Bear](3-Mechanics/CLI/bestiary/beast/brown-bear-xmm.md)

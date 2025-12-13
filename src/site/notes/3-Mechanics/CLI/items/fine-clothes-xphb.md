@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/items/fine-clothes-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/item/gear/","ttrpg-cli/item/rarity/none"],"created":"2025-03-01T17:25:28.003-05:00","updated":"2025-03-01T18:44:36.643-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/items/fine-clothes-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/item/gear/","ttrpg-cli/item/rarity/none"],"created":"2025-03-01T17:25:28.000-05:00","updated":"2025-03-01T18:44:36.640-05:00"}
 ---
 
 # Fine Clothes

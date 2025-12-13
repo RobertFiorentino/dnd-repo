@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/counterspell-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/warlock","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/level/3rd-level","ttrpg-cli/spell/school/abjuration","ttrpg-cli/spell/subclass/abjurer","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/eldritch-knight","ttrpg-cli/spell/subclass/oath-of-redemption","ttrpg-cli/spell/subclass/oath-of-the-watchers"],"created":"2025-03-01T17:25:23.266-05:00","updated":"2025-03-01T18:44:36.633-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/counterspell-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/warlock","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/level/3rd-level","ttrpg-cli/spell/school/abjuration","ttrpg-cli/spell/subclass/abjurer","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/eldritch-knight","ttrpg-cli/spell/subclass/oath-of-redemption","ttrpg-cli/spell/subclass/oath-of-the-watchers"],"created":"2025-03-01T17:25:23.000-05:00","updated":"2025-03-01T18:44:36.630-05:00"}
 ---
 
 # Counterspell

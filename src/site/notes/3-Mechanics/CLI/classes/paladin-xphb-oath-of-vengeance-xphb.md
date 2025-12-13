@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/paladin-xphb-oath-of-vengeance-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/subclass/paladin/vengeance"],"created":"2025-03-01T17:25:18.056-05:00","updated":"2025-03-01T18:44:36.639-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/paladin-xphb-oath-of-vengeance-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/subclass/paladin/vengeance"],"created":"2025-03-01T17:25:18.000-05:00","updated":"2025-03-01T18:44:36.630-05:00"}
 ---
 
 # Oath of Vengeance

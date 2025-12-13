@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/enlarge-reduce-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/artificer","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/level/2nd-level","ttrpg-cli/spell/school/transmutation","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/eldritch-knight"],"created":"2025-03-01T17:25:23.435-05:00","updated":"2025-03-01T18:44:36.649-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/enlarge-reduce-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/artificer","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/level/2nd-level","ttrpg-cli/spell/school/transmutation","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/eldritch-knight"],"created":"2025-03-01T17:25:23.000-05:00","updated":"2025-03-01T18:44:36.640-05:00"}
 ---
 
 # Enlarge/Reduce

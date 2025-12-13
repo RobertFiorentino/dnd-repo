@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/the-plague-wardens/the-plague-wardens/","created":"2025-02-19T20:56:05.000-05:00","updated":"2025-03-25T22:45:22.692-04:00"}
+{"dg-publish":true,"permalink":"/1-party/the-plague-wardens/the-plague-wardens/","created":"2025-02-19T20:56:05.000-05:00","updated":"2025-03-25T22:45:22.690-04:00"}
 ---
 
 # The Plague Wardens
@@ -8,8 +8,10 @@
 | [[1-Party/The Plague Wardens/Cinder Belabranta\|Cinder Belabranta]] | Bobby   | <ul><li>[[3-Mechanics/CLI/classes/warlock-xphb.md\\|Warlock]]</li><li>[[3-Mechanics/CLI/classes/warlock-xphb-the-hexblade-xge.md\\|The Hexblade]]</li></ul>            | <ul><li>Half-Elf</li></ul> | 3     |
 | [[1-Party/The Plague Wardens/Dr. Buckles\|Dr. Buckles]]             | Garrett | <ul><li>[[3-Mechanics/CLI/classes/wizard-xphb.md\\|Wizard]]</li></ul>                                                                                                  | <ul><li>Half-Elf</li></ul> | 3     |
 | [[1-Party/The Plague Wardens/Jelma Shiningeyes\|Jelma Shiningeyes]] | Evan    | <ul><li>[[3-Mechanics/CLI/classes/monk-xphb.md\\|Monk]]</li></ul>                                                                                                      | <ul><li>Half-Orc</li></ul> | 3     |
-| [[1-Party/The Plague Wardens/Renan\|Renan]]                         | Jesse   | <ul><li>[[3-Mechanics/CLI/classes/rogue-xphb.md\\|Rogue]]</li><li>[[3-Mechanics/CLI/classes/rogue-xphb-assassin-xphb.md\\|Assassin]]</li></ul>                         | <ul><li>Wood Elf</li></ul> | 3     |
-| [[1-Party/The Plague Wardens/Ragnar\|Ragnar]]                       | Mike    | <ul><li>[[3-Mechanics/CLI/classes/paladin-xphb.md\\|Paladin]]</li><li>[[3-Mechanics/CLI/classes/paladin-xphb-oath-of-vengeance-xphb.md\\|Oath of Vengeance]]</li></ul> | <ul><li>Half-Orc</li></ul> | 3     |
+| [[1-Party/The Plague Wardens/Ragnar\|Ragnar]]                       | Mike    | <ul><li>[[3-Mechanics/CLI/classes/paladin-xphb.md\\|Paladin]]</li><li>[[3-Mechanics/CLI/classes/paladin-xphb-oath-of-vengeance-xphb.md\\|Oath of Vengeance]]</li></ul> | <ul><li>Half-Orc</li></ul> | 4     |
+| [[1-Party/The Plague Wardens/Renan\|Renan]]                         | Jesse   | <ul><li>[[3-Mechanics/CLI/classes/rogue-xphb.md\\|Rogue]]</li><li>[[3-Mechanics/CLI/classes/rogue-xphb-assassin-xphb.md\\|Assassin]]</li></ul>                         | <ul><li>Wood Elf</li></ul> | 4     |
+| [[1-Party/The Plague Wardens/Corin SwiftShadow\|Corin SwiftShadow]] | Selek   | <ul><li>[[3-Mechanics/CLI/classes/bard-xphb.md\\|Bard]]</li><li>[[3-Mechanics/CLI/classes/bard-xphb-college-of-valor-xphb.md\\|College of Valor]]</li></ul>            | <ul><li>Halfling</li></ul> | 4     |
+| [[1-Party/The Plague Wardens/Brerik\|Brerik]]                       | Cody    | <ul><li>[[3-Mechanics/CLI/classes/cleric-xphb.md\\|Cleric]]</li><li>[[3-Mechanics/CLI/classes/cleric-xphb-trickery-domain-xphb.md\\|Trickery Domain]]</li></ul>        | <ul><li>Gnome</li></ul>    | 4     |
 
 { .block-language-dataview}
 
@@ -30,6 +32,7 @@ A party of adventurers tasked with uncovering the source of the [[2-World/Faerû
 
 | Session                                                                     | Summary                                                                                       |
 | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [[1-Session Journals/The Plague Wardens Journal/Session 13\|Session 13]] | TBD                                                                                           |
 | [[1-Session Journals/The Plague Wardens Journal/Session 12\|Session 12]] | Battled the butler, guards, and the Von Cheddarsburghs                                        |
 | [[1-Session Journals/The Plague Wardens Journal/Session 11\|Session 11]] | Investigated the butler and found the real Von Cheddarsburgh imprisoned                       |
 | [[1-Session Journals/The Plague Wardens Journal/Session 10\|Session 10]] | Titus was coronated first king of Waterdeep while the party is accused of starting the plague |

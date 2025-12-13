@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/optional-features/pact-of-the-blade-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/optional-feature/ei"],"created":"2025-03-01T17:25:22.718-05:00","updated":"2025-03-01T18:44:36.648-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/optional-features/pact-of-the-blade-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/optional-feature/ei"],"created":"2025-03-01T17:25:22.000-05:00","updated":"2025-03-01T18:44:36.640-05:00"}
 ---
 
 # Pact of the Blade

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/feats/elven-accuracy-xge/","tags":["ttrpg-cli/compendium/src/5e/xge","ttrpg-cli/feat"],"created":"2025-03-01T17:25:18.304-05:00","updated":"2025-03-01T18:44:36.637-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/feats/elven-accuracy-xge/","tags":["ttrpg-cli/compendium/src/5e/xge","ttrpg-cli/feat"],"created":"2025-03-01T17:25:18.000-05:00","updated":"2025-03-01T18:44:36.630-05:00"}
 ---
 
 # Elven Accuracy

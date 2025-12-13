@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/items/hag-s-journal/","tags":["item"],"created":"2025-03-13T10:07:28.006-04:00","updated":"2025-03-13T10:11:24.273-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/items/hag-s-journal/","tags":["item"],"created":"2025-03-13T10:07:28.000-04:00","updated":"2025-03-13T10:11:24.270-04:00"}
 ---
 
 | Sessions Appeared                                                           |

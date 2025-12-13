@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/fighter-xphb/","tags":["ttrpg-cli/class/fighter","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-03-01T17:25:17.831-05:00","updated":"2025-03-25T22:44:08.559-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/fighter-xphb/","tags":["ttrpg-cli/class/fighter","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-03-01T17:25:17.000-05:00","updated":"2025-03-25T22:44:08.550-04:00"}
 ---
 
 # Fighter

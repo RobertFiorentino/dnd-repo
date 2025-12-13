@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/house-belabranta/","created":"2025-02-22T23:49:01.548-05:00","updated":"2025-02-24T20:32:40.426-05:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/house-belabranta/","created":"2025-02-22T23:49:01.000-05:00","updated":"2025-02-24T20:32:40.420-05:00"}
 ---
 
 Belabranta is among the oldest noble houses of [[2-World/Faerûn/Waterdeep/Waterdeep\|Waterdeep]], being officially ennobled in 952 DR. They are famous [[3-Mechanics/CLI/bestiary/monstrosity/griffon-xmm\|Griffon]] breeders, trainers and even hunters.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/stormwreck-isle/seagrow-caves/","created":"2025-03-18T18:04:44.358-04:00","updated":"2025-03-18T18:06:28.857-04:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/stormwreck-isle/seagrow-caves/","created":"2025-03-18T18:04:44.000-04:00","updated":"2025-03-18T18:06:28.850-04:00"}
 ---
 
 >[!infobox]

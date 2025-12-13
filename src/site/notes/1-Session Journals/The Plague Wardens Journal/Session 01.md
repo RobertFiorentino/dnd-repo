@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/the-plague-wardens-journal/session-01/","tags":["journal"],"created":"2025-02-22T18:03:19.711-05:00","updated":"2025-03-13T19:52:20.856-04:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/the-plague-wardens-journal/session-01/","tags":["journal"],"created":"2025-02-22T18:03:19.000-05:00","updated":"2025-03-13T19:52:20.850-04:00"}
 ---
 
 >[!infobox]

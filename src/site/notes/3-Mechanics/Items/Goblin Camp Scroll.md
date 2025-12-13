@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/items/goblin-camp-scroll/","tags":["item"],"created":"2025-03-30T08:53:28.022-04:00","updated":"2025-03-30T08:53:48.785-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/items/goblin-camp-scroll/","tags":["item"],"created":"2025-03-30T08:53:28.000-04:00","updated":"2025-03-30T08:53:48.780-04:00"}
 ---
 
 

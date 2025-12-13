@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/the-dream-team/the-dream-team/","created":"2025-03-14T23:40:36.437-04:00","updated":"2025-04-07T13:31:18.156-04:00"}
+{"dg-publish":true,"permalink":"/1-party/the-dream-team/the-dream-team/","created":"2025-03-14T23:40:36.000-04:00","updated":"2025-04-07T13:31:18.150-04:00"}
 ---
 
 
@@ -16,15 +16,15 @@
 # The Dream Team
 | Character Name                                                                 | Player  | Class                                                                   | Race                         | level |
 | ------------------------------------------------------------------------------ | ------- | ----------------------------------------------------------------------- | ---------------------------- | ----- |
-| [[1-Party/The Dream Team/Isarin Duskweaver\|Isarin Duskweaver]]             | Finn    | <ul><li>[[3-Mechanics/CLI/classes/wizard-xphb.md\\|Wizard]]</li></ul>   | <ul><li>High Elf</li></ul>   | 3     |
 | [[1-Party/The Dream Team/Aevarius Starblade\|Aevarius Starblade]]           | Westley | <ul><li>[[3-Mechanics/CLI/classes/paladin-xphb.md\\|Paladin]]</li></ul> | <ul><li>Human</li></ul>      | 3     |
-| [[1-Party/The Dream Team/Loreanna Ashara\|Loreanna Ashara]]                 | Carla   | <ul><li>[[3-Mechanics/CLI/classes/fighter-xphb.md\\|Fighter]]</li></ul> | <ul><li>Wood Elf</li></ul>   | 3     |
-| [[1-Party/The Dream Team/Kanjigar The Courageous\|Kanjigar The Courageous]] | Ben     | <ul><li>[[3-Mechanics/CLI/classes/cleric-xphb.md\\|Cleric]]</li></ul>   | <ul><li>Dwarf</li></ul>      | 3     |
-| [[1-Party/The Dream Team/Thertume Moonbeam\|Thertume Moonbeam]]             | Westley | <ul><li>[[3-Mechanics/CLI/classes/druid-xphb.md\\|Druid]]</li></ul>     | <ul><li>Dragonborn</li></ul> | 3     |
-| [[1-Party/The Dream Team/Mylo\|Mylo]]                                       | Calvin  | <ul><li>[[3-Mechanics/CLI/classes/rogue-xphb.md\\|Rogue]]</li></ul>     | <ul><li>Halfling</li></ul>   | 2     |
-| [[1-Party/The Dream Team/Goliath\|Goliath]]                                 | Paul    | <ul><li>[[3-Mechanics/CLI/classes/rogue-xphb.md\\|Rogue]]</li></ul>     | <ul><li>Half-Elf</li></ul>   | 2     |
 | [[1-Party/The Dream Team/Dandydalf\|Dandydalf]]                             | Dan     | <ul><li>[[3-Mechanics/CLI/classes/wizard-xphb.md\\|Wizard]]</li></ul>   | <ul><li>High Elf</li></ul>   | 2     |
+| [[1-Party/The Dream Team/Goliath\|Goliath]]                                 | Paul    | <ul><li>[[3-Mechanics/CLI/classes/rogue-xphb.md\\|Rogue]]</li></ul>     | <ul><li>Half-Elf</li></ul>   | 2     |
+| [[1-Party/The Dream Team/Kanjigar The Courageous\|Kanjigar The Courageous]] | Ben     | <ul><li>[[3-Mechanics/CLI/classes/cleric-xphb.md\\|Cleric]]</li></ul>   | <ul><li>Dwarf</li></ul>      | 3     |
+| [[1-Party/The Dream Team/Loreanna Ashara\|Loreanna Ashara]]                 | Carla   | <ul><li>[[3-Mechanics/CLI/classes/fighter-xphb.md\\|Fighter]]</li></ul> | <ul><li>Wood Elf</li></ul>   | 3     |
+| [[1-Party/The Dream Team/Mylo\|Mylo]]                                       | Calvin  | <ul><li>[[3-Mechanics/CLI/classes/rogue-xphb.md\\|Rogue]]</li></ul>     | <ul><li>Halfling</li></ul>   | 2     |
 | [[1-Party/The Dream Team/Onion\|Onion]]                                     | Alex    | <ul><li>[[3-Mechanics/CLI/classes/bard-xphb.md\\|Bard]]</li></ul>       | <ul><li>Human</li></ul>      | 2     |
+| [[1-Party/The Dream Team/Isarin Duskweaver\|Isarin Duskweaver]]             | Finn    | <ul><li>[[3-Mechanics/CLI/classes/wizard-xphb.md\\|Wizard]]</li></ul>   | <ul><li>High Elf</li></ul>   | 3     |
+| [[1-Party/The Dream Team/Thertume Moonbeam\|Thertume Moonbeam]]             | Westley | <ul><li>[[3-Mechanics/CLI/classes/druid-xphb.md\\|Druid]]</li></ul>     | <ul><li>Dragonborn</li></ul> | 3     |
 
 { .block-language-dataview}
 

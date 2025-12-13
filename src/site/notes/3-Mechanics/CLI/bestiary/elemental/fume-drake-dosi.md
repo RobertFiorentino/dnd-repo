@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/elemental/fume-drake-dosi/","tags":["ttrpg-cli/compendium/src/5e/dosi","ttrpg-cli/monster/cr/1-4","ttrpg-cli/monster/size/small","ttrpg-cli/monster/type/elemental"],"created":"2025-03-01T17:25:20.897-05:00","updated":"2025-03-25T22:27:48.484-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/elemental/fume-drake-dosi/","tags":["ttrpg-cli/compendium/src/5e/dosi","ttrpg-cli/monster/cr/1-4","ttrpg-cli/monster/size/small","ttrpg-cli/monster/type/elemental"],"created":"2025-03-01T17:25:20.000-05:00","updated":"2025-03-25T22:27:48.480-04:00"}
 ---
 
 # [Fume Drake](3-Mechanics/CLI/bestiary/elemental/fume-drake-dosi.md)

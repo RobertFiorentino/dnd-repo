@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/warlock-xphb/","tags":["ttrpg-cli/class/warlock","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-03-01T17:25:17.768-05:00","updated":"2025-03-01T18:44:36.631-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/warlock-xphb/","tags":["ttrpg-cli/class/warlock","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-03-01T17:25:17.000-05:00","updated":"2025-03-01T18:44:36.630-05:00"}
 ---
 
 # Warlock

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/monk-xphb/","tags":["ttrpg-cli/class/monk","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-03-01T17:25:17.743-05:00","updated":"2025-03-01T19:21:05.576-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/monk-xphb/","tags":["ttrpg-cli/class/monk","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-03-01T17:25:17.000-05:00","updated":"2025-03-01T19:21:05.570-05:00"}
 ---
 
 # Monk

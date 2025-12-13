@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/feats/great-weapon-master-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/feat"],"created":"2025-03-01T17:25:18.201-05:00","updated":"2025-03-01T18:44:36.636-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/feats/great-weapon-master-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/feat"],"created":"2025-03-01T17:25:18.000-05:00","updated":"2025-03-01T18:44:36.630-05:00"}
 ---
 
 # Great Weapon Master

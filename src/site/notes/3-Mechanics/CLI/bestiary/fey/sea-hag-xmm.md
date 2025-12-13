@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/fey/sea-hag-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/2","ttrpg-cli/monster/environment/coastal","ttrpg-cli/monster/environment/underwater","ttrpg-cli/monster/size/medium","ttrpg-cli/monster/type/fey"],"created":"2025-03-01T17:25:20.397-05:00","updated":"2025-03-01T18:44:36.644-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/fey/sea-hag-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/2","ttrpg-cli/monster/environment/coastal","ttrpg-cli/monster/environment/underwater","ttrpg-cli/monster/size/medium","ttrpg-cli/monster/type/fey"],"created":"2025-03-01T17:25:20.000-05:00","updated":"2025-03-01T18:44:36.640-05:00"}
 ---
 
 # [Sea Hag](3-Mechanics/CLI/bestiary/fey/sea-hag-xmm.md)

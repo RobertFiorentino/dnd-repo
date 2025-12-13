@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/alabaster-cunningham/","tags":["NPC"],"created":"2025-02-22T20:28:16.832-05:00","updated":"2025-03-17T14:03:04.450-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/alabaster-cunningham/","tags":["NPC"],"created":"2025-02-22T20:28:16.000-05:00","updated":"2025-03-17T14:03:04.450-04:00"}
 ---
 
 

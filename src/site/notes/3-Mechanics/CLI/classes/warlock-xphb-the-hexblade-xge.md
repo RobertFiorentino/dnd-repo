@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/warlock-xphb-the-hexblade-xge/","tags":["ttrpg-cli/compendium/src/5e/xge","ttrpg-cli/subclass/warlock/hexblade"],"created":"2025-03-01T17:25:17.946-05:00","updated":"2025-03-01T18:44:36.631-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/warlock-xphb-the-hexblade-xge/","tags":["ttrpg-cli/compendium/src/5e/xge","ttrpg-cli/subclass/warlock/hexblade"],"created":"2025-03-01T17:25:17.000-05:00","updated":"2025-03-01T18:44:36.630-05:00"}
 ---
 
 # The Hexblade

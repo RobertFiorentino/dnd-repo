@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/items/halberd-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/item/rarity/none","ttrpg-cli/item/weapon/martial","ttrpg-cli/item/weapon/melee"],"created":"2025-03-01T17:25:25.569-05:00","updated":"2025-03-01T18:44:36.645-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/items/halberd-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/item/rarity/none","ttrpg-cli/item/weapon/martial","ttrpg-cli/item/weapon/melee"],"created":"2025-03-01T17:25:25.000-05:00","updated":"2025-03-01T18:44:36.640-05:00"}
 ---
 
 # Halberd

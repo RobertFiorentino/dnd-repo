@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/undead/ghoul-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1","ttrpg-cli/monster/environment/swamp","ttrpg-cli/monster/environment/underdark","ttrpg-cli/monster/environment/urban","ttrpg-cli/monster/size/medium","ttrpg-cli/monster/type/undead"],"created":"2025-03-01T17:25:21.252-05:00","updated":"2025-03-25T22:27:48.485-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/undead/ghoul-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1","ttrpg-cli/monster/environment/swamp","ttrpg-cli/monster/environment/underdark","ttrpg-cli/monster/environment/urban","ttrpg-cli/monster/size/medium","ttrpg-cli/monster/type/undead"],"created":"2025-03-01T17:25:21.000-05:00","updated":"2025-03-25T22:27:48.480-04:00"}
 ---
 
 # [Ghoul](3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md)

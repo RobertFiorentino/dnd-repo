@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/guilds-and-groups/gray-cloaks/","tags":["Category/Group"],"created":"2025-02-23T15:15:16.016-05:00","updated":"2025-03-13T16:18:53.900-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/guilds-and-groups/gray-cloaks/","tags":["Category/Group"],"created":"2025-02-23T15:15:16.000-05:00","updated":"2025-03-13T16:18:53.900-04:00"}
 ---
 
 > [!infobox]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/druid-xphb/","tags":["ttrpg-cli/class/druid","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-03-01T17:25:17.973-05:00","updated":"2025-04-01T13:20:48.567-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/druid-xphb/","tags":["ttrpg-cli/class/druid","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-03-01T17:25:17.000-05:00","updated":"2025-04-01T13:20:48.560-04:00"}
 ---
 
 # Druid

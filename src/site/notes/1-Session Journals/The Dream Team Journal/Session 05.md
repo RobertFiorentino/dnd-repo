@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/the-dream-team-journal/session-05/","tags":["journal"],"created":"2025-03-31T22:05:09.471-04:00","updated":"2025-04-04T13:16:31.617-04:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/the-dream-team-journal/session-05/","tags":["journal"],"created":"2025-03-31T22:05:09.000-04:00","updated":"2025-04-17T22:29:18.950-04:00"}
 ---
 
 >[!infobox]
@@ -20,7 +20,7 @@ When the party came out to calm things down, [[1-Party/The Dream Team/Dandydalf\
 
 ![IsarinVGoliath.png|right|500](/img/user/z_Assets/IsarinVGoliath.png)While sailing to [[2-World/Neverwinter\|Neverwinter]], Onion revealed that he was working on a song about a monk who was cursed to become a half dog. [[1-Party/The Dream Team/Kanjigar The Courageous\|Kanjigar]] realized this was an opportunity to fulfill his deepest desire to [[3-Mechanics/Items/Ritual of Create New Creature\|create a dragon-corgi]] hybrid. There was drama on the docks though, when Mylo introduced his thieves guild contact [[1-Party/The Dream Team/Goliath\|Goliath]], who [[1-Party/The Dream Team/Isarin Duskweaver\|Isarin]] recognized as his half-brother Elaris! Isarin told the group how Goliath ran away from the family and became a thief, stealing a valuable gem and disgracing the Duskweaver family. Isarin has been trying to bring prestige back to the family ever since, and is furious at the idea of having to work with his brother. As wand was raised to cast a damaging spell, and dagger was raised to meet it, dockside guards intervened and prevented the fight from starting.
 
-![Kanjigar chasing chickens.png|right|400](/img/user/z_Assets/Kanjigar%20chasing%20chickens.png) The group left Neverwinter and headed down the High Road to the walled city of [[2-World/Helms Hold\|Helms Hold]]. While walking through the marketplace, [[1-Party/The Dream Team/Kanjigar The Courageous\|Kanjigar]] was overtaken by a desire to steal a chicken. Despite a round woman running out and beating him with a rolling pin, Kanjigar couldn't resist trying to nab a chicken again. [[1-Party/The Dream Team/Mylo\|Mylo]] soon joined in the frenzy. Eventually the group decided to split up, with [[1-Party/The Dream Team/Dandydalf\|Dandydalf]], [[1-Party/The Dream Team/Isarin Duskweaver\|Isarin]], [[1-Party/The Dream Team/Goliath\|Goliath]], and [[1-Party/The Dream Team/Mylo\|Mylo]] heading to the chapel and [[1-Party/The Dream Team/Kanjigar The Courageous\|Kanjigar]], [[1-Party/The Dream Team/Loreanna Ashara\|Loreanna]], and [[1-Party/The Dream Team/Onion\|Onion]] going to a local tavern to investigate rumors of a dog-man.
+![Kanjigar chasing chickens.png|right|400](/img/user/z_Assets/Kanjigar%20chasing%20chickens.png) The group left Neverwinter and headed down the High Road to the walled city of [[2-World/Helms Hold\|Helms Hold]]. While walking through the marketplace, [[1-Party/The Dream Team/Kanjigar The Courageous\|Kanjigar]] was overtaken by a desire to steal a chicken. Despite a round woman running out and beating him with a rolling pin, Kanjigar couldn't resist trying to nab a chicken again. [[1-Party/The Dream Team/Mylo\|Mylo]] soon joined in the frenzy. Eventually the group decided to split up, with [[1-Party/The Dream Team/Dandydalf\|Dandydalf]], [[1-Party/The Dream Team/Isarin Duskweaver\|Isarin]], [[1-Party/The Dream Team/Goliath\|Goliath]], and [[1-Party/The Dream Team/Mylo\|Mylo]] heading to the chapel and [[1-Party/The Dream Team/Kanjigar The Courageous\|Kanjigar]], [[1-Party/The Dream Team/Loreanna Ashara\|Loreanna]], and [[1-Party/The Dream Team/Onion\|Onion]] going to a local tavern, the [[3-Mechanics/NPCs/Venturer’s Rest\|Venturer’s Rest]] to investigate rumors of a dog-man where they got a little bit of gossip from the barkeep [[3-Mechanics/NPCs/Mercer Matthews\|Mercer Matthews]].
 
 <div style="clear: both;"></div> 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center;">
@@ -51,12 +51,14 @@ The fight ended with Goliath sending an arrow through the last [[3-Mechanics/CLI
 - [[2-World/Faerûn/Stormwreck Isle/Dragon's Rest\|Dragon's Rest]]
 - [[2-World/Neverwinter\|Neverwinter]]
 - [[2-World/Helms Hold\|Helms Hold]]
+- [[3-Mechanics/NPCs/Venturer’s Rest\|Venturer’s Rest]]
 - [[2-World/Neverwinter Wood\|Neverwinter Wood]]
 <br>
 ### NPCs Encountered
 - [[3-Mechanics/NPCs/Runara\|Runara]]
 - [[3-Mechanics/NPCs/Tarak\|Tarak]]
 - [[3-Mechanics/NPCs/Laylee\|Laylee]]
+- [[3-Mechanics/NPCs/Mercer Matthews\|Mercer Matthews]]
 - [[3-Mechanics/NPCs/Gunther Wuldrogen\|Gunther]]
 - [[3-Mechanics/NPCs/Thordram Steelmantle\|Thordram Steelmantle]]
 - [[3-Mechanics/NPCs/Larassandra De'vin\|Larassandra De'vin]]

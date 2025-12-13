@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/shadow-of-moil-xge/","tags":["ttrpg-cli/compendium/src/5e/xge","ttrpg-cli/spell/class/warlock","ttrpg-cli/spell/level/4th-level","ttrpg-cli/spell/school/necromancy"],"created":"2025-03-01T17:25:23.980-05:00","updated":"2025-03-01T18:44:36.634-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/shadow-of-moil-xge/","tags":["ttrpg-cli/compendium/src/5e/xge","ttrpg-cli/spell/class/warlock","ttrpg-cli/spell/level/4th-level","ttrpg-cli/spell/school/necromancy"],"created":"2025-03-01T17:25:23.000-05:00","updated":"2025-03-01T18:44:36.630-05:00"}
 ---
 
 # Shadow of Moil

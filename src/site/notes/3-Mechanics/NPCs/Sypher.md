@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/sypher/","tags":["NPC"],"created":"2025-04-04T12:51:35.125-04:00","updated":"2025-04-04T13:17:25.294-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/sypher/","tags":["NPC"],"created":"2025-04-04T12:51:35.000-04:00","updated":"2025-04-04T13:17:25.290-04:00"}
 ---
 
 

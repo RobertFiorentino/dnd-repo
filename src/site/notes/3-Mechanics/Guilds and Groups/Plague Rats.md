@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/guilds-and-groups/plague-rats/","tags":["Category/Group"],"created":"2025-02-23T10:44:58.776-05:00","updated":"2025-03-13T10:52:28.084-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/guilds-and-groups/plague-rats/","tags":["Category/Group"],"created":"2025-02-23T10:44:58.000-05:00","updated":"2025-03-13T10:52:28.080-04:00"}
 ---
 
 > [!infobox]

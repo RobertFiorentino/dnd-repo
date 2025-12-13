@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/clifftop-observatory/","created":"2025-03-21T18:18:39.417-04:00","updated":"2025-03-22T11:03:29.442-04:00"}
+{"dg-publish":true,"permalink":"/2-world/clifftop-observatory/","created":"2025-03-21T18:18:39.000-04:00","updated":"2025-03-22T11:03:29.440-04:00"}
 ---
 
 >[!infobox]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/undermountain/","created":"2025-03-13T10:25:25.437-04:00","updated":"2025-03-13T20:24:59.720-04:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/undermountain/","created":"2025-03-13T10:25:25.000-04:00","updated":"2025-03-13T20:24:59.720-04:00"}
 ---
 
 >[!infobox]

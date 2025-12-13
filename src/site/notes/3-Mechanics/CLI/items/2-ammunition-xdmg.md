@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/items/2-ammunition-xdmg/","tags":["ttrpg-cli/compendium/src/5e/xdmg","ttrpg-cli/item/age/futuristic","ttrpg-cli/item/gear/ammunition","ttrpg-cli/item/gear/ammunition-firearm","ttrpg-cli/item/rarity/rare"],"created":"2025-03-01T17:25:25.694-05:00","updated":"2025-04-10T12:09:22.449-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/items/2-ammunition-xdmg/","tags":["ttrpg-cli/compendium/src/5e/xdmg","ttrpg-cli/item/age/futuristic","ttrpg-cli/item/gear/ammunition","ttrpg-cli/item/gear/ammunition-firearm","ttrpg-cli/item/rarity/rare"],"created":"2025-03-01T17:25:25.000-05:00","updated":"2025-04-10T12:09:22.440-04:00"}
 ---
 
 # +2 Ammunition

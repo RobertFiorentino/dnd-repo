@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/bethzarra/","tags":["NPC"],"created":"2025-03-29T23:11:16.967-04:00","updated":"2025-04-01T12:16:44.014-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/bethzarra/","tags":["NPC"],"created":"2025-03-29T23:11:16.000-04:00","updated":"2025-04-01T12:16:44.010-04:00"}
 ---
 
 

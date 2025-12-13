@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/the-dream-team-journal/session-04/","tags":["journal"],"created":"2025-03-17T21:23:15.323-04:00","updated":"2025-04-01T13:30:39.862-04:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/the-dream-team-journal/session-04/","tags":["journal"],"created":"2025-03-17T21:23:15.000-04:00","updated":"2025-04-01T13:30:39.860-04:00"}
 ---
 
 >[!infobox]

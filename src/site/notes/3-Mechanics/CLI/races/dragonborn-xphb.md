@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/races/dragonborn-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/race/dragonborn"],"created":"2025-03-01T17:25:29.233-05:00","updated":"2025-04-10T12:09:22.447-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/races/dragonborn-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/race/dragonborn"],"created":"2025-03-01T17:25:29.000-05:00","updated":"2025-04-10T12:09:22.440-04:00"}
 ---
 
 # Dragonborn

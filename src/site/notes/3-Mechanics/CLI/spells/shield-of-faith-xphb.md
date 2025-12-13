@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/shield-of-faith-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/cleric","ttrpg-cli/spell/class/paladin","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/school/abjuration","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/divine-soul","ttrpg-cli/spell/subclass/oath-of-devotion","ttrpg-cli/spell/subclass/war-domain"],"created":"2025-03-01T17:25:23.619-05:00","updated":"2025-03-25T22:27:48.480-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/shield-of-faith-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/cleric","ttrpg-cli/spell/class/paladin","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/school/abjuration","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/divine-soul","ttrpg-cli/spell/subclass/oath-of-devotion","ttrpg-cli/spell/subclass/war-domain"],"created":"2025-03-01T17:25:23.000-05:00","updated":"2025-03-25T22:27:48.470-04:00"}
 ---
 
 # Shield of Faith

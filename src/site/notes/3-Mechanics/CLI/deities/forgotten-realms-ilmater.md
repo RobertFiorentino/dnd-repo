@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/deities/forgotten-realms-ilmater/","tags":["ttrpg-cli/compendium/src/5e/phb","ttrpg-cli/deity/forgotten-realms","ttrpg-cli/domain/life","ttrpg-cli/domain/twilight"],"created":"2025-03-01T17:25:17.084-05:00","updated":"2025-03-13T17:20:05.888-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/deities/forgotten-realms-ilmater/","tags":["ttrpg-cli/compendium/src/5e/phb","ttrpg-cli/deity/forgotten-realms","ttrpg-cli/domain/life","ttrpg-cli/domain/twilight"],"created":"2025-03-01T17:25:17.000-05:00","updated":"2025-03-13T17:20:05.880-04:00"}
 ---
 
 # Ilmater

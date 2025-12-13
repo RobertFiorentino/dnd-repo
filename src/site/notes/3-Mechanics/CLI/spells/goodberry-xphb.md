@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/goodberry-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/ranger","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/school/conjuration","ttrpg-cli/spell/subclass/college-of-lore"],"created":"2025-03-01T17:25:24.653-05:00","updated":"2025-04-01T12:21:34.706-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/goodberry-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/ranger","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/school/conjuration","ttrpg-cli/spell/subclass/college-of-lore"],"created":"2025-03-01T17:25:24.000-05:00","updated":"2025-04-01T12:21:34.700-04:00"}
 ---
 
 # Goodberry

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/items/potion-of-stone-giant-strength-xdmg/","tags":["ttrpg-cli/compendium/src/5e/xdmg","ttrpg-cli/item/rarity/rare","ttrpg-cli/item/wondrous/potion"],"created":"2025-03-01T17:25:25.620-05:00","updated":"2025-04-10T12:09:22.450-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/items/potion-of-stone-giant-strength-xdmg/","tags":["ttrpg-cli/compendium/src/5e/xdmg","ttrpg-cli/item/rarity/rare","ttrpg-cli/item/wondrous/potion"],"created":"2025-03-01T17:25:25.000-05:00","updated":"2025-04-10T12:09:22.440-04:00"}
 ---
 
 # Potion of Stone Giant Strength

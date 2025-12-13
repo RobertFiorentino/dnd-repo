@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/lords-of-waterdeep/","created":"2025-03-13T15:21:29.283-04:00","updated":"2025-03-13T19:51:21.097-04:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/lords-of-waterdeep/","created":"2025-03-13T15:21:29.000-04:00","updated":"2025-03-13T19:51:21.090-04:00"}
 ---
 
 | Sessions Appeared                                                           |

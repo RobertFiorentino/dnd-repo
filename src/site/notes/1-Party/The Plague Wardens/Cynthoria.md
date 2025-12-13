@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/the-plague-wardens/cynthoria/","tags":["player"],"created":"2025-02-22T17:45:25.305-05:00","updated":"2025-02-25T21:09:42.891-05:00"}
+{"dg-publish":true,"permalink":"/1-party/the-plague-wardens/cynthoria/","tags":["player"],"created":"2025-02-22T17:45:25.000-05:00","updated":"2025-02-25T21:09:42.890-05:00"}
 ---
 
 # Cynthoria

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/mage-armor-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/optfeature/armor-of-shadows","ttrpg-cli/spell/school/abjuration","ttrpg-cli/spell/subclass/abjurer","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/eldritch-knight"],"created":"2025-03-01T17:25:24.188-05:00","updated":"2025-03-25T22:27:48.475-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/mage-armor-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/optfeature/armor-of-shadows","ttrpg-cli/spell/school/abjuration","ttrpg-cli/spell/subclass/abjurer","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/eldritch-knight"],"created":"2025-03-01T17:25:24.000-05:00","updated":"2025-03-25T22:27:48.470-04:00"}
 ---
 
 # Mage Armor

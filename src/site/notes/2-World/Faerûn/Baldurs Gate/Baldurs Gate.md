@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/baldurs-gate/baldurs-gate/","tags":["Category/Settlement"],"created":"2025-02-22T16:40:09.034-05:00","updated":"2025-02-25T21:28:35.186-05:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/baldurs-gate/baldurs-gate/","tags":["Category/Settlement"],"created":"2025-02-22T16:40:09.000-05:00","updated":"2025-02-25T21:28:35.180-05:00"}
 ---
 
 
@@ -39,6 +39,7 @@
 >  - [[1-Session Journals/The Plague Wardens Journal/Session 07\|Session 07]]
 > - [[1-Session Journals/The Plague Wardens Journal/Session 08\|Session 08]]
 > - [[1-Session Journals/The Plague Wardens Journal/Session 10\|Session 10]]
+> - [[1-Session Journals/The Plague Wardens Journal/Session 13\|Session 13]]
 > 
 { .block-language-dataview}
 

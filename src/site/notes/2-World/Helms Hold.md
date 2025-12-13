@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/helms-hold/","tags":["Category/Settlement"],"created":"2025-03-29T23:40:15.674-04:00","updated":"2025-03-30T08:29:47.680-04:00"}
+{"dg-publish":true,"permalink":"/2-world/helms-hold/","tags":["Category/Settlement"],"created":"2025-03-29T23:40:15.000-04:00","updated":"2025-03-30T08:29:47.680-04:00"}
 ---
 
 
@@ -51,6 +51,7 @@ Placeholder
 ## Notable NPCs
 - [[3-Mechanics/NPCs/Gunther Wuldrogen\|Gunther Wuldrogen]]
 - [[3-Mechanics/NPCs/Larassandra De'vin\|Larassandra De'vin]]
+- [[3-Mechanics/NPCs/Mercer Matthews\|Mercer Matthews]]
 - [[3-Mechanics/NPCs/Thordram Steelmantle\|Thordram Steelmantle]]
 
 { .block-language-dataview}

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/fey/goblin-minion-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1-8","ttrpg-cli/monster/environment/acheron","ttrpg-cli/monster/environment/feywild","ttrpg-cli/monster/environment/forest","ttrpg-cli/monster/environment/grassland","ttrpg-cli/monster/environment/hill","ttrpg-cli/monster/environment/planar","ttrpg-cli/monster/environment/underdark","ttrpg-cli/monster/size/small","ttrpg-cli/monster/type/fey/goblinoid"],"created":"2025-03-01T17:25:20.384-05:00","updated":"2025-03-01T18:44:36.650-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/fey/goblin-minion-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1-8","ttrpg-cli/monster/environment/acheron","ttrpg-cli/monster/environment/feywild","ttrpg-cli/monster/environment/forest","ttrpg-cli/monster/environment/grassland","ttrpg-cli/monster/environment/hill","ttrpg-cli/monster/environment/planar","ttrpg-cli/monster/environment/underdark","ttrpg-cli/monster/size/small","ttrpg-cli/monster/type/fey/goblinoid"],"created":"2025-03-01T17:25:20.000-05:00","updated":"2025-03-01T18:44:36.640-05:00"}
 ---
 
 # [Goblin Minion](3-Mechanics/CLI/bestiary/fey/goblin-minion-xmm.md)

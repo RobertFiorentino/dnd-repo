@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/pass-without-trace-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/ranger","ttrpg-cli/spell/feat/wood-elf-magic","ttrpg-cli/spell/level/2nd-level","ttrpg-cli/spell/race/elf","ttrpg-cli/spell/school/abjuration","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/trickery-domain"],"created":"2025-03-01T17:25:24.150-05:00","updated":"2025-04-01T12:21:34.708-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/pass-without-trace-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/ranger","ttrpg-cli/spell/feat/wood-elf-magic","ttrpg-cli/spell/level/2nd-level","ttrpg-cli/spell/race/elf","ttrpg-cli/spell/school/abjuration","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/trickery-domain"],"created":"2025-03-01T17:25:24.000-05:00","updated":"2025-04-01T12:21:34.700-04:00"}
 ---
 
 # Pass without Trace

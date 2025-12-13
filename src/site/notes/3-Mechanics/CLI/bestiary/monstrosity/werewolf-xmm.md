@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/monstrosity/werewolf-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/3","ttrpg-cli/monster/environment/forest","ttrpg-cli/monster/environment/hill","ttrpg-cli/monster/size/small-or-medium","ttrpg-cli/monster/type/monstrosity"],"created":"2025-03-01T17:25:19.581-05:00","updated":"2025-04-11T16:42:20.119-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/monstrosity/werewolf-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/3","ttrpg-cli/monster/environment/forest","ttrpg-cli/monster/environment/hill","ttrpg-cli/monster/size/small-or-medium","ttrpg-cli/monster/type/monstrosity"],"created":"2025-03-01T17:25:19.000-05:00","updated":"2025-04-11T16:42:20.110-04:00"}
 ---
 
 # [Werewolf](3-Mechanics/CLI/bestiary/monstrosity/werewolf-xmm.md)

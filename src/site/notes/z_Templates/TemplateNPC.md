@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-templates/template-npc/","tags":["NPC"],"created":"2025-03-17T23:12:21.528-04:00","updated":"2025-03-31T21:52:46.383-04:00"}
+{"dg-publish":true,"permalink":"/z-templates/template-npc/","tags":["NPC"],"created":"2025-03-17T23:12:21.000-04:00","updated":"2025-03-31T21:52:46.380-04:00"}
 ---
 
 

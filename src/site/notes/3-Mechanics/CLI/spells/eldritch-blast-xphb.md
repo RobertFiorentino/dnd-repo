@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/eldritch-blast-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/warlock","ttrpg-cli/spell/level/cantrip","ttrpg-cli/spell/optfeature/pact-of-the-tome","ttrpg-cli/spell/school/evocation"],"created":"2025-03-01T17:25:23.597-05:00","updated":"2025-03-01T18:44:36.650-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/eldritch-blast-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/warlock","ttrpg-cli/spell/level/cantrip","ttrpg-cli/spell/optfeature/pact-of-the-tome","ttrpg-cli/spell/school/evocation"],"created":"2025-03-01T17:25:23.000-05:00","updated":"2025-03-01T18:44:36.650-05:00"}
 ---
 
 # Eldritch Blast

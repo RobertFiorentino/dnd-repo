@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/neverwinter/","tags":["Category/Settlement"],"created":"2025-03-30T08:24:32.934-04:00","updated":"2025-03-30T08:25:49.302-04:00"}
+{"dg-publish":true,"permalink":"/2-world/neverwinter/","tags":["Category/Settlement"],"created":"2025-03-30T08:24:32.000-04:00","updated":"2025-03-30T08:25:49.300-04:00"}
 ---
 
 

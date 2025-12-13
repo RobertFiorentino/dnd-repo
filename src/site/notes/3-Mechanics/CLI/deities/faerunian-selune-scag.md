@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/deities/faerunian-selune-scag/","tags":["ttrpg-cli/compendium/src/5e/scag","ttrpg-cli/deity/faerunian","ttrpg-cli/domain/knowledge","ttrpg-cli/domain/life","ttrpg-cli/domain/twilight"],"created":"2025-03-01T17:25:17.155-05:00","updated":"2025-04-10T12:09:22.451-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/deities/faerunian-selune-scag/","tags":["ttrpg-cli/compendium/src/5e/scag","ttrpg-cli/deity/faerunian","ttrpg-cli/domain/knowledge","ttrpg-cli/domain/life","ttrpg-cli/domain/twilight"],"created":"2025-03-01T17:25:17.000-05:00","updated":"2025-04-10T12:09:22.450-04:00"}
 ---
 
 # Selûne

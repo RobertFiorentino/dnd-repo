@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/the-plague-wardens/dr-buckles/","tags":["player"],"created":"2025-02-22T17:44:04.862-05:00","updated":"2025-02-25T21:09:52.417-05:00"}
+{"dg-publish":true,"permalink":"/1-party/the-plague-wardens/dr-buckles/","tags":["player"],"created":"2025-02-22T17:44:04.000-05:00","updated":"2025-02-25T21:09:52.410-05:00"}
 ---
 
 # Dr. Buckles

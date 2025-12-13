@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/stormwreck-isle/compass-rose/","created":"2025-03-18T18:25:21.284-04:00","updated":"2025-03-18T18:28:08.553-04:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/stormwreck-isle/compass-rose/","created":"2025-03-18T18:25:21.000-04:00","updated":"2025-03-18T18:28:08.550-04:00"}
 ---
 
 >[!infobox]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/ice-storm-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/level/4th-level","ttrpg-cli/spell/school/evocation","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/artillerist","ttrpg-cli/spell/subclass/circle-of-the-land","ttrpg-cli/spell/subclass/eldritch-knight","ttrpg-cli/spell/subclass/evoker","ttrpg-cli/spell/subclass/oath-of-the-ancients"],"created":"2025-03-01T17:25:23.865-05:00","updated":"2025-04-11T16:42:20.121-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/ice-storm-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/level/4th-level","ttrpg-cli/spell/school/evocation","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/artillerist","ttrpg-cli/spell/subclass/circle-of-the-land","ttrpg-cli/spell/subclass/eldritch-knight","ttrpg-cli/spell/subclass/evoker","ttrpg-cli/spell/subclass/oath-of-the-ancients"],"created":"2025-03-01T17:25:23.000-05:00","updated":"2025-04-11T16:42:20.120-04:00"}
 ---
 
 # Ice Storm

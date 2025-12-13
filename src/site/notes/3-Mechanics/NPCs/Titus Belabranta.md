@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/titus-belabranta/","tags":["NPC"],"created":"2025-03-13T09:29:13.628-04:00","updated":"2025-03-13T19:53:37.240-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/titus-belabranta/","tags":["NPC"],"created":"2025-03-13T09:29:13.000-04:00","updated":"2025-03-13T19:53:37.230-04:00"}
 ---
 
 > [!column] Basic Details
@@ -17,6 +17,7 @@
 | --------------------------------------------------------------------------- |
 | [[1-Session Journals/The Plague Wardens Journal/Session 10\|Session 10]] |
 | [[1-Session Journals/The Plague Wardens Journal/Session 11\|Session 11]] |
+| [[1-Session Journals/The Plague Wardens Journal/Session 13\|Session 13]] |
 
 { .block-language-dataview}
 

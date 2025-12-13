@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/selune/","created":"2025-04-07T13:43:59.184-04:00","updated":"2025-04-07T13:51:20.314-04:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/selune/","created":"2025-04-07T13:43:59.000-04:00","updated":"2025-04-07T13:51:20.310-04:00"}
 ---
 
 ![Selune Symbol.png|center](/img/user/z_Assets/Selune%20Symbol.png)

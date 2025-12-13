@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/items/dust-of-disappearance-xdmg/","tags":["ttrpg-cli/compendium/src/5e/xdmg","ttrpg-cli/item/rarity/uncommon"],"created":"2025-03-01T17:25:27.981-05:00","updated":"2025-04-10T12:09:22.450-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/items/dust-of-disappearance-xdmg/","tags":["ttrpg-cli/compendium/src/5e/xdmg","ttrpg-cli/item/rarity/uncommon"],"created":"2025-03-01T17:25:27.000-05:00","updated":"2025-04-10T12:09:22.450-04:00"}
 ---
 
 # Dust of Disappearance

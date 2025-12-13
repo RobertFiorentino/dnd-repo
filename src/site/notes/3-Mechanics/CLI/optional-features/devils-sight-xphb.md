@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/optional-features/devils-sight-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/optional-feature/ei"],"created":"2025-03-01T17:25:22.443-05:00","updated":"2025-03-01T18:44:36.634-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/optional-features/devils-sight-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/optional-feature/ei"],"created":"2025-03-01T17:25:22.000-05:00","updated":"2025-03-01T18:44:36.630-05:00"}
 ---
 
 # Devil's Sight

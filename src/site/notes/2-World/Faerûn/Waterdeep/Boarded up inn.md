@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/boarded-up-inn/","created":"2025-02-22T18:33:07.951-05:00","updated":"2025-03-13T20:24:51.003-04:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/boarded-up-inn/","created":"2025-02-22T18:33:07.000-05:00","updated":"2025-03-13T20:24:51.000-04:00"}
 ---
 
 | Sessions Appeared                                                           |

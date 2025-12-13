@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/baldurs-gate/circus-of-hostages/","created":"2025-02-22T16:51:31.576-05:00","updated":"2025-02-25T16:26:19.993-05:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/baldurs-gate/circus-of-hostages/","created":"2025-02-22T16:51:31.000-05:00","updated":"2025-02-25T16:26:19.990-05:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/books/dungeon-masters-guide-2024/06-chapter-6-cosmology/","tags":["ttrpg-cli/compendium/src/5e/xdmg"],"created":"2025-03-01T17:25:19.166-05:00","updated":"2025-03-02T13:39:50.179-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/books/dungeon-masters-guide-2024/06-chapter-6-cosmology/","tags":["ttrpg-cli/compendium/src/5e/xdmg"],"created":"2025-03-01T17:25:19.000-05:00","updated":"2025-03-02T13:39:50.170-05:00"}
 ---
 
 # Chapter 6: Cosmology

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/the-dream-team/isarin-duskweaver/","tags":["player"],"created":"2025-03-08T15:08:51.252-05:00","updated":"2025-04-01T13:26:13.757-04:00"}
+{"dg-publish":true,"permalink":"/1-party/the-dream-team/isarin-duskweaver/","tags":["player"],"created":"2025-03-08T15:08:51.000-05:00","updated":"2025-04-01T13:26:13.750-04:00"}
 ---
 
 

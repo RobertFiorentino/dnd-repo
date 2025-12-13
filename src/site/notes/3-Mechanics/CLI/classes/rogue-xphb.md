@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/rogue-xphb/","tags":["ttrpg-cli/class/rogue","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-03-01T17:25:18.010-05:00","updated":"2025-03-01T19:30:54.895-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/rogue-xphb/","tags":["ttrpg-cli/class/rogue","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-03-01T17:25:18.000-05:00","updated":"2025-03-01T19:30:54.890-05:00"}
 ---
 
 # Rogue

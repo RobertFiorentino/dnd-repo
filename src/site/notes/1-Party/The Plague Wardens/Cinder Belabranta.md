@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/the-plague-wardens/cinder-belabranta/","tags":["player"],"created":"2025-02-22T14:10:57.263-05:00","updated":"2025-04-01T17:45:02.826-04:00"}
+{"dg-publish":true,"permalink":"/1-party/the-plague-wardens/cinder-belabranta/","tags":["player"],"created":"2025-02-22T14:10:57.000-05:00","updated":"2025-04-01T17:45:02.820-04:00"}
 ---
 
 # Cinder Belabranta

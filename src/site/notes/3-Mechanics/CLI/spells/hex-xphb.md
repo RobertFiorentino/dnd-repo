@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/hex-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/warlock","ttrpg-cli/spell/feat/fey-touched","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/school/enchantment","ttrpg-cli/spell/subclass/great-old-one-patron"],"created":"2025-03-01T17:25:23.017-05:00","updated":"2025-03-13T17:20:05.887-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/hex-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/warlock","ttrpg-cli/spell/feat/fey-touched","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/school/enchantment","ttrpg-cli/spell/subclass/great-old-one-patron"],"created":"2025-03-01T17:25:23.000-05:00","updated":"2025-03-13T17:20:05.880-04:00"}
 ---
 
 # Hex

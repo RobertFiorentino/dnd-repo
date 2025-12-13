@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/beast/giant-octopus-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1","ttrpg-cli/monster/environment/underwater","ttrpg-cli/monster/size/large","ttrpg-cli/monster/type/beast"],"created":"2025-03-01T17:25:19.979-05:00","updated":"2025-03-01T18:44:36.645-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/beast/giant-octopus-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1","ttrpg-cli/monster/environment/underwater","ttrpg-cli/monster/size/large","ttrpg-cli/monster/type/beast"],"created":"2025-03-01T17:25:19.000-05:00","updated":"2025-03-01T18:44:36.640-05:00"}
 ---
 
 # [Giant Octopus](3-Mechanics/CLI/bestiary/beast/giant-octopus-xmm.md)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/the-dream-team/goliath/","tags":["player"],"created":"2025-03-31T21:29:42.052-04:00","updated":"2025-03-31T21:57:30.108-04:00"}
+{"dg-publish":true,"permalink":"/1-party/the-dream-team/goliath/","tags":["player"],"created":"2025-03-31T21:29:42.000-04:00","updated":"2025-03-31T21:57:30.100-04:00"}
 ---
 
 

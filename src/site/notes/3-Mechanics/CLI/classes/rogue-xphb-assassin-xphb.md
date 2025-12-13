@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/rogue-xphb-assassin-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/subclass/rogue/assassin"],"created":"2025-03-01T17:25:17.687-05:00","updated":"2025-03-01T18:44:36.641-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/rogue-xphb-assassin-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/subclass/rogue/assassin"],"created":"2025-03-01T17:25:17.000-05:00","updated":"2025-03-01T18:44:36.640-05:00"}
 ---
 
 # Assassin

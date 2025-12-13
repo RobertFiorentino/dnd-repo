@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/paladin-xphb/","tags":["ttrpg-cli/class/paladin","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-03-01T17:25:17.883-05:00","updated":"2025-03-01T19:28:42.512-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/paladin-xphb/","tags":["ttrpg-cli/class/paladin","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-03-01T17:25:17.000-05:00","updated":"2025-03-01T19:28:42.510-05:00"}
 ---
 
 # Paladin

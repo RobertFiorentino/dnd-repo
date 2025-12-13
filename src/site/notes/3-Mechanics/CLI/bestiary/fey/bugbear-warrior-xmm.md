@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/fey/bugbear-warrior-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1","ttrpg-cli/monster/environment/feywild","ttrpg-cli/monster/environment/forest","ttrpg-cli/monster/environment/grassland","ttrpg-cli/monster/environment/planar","ttrpg-cli/monster/environment/underdark","ttrpg-cli/monster/size/medium","ttrpg-cli/monster/type/fey/goblinoid"],"created":"2025-03-01T17:25:20.354-05:00","updated":"2025-04-01T12:21:34.713-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/fey/bugbear-warrior-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1","ttrpg-cli/monster/environment/feywild","ttrpg-cli/monster/environment/forest","ttrpg-cli/monster/environment/grassland","ttrpg-cli/monster/environment/planar","ttrpg-cli/monster/environment/underdark","ttrpg-cli/monster/size/medium","ttrpg-cli/monster/type/fey/goblinoid"],"created":"2025-03-01T17:25:20.000-05:00","updated":"2025-04-01T12:21:34.710-04:00"}
 ---
 
 # [Bugbear Warrior](3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md)

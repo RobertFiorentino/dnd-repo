@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/items/mariners-armor-xdmg/","tags":["ttrpg-cli/compendium/src/5e/xdmg","ttrpg-cli/item/armor/heavy","ttrpg-cli/item/armor/light","ttrpg-cli/item/armor/medium","ttrpg-cli/item/rarity/uncommon"],"created":"2025-03-01T17:25:28.834-05:00","updated":"2025-04-10T12:09:22.451-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/items/mariners-armor-xdmg/","tags":["ttrpg-cli/compendium/src/5e/xdmg","ttrpg-cli/item/armor/heavy","ttrpg-cli/item/armor/light","ttrpg-cli/item/armor/medium","ttrpg-cli/item/rarity/uncommon"],"created":"2025-03-01T17:25:28.000-05:00","updated":"2025-04-10T12:09:22.450-04:00"}
 ---
 
 # Mariner's Armor

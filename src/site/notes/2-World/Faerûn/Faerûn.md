@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/faerun/","created":"2025-02-22T15:18:16.039-05:00","updated":"2025-02-24T20:02:14.858-05:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/faerun/","created":"2025-02-22T15:18:16.000-05:00","updated":"2025-02-24T20:02:14.850-05:00"}
 ---
 
 

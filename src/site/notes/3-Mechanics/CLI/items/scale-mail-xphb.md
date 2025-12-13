@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/items/scale-mail-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/item/armor/medium","ttrpg-cli/item/rarity/none"],"created":"2025-03-01T17:25:25.753-05:00","updated":"2025-03-01T18:44:36.647-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/items/scale-mail-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/item/armor/medium","ttrpg-cli/item/rarity/none"],"created":"2025-03-01T17:25:25.000-05:00","updated":"2025-03-01T18:44:36.640-05:00"}
 ---
 
 # Scale Mail

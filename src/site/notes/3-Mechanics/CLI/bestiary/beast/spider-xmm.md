@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/beast/spider-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/0","ttrpg-cli/monster/environment/desert","ttrpg-cli/monster/environment/forest","ttrpg-cli/monster/environment/swamp","ttrpg-cli/monster/environment/underdark","ttrpg-cli/monster/environment/urban","ttrpg-cli/monster/size/tiny","ttrpg-cli/monster/type/beast"],"created":"2025-03-01T17:25:19.914-05:00","updated":"2025-04-01T12:21:34.711-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/beast/spider-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/0","ttrpg-cli/monster/environment/desert","ttrpg-cli/monster/environment/forest","ttrpg-cli/monster/environment/swamp","ttrpg-cli/monster/environment/underdark","ttrpg-cli/monster/environment/urban","ttrpg-cli/monster/size/tiny","ttrpg-cli/monster/type/beast"],"created":"2025-03-01T17:25:19.000-05:00","updated":"2025-04-01T12:21:34.710-04:00"}
 ---
 
 # [Spider](3-Mechanics/CLI/bestiary/beast/spider-xmm.md)
