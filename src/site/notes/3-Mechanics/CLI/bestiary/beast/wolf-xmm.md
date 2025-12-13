@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/beast/wolf-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1-4","ttrpg-cli/monster/environment/forest","ttrpg-cli/monster/environment/grassland","ttrpg-cli/monster/environment/hill","ttrpg-cli/monster/size/medium","ttrpg-cli/monster/type/beast"],"created":"2025-03-01T17:25:20.187-05:00","updated":"2025-04-01T12:21:34.711-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/beast/wolf-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1-4","ttrpg-cli/monster/environment/forest","ttrpg-cli/monster/environment/grassland","ttrpg-cli/monster/environment/hill","ttrpg-cli/monster/size/medium","ttrpg-cli/monster/type/beast"],"created":"2025-03-01T17:25:20.000-05:00","updated":"2025-04-01T12:21:34.710-04:00"}
 ---
 
 # [Wolf](3-Mechanics/CLI/bestiary/beast/wolf-xmm.md)

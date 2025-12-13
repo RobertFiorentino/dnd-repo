@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/spiritual-weapon-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/cleric","ttrpg-cli/spell/level/2nd-level","ttrpg-cli/spell/school/evocation","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/divine-soul","ttrpg-cli/spell/subclass/oath-of-conquest","ttrpg-cli/spell/subclass/war-domain"],"created":"2025-03-01T17:25:23.611-05:00","updated":"2025-03-25T22:27:48.480-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/spiritual-weapon-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/cleric","ttrpg-cli/spell/level/2nd-level","ttrpg-cli/spell/school/evocation","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/divine-soul","ttrpg-cli/spell/subclass/oath-of-conquest","ttrpg-cli/spell/subclass/war-domain"],"created":"2025-03-01T17:25:23.000-05:00","updated":"2025-03-25T22:27:48.480-04:00"}
 ---
 
 # Spiritual Weapon

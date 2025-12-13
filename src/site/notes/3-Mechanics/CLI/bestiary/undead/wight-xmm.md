@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/undead/wight-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/3","ttrpg-cli/monster/environment/desert","ttrpg-cli/monster/environment/planar","ttrpg-cli/monster/environment/shadowfell","ttrpg-cli/monster/environment/swamp","ttrpg-cli/monster/environment/underdark","ttrpg-cli/monster/environment/urban","ttrpg-cli/monster/size/medium","ttrpg-cli/monster/type/undead"],"created":"2025-03-01T17:25:21.235-05:00","updated":"2025-03-01T18:44:36.651-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/undead/wight-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/3","ttrpg-cli/monster/environment/desert","ttrpg-cli/monster/environment/planar","ttrpg-cli/monster/environment/shadowfell","ttrpg-cli/monster/environment/swamp","ttrpg-cli/monster/environment/underdark","ttrpg-cli/monster/environment/urban","ttrpg-cli/monster/size/medium","ttrpg-cli/monster/type/undead"],"created":"2025-03-01T17:25:21.000-05:00","updated":"2025-03-01T18:44:36.650-05:00"}
 ---
 
 # [Wight](3-Mechanics/CLI/bestiary/undead/wight-xmm.md)

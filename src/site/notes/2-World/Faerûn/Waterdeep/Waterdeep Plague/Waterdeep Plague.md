@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/waterdeep-plague/waterdeep-plague/","created":"2025-02-22T18:12:57.812-05:00","updated":"2025-03-13T16:20:19.344-04:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/waterdeep-plague/waterdeep-plague/","created":"2025-02-22T18:12:57.000-05:00","updated":"2025-03-13T16:20:19.340-04:00"}
 ---
 
 ![WaterdeepPlagueConspiracy.png|right|450](/img/user/z_Assets/WaterdeepPlagueConspiracy.png)

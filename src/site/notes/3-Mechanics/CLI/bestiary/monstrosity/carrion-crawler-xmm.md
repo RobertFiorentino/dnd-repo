@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/monstrosity/carrion-crawler-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/2","ttrpg-cli/monster/environment/underdark","ttrpg-cli/monster/environment/urban","ttrpg-cli/monster/size/large","ttrpg-cli/monster/type/monstrosity"],"created":"2025-03-01T17:25:19.553-05:00","updated":"2025-03-01T18:35:28.469-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/monstrosity/carrion-crawler-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/2","ttrpg-cli/monster/environment/underdark","ttrpg-cli/monster/environment/urban","ttrpg-cli/monster/size/large","ttrpg-cli/monster/type/monstrosity"],"created":"2025-03-01T17:25:19.000-05:00","updated":"2025-03-01T18:35:28.460-05:00"}
 ---
 
 # [Carrion Crawler](3-Mechanics/CLI/bestiary/monstrosity/carrion-crawler-xmm.md)

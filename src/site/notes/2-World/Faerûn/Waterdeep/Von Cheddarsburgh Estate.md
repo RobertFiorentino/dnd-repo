@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/von-cheddarsburgh-estate/","created":"2025-03-12T22:26:32.155-04:00","updated":"2025-03-13T20:24:41.852-04:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/von-cheddarsburgh-estate/","created":"2025-03-12T22:26:32.000-04:00","updated":"2025-03-13T20:24:41.850-04:00"}
 ---
 
 | Sessions Appeared                                                           |

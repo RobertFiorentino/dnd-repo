@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/bard-xphb/","tags":["ttrpg-cli/class/bard","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-03-01T17:25:18.014-05:00","updated":"2025-04-10T15:32:05.844-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/bard-xphb/","tags":["ttrpg-cli/class/bard","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-03-01T17:25:18.000-05:00","updated":"2025-04-10T15:32:05.840-04:00"}
 ---
 
 # Bard

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/waterdeep-plague/black-goo/","created":"2025-02-22T18:32:55.431-05:00","updated":"2025-02-25T21:42:27.104-05:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/waterdeep-plague/black-goo/","created":"2025-02-22T18:32:55.000-05:00","updated":"2025-02-25T21:42:27.100-05:00"}
 ---
 
 | Sessions Appeared                                                           |

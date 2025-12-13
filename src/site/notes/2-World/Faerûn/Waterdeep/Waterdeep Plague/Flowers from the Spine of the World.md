@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/waterdeep-plague/flowers-from-the-spine-of-the-world/","created":"2025-03-12T20:34:53.149-04:00","updated":"2025-03-13T17:23:43.257-04:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/waterdeep-plague/flowers-from-the-spine-of-the-world/","created":"2025-03-12T20:34:53.000-04:00","updated":"2025-03-13T17:23:43.250-04:00"}
 ---
 
 

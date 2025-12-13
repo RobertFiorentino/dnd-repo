@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/monstrosity/stirge-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1-8","ttrpg-cli/monster/environment/desert","ttrpg-cli/monster/environment/forest","ttrpg-cli/monster/environment/grassland","ttrpg-cli/monster/environment/hill","ttrpg-cli/monster/environment/mountain","ttrpg-cli/monster/environment/swamp","ttrpg-cli/monster/environment/underdark","ttrpg-cli/monster/environment/urban","ttrpg-cli/monster/size/tiny","ttrpg-cli/monster/type/monstrosity"],"created":"2025-03-01T17:25:19.745-05:00","updated":"2025-03-25T22:27:48.484-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/monstrosity/stirge-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1-8","ttrpg-cli/monster/environment/desert","ttrpg-cli/monster/environment/forest","ttrpg-cli/monster/environment/grassland","ttrpg-cli/monster/environment/hill","ttrpg-cli/monster/environment/mountain","ttrpg-cli/monster/environment/swamp","ttrpg-cli/monster/environment/underdark","ttrpg-cli/monster/environment/urban","ttrpg-cli/monster/size/tiny","ttrpg-cli/monster/type/monstrosity"],"created":"2025-03-01T17:25:19.000-05:00","updated":"2025-03-25T22:27:48.480-04:00"}
 ---
 
 # [Stirge](3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md)

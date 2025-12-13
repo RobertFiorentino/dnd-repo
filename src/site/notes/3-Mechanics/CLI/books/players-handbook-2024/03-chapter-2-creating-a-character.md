@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/books/players-handbook-2024/03-chapter-2-creating-a-character/","tags":["ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-03-01T17:25:19.256-05:00","updated":"2025-03-01T18:37:57.372-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/books/players-handbook-2024/03-chapter-2-creating-a-character/","tags":["ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-03-01T17:25:19.000-05:00","updated":"2025-03-01T18:37:57.370-05:00"}
 ---
 
 # Chapter 2: Creating a Character

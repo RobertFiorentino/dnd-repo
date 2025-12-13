@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/neverwinter-wood/","created":"2025-04-01T12:16:15.597-04:00","updated":"2025-04-01T12:19:39.321-04:00"}
+{"dg-publish":true,"permalink":"/2-world/neverwinter-wood/","created":"2025-04-01T12:16:15.000-04:00","updated":"2025-04-01T12:19:39.320-04:00"}
 ---
 
 >[!infobox]

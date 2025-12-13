@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/waterdeep/","tags":["Category/Settlement"],"created":"2025-02-22T16:39:58.745-05:00","updated":"2025-02-25T21:30:02.571-05:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/waterdeep/","tags":["Category/Settlement"],"created":"2025-02-22T16:39:58.000-05:00","updated":"2025-02-25T21:30:02.570-05:00"}
 ---
 
 > [!infobox]

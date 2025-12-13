@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/druid-xphb-circle-of-the-moon-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/subclass/druid/moon"],"created":"2025-03-01T17:25:18.038-05:00","updated":"2025-04-01T12:21:34.709-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/druid-xphb-circle-of-the-moon-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/subclass/druid/moon"],"created":"2025-03-01T17:25:18.000-05:00","updated":"2025-04-01T12:21:34.700-04:00"}
 ---
 
 # Circle of the Moon

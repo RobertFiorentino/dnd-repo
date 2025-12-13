@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/guiding-bolt-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/cleric","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/school/evocation","ttrpg-cli/spell/subclass/celestial-patron","ttrpg-cli/spell/subclass/circle-of-the-stars","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/divine-soul","ttrpg-cli/spell/subclass/oath-of-glory","ttrpg-cli/spell/subclass/war-domain"],"created":"2025-03-01T17:25:23.830-05:00","updated":"2025-03-25T22:27:48.479-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/guiding-bolt-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/cleric","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/school/evocation","ttrpg-cli/spell/subclass/celestial-patron","ttrpg-cli/spell/subclass/circle-of-the-stars","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/divine-soul","ttrpg-cli/spell/subclass/oath-of-glory","ttrpg-cli/spell/subclass/war-domain"],"created":"2025-03-01T17:25:23.000-05:00","updated":"2025-03-25T22:27:48.470-04:00"}
 ---
 
 # Guiding Bolt

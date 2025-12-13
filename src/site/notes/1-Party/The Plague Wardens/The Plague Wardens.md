@@ -32,7 +32,7 @@ A party of adventurers tasked with uncovering the source of the [[2-World/Faerû
 
 | Session                                                                     | Summary                                                                                       |
 | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [[1-Session Journals/The Plague Wardens Journal/Session 13\|Session 13]] | TBD                                                                                           |
+| [[1-Session Journals/The Plague Wardens Journal/Session 13\|Session 13]] | Arrival at the Wood Elf city brings past conflict to the present                              |
 | [[1-Session Journals/The Plague Wardens Journal/Session 12\|Session 12]] | Battled the butler, guards, and the Von Cheddarsburghs                                        |
 | [[1-Session Journals/The Plague Wardens Journal/Session 11\|Session 11]] | Investigated the butler and found the real Von Cheddarsburgh imprisoned                       |
 | [[1-Session Journals/The Plague Wardens Journal/Session 10\|Session 10]] | Titus was coronated first king of Waterdeep while the party is accused of starting the plague |

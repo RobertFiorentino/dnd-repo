@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/monstrosity/displacer-beast-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/3","ttrpg-cli/monster/environment/forest","ttrpg-cli/monster/size/large","ttrpg-cli/monster/type/monstrosity"],"created":"2025-03-01T17:25:19.639-05:00","updated":"2025-03-01T18:44:36.646-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/monstrosity/displacer-beast-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/3","ttrpg-cli/monster/environment/forest","ttrpg-cli/monster/size/large","ttrpg-cli/monster/type/monstrosity"],"created":"2025-03-01T17:25:19.000-05:00","updated":"2025-03-01T18:44:36.640-05:00"}
 ---
 
 # [Displacer Beast](3-Mechanics/CLI/bestiary/monstrosity/displacer-beast-xmm.md)

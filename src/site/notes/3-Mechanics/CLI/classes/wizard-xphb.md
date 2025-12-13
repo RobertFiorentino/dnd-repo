@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/wizard-xphb/","tags":["ttrpg-cli/class/wizard","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-03-01T17:25:18.078-05:00","updated":"2025-03-01T18:44:36.643-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/wizard-xphb/","tags":["ttrpg-cli/class/wizard","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-03-01T17:25:18.000-05:00","updated":"2025-03-01T18:44:36.640-05:00"}
 ---
 
 # Wizard

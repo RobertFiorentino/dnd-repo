@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/vicious-mockery-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/level/cantrip","ttrpg-cli/spell/optfeature/pact-of-the-tome","ttrpg-cli/spell/school/enchantment"],"created":"2025-03-01T17:25:24.118-05:00","updated":"2025-04-01T12:21:34.713-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/vicious-mockery-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/level/cantrip","ttrpg-cli/spell/optfeature/pact-of-the-tome","ttrpg-cli/spell/school/enchantment"],"created":"2025-03-01T17:25:24.000-05:00","updated":"2025-04-01T12:21:34.710-04:00"}
 ---
 
 # Vicious Mockery

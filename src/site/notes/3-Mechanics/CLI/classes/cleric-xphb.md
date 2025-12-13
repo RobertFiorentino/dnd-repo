@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/cleric-xphb/","tags":["ttrpg-cli/class/cleric","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-03-01T17:25:17.861-05:00","updated":"2025-03-01T18:44:36.642-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/cleric-xphb/","tags":["ttrpg-cli/class/cleric","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-03-01T17:25:17.000-05:00","updated":"2025-03-01T18:44:36.640-05:00"}
 ---
 
 # Cleric

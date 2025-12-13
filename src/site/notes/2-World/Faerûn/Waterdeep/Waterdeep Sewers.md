@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/waterdeep-sewers/","tags":["Category/Settlement"],"created":"2025-02-23T11:37:41.720-05:00","updated":"2025-02-25T21:46:54.088-05:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/waterdeep-sewers/","tags":["Category/Settlement"],"created":"2025-02-23T11:37:41.000-05:00","updated":"2025-02-25T21:46:54.080-05:00"}
 ---
 
 > [!infobox]
