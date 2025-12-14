@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/gunther-wuldrogen/","tags":["NPC"],"created":"2025-03-30T00:01:35.176-04:00","updated":"2025-04-01T12:20:46.445-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/gunther-wuldrogen/","tags":["NPC"],"created":"2025-03-30T00:01:35.000-04:00","updated":"2025-04-01T12:20:46.440-04:00"}
 ---
 
 

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/gerad-the-butler/","tags":["NPC"],"created":"2025-04-10T11:56:32.000-04:00","updated":"2025-04-10T11:57:29.240-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/captain-thalindra-moonspear/","tags":["NPC"],"created":"2025-12-13T10:21:52.396-05:00","updated":"2025-12-13T10:24:03.965-05:00"}
 ---
 
 
 > [!infobox]
-> ##### Gerad The Butler
+> ##### Captain Thalindra Moonspear
 >  ![ImagePlaceholder.png|cover hsmall](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
 > ##### Details
 > | | |
@@ -12,11 +12,10 @@
 > | Race | `=this.Race` |
 > | Gender | `=this.Gender` |
 > | Age | `=this.Age` |
-> | Locations | `=this.Locations` |
+> | Locations | [[2-World/Suldanessellar\|Suldanessellar]] |
 > | Groups | `=this.AssociatedGroup` |
 > ###### Sessions Appeared
->  - [[1-Session Journals/The Plague Wardens Journal/Session 11\|Session 11]]
-> - [[1-Session Journals/The Plague Wardens Journal/Session 12\|Session 12]]
+>  - [[1-Session Journals/The Plague Wardens Journal/Session 13\|Session 13]]
 > 
 { .block-language-dataview}
 
@@ -27,7 +26,7 @@
 
 
 #### Description
-A butler at the [[2-World/Faerûn/Waterdeep/Von Cheddarsburgh Estate\|Von Cheddarsburgh Estate]] who was installed by [[3-Mechanics/NPCs/Titus Belabranta\|Titus Belabranta]] and imprisoned the real [[3-Mechanics/NPCs/Marco & Victoria Von Cheddarsburgh\|Marco & Victoria Von Cheddarsburgh]].
+Gate Captain, stern, loyal to tradition.
 %%
 > [!NOTE]- Relationships
 > Parents:

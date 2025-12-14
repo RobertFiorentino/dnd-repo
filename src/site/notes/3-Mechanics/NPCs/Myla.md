@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/myla/","tags":["NPC"],"created":"2025-03-18T17:40:57.894-04:00","updated":"2025-03-25T22:44:08.562-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/myla/","tags":["NPC"],"created":"2025-03-18T17:40:57.000-04:00","updated":"2025-03-25T22:44:08.560-04:00"}
 ---
 
 

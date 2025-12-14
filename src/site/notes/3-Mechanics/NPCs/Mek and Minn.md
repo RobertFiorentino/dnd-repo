@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/mek-and-minn/","tags":["NPC"],"created":"2025-03-22T11:37:39.035-04:00","updated":"2025-03-25T22:34:59.800-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/mek-and-minn/","tags":["NPC"],"created":"2025-03-22T11:37:39.000-04:00","updated":"2025-03-25T22:34:59.800-04:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/guilds-and-groups/flaming-fist/","tags":["Category/Group"],"created":"2025-02-23T17:21:19.993-05:00","updated":"2025-02-25T21:49:41.484-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/guilds-and-groups/flaming-fist/","tags":["Category/Group"],"created":"2025-02-23T17:21:19.000-05:00","updated":"2025-02-25T21:49:41.480-05:00"}
 ---
 
 

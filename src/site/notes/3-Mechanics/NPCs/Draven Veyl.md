@@ -1,21 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/lord-malgrin/","tags":["NPC"],"created":"2025-03-31T22:59:34.000-04:00","updated":"2025-03-31T23:00:56.780-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/draven-veyl/","tags":["NPC"],"created":"2025-12-13T10:25:28.780-05:00","updated":"2025-12-13T10:26:03.465-05:00"}
 ---
 
 
 > [!infobox]
-> ##### Lord Malgrin
+> ##### Draven Veyl
 >  ![ImagePlaceholder.png|cover hsmall](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
 > ##### Details
 > | | |
 > |---|---|
-> | Race | Human |
+> | Race | `=this.Race` |
 > | Gender | Male |
 > | Age | `=this.Age` |
-> | Locations | `=this.Locations` |
+> | Locations | [[2-World/Suldanessellar\|Suldanessellar]] |
 > | Groups | `=this.AssociatedGroup` |
 > ###### Sessions Appeared
->  
+>  - [[1-Session Journals/The Plague Wardens Journal/Session 13\|Session 13]]
+> 
 { .block-language-dataview}
 
 #### Appearance
@@ -25,11 +26,8 @@
 
 
 #### Description
-Seems to be up something in the Neverwinter area.
-
+Plague Doctor, masked, unsettling presence, rumored Talona cultist
 %%
-
-Warlock - pact with Orcus the demon prince of undeath. Wants to end death by making everyone undead, starting by taking over Neverwinter.
 > [!NOTE]- Relationships
 > Parents:
 > Partner:

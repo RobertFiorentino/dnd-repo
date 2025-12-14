@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/guilds-and-groups/council-on-the-plague/","tags":["Category/Group"],"created":"2025-02-24T13:20:19.999-05:00","updated":"2025-02-25T16:09:53.873-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/guilds-and-groups/council-on-the-plague/","tags":["Category/Group"],"created":"2025-02-24T13:20:19.000-05:00","updated":"2025-02-25T16:09:53.870-05:00"}
 ---
 
 
@@ -13,8 +13,8 @@
 > | [[3-Mechanics/NPCs/Alabaster Cunningham\|Alabaster Cunningham]] | <ul><li>Human</li></ul>    | Male   |
 > | [[3-Mechanics/NPCs/Kalas Tuin\|Kalas Tuin]]                     | <ul><li>Drow Elf</li></ul> | Male   |
 > | [[3-Mechanics/NPCs/Lara Romanov\|Lara Romanov]]                 | <ul><li>Half-Elf</li></ul> | Male   |
-> | [[3-Mechanics/NPCs/Warwick Mahningham\|Warwick Mahningham]]     | <ul><li>Halfling</li></ul> | Male   |
 > | [[3-Mechanics/NPCs/Thurgor Oakensunder\|Thurgor Oakensunder]]   | <ul><li>Dwarf</li></ul>    | Male   |
+> | [[3-Mechanics/NPCs/Warwick Mahningham\|Warwick Mahningham]]     | <ul><li>Halfling</li></ul> | Male   |
 > 
 { .block-language-dataview}
 > ###### Sessions Appeared

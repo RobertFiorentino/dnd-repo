@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/kalas-tuin/","tags":["NPC"],"created":"2025-02-26T20:41:30.211-05:00","updated":"2025-03-13T19:53:01.356-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/kalas-tuin/","tags":["NPC"],"created":"2025-02-26T20:41:30.000-05:00","updated":"2025-03-13T19:53:01.350-04:00"}
 ---
 
 > [!column] Basic Details

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/laverneous/","tags":["NPC"],"created":"2025-02-23T10:37:12.686-05:00","updated":"2025-02-25T21:54:36.167-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/laverneous/","tags":["NPC"],"created":"2025-02-23T10:37:12.000-05:00","updated":"2025-02-25T21:54:36.160-05:00"}
 ---
 
 > [!column] Basic Details
@@ -24,5 +24,6 @@ The most handsome person we've ever seen. A famous and accomplished performer.
 | [[1-Session Journals/The Plague Wardens Journal/Session 06\|Session 06]] |
 | [[1-Session Journals/The Plague Wardens Journal/Session 07\|Session 07]] |
 | [[1-Session Journals/The Plague Wardens Journal/Session 08\|Session 08]] |
+| [[1-Session Journals/The Plague Wardens Journal/Session 13\|Session 13]] |
 
 { .block-language-dataview}

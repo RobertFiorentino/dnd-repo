@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/starry-wisp-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/feat/druidic-warrior","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/feat/wood-elf-magic","ttrpg-cli/spell/level/cantrip","ttrpg-cli/spell/optfeature/pact-of-the-tome","ttrpg-cli/spell/school/evocation","ttrpg-cli/spell/subclass/circle-of-the-moon","ttrpg-cli/spell/subclass/college-of-lore"],"created":"2025-03-01T17:25:22.968-05:00","updated":"2025-04-01T12:21:34.704-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/starry-wisp-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/feat/druidic-warrior","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/feat/wood-elf-magic","ttrpg-cli/spell/level/cantrip","ttrpg-cli/spell/optfeature/pact-of-the-tome","ttrpg-cli/spell/school/evocation","ttrpg-cli/spell/subclass/circle-of-the-moon","ttrpg-cli/spell/subclass/college-of-lore"],"created":"2025-03-01T17:25:22.000-05:00","updated":"2025-04-01T12:21:34.700-04:00"}
 ---
 
 # Starry Wisp

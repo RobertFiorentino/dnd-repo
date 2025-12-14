@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-templates/template-magic-item/","tags":["item"],"created":"2025-02-19T20:56:05.000-05:00","updated":"2025-03-22T12:15:20.386-04:00"}
+{"dg-publish":true,"permalink":"/z-templates/template-magic-item/","tags":["item"],"created":"2025-02-19T20:56:05.000-05:00","updated":"2025-03-22T12:15:20.380-04:00"}
 ---
 
 

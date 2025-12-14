@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/murk-tail/","tags":["NPC"],"created":"2025-03-12T21:01:35.328-04:00","updated":"2025-03-13T09:27:48.766-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/murk-tail/","tags":["NPC"],"created":"2025-03-12T21:01:35.000-04:00","updated":"2025-03-13T09:27:48.760-04:00"}
 ---
 
 > [!column] Basic Details

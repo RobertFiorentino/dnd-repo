@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/marco-and-victoria-von-cheddarsburgh/","tags":["NPC"],"created":"2025-03-27T20:47:58.263-04:00","updated":"2025-04-01T12:21:34.712-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/marco-and-victoria-von-cheddarsburgh/","tags":["NPC"],"created":"2025-03-27T20:47:58.000-04:00","updated":"2025-04-01T12:21:34.710-04:00"}
 ---
 
 

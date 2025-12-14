@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/warwick-mahningham/","tags":["NPC"],"created":"2025-02-26T20:39:34.786-05:00","updated":"2025-03-13T19:53:56.269-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/warwick-mahningham/","tags":["NPC"],"created":"2025-02-26T20:39:34.000-05:00","updated":"2025-03-13T19:53:56.260-04:00"}
 ---
 
 > [!column] Basic Details

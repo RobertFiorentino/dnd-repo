@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/runara/","tags":["NPC"],"created":"2025-03-17T22:24:49.200-04:00","updated":"2025-03-25T22:44:08.561-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/runara/","tags":["NPC"],"created":"2025-03-17T22:24:49.000-04:00","updated":"2025-03-25T22:44:08.560-04:00"}
 ---
 
 > [!infobox]

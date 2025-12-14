@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/laylee/","tags":["NPC"],"created":"2025-03-18T17:44:34.898-04:00","updated":"2025-03-25T22:44:08.563-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/laylee/","tags":["NPC"],"created":"2025-03-18T17:44:34.000-04:00","updated":"2025-03-25T22:44:08.560-04:00"}
 ---
 
 

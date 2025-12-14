@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/shatter-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/warlock","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/level/2nd-level","ttrpg-cli/spell/school/evocation","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/armorer","ttrpg-cli/spell/subclass/artillerist","ttrpg-cli/spell/subclass/circle-of-the-sea","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/eldritch-knight","ttrpg-cli/spell/subclass/evoker"],"created":"2025-03-01T17:25:22.791-05:00","updated":"2025-03-25T22:27:48.477-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/shatter-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/warlock","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/level/2nd-level","ttrpg-cli/spell/school/evocation","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/armorer","ttrpg-cli/spell/subclass/artillerist","ttrpg-cli/spell/subclass/circle-of-the-sea","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/eldritch-knight","ttrpg-cli/spell/subclass/evoker"],"created":"2025-03-01T17:25:22.000-05:00","updated":"2025-03-25T22:27:48.470-04:00"}
 ---
 
 # Shatter

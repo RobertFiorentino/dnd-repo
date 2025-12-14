@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/lara-romanov/","tags":["NPC"],"created":"2025-02-26T20:29:10.961-05:00","updated":"2025-03-13T19:53:19.027-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/lara-romanov/","tags":["NPC"],"created":"2025-02-26T20:29:10.000-05:00","updated":"2025-03-13T19:53:19.020-04:00"}
 ---
 
 > [!column] Basic Details
