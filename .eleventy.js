@@ -217,32 +217,36 @@ module.exports = function (eleventyConfig) {
         };
       md.renderer.rules.image = (tokens, idx, options, env, self) => {
         const imageName = tokens[idx].content;
-        //"image.png|metadata?|width"
-        const [fileName, ...widthAndMetaData] = imageName.split("|");
-        const lastValue = widthAndMetaData[widthAndMetaData.length - 1];
-        const lastValueIsNumber = !isNaN(lastValue);
-        const width = lastValueIsNumber ? lastValue : null;
-
-        let metaData = "";
-        if (widthAndMetaData.length > 1) {
-          metaData = widthAndMetaData.slice(0, widthAndMetaData.length - 1).join(" ");
-        }
-
-        if (!lastValueIsNumber) {
-          metaData += ` ${lastValue}`;
-        }
-
-        if (width) {
-          const widthIndex = tokens[idx].attrIndex("width");
-          const widthAttr = `${width}px`;
-          if (widthIndex < 0) {
-            tokens[idx].attrPush(["width", widthAttr]);
-          } else {
-            tokens[idx].attrs[widthIndex][1] = widthAttr;
+      
+        // Split on pipe to get filename and metadata
+        const [fileName, ...metaParts] = imageName.split("|");
+      
+        let width = null;
+        let alignmentClass = "";
+      
+        // Process each metadata part
+        metaParts.forEach(part => {
+          const trimmed = part.trim().toLowerCase();
+          if (!isNaN(trimmed)) {
+            width = `${trimmed}px`;
+          } else if (["left", "right", "center"].includes(trimmed)) {
+            alignmentClass = `img-${trimmed}`;
           }
+        });
+      
+        // Set src and alt
+        tokens[idx].attrs = tokens[idx].attrs || [];
+        tokens[idx].attrs.push(["src", `/z_Assets/${fileName}`]);
+        tokens[idx].attrs.push(["alt", fileName]);
+      
+        if (width) {
+          tokens[idx].attrs.push(["width", width]);
         }
-
-        return defaultImageRule(tokens, idx, options, env, self);
+        if (alignmentClass) {
+          tokens[idx].attrs.push(["class", alignmentClass]);
+        }
+      
+        return self.renderToken(tokens, idx, options);
       };
 
       const defaultLinkRule =
