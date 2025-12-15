@@ -11,3 +11,26 @@ body {
     //   color: black;
     //  }
 }
+
+.img-left,
+img.img-left,
+picture.img-left {
+  float: left;
+  margin: 0 1em 1em 0;
+  display: inline-block;
+}
+
+.img-right,
+img.img-right,
+picture.img-right {
+  float: right;
+  margin: 0 0 1em 1em;
+  display: inline-block;
+}
+
+.img-center,
+img.img-center,
+picture.img-center {
+  display: block;
+  margin: 1em auto;
+}
