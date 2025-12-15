@@ -418,6 +418,9 @@ module.exports = function (eleventyConfig) {
 
   function fillPictureSourceSets(src, cls, alt, meta, width, imageTag) {
     imageTag.tagName = "picture";
+    if (cls) {
+      imageTag.setAttribute("class", cls.toString());
+    }
     let html = `<source
       media="(max-width:480px)"
       srcset="${meta.webp[0].url}"
