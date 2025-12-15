@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/the-plague-wardens-journal/session-13/","created":"2025-11-30T18:47:43.085-05:00","updated":"2025-12-15T14:33:40.072-05:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/the-plague-wardens-journal/session-13/","created":"2025-11-30T18:47:43.085-05:00","updated":"2025-12-15T16:49:52.169-05:00"}
 ---
 
 >[!infobox]
@@ -25,19 +25,11 @@ After some banter back and forth, it was agreed that the plague wardens could me
 
 Suddenly, horns blared and it was declared the Drow were attacking! The council made a hasty offer to the group: prove your worth in battle and then we can see about working together. Sent with them to oversee was a rock gnome cleric named [[1-Party/The Plague Wardens/Brerik\|Brerik]] who was quick to crack a joke. Also joining was [[1-Party/The Plague Wardens/Corin SwiftShadow\|Corin SwiftShadow]], a halfling bard. As they raced to defend the Ward Stones that protect the city, Corin spoke about trying to find out about his lost brother. It was revealed that his brother was none other than the famous bard [[3-Mechanics/NPCs/Laverneous\|Laverneous]], who was captured and killed by [[3-Mechanics/NPCs/Titus Belabranta\|Titus]]. Before they could tell the entire tale, torches flared near the Ward Stones and the group realized they were surrounded by enemies.
 
-<img
-  src="/z_Assets/brerik-charms-drow-mage.png"
-  style="float:left; margin:0 1.25rem 1rem 0; max-width:100%;"
-  width="200"
-/>A seemingly endless supply of drow warriors, spiders, and a mage came at the group from all angles. Early in the battle, the mage unleashed a deadly [[3-Mechanics/CLI/spells/cloudkill-xphb\|Cloudkill]] spell, sucking the breath and life  from some of the group. [[1-Party/The Plague Wardens/Brerik\|Brerik]], seemingly able to make anyone laugh, was able to [[3-Mechanics/CLI/spells/charm-person-xphb\|charm]] the mage and distracted him enough to lay off the devastating wizardry for a little while. [[1-Party/The Plague Wardens/Renan\|Renan]] stalked among the treetops, sniping at his hated Drow enemies.
+![brerik-charms-drow-mage 1.png|left|200](/img/user/z_Assets/brerik-charms-drow-mage%201.png)A seemingly endless supply of drow warriors, spiders, and a mage came at the group from all angles. Early in the battle, the mage unleashed a deadly [[3-Mechanics/CLI/spells/cloudkill-xphb\|Cloudkill]] spell, sucking the breath and life  from some of the group. [[1-Party/The Plague Wardens/Brerik\|Brerik]], seemingly able to make anyone laugh, was able to [[3-Mechanics/CLI/spells/charm-person-xphb\|charm]] the mage and distracted him enough to lay off the devastating wizardry for a little while. [[1-Party/The Plague Wardens/Renan\|Renan]] stalked among the treetops, sniping at his hated Drow enemies.
 
 [[1-Party/The Plague Wardens/Corin SwiftShadow\|Corin]] sang songs of battle that [[3-Mechanics/CLI/spells/enlarge-reduce-xphb\|shrunk]] an elite warrior down to fun-size, but the warrior still packed a huge punch with his multiple deadly attacks. [[1-Party/The Plague Wardens/Cinder Belabranta\|Cinder]] had a tough day of battle, trying to forgo his darker powers but coming close to death due to the cloudkill and barrage from the elite warrior. The new additions of [[1-Party/The Plague Wardens/Brerik\|Brerik]] and [[1-Party/The Plague Wardens/Corin SwiftShadow\|Corin]] were both able to bring the party back up to full strength, and boy did this group miss having healers!
 
-<img
-  src="/z_Assets/ragnar-tiny-drow-elite.png"
-  style="float:right; margin:0 1.25rem 1rem 0; max-width:100%;"
-  width="400"
-/>While the regular Drow warriors could not get through [[1-Party/The Plague Wardens/Ragnar\|Ragnar]]'s plate, the elite still was running rampant. [[1-Party/The Plague Wardens/Ragnar\|Ragnar]] got fed up and threw the tiny menace into the cloudkill, while also unleashing a mighty smite and finishing off the once-friendly mage as well. The remaining spiders fled with their masters slain. As the party examined the Ward Stones, something strange happened...
+![ragnar-tiny-drow-elite 1.png|right|400](/img/user/z_Assets/ragnar-tiny-drow-elite%201.png)While the regular Drow warriors could not get through [[1-Party/The Plague Wardens/Ragnar\|Ragnar]]'s plate, the elite still was running rampant. [[1-Party/The Plague Wardens/Ragnar\|Ragnar]] got fed up and threw the tiny menace into the cloudkill, while also unleashing a mighty smite and finishing off the once-friendly mage as well. The remaining spiders fled with their masters slain. As the party examined the Ward Stones, something strange happened...
 <br>
 
 ### Locations
