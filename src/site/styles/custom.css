@@ -32,3 +32,18 @@ img {
     opacity: 1;
     pointer-events: auto;
 }
+
+img.img-left {
+  float: left;
+  margin: 0 1em 1em 0;
+}
+
+img.img-right {
+  float: right;
+  margin: 0 0 1em 1em;
+}
+
+img.img-center {
+  display: block;
+  margin: 1em auto;
+}
