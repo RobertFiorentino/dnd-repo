@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/suldanessellar/","tags":["Category/Settlement"],"created":"2025-12-13T10:16:19.043-05:00","updated":"2025-12-13T10:20:23.681-05:00"}
+{"dg-publish":true,"permalink":"/2-world/suldanessellar/","tags":["Category/Settlement"],"created":"2025-12-13T10:16:19.043-05:00","updated":"2025-12-15T17:53:28.248-05:00"}
 ---
 
 
@@ -44,7 +44,7 @@
 Suldanessellar is an elven city in the Forest of Tethir. It is ruled by Queen Ellesime and housed the Tree of Life. The city is a meeting place for elves and their tribes; a location all elves of the forest called home at one time or another.
 
 ### Placeholder Map
-![Pasted image 20251213101802.png](/img/user/z_Assets/Pasted%20image%2020251213101802.png)
+![Wealdath-Map.png](/img/user/z_Assets/Wealdath-Map.png)
 
 ### Placeholder Picture
 
