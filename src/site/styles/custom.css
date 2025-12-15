@@ -47,3 +47,19 @@ img.img-center {
   display: block;
   margin: 1em auto;
 }
+
+/* Float applied to either <img> or <picture> */
+.img-left {
+  float: left;
+  margin: 0 1em 1em 0;
+}
+
+.img-right {
+  float: right;
+  margin: 0 0 1em 1em;
+}
+
+.img-center {
+  display: block;
+  margin: 1em auto;
+}
