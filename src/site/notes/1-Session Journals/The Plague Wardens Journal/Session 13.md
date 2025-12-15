@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/the-plague-wardens-journal/session-13/","created":"2025-11-30T18:47:43.085-05:00","updated":"2025-12-15T13:53:15.894-05:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/the-plague-wardens-journal/session-13/","created":"2025-11-30T18:47:43.085-05:00","updated":"2025-12-15T14:27:26.473-05:00"}
 ---
 
 >[!infobox]
@@ -29,7 +29,7 @@ Suddenly, horns blared and it was declared the Drow were attacking! The council 
   src="/z_Assets/brerik-charms-mage.png"
   style="float:left; margin:0 1.25rem 1rem 0; max-width:100%;"
   width="200"
-/>A seemingly endless supply of Drow warriors, spiders, and a mage came at the group from all angles. Early in the battle, the mage unleashed a deadly [[3-Mechanics/CLI/spells/cloudkill-xphb\|Cloudkill]] spell, sucking the breath and life  from some of the group. [[1-Party/The Plague Wardens/Brerik\|Brerik]], seemingly able to make anyone laugh, was able to [[3-Mechanics/CLI/spells/charm-person-xphb\|charm]] the mage and distracted him enough to lay off the devastating wizardry for a little while. [[1-Party/The Plague Wardens/Renan\|Renan]] stalked among the treetops, sniping at his hated Drow enemies.
+/>A seemingly endless supply of drow warriors, spiders, and a mage came at the group from all angles. Early in the battle, the mage unleashed a deadly [[3-Mechanics/CLI/spells/cloudkill-xphb\|Cloudkill]] spell, sucking the breath and life  from some of the group. [[1-Party/The Plague Wardens/Brerik\|Brerik]], seemingly able to make anyone laugh, was able to [[3-Mechanics/CLI/spells/charm-person-xphb\|charm]] the mage and distracted him enough to lay off the devastating wizardry for a little while. [[1-Party/The Plague Wardens/Renan\|Renan]] stalked among the treetops, sniping at his hated Drow enemies.
 
 [[1-Party/The Plague Wardens/Corin SwiftShadow\|Corin]] sang songs of battle that [[3-Mechanics/CLI/spells/enlarge-reduce-xphb\|shrunk]] an elite warrior down to fun-size, but the warrior still packed a huge punch with his multiple deadly attacks. [[1-Party/The Plague Wardens/Cinder Belabranta\|Cinder]] had a tough day of battle, trying to forgo his darker powers but coming close to death due to the cloudkill and barrage from the elite warrior. The new additions of [[1-Party/The Plague Wardens/Brerik\|Brerik]] and [[1-Party/The Plague Wardens/Corin SwiftShadow\|Corin]] were both able to bring the party back up to full strength, and boy did this group miss having healers!
 
