@@ -418,6 +418,11 @@ module.exports = function (eleventyConfig) {
 
   function fillPictureSourceSets(src, cls, alt, meta, width, imageTag) {
     imageTag.tagName = "picture";
+
+    imageTag.removeAttribute("src");
+    imageTag.removeAttribute("alt");
+    imageTag.removeAttribute("width");
+    
     if (cls) {
       imageTag.setAttribute("class", cls.toString());
     }
