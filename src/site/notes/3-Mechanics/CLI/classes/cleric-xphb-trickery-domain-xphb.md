@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/cleric-xphb-trickery-domain-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/domain/trickery","ttrpg-cli/subclass/cleric/trickery"],"created":"2025-03-01T17:25:17.000-05:00","updated":"2025-12-14T22:25:40.669-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/cleric-xphb-trickery-domain-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/domain/trickery","ttrpg-cli/subclass/cleric/trickery"],"created":"2025-03-01T17:25:17.000-05:00","updated":"2025-12-14T22:47:22.234-05:00"}
 ---
 
 # Trickery Domain
@@ -15,10 +15,10 @@
 > </thead><tbody>
 > <tr class="class-progression"><td class="level">1st</td><td class="pb">+2</td><td class="feature"></td></tr>
 > <tr class="class-progression"><td class="level">2nd</td><td class="pb">+2</td><td class="feature"></td></tr>
-> <tr class="class-progression"><td class="level">3rd</td><td class="pb">+2</td><td class="feature"><a href='#Trickery%20Domain%20(Level%203)%27>Trickery Domain</a></td></tr>
+> <tr class="class-progression"><td class="level">3rd</td><td class="pb">+2</td><td class="feature"><a href="#Trickery%20Domain%20(Level%203)%27">Trickery Domain</a></td></tr>
 > <tr class="class-progression"><td class="level">4th</td><td class="pb">+2</td><td class="feature"></td></tr>
 > <tr class="class-progression"><td class="level">5th</td><td class="pb">+3</td><td class="feature"></td></tr>
-> <tr class="class-progression"><td class="level">6th</td><td class="pb">+3</td><td class="feature"><a href='#Trickster%27s%20Transposition%20(Level%206)'>Trickster's Transposition</a></td></tr>
+> <tr class="class-progression"><td class="level">6th</td><td class="pb">+3</td><td class="feature"><a href="#Trickster%27s%20Transposition%20(Level%206)%27">Trickster's Transposition</a></td></tr>
 > <tr class="class-progression"><td class="level">7th</td><td class="pb">+3</td><td class="feature"></td></tr>
 > <tr class="class-progression"><td class="level">8th</td><td class="pb">+3</td><td class="feature"></td></tr>
 > <tr class="class-progression"><td class="level">9th</td><td class="pb">+4</td><td class="feature"></td></tr>
@@ -29,7 +29,7 @@
 > <tr class="class-progression"><td class="level">14th</td><td class="pb">+5</td><td class="feature"></td></tr>
 > <tr class="class-progression"><td class="level">15th</td><td class="pb">+5</td><td class="feature"></td></tr>
 > <tr class="class-progression"><td class="level">16th</td><td class="pb">+5</td><td class="feature"></td></tr>
-> <tr class="class-progression"><td class="level">17th</td><td class="pb">+6</td><td class="feature"><a href='#Improved%20Duplicity%20(Level%2017)%27>Improved Duplicity</a></td></tr>
+> <tr class="class-progression"><td class="level">17th</td><td class="pb">+6</td><td class="feature"><a href="#Improved%20Duplicity%20(Level%2017)%27">Improved Duplicity</a></td></tr>
 > <tr class="class-progression"><td class="level">18th</td><td class="pb">+6</td><td class="feature"></td></tr>
 > <tr class="class-progression"><td class="level">19th</td><td class="pb">+6</td><td class="feature"></td></tr>
 > <tr class="class-progression"><td class="level">20th</td><td class="pb">+6</td><td class="feature"></td></tr>
