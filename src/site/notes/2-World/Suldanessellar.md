@@ -37,6 +37,7 @@
 { .block-language-dataview}
 > ###### Sessions Appeared
 >  - [[1-Session Journals/The Plague Wardens Journal/Session 13\|Session 13]]
+> - [[1-Session Journals/The Plague Wardens Journal/Session 14\|Session 14]]
 > 
 { .block-language-dataview}
 

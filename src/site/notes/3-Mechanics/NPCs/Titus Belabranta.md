@@ -18,6 +18,7 @@
 | [[1-Session Journals/The Plague Wardens Journal/Session 10\|Session 10]] |
 | [[1-Session Journals/The Plague Wardens Journal/Session 11\|Session 11]] |
 | [[1-Session Journals/The Plague Wardens Journal/Session 13\|Session 13]] |
+| [[1-Session Journals/The Plague Wardens Journal/Session 14\|Session 14]] |
 
 { .block-language-dataview}
 

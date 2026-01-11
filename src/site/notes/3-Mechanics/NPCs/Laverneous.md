@@ -25,5 +25,6 @@ The most handsome person we've ever seen. A famous and accomplished performer.
 | [[1-Session Journals/The Plague Wardens Journal/Session 07\|Session 07]] |
 | [[1-Session Journals/The Plague Wardens Journal/Session 08\|Session 08]] |
 | [[1-Session Journals/The Plague Wardens Journal/Session 13\|Session 13]] |
+| [[1-Session Journals/The Plague Wardens Journal/Session 14\|Session 14]] |
 
 { .block-language-dataview}
