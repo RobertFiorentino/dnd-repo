@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/phandelver-team-journal/session-01-phandelver/","tags":["journal"],"created":"2026-09-06T21:52:52.101-04:00","updated":"2026-09-06T22:14:33.585-04:00","dg-note-properties":{"NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Event Category 1"],"fc-display-name":null,"sessionstatus":["Occured"],"type":"Session Journal","sessionDate":"2026-09-04","players":4,"Status":["⏳"],"OneLiner":"The party travels to Phandalin but finds allies abducted by goblins","timelines":["journal"],"tags":["journal"]}}
+{"dg-publish":true,"permalink":"/1-session-journals/phandelver-team-journal/session-01-phandelver/","tags":["journal"],"created":"2026-09-06T21:52:52.101-04:00","updated":"2026-09-06T23:34:01.740-04:00","dg-note-properties":{"NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Event Category 1"],"fc-display-name":null,"sessionstatus":["Occured"],"type":"Session Journal","sessionDate":"2026-09-04","players":4,"Status":["⏳"],"OneLiner":"The party travels to Phandalin but finds allies abducted by goblins","timelines":["journal"],"tags":["journal"]}}
 ---
 
 # **Session 1: The Road to Phandalin**
@@ -118,3 +118,10 @@ And Phandalin still waits ahead—with a missing sheriff, increasingly dangerous
 For now, one thing is clear:
 
 Whatever Gundren discovered, someone else wants it badly enough to take him for it.
+
+![Brog.jpg](/img/user/z_Assets/Brog.jpg)
+![Rowan.jpg](/img/user/z_Assets/Rowan.jpg)
+![Nissan.png](/img/user/z_Assets/Nissan.png)
+![Dru.jpg](/img/user/z_Assets/Dru.jpg)
+![Gundren.jpeg](/img/user/z_Assets/Gundren.jpeg)
+![Sildar_Hallwinter.webp](/img/user/z_Assets/Sildar_Hallwinter.webp)
