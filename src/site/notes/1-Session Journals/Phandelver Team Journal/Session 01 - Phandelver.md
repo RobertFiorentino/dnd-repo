@@ -1,23 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/phandelver-team-journal/session-01-phandelver/","tags":["journal"],"created":"2026-09-06T21:52:52.101-04:00","updated":"2026-09-06T23:34:01.740-04:00","dg-note-properties":{"NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Event Category 1"],"fc-display-name":null,"sessionstatus":["Occured"],"type":"Session Journal","sessionDate":"2026-09-04","players":4,"Status":["⏳"],"OneLiner":"The party travels to Phandalin but finds allies abducted by goblins","timelines":["journal"],"tags":["journal"]}}
+{"dg-publish":true,"permalink":"/1-session-journals/phandelver-team-journal/session-01-phandelver/","tags":["journal"],"created":"2026-09-06T21:52:52.101-04:00","updated":"2026-09-06T23:44:19.785-04:00","dg-note-properties":{"NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Event Category 1"],"fc-display-name":null,"sessionstatus":["Occured"],"type":"Session Journal","sessionDate":"2026-09-04","players":4,"Status":["⏳"],"OneLiner":"The party travels to Phandalin but finds allies abducted by goblins","timelines":["journal"],"tags":["journal"]}}
 ---
 
 # **Session 1: The Road to Phandalin**
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <div style="width: 150px; height: 200px; overflow: hidden;">
-    <img src="z_Assets/Brog.jpg" style="object-fit: cover; object-position: center; width: 300px; height: 300px;">
-  </div>
-  <div style="width: 150px; height: 200px; overflow: hidden;">
-    <img src="z_Assets/Rowan.jpg" style="object-fit: cover; object-position: center; width: 300px; height: 300px;">
-  </div>
-  <div style="width: 150px; height: 200px; overflow: hidden;">
-    <img src="z_Assets/Nissan.png" style="object-fit: cover; object-position: center; width: 300px; height: 300px;">
-  </div>
-  <div style="width: 150px; height: 200px; overflow: hidden;">
-    <img src="z_Assets/Dru.jpg" style="object-fit: cover; object-position: center; width: 300px; height: 300px;">
-  </div>
-</div>
 
+![PhandelverParty.png\|center\|800](/img/user/z_Assets/PhandelverParty.png)
 Our adventure began in **Neverwinter**, where several paths unexpectedly converged.
 
 Gundren Rockseeker was preparing to return to Phandalin with his nephew **Brog**, fresh out of school and looking for something more interesting to do with his life—provided his uncle could stop calling him **“Brogadocious.”**
@@ -28,14 +15,7 @@ Before that explanation could go any further, **Nissan** arrived unexpectedly 
 
 Plans quickly changed. Gundren and Sildar would ride ahead while the others followed with Gundren’s wagon and supplies.
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <div style="width: 150px; height: 200px; overflow: hidden;">
-    <img src="z_Assets/Gundren.jpeg" style="object-fit: cover; object-position: center; width: 300px; height: 300px;">
-  </div>
-  <div style="width: 150px; height: 200px; overflow: hidden;">
-    <img src="z_Assets/Sildar_Hallwinter.webp" style="object-fit: cover; object-position: center; width: 300px; height: 300px;">
-  </div>
-</div>
+![GundrenSildar.png\|center\|400](/img/user/z_Assets/GundrenSildar.png)
 
 ## **The Puzzle Box**
 
@@ -118,10 +98,3 @@ And Phandalin still waits ahead—with a missing sheriff, increasingly dangerous
 For now, one thing is clear:
 
 Whatever Gundren discovered, someone else wants it badly enough to take him for it.
-
-![Brog.jpg](/img/user/z_Assets/Brog.jpg)
-![Rowan.jpg](/img/user/z_Assets/Rowan.jpg)
-![Nissan.png](/img/user/z_Assets/Nissan.png)
-![Dru.jpg](/img/user/z_Assets/Dru.jpg)
-![Gundren.jpeg](/img/user/z_Assets/Gundren.jpeg)
-![Sildar_Hallwinter.webp](/img/user/z_Assets/Sildar_Hallwinter.webp)
