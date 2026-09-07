@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/monstrosity/wererat-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/2","ttrpg-cli/monster/environment/forest","ttrpg-cli/monster/environment/urban","ttrpg-cli/monster/size/small-or-medium","ttrpg-cli/monster/type/monstrosity"],"created":"2025-03-01T17:25:19.000-05:00","updated":"2025-03-01T18:44:36.640-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/monstrosity/wererat-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/2","ttrpg-cli/monster/environment/forest","ttrpg-cli/monster/environment/urban","ttrpg-cli/monster/size/small-or-medium","ttrpg-cli/monster/type/monstrosity"],"created":"2025-03-01T18:44:36.000-05:00","updated":"2025-03-01T18:44:36.000-05:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-monster","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/2","ttrpg-cli/monster/environment/forest","ttrpg-cli/monster/environment/urban","ttrpg-cli/monster/size/small-or-medium","ttrpg-cli/monster/type/monstrosity"],"statblock":"inline","aliases":["Wererat"]}}
 ---
 
-# [Wererat](3-Mechanics/CLI/bestiary/monstrosity/wererat-xmm.md)
+# [[3-Mechanics/CLI/bestiary/monstrosity/wererat-xmm\|Wererat]]
 *Source: Monster Manual (2024) p. 325*  
 
 ## Wererat

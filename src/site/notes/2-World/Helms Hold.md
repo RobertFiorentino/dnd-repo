@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/helms-hold/","tags":["Category/Settlement"],"created":"2025-03-29T23:40:15.000-04:00","updated":"2025-03-30T08:29:47.680-04:00"}
+{"dg-publish":true,"permalink":"/2-world/helms-hold/","tags":["Category/Settlement"],"created":"2025-03-30T08:29:47.000-04:00","updated":"2025-03-30T08:29:47.000-04:00","dg-note-properties":{"NoteIcon":"settlement","tags":["Category/Settlement"],"Community-Size":null,"Alignment":null,"Government":null,"type":"Settlement","politics":null,"leader":null,"guildsgroups":null,"region":null,"size":null,"population":0,"commonraces":["Humans"],"religion":null,"exports":null,"imports":null}}
 ---
 
 
@@ -46,7 +46,7 @@
 Placeholder
 
 ### Map
-![Helms Hold Map.png|500](/img/user/z_Assets/Helms%20Hold%20Map.png)
+![Helms Hold Map.png\|500](/img/user/z_Assets/Helms%20Hold%20Map.png)
 
 ## Notable NPCs
 - [[3-Mechanics/NPCs/Gunther Wuldrogen\|Gunther Wuldrogen]]

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/sehanine-moonbow/","created":"2026-01-10T19:29:01.451-05:00","updated":"2026-01-10T20:52:48.773-05:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/sehanine-moonbow/","created":"2026-01-10T20:52:48.000-05:00","updated":"2026-01-10T20:52:48.000-05:00","dg-note-properties":{"tags":null}}
 ---
 
-![SehanineMoonbowCrying.png|center|400](/img/user/z_Assets/SehanineMoonbowCrying.png)
+![SehanineMoonbowCrying.png\|center\|400](/img/user/z_Assets/SehanineMoonbowCrying.png)
 | Sessions Appeared                                                           |
 | --------------------------------------------------------------------------- |
 | [[1-Session Journals/The Plague Wardens Journal/Session 14\|Session 14]] |

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/fey/sea-hag-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/2","ttrpg-cli/monster/environment/coastal","ttrpg-cli/monster/environment/underwater","ttrpg-cli/monster/size/medium","ttrpg-cli/monster/type/fey"],"created":"2025-03-01T17:25:20.000-05:00","updated":"2025-03-01T18:44:36.640-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/fey/sea-hag-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/2","ttrpg-cli/monster/environment/coastal","ttrpg-cli/monster/environment/underwater","ttrpg-cli/monster/size/medium","ttrpg-cli/monster/type/fey"],"created":"2025-03-01T18:44:36.000-05:00","updated":"2025-03-01T18:44:36.000-05:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-monster","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/2","ttrpg-cli/monster/environment/coastal","ttrpg-cli/monster/environment/underwater","ttrpg-cli/monster/size/medium","ttrpg-cli/monster/type/fey"],"statblock":"inline","aliases":["Sea Hag"]}}
 ---
 
-# [Sea Hag](3-Mechanics/CLI/bestiary/fey/sea-hag-xmm.md)
+# [[3-Mechanics/CLI/bestiary/fey/sea-hag-xmm\|Sea Hag]]
 *Source: Monster Manual (2024) p. 271*  
 
 ## Sea Hag
@@ -12,7 +12,7 @@
 - **Habitat.** Coastal, Underwater  
 - **Treasure.** Arcana  
 
-Sea hags loathe peace and beauty. Bitter, jealous creatures, they spread chaos and undermine joy however they can, undertaking elaborate deceptions to sow discord for its own sake. The hags' true forms are supernaturally vile, and their baleful gazes can strike down creatures [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) by their appearance.
+Sea hags loathe peace and beauty. Bitter, jealous creatures, they spread chaos and undermine joy however they can, undertaking elaborate deceptions to sow discord for its own sake. The hags' true forms are supernaturally vile, and their baleful gazes can strike down creatures [[3-Mechanics/CLI/rules/conditions#Frightened\|frightened]] by their appearance.
 
 Sea hags cloak themselves in illusions to work their schemes. Roll on or choose a result from the Sea Hag Disguises table to inspire a sea hag's illusion and how they might use it to wreak chaos and destruction.
 

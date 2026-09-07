@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/waterdeep-sewers/","tags":["Category/Settlement"],"created":"2025-02-23T11:37:41.000-05:00","updated":"2025-02-25T21:46:54.080-05:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/waterdeep-sewers/","tags":["Category/Settlement"],"created":"2025-02-25T21:46:54.000-05:00","updated":"2025-02-25T21:46:54.000-05:00","dg-note-properties":{"NoteIcon":"settlement","tags":["Category/Settlement"],"Community-Size":null,"Alignment":null,"Government":null,"type":"Location","politics":null,"leader":null,"guildsgroups":null,"region":["Sword Coast"],"size":"Unknown","population":0,"commonraces":["Humans"],"religion":null,"exports":null,"imports":null}}
 ---
 
 > [!infobox]

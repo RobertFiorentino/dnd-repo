@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/elemental/fume-drake-dosi/","tags":["ttrpg-cli/compendium/src/5e/dosi","ttrpg-cli/monster/cr/1-4","ttrpg-cli/monster/size/small","ttrpg-cli/monster/type/elemental"],"created":"2025-03-01T17:25:20.000-05:00","updated":"2025-03-25T22:27:48.480-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/elemental/fume-drake-dosi/","tags":["ttrpg-cli/compendium/src/5e/dosi","ttrpg-cli/monster/cr/1-4","ttrpg-cli/monster/size/small","ttrpg-cli/monster/type/elemental"],"created":"2025-03-25T22:27:48.000-04:00","updated":"2025-03-25T22:27:48.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-monster","tags":["ttrpg-cli/compendium/src/5e/dosi","ttrpg-cli/monster/cr/1-4","ttrpg-cli/monster/size/small","ttrpg-cli/monster/type/elemental"],"statblock":"inline","aliases":["Fume Drake"]}}
 ---
 
-# [Fume Drake](3-Mechanics/CLI/bestiary/elemental/fume-drake-dosi.md)
+# [[3-Mechanics/CLI/bestiary/elemental/fume-drake-dosi\|Fume Drake]]
 *Source: Dragons of Stormwreck Isle p. 41*  
 
 Fume drakes are mischievous creatures that arise from the lingering magical energy of a dead dragon. They resemble small, legless dragons formed from clouds of greenish smoke. They delight in causing pain and confusion in other creatures.

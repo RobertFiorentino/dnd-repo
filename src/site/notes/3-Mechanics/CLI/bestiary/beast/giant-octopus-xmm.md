@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/beast/giant-octopus-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1","ttrpg-cli/monster/environment/underwater","ttrpg-cli/monster/size/large","ttrpg-cli/monster/type/beast"],"created":"2025-03-01T17:25:19.000-05:00","updated":"2025-03-01T18:44:36.640-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/beast/giant-octopus-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1","ttrpg-cli/monster/environment/underwater","ttrpg-cli/monster/size/large","ttrpg-cli/monster/type/beast"],"created":"2025-03-01T18:44:36.000-05:00","updated":"2025-03-01T18:44:36.000-05:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-monster","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1","ttrpg-cli/monster/environment/underwater","ttrpg-cli/monster/size/large","ttrpg-cli/monster/type/beast"],"statblock":"inline","aliases":["Giant Octopus"]}}
 ---
 
-# [Giant Octopus](3-Mechanics/CLI/bestiary/beast/giant-octopus-xmm.md)
+# [[3-Mechanics/CLI/bestiary/beast/giant-octopus-xmm\|Giant Octopus]]
 *Source: Monster Manual (2024) p. 358*  
 
 ```statblock

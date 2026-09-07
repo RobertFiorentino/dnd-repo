@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/the-plague-wardens-journal/session-05/","created":"2025-02-23T00:43:16.000-05:00","updated":"2025-03-13T19:52:20.870-04:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/the-plague-wardens-journal/session-05/","created":"2025-03-13T19:52:20.000-04:00","updated":"2025-03-13T19:52:20.000-04:00","dg-note-properties":{"NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Event Category 1"],"fc-display-name":null,"sessionstatus":["Occured"],"type":"Session Journal","sessionDate":"2024-12-04","players":5,"Status":["⏳"],"OneLiner":"Got imprisoned by wererats, escaped and killed a frankenstein monster","timelines":["journal"],"tags":[]}}
 ---
 
 >[!infobox]
@@ -15,7 +15,7 @@ After some much needed time to bathe and shop back in the city, [[1-Party/The Pl
 
 It turns out that wasn't the brightest idea, as they were quickly outnumbered by a large contingent of [[3-Mechanics/CLI/bestiary/monstrosity/wererat-xmm\|Wererats]] and taken prisoner. Confined to cells underneath the [[2-World/Faerûn/Waterdeep/Rat Hills\|Rat Hills]], the party met fellow inmate [[3-Mechanics/NPCs/Laverneous\|Laverneous]], a famous performer. The [[3-Mechanics/Guilds and Groups/Plague Rats\|Plague Rats]] had kept him alive because of the entertainment he provided.
 
-![RatLab.png|right|500](/img/user/z_Assets/RatLab.png)Although the party's gear was taken, [[1-Party/The Plague Wardens/Cinder Belabranta\|Cinder Belabranta]] was able to [[3-Mechanics/CLI/spells/charm-person-xphb\|charm]] a guard (thankfully no material components were necessary). The guard gave the group valuable information, such as which way prisoners were brought to die and which way their belongings were. The guard released the group and they made their way to their possessions, where they also found a hidden exit to the sewers.
+![RatLab.png\|right\|500](/img/user/z_Assets/RatLab.png)Although the party's gear was taken, [[1-Party/The Plague Wardens/Cinder Belabranta\|Cinder Belabranta]] was able to [[3-Mechanics/CLI/spells/charm-person-xphb\|charm]] a guard (thankfully no material components were necessary). The guard gave the group valuable information, such as which way prisoners were brought to die and which way their belongings were. The guard released the group and they made their way to their possessions, where they also found a hidden exit to the sewers.
 
 Torn between escaping with their lives and furthering their investigation, the group went back to investigate despite overwhelming numbers of wererats nearby. They found what appeared to be an alchemical lab or surgery center, where a Frankenstein-like monster was being created. The group quickly dispatched all enemies, and attempted to restrain the principal doctor. However, they forgot that wererats can transform into rats and he was able to escape.
 <br>

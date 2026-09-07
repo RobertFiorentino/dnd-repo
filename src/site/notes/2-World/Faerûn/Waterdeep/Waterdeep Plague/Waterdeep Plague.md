@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/waterdeep-plague/waterdeep-plague/","created":"2025-02-22T18:12:57.000-05:00","updated":"2025-03-13T16:20:19.340-04:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/waterdeep-plague/waterdeep-plague/","created":"2025-03-13T16:20:19.000-04:00","updated":"2025-03-13T16:20:19.000-04:00","dg-note-properties":{}}
 ---
 
-![WaterdeepPlagueConspiracy.png|right|450](/img/user/z_Assets/WaterdeepPlagueConspiracy.png)
+![WaterdeepPlagueConspiracy.png\|right\|450](/img/user/z_Assets/WaterdeepPlagueConspiracy.png)
 
 In 1551 DR, the city of [[2-World/Faerûn/Waterdeep/Waterdeep\|Waterdeep]] was beset by a terrible plague. [[1-Party/The Plague Wardens/The Plague Wardens\|The Plague Wardens]] were tasked by the [[3-Mechanics/Guilds and Groups/Council on the Plague\|Council on the Plague]] to uncover the source of plague.
 

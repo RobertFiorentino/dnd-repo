@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/the-plague-wardens-journal/session-01/","tags":["journal"],"created":"2025-02-22T18:03:19.000-05:00","updated":"2025-03-13T19:52:20.850-04:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/the-plague-wardens-journal/session-01/","tags":["journal"],"created":"2025-03-13T19:52:20.000-04:00","updated":"2025-03-13T19:52:20.000-04:00","dg-note-properties":{"NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Event Category 1"],"fc-display-name":null,"sessionstatus":["Occured"],"type":"Session Journal","sessionDate":"2024-10-09","players":6,"Status":["⏳"],"OneLiner":"Got our backstory, formed a party, and started investigating the Waterdeep Plague","timelines":["journal"],"tags":["journal"]}}
 ---
 
 >[!infobox]
@@ -17,8 +17,8 @@
 
 
 >[!infobox]
->![BucklesWell.png|400](/img/user/z_Assets/BucklesWell.png)
->![CinderYelling.png|300](/img/user/z_Assets/CinderYelling.png)
+>![BucklesWell.png\|400](/img/user/z_Assets/BucklesWell.png)
+>![CinderYelling.png\|300](/img/user/z_Assets/CinderYelling.png)
 
 The [[2-World/Faerûn/Waterdeep/Waterdeep Plague/Waterdeep Plague\|Waterdeep Plague]] has ravaged the city of [[2-World/Faerûn/Waterdeep/Waterdeep\|Waterdeep]]. The party was assembled by the [[3-Mechanics/Guilds and Groups/Council on the Plague\|Council on the Plague]]. For whatever reason, the members of party have proven immune to the plague.
 

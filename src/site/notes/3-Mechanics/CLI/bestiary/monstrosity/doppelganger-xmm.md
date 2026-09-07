@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/monstrosity/doppelganger-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/3","ttrpg-cli/monster/environment/underdark","ttrpg-cli/monster/environment/urban","ttrpg-cli/monster/size/medium","ttrpg-cli/monster/type/monstrosity"],"created":"2025-03-01T17:25:19.000-05:00","updated":"2025-04-11T16:42:20.110-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/monstrosity/doppelganger-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/3","ttrpg-cli/monster/environment/underdark","ttrpg-cli/monster/environment/urban","ttrpg-cli/monster/size/medium","ttrpg-cli/monster/type/monstrosity"],"created":"2025-04-11T16:42:20.000-04:00","updated":"2025-04-11T16:42:20.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-monster","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/3","ttrpg-cli/monster/environment/underdark","ttrpg-cli/monster/environment/urban","ttrpg-cli/monster/size/medium","ttrpg-cli/monster/type/monstrosity"],"statblock":"inline","aliases":["Doppelganger"]}}
 ---
 
-# [Doppelganger](3-Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm.md)
+# [[3-Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm\|Doppelganger]]
 *Source: Monster Manual (2024) p. 100*  
 
 ## Doppelganger

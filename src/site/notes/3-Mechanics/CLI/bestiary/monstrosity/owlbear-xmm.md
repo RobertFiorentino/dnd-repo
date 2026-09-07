@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/monstrosity/owlbear-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/3","ttrpg-cli/monster/environment/forest","ttrpg-cli/monster/size/large","ttrpg-cli/monster/type/monstrosity"],"created":"2025-03-01T17:25:19.000-05:00","updated":"2025-03-01T18:44:36.640-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/monstrosity/owlbear-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/3","ttrpg-cli/monster/environment/forest","ttrpg-cli/monster/size/large","ttrpg-cli/monster/type/monstrosity"],"created":"2025-03-01T18:44:36.000-05:00","updated":"2025-03-01T18:44:36.000-05:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-monster","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/3","ttrpg-cli/monster/environment/forest","ttrpg-cli/monster/size/large","ttrpg-cli/monster/type/monstrosity"],"statblock":"inline","aliases":["Owlbear"]}}
 ---
 
-# [Owlbear](3-Mechanics/CLI/bestiary/monstrosity/owlbear-xmm.md)
+# [[3-Mechanics/CLI/bestiary/monstrosity/owlbear-xmm\|Owlbear]]
 *Source: Monster Manual (2024) p. 234*  
 
 Owlbears are tenacious hunters that might track prey over miles and rarely give up their hunts.

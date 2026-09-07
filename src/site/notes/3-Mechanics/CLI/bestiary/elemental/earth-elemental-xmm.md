@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/elemental/earth-elemental-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/5","ttrpg-cli/monster/environment/earth","ttrpg-cli/monster/environment/mountain","ttrpg-cli/monster/environment/planar","ttrpg-cli/monster/environment/underdark","ttrpg-cli/monster/size/large","ttrpg-cli/monster/type/elemental"],"created":"2025-03-01T17:25:20.000-05:00","updated":"2026-01-10T20:52:48.777-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/elemental/earth-elemental-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/5","ttrpg-cli/monster/environment/earth","ttrpg-cli/monster/environment/mountain","ttrpg-cli/monster/environment/planar","ttrpg-cli/monster/environment/underdark","ttrpg-cli/monster/size/large","ttrpg-cli/monster/type/elemental"],"created":"2026-01-10T20:52:48.000-05:00","updated":"2026-01-10T20:52:48.000-05:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-monster","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/5","ttrpg-cli/monster/environment/earth","ttrpg-cli/monster/environment/mountain","ttrpg-cli/monster/environment/planar","ttrpg-cli/monster/environment/underdark","ttrpg-cli/monster/size/large","ttrpg-cli/monster/type/elemental"],"statblock":"inline","aliases":["Earth Elemental"]}}
 ---
 
-# [Earth Elemental](3-Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md)
+# [[3-Mechanics/CLI/bestiary/elemental/earth-elemental-xmm\|Earth Elemental]]
 *Source: Monster Manual (2024) p. 108*  
 
 ## Earth Elemental

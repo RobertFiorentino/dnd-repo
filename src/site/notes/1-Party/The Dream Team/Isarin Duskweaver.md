@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/the-dream-team/isarin-duskweaver/","tags":["player"],"created":"2025-03-08T15:08:51.000-05:00","updated":"2025-04-01T13:26:13.750-04:00"}
+{"dg-publish":true,"permalink":"/1-party/the-dream-team/isarin-duskweaver/","tags":["player"],"created":"2025-04-01T13:26:13.000-04:00","updated":"2025-04-01T13:26:13.000-04:00","dg-note-properties":{"NoteIcon":"player","aliases":["Isarin"],"tags":["player"],"Player":"Finn","Role":"Player","Class":["[[3-Mechanics/CLI/classes/wizard-xphb|Wizard]]"],"Race":["High Elf"],"level":3,"hp":0,"ac":0,"modifier":2,"pasperc":0,"Status":"Active","PlayerKnownLanguages":["Celestial","Common","Dwarvish","Elvish"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"spells":{"slots1":4,"slots2":2}}}
 ---
 
 

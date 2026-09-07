@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/the-plague-wardens-journal/session-02/","created":"2025-02-22T22:36:27.000-05:00","updated":"2025-03-13T19:52:20.860-04:00"}
+{"dg-publish":true,"permalink":"/1-session-journals/the-plague-wardens-journal/session-02/","created":"2025-03-13T19:52:20.000-04:00","updated":"2025-03-13T19:52:20.000-04:00","dg-note-properties":{"NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Event Category 1"],"fc-display-name":null,"sessionstatus":["Occured"],"type":"Session Journal","sessionDate":"2024-10-23","players":5,"Status":["⏳"],"OneLiner":"Continued exploring the sewers, encountered a wererat","timelines":["journal"],"tags":[]}}
 ---
 
 >[!infobox]
@@ -16,7 +16,7 @@
 
 
 
-![CynthoriaRuns.png|right|300](/img/user/z_Assets/CynthoriaRuns.png)[[1-Party/The Plague Wardens/Cynthoria\|Cynthoria]] was not able to continue the search through the sewers, apparently contracting such an explosive case of diarrhea she would later pass away.
+![CynthoriaRuns.png\|right\|300](/img/user/z_Assets/CynthoriaRuns.png)[[1-Party/The Plague Wardens/Cynthoria\|Cynthoria]] was not able to continue the search through the sewers, apparently contracting such an explosive case of diarrhea she would later pass away.
 
 After finishing off the goblins, the party found an alchemical lab and a man casually burning papers that seemed to be evidence, who paid no mind to the group. While pressed for information, he seemingly disappeared. While searching through the burning papers, [[1-Party/The Plague Wardens/Dr. Buckles\|Dr. Buckles]] recovered a paper and seemed to recognize something.
 

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/monstrosity/carrion-crawler-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/2","ttrpg-cli/monster/environment/underdark","ttrpg-cli/monster/environment/urban","ttrpg-cli/monster/size/large","ttrpg-cli/monster/type/monstrosity"],"created":"2025-03-01T17:25:19.000-05:00","updated":"2025-03-01T18:35:28.460-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/monstrosity/carrion-crawler-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/2","ttrpg-cli/monster/environment/underdark","ttrpg-cli/monster/environment/urban","ttrpg-cli/monster/size/large","ttrpg-cli/monster/type/monstrosity"],"created":"2025-03-01T18:35:28.000-05:00","updated":"2025-03-01T18:35:28.000-05:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-monster","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/2","ttrpg-cli/monster/environment/underdark","ttrpg-cli/monster/environment/urban","ttrpg-cli/monster/size/large","ttrpg-cli/monster/type/monstrosity"],"statblock":"inline","aliases":["Carrion Crawler"]}}
 ---
 
-# [Carrion Crawler](3-Mechanics/CLI/bestiary/monstrosity/carrion-crawler-xmm.md)
+# [[3-Mechanics/CLI/bestiary/monstrosity/carrion-crawler-xmm\|Carrion Crawler]]
 *Source: Monster Manual (2024) p. 66*  
 
 ## Carrion Crawler
@@ -14,7 +14,7 @@
 
 Ravenous corpse eaters, carrion crawlers gravitate toward places of slaughter and decay. In such charnel environs, they feast on the dead with no qualms about their meals' origins or freshness.
 
-Carrion crawlers have segmented bodies like gigantic cutworms. From beneath their multipart maws protrude eight thin, lashing tentacles. Creatures struck by these tentacles risk being [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed) and consumed.
+Carrion crawlers have segmented bodies like gigantic cutworms. From beneath their multipart maws protrude eight thin, lashing tentacles. Creatures struck by these tentacles risk being [[3-Mechanics/CLI/rules/conditions#Paralyzed\|paralyzed]] and consumed.
 
 Carrion crawlers scour sewers, battlefields, necropolises, and fetid wildernesses for corpses, clinging to ceilings to ambush smaller prey and to avoid competing hunters. They're drawn to light and the scent of blood, recognizing them as signs of food.
 

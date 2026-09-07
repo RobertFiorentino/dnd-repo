@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/suldanessellar/","tags":["Category/Settlement"],"created":"2025-12-13T10:16:19.043-05:00","updated":"2025-12-15T17:53:28.248-05:00"}
+{"dg-publish":true,"permalink":"/2-world/suldanessellar/","tags":["Category/Settlement"],"created":"2025-12-15T17:53:28.000-05:00","updated":"2025-12-15T17:53:28.000-05:00","dg-note-properties":{"NoteIcon":"settlement","tags":["Category/Settlement"],"Community-Size":null,"Alignment":null,"Government":null,"type":"Settlement","politics":null,"leader":null,"guildsgroups":null,"region":null,"size":null,"population":0,"commonraces":["Humans"],"religion":null,"exports":null,"imports":null}}
 ---
 
 
 > [!infobox]
 > # Suldanessellar 
-> ![Suldanessellar.png|600](/img/user/z_Assets/Suldanessellar.png)
+> ![Suldanessellar.png\|600](/img/user/z_Assets/Suldanessellar.png)
 > ###### Geography
 > | |  |
 > |---|---|

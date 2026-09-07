@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/cleric-xphb-trickery-domain-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/domain/trickery","ttrpg-cli/subclass/cleric/trickery"],"created":"2025-03-01T17:25:17.000-05:00","updated":"2025-12-14T22:47:22.234-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/cleric-xphb-trickery-domain-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/domain/trickery","ttrpg-cli/subclass/cleric/trickery"],"created":"2025-12-14T22:47:22.000-05:00","updated":"2025-12-14T22:47:22.000-05:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-class"],"tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/domain/trickery","ttrpg-cli/subclass/cleric/trickery"],"aliases":null}}
 ---
 
 # Trickery Domain
-*[Cleric](cleric-xphb.md): Cleric Subclass*  
+*[[3-Mechanics/CLI/classes/cleric-xphb\|Cleric]]: Cleric Subclass*  
 *Source: Player's Handbook (2024) p. 75*  
 
 > [!tldr] Class and Feature Progression
@@ -55,19 +55,19 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Prepared Spells |
 |--------------|-----------------|
-| 3rd | [Charm Person](3-Mechanics/CLI/spells/charm-person-xphb.md), [Disguise Self](3-Mechanics/CLI/spells/disguise-self-xphb.md), [Invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md), [Pass without Trace](3-Mechanics/CLI/spells/pass-without-trace-xphb.md) |
-| 5th | [Hypnotic Pattern](3-Mechanics/CLI/spells/hypnotic-pattern-xphb.md), [Nondetection](3-Mechanics/CLI/spells/nondetection-xphb.md) |
-| 7th | [Confusion](3-Mechanics/CLI/spells/confusion-xphb.md), [Dimension Door](3-Mechanics/CLI/spells/dimension-door-xphb.md) |
-| 9th | [Dominate Person](3-Mechanics/CLI/spells/dominate-person-xphb.md), [Modify Memory](3-Mechanics/CLI/spells/modify-memory-xphb.md) |{ #trickery-domain-spells}
+| 3rd | [[3-Mechanics/CLI/spells/charm-person-xphb\|Charm Person]], [[3-Mechanics/CLI/spells/disguise-self-xphb\|Disguise Self]], [[3-Mechanics/CLI/spells/invisibility-xphb\|Invisibility]], [[3-Mechanics/CLI/spells/pass-without-trace-xphb\|Pass without Trace]] |
+| 5th | [[3-Mechanics/CLI/spells/hypnotic-pattern-xphb\|Hypnotic Pattern]], [[3-Mechanics/CLI/spells/nondetection-xphb\|Nondetection]] |
+| 7th | [[3-Mechanics/CLI/spells/confusion-xphb\|Confusion]], [[3-Mechanics/CLI/spells/dimension-door-xphb\|Dimension Door]] |
+| 9th | [[3-Mechanics/CLI/spells/dominate-person-xphb\|Dominate Person]], [[3-Mechanics/CLI/spells/modify-memory-xphb\|Modify Memory]] |{ #trickery-domain-spells}
 
 
 ### Blessing of the Trickster (Level 3)
 
-As a [Magic](3-Mechanics/CLI/rules/actions.md#Magic) action, you can choose yourself or a willing creature within 30 feet of yourself to have [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) checks. This blessing lasts until you finish a [Long Rest](3-Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) or you use this feature again.
+As a [[3-Mechanics/CLI/rules/actions#Magic\|Magic]] action, you can choose yourself or a willing creature within 30 feet of yourself to have [[3-Mechanics/CLI/rules/variant-rules/advantage-xphb\|Advantage]] on Dexterity ([[3-Mechanics/CLI/rules/skills#Stealth\|Stealth]]) checks. This blessing lasts until you finish a [[3-Mechanics/CLI/rules/variant-rules/long-rest-xphb\|Long Rest]] or you use this feature again.
 
 ### Invoke Duplicity (Level 3)
 
-As a [Bonus Action](3-Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can expend one use of your Channel Divinity to create a perfect visual illusion of yourself in an unoccupied space you can see within 30 feet of yourself. The illusion is intangible and doesn't occupy its space. It lasts for 1 minute, but it ends early if you dismiss it (no action required) or have the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) condition. The illusion is animated and mimics your expressions and gestures. While it persists, you gain the following benefits.
+As a [[3-Mechanics/CLI/rules/variant-rules/bonus-action-xphb\|Bonus Action]], you can expend one use of your Channel Divinity to create a perfect visual illusion of yourself in an unoccupied space you can see within 30 feet of yourself. The illusion is intangible and doesn't occupy its space. It lasts for 1 minute, but it ends early if you dismiss it (no action required) or have the [[3-Mechanics/CLI/rules/conditions#Incapacitated\|Incapacitated]] condition. The illusion is animated and mimics your expressions and gestures. While it persists, you gain the following benefits.
 
 #### Cast Spells
 
@@ -75,15 +75,15 @@ You can cast spells as though you were in the illusion's space, but you must use
 
 #### Distract
 
-When both you and your illusion are within 5 feet of a creature that can see the illusion, you have [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on attack rolls against that creature, given how distracting the illusion is to the target.
+When both you and your illusion are within 5 feet of a creature that can see the illusion, you have [[3-Mechanics/CLI/rules/variant-rules/advantage-xphb\|Advantage]] on attack rolls against that creature, given how distracting the illusion is to the target.
 
 #### Move
 
-As a [Bonus Action](3-Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can move the illusion up to 30 feet to an unoccupied space you can see that is within 120 feet of yourself.
+As a [[3-Mechanics/CLI/rules/variant-rules/bonus-action-xphb\|Bonus Action]], you can move the illusion up to 30 feet to an unoccupied space you can see that is within 120 feet of yourself.
 
 ### Trickster's Transposition (Level 6)
 
-Whenever you take the [Bonus Action](3-Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to create or move the illusion of your Invoke Duplicity, you can teleport, swapping places with the illusion.
+Whenever you take the [[3-Mechanics/CLI/rules/variant-rules/bonus-action-xphb\|Bonus Action]] to create or move the illusion of your Invoke Duplicity, you can teleport, swapping places with the illusion.
 
 ### Improved Duplicity (Level 17)
 
@@ -91,8 +91,8 @@ The illusion of your Invoke Duplicity has grown more powerful in the following w
 
 #### Shared Distraction
 
-When you and your allies make attack rolls against a creature within 5 feet of the illusion, the attack rolls have [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md).
+When you and your allies make attack rolls against a creature within 5 feet of the illusion, the attack rolls have [[3-Mechanics/CLI/rules/variant-rules/advantage-xphb\|Advantage]].
 
 #### Healing Illusion
 
-When the illusion ends, you or a creature of your choice within 5 feet of it regains a number of [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to your Cleric level.
+When the illusion ends, you or a creature of your choice within 5 feet of it regains a number of [[3-Mechanics/CLI/rules/variant-rules/hit-points-xphb\|Hit Points]] equal to your Cleric level.

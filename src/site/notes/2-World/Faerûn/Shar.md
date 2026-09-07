@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/shar/","created":"2025-04-07T13:50:36.000-04:00","updated":"2025-04-07T13:55:50.360-04:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/shar/","created":"2025-04-07T13:55:50.000-04:00","updated":"2025-04-07T13:55:50.000-04:00","dg-note-properties":{"tags":null}}
 ---
 
-![Shar Symbol.png|center](/img/user/z_Assets/Shar%20Symbol.png)
+![Shar Symbol.png\|center](/img/user/z_Assets/Shar%20Symbol.png)
 | Sessions Appeared |
 | ----------------- |
 

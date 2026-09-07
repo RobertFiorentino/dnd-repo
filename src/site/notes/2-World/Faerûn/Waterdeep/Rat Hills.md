@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/rat-hills/","tags":["Category/Settlement"],"created":"2025-02-23T10:38:16.000-05:00","updated":"2025-02-25T17:54:29.890-05:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/rat-hills/","tags":["Category/Settlement"],"created":"2025-02-25T17:54:29.000-05:00","updated":"2025-02-25T17:54:29.000-05:00","dg-note-properties":{"NoteIcon":"settlement","tags":["Category/Settlement"],"Community-Size":"Tribe","Alignment":"Chaotic Evil","Government":"Autocracy","type":"Location","politics":"Lordship","leader":null,"guildsgroups":null,"region":["Sword Coast"],"size":"Small","population":0,"commonraces":null,"religion":["Lathander"],"exports":["Something"],"imports":["Something Else"]}}
 ---
 
 > [!infobox]

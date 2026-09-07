@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/books/dungeon-masters-guide-2024/06-chapter-6-cosmology/","tags":["ttrpg-cli/compendium/src/5e/xdmg"],"created":"2025-03-01T17:25:19.000-05:00","updated":"2025-03-02T13:39:50.170-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/books/dungeon-masters-guide-2024/06-chapter-6-cosmology/","tags":["ttrpg-cli/compendium/src/5e/xdmg"],"created":"2025-03-02T13:39:50.000-05:00","updated":"2025-03-02T13:39:50.000-05:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-note"],"tags":["ttrpg-cli/compendium/src/5e/xdmg"],"aliases":["Chapter 6: Cosmology"]}}
 ---
 
 # Chapter 6: Cosmology
@@ -92,7 +92,7 @@ At your discretion, a creature that spends a long time on an Outer Plane that is
 
 ##### Planar Dissonance
 
-Celestials who visit the Lower Planes and Fiends who visit the Upper Planes experience significant discomfort if their visits last more than a few hours. After finishing a Long Rest on a plane that is alien to its nature, a Celestial or Fiend makes a DC 10 Constitution saving throw. On a failed save, whenever the creature makes a [D20 Test](3-Mechanics/CLI/rules/variant-rules/d20-test-xphb.md), the creature must subtract `1d4` from the roll. The effect is cumulative with each failed save and ends when the creature finishes a Long Rest on a plane that isn't opposed to its nature.
+Celestials who visit the Lower Planes and Fiends who visit the Upper Planes experience significant discomfort if their visits last more than a few hours. After finishing a Long Rest on a plane that is alien to its nature, a Celestial or Fiend makes a DC 10 Constitution saving throw. On a failed save, whenever the creature makes a [[3-Mechanics/CLI/rules/variant-rules/d20-test-xphb\|D20 Test]], the creature must subtract `1d4` from the roll. The effect is cumulative with each failed save and ends when the creature finishes a Long Rest on a plane that isn't opposed to its nature.
 
 ## Planar Travel
 
@@ -120,7 +120,7 @@ Learning and meeting a portal's requirements can draw characters into further ad
 
 ### Spells
 
-A number of spells allow direct or indirect access to different planes of existence. [Gate](3-Mechanics/CLI/spells/gate-xphb.md) and [Plane Shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) can directly transport adventurers to any other plane, with different degrees of precision. [Etherealness](3-Mechanics/CLI/spells/etherealness-xphb.md) allows adventurers to enter the Ethereal Plane. And [Astral Projection](3-Mechanics/CLI/spells/astral-projection-xphb.md) lets adventurers project themselves into the Astral Plane and from there travel to the Outer Planes.
+A number of spells allow direct or indirect access to different planes of existence. [[3-Mechanics/CLI/spells/gate-xphb\|Gate]] and [[3-Mechanics/CLI/spells/plane-shift-xphb\|Plane Shift]] can directly transport adventurers to any other plane, with different degrees of precision. [[3-Mechanics/CLI/spells/etherealness-xphb\|Etherealness]] allows adventurers to enter the Ethereal Plane. And [[3-Mechanics/CLI/spells/astral-projection-xphb\|Astral Projection]] lets adventurers project themselves into the Astral Plane and from there travel to the Outer Planes.
 
 ### Traveling the Outer Planes
 
@@ -347,7 +347,7 @@ Bobbing in the Astral Plane like corks in an ocean are vast, airless expanses ca
 
 As an Astral traveler approaches a Wildspace system, the silver fog of the Astral Plane gradually thins until it falls away in Wildspace. Then the sun of the Wildspace system comes into view—often millions of miles away—along with colorful gas clouds, planets, moons, and other cosmic bodies.
 
-A Wildspace system teems with space-dwelling life-forms, including spores, plankton, and larger creatures that resemble fish and aquatic mammals. Creatures and objects in Wildspace age normally and exist on both the Astral Plane and Material Plane simultaneously. This overlap enables creatures to use spells such as [Teleport](3-Mechanics/CLI/spells/teleport-xphb.md) to travel from Wildspace to a nearby world, or vice versa. A creature or ship traveling from one Wildspace system to another must cross the Astral Plane unless it has some other magical means of traveling from one world to another. (See ""Material Plane"" in this chapter.) "Spelljammer: Adventures in Space" contains extensive information about Wildspace and Astral travel.
+A Wildspace system teems with space-dwelling life-forms, including spores, plankton, and larger creatures that resemble fish and aquatic mammals. Creatures and objects in Wildspace age normally and exist on both the Astral Plane and Material Plane simultaneously. This overlap enables creatures to use spells such as [[3-Mechanics/CLI/spells/teleport-xphb\|Teleport]] to travel from Wildspace to a nearby world, or vice versa. A creature or ship traveling from one Wildspace system to another must cross the Astral Plane unless it has some other magical means of traveling from one world to another. (See ""Material Plane"" in this chapter.) "Spelljammer: Adventures in Space" contains extensive information about Wildspace and Astral travel.
 
 ![A spelljamming wasp ship a...](3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/089-06-006-tunarath.webp#center "A spelljamming wasp ship approaches the githyanki city of Tu'Narath")
 
@@ -375,7 +375,7 @@ As a realm of thought, memory, and dream, the Astral Plane can also be an advent
 
 The Beastlands is a plane of nature unbound, of forests ranging from moss-hung mangroves to snow-laden pines, of thick jungles where the branches are woven so tight that no light penetrates, of vast plains where grains and wildflowers wave in the wind with vibrant life. The plane embodies nature's wildness and beauty, but it also speaks to the animal within all living creatures—not necessarily in a fierce, predatory way but with respect to their physical substance and fundamental needs. The spirits of the dead on the Beastlands typically take animal forms or part-animal forms (such as centaurs). Among the greatest inhabitants of this plane are the primal spirits called animal lords.
 
-Whenever a visitor slays a Beast native to the plane, the slayer must succeed on a DC 10 Charisma saving throw or shape-shift into the type of Beast that was slain. The creature's game statistics are replaced by the Beast's stat block, but the creature retains its alignment, personality, creature type, Intelligence score, and ability to speak. At the end of each Long Rest, the shape-shifted creature repeats the save. On a successful save, the creature returns to its true form. After three failed saves, the transformation can be undone only by a [Remove Curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar magic.
+Whenever a visitor slays a Beast native to the plane, the slayer must succeed on a DC 10 Charisma saving throw or shape-shift into the type of Beast that was slain. The creature's game statistics are replaced by the Beast's stat block, but the creature retains its alignment, personality, creature type, Intelligence score, and ability to speak. At the end of each Long Rest, the shape-shifted creature repeats the save. On a successful save, the creature returns to its true form. After three failed saves, the transformation can be undone only by a [[3-Mechanics/CLI/spells/remove-curse-xphb\|Remove Curse]] spell or similar magic.
 
 ![Layers of the Beastlands](3-Mechanics/CLI/tables/layers-of-the-beastlands-xdmg.md)
 
@@ -407,7 +407,7 @@ The grim inspiration for all other prisons in existence, Carceri is a plane of d
 
 ![Unknown horrors are entrap...](3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/090-06-007-ice-of-carceri.webp#center "Unknown horrors are entrapped in the ice of Carceri")
 
-No one can leave Carceri easily. Magical efforts to leave the plane by any spell other than [Wish](3-Mechanics/CLI/spells/wish-xphb.md) simply fail. Portals and gates that open onto the plane become one-way only. Secret passages out of the plane exist, but they are hidden and well guarded by traps and deadly monsters. And though the River Styx flows between Carceri and its neighbors, the passage is extremely dangerous, and ferries leading out of Carceri are both rare and expensive.
+No one can leave Carceri easily. Magical efforts to leave the plane by any spell other than [[3-Mechanics/CLI/spells/wish-xphb\|Wish]] simply fail. Portals and gates that open onto the plane become one-way only. Secret passages out of the plane exist, but they are hidden and well guarded by traps and deadly monsters. And though the River Styx flows between Carceri and its neighbors, the passage is extremely dangerous, and ferries leading out of Carceri are both rare and expensive.
 
 #### Carceri Adventures
 
@@ -417,9 +417,9 @@ Adventures on Carceri might explore the forces—spiritual and psychological as 
 
 ### Demiplanes
 
-Demiplanes are extradimensional spaces that come into being by a variety of means and boast their own physical laws. Some are created by spells. Others are natural folds of reality pinched off from the rest of the multiverse. Theoretically, a [Plane Shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) spell can carry travelers to a demiplane, but the proper frequency required for the tuning fork can be extremely hard to acquire. The [Gate](3-Mechanics/CLI/spells/gate-xphb.md) spell is more reliable, assuming the caster knows of the demiplane.
+Demiplanes are extradimensional spaces that come into being by a variety of means and boast their own physical laws. Some are created by spells. Others are natural folds of reality pinched off from the rest of the multiverse. Theoretically, a [[3-Mechanics/CLI/spells/plane-shift-xphb\|Plane Shift]] spell can carry travelers to a demiplane, but the proper frequency required for the tuning fork can be extremely hard to acquire. The [[3-Mechanics/CLI/spells/gate-xphb\|Gate]] spell is more reliable, assuming the caster knows of the demiplane.
 
-A demiplane can be as small as a single chamber or large enough to contain an entire realm. For example, a [Mordenkainen's Magnificent Mansion](3-Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb.md) spell creates a demiplane consisting of a foyer with multiple adjoining rooms, while the land of "Barovia" exists entirely within a demiplane under the sway of its vampire lord, "Strahd von Zarovich". When a demiplane is connected to the Material Plane or some other plane, entering the demiplane can be as simple as moving through a portal or passing through a wall of mist.
+A demiplane can be as small as a single chamber or large enough to contain an entire realm. For example, a [[3-Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb\|Mordenkainen's Magnificent Mansion]] spell creates a demiplane consisting of a foyer with multiple adjoining rooms, while the land of "Barovia" exists entirely within a demiplane under the sway of its vampire lord, "Strahd von Zarovich". When a demiplane is connected to the Material Plane or some other plane, entering the demiplane can be as simple as moving through a portal or passing through a wall of mist.
 
 #### Demiplane Adventures
 
@@ -505,7 +505,7 @@ Lava flows through the Fountains of Creation toward the Para-elemental Plane of 
 
 #### Torchy's
 
-Built atop a tall basalt crag in the middle of a lava river is an iron-walled tavern that is most easily reached by hot-air balloon. The proprietor is a sentient [Flame Tongue (Mace)](3-Mechanics/CLI/items/flame-tongue-xdmg.md) named Torchy, who sells a fine ale and seems to have a new wielder every few months. Torchy's is a popular hangout for ballooning enthusiasts.
+Built atop a tall basalt crag in the middle of a lava river is an iron-walled tavern that is most easily reached by hot-air balloon. The proprietor is a sentient [[3-Mechanics/CLI/items/flame-tongue-xdmg\|Flame Tongue (Mace)]] named Torchy, who sells a fine ale and seems to have a new wielder every few months. Torchy's is a popular hangout for ballooning enthusiasts.
 
 #### Elemental Fire Adventures
 
@@ -571,7 +571,7 @@ The River Oceanus originates in the lowest layer of Elysium, Thalasia, and flows
 
 Tranquility and contentment seep into the bones and souls of those who enter Elysium. The longer a visitor remains on the plane, the less reason they find to ever leave. An adventure in Elysium can challenge characters' devotion to doing good by offering them the opportunity (or the temptation) to rest from their labors and enjoy a well-earned reward.
 
-Belierin is said to be the prison of some deadly creature. Some tales say it's a powerful titan, perhaps the [tarrasque](3-Mechanics/CLI/bestiary/monstrosity/tarrasque-xmm.md), while others claim it's a deposed duke of the Nine Hells, a banished elemental prince, or even a near-dead deity. Evil creatures sometimes lurk in the marshes, seeking to free the prisoner or claim some power from it.
+Belierin is said to be the prison of some deadly creature. Some tales say it's a powerful titan, perhaps the [[3-Mechanics/CLI/bestiary/monstrosity/tarrasque-xmm\|tarrasque]], while others claim it's a deposed duke of the Nine Hells, a banished elemental prince, or even a near-dead deity. Evil creatures sometimes lurk in the marshes, seeking to free the prisoner or claim some power from it.
 
 Characters might also venture to Elysium to seek out some ancient spirit on the Heroic Isles. When faced with the once-a-millennium task of forestalling a prophesied disaster, characters might consult with the valorous knight who accomplished the deed a thousand years ago.
 
@@ -579,7 +579,7 @@ Characters might also venture to Elysium to seek out some ancient spirit on the 
 
 The Ethereal Plane is a misty, fogbound dimension. Its "shores," called the Border Ethereal, overlap the Material Plane, the Feywild, the Shadowfell, and the Inner Planes, and every location on those planes has a corresponding location on the Ethereal Plane. Visibility in the Border Ethereal is usually limited to 60 feet. The plane's depths comprise a region of swirling mist and fog called the Deep Ethereal, where visibility is usually limited to 30 feet.
 
-Characters can use the [Etherealness](3-Mechanics/CLI/spells/etherealness-xphb.md) spell to enter the Border Ethereal. The [Plane Shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) spell allows transport to the Border Ethereal or the Deep Ethereal, but unless the intended destination is a specific location or a teleportation circle, the point of arrival could be anywhere on the plane.
+Characters can use the [[3-Mechanics/CLI/spells/etherealness-xphb\|Etherealness]] spell to enter the Border Ethereal. The [[3-Mechanics/CLI/spells/plane-shift-xphb\|Plane Shift]] spell allows transport to the Border Ethereal or the Deep Ethereal, but unless the intended destination is a specific location or a teleportation circle, the point of arrival could be anywhere on the plane.
 
 #### Border Ethereal
 
@@ -589,7 +589,7 @@ Normally, creatures in the Border Ethereal can't attack creatures on the overlap
 
 #### Deep Ethereal
 
-To reach the Deep Ethereal, one typically needs a [Plane Shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) spell, a [Gate](3-Mechanics/CLI/spells/gate-xphb.md) spell, or a magical portal. Visitors to the Deep Ethereal are engulfed by roiling mist. Scattered throughout the plane are curtains of vaporous color, and passing through a curtain leads a traveler to a region of the Border Ethereal connected to a specific Inner Plane, the Material Plane, the Feywild, or the Shadowfell. The color of the curtain indicates the plane whose Border Ethereal the curtain conceals; see the Ethereal Curtains table. The curtains are also distinguishable by texture and temperature, each one reflecting something of the nature of the plane beyond.
+To reach the Deep Ethereal, one typically needs a [[3-Mechanics/CLI/spells/plane-shift-xphb\|Plane Shift]] spell, a [[3-Mechanics/CLI/spells/gate-xphb\|Gate]] spell, or a magical portal. Visitors to the Deep Ethereal are engulfed by roiling mist. Scattered throughout the plane are curtains of vaporous color, and passing through a curtain leads a traveler to a region of the Border Ethereal connected to a specific Inner Plane, the Material Plane, the Feywild, or the Shadowfell. The color of the curtain indicates the plane whose Border Ethereal the curtain conceals; see the Ethereal Curtains table. The curtains are also distinguishable by texture and temperature, each one reflecting something of the nature of the plane beyond.
 
 ![The Radiant Citadel is a r...](3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/093-06-010-the-radiant-citadel.webp#center "The Radiant Citadel is a refuge in the Ethereal Plane, despite its proximity to a raging ether cyclone")
 
@@ -599,7 +599,7 @@ Traveling through the Deep Ethereal is unlike physical travel. Distance is meani
 
 #### Ether Cyclones
 
-An ether cyclone is a serpentine column that spins through the plane. The cyclone appears abruptly, distorting and uprooting everything in its path and carrying the debris for miles. Travelers with a [Passive Perception](3-Mechanics/CLI/rules/variant-rules/passive-perception-xphb.md) score of 15 or higher receive 1 minute of warning: a deep thrum in the ethereal matter. Travelers who can't reach a curtain or portal leading elsewhere suffer the cyclone's effect. Roll `` and consult the Ether Cyclone table to determine the effect on all creatures in the vicinity.
+An ether cyclone is a serpentine column that spins through the plane. The cyclone appears abruptly, distorting and uprooting everything in its path and carrying the debris for miles. Travelers with a [[3-Mechanics/CLI/rules/variant-rules/passive-perception-xphb\|Passive Perception]] score of 15 or higher receive 1 minute of warning: a deep thrum in the ethereal matter. Travelers who can't reach a curtain or portal leading elsewhere suffer the cyclone's effect. Roll `` and consult the Ether Cyclone table to determine the effect on all creatures in the vicinity.
 
 ![Ether Cyclones; Ether Cyclone](3-Mechanics/CLI/tables/ether-cyclones-ether-cyclone-xdmg.md)
 
@@ -685,7 +685,7 @@ A creature that leaves the Feywild makes a DC 10 Wisdom saving throw. Fey creatu
 
 While time seems to pass normally in the Feywild, characters might spend a day there and realize, upon leaving the plane, that less or more time has elapsed everywhere else in the multiverse.
 
-Whenever a creature or group of creatures leaves the Feywild after spending at least 1 day on that plane, you can choose a time change that works best for your campaign, if any, or roll on the Feywild Time Warp table. A [Wish](3-Mechanics/CLI/spells/wish-xphb.md) spell can be used to remove the effect on up to ten creatures. Some powerful Fey have the ability to grant such wishes and might do so if the beneficiaries agree to subject themselves to a [Geas](3-Mechanics/CLI/spells/geas-xphb.md) spell and complete a quest after the *Wish* spell is cast.
+Whenever a creature or group of creatures leaves the Feywild after spending at least 1 day on that plane, you can choose a time change that works best for your campaign, if any, or roll on the Feywild Time Warp table. A [[3-Mechanics/CLI/spells/wish-xphb\|Wish]] spell can be used to remove the effect on up to ten creatures. Some powerful Fey have the ability to grant such wishes and might do so if the beneficiaries agree to subject themselves to a [[3-Mechanics/CLI/spells/geas-xphb\|Geas]] spell and complete a quest after the *Wish* spell is cast.
 
 ![Feywild Time Warp](3-Mechanics/CLI/tables/feywild-time-warp-xdmg.md)
 
@@ -719,7 +719,7 @@ The layers of Hades are called the Three Glooms—places without joy, hope, or p
 
 #### Plane of Gloom
 
-At the end of each Long Rest taken on the plane, a visitor makes a DC 10 Wisdom saving throw. On a failed save, the creature gains 1 [Exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) level that can't be removed while the creature is in Hades. If the creature reaches 6 Exhaustion levels, it doesn't die. Instead, it permanently transforms into a [Larva](3-Mechanics/CLI/bestiary/fiend/larva-xmm.md), whereupon all Exhaustion levels afflicting the creature are removed.
+At the end of each Long Rest taken on the plane, a visitor makes a DC 10 Wisdom saving throw. On a failed save, the creature gains 1 [[3-Mechanics/CLI/rules/conditions#Exhaustion\|Exhaustion]] level that can't be removed while the creature is in Hades. If the creature reaches 6 Exhaustion levels, it doesn't die. Instead, it permanently transforms into a [[3-Mechanics/CLI/bestiary/fiend/larva-xmm\|Larva]], whereupon all Exhaustion levels afflicting the creature are removed.
 
 #### Hades Adventures
 
@@ -741,11 +741,11 @@ Limbo has no layers—or if it does, the layers continually merge and part, each
 
 Limbo conforms to the will of the creatures inhabiting it. Creative imaginations can create whole islands of their own invention within the plane, sometimes maintaining those places for years. A nonsapient creature such as a fish, though, might have less than a minute before the pocket of water surrounding it freezes, vanishes, or turns to glass. Slaadi live here and swim amid this chaos, creating nothing, whereas githzerai build entire monasteries with their minds.
 
-As a [Magic](3-Mechanics/CLI/rules/actions.md#Magic) action, a creature in Limbo can make an Intelligence check to mentally move an object within 30 feet of itself that is on the plane and isn't being worn or carried. The DC depends on the object's size: DC 5 for Tiny, DC 10 for Small, DC 15 for Medium, DC 20 for Large, and DC 25 for Huge or larger. On a successful check, the creature moves the object 5 feet plus a number of a feet equal to how much the total exceeded the DC.
+As a [[3-Mechanics/CLI/rules/actions#Magic\|Magic]] action, a creature in Limbo can make an Intelligence check to mentally move an object within 30 feet of itself that is on the plane and isn't being worn or carried. The DC depends on the object's size: DC 5 for Tiny, DC 10 for Small, DC 15 for Medium, DC 20 for Large, and DC 25 for Huge or larger. On a successful check, the creature moves the object 5 feet plus a number of a feet equal to how much the total exceeded the DC.
 
-A creature can also take a [Magic](3-Mechanics/CLI/rules/actions.md#Magic) action to make an Intelligence check to alter a nonmagical object within 30 feet of itself that isn't being worn or carried. The DC is based on the object's size: DC 10 for Tiny, DC 15 for Small, DC 20 for Medium, and DC 25 for Large or larger. On a successful check, the creature changes the object into another nonliving form of the same size, such as turning a boulder into a ball of fire.
+A creature can also take a [[3-Mechanics/CLI/rules/actions#Magic\|Magic]] action to make an Intelligence check to alter a nonmagical object within 30 feet of itself that isn't being worn or carried. The DC is based on the object's size: DC 10 for Tiny, DC 15 for Small, DC 20 for Medium, and DC 25 for Large or larger. On a successful check, the creature changes the object into another nonliving form of the same size, such as turning a boulder into a ball of fire.
 
-Finally, a creature in Limbo can take a [Magic](3-Mechanics/CLI/rules/actions.md#Magic) action to make a DC 20 Intelligence check to stabilize an area within a 30-foot-radius [Sphere [Area of Effect]](3-Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on a point it can see on the plane. On a successful check, the creature prevents the area from being altered by the plane for 24 hours or until the creature takes this Magic action again.
+Finally, a creature in Limbo can take a [[3-Mechanics/CLI/rules/actions#Magic\|Magic]] action to make a DC 20 Intelligence check to stabilize an area within a 30-foot-radius [Sphere [Area of Effect]](3-Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on a point it can see on the plane. On a successful check, the creature prevents the area from being altered by the plane for 24 hours or until the creature takes this Magic action again.
 
 #### Limbo Adventures
 
@@ -779,7 +779,7 @@ Characters can undertake an epic voyage fraught with peril and obstacles to be o
 
 #### The Leap to Another Realm
 
-The most direct method involves the use of spells such as [Teleportation Circle](3-Mechanics/CLI/spells/teleportation-circle-xphb.md) or [Teleport](3-Mechanics/CLI/spells/teleport-xphb.md), or magical portals like those described in this chapter. This magic causes the user to appear in a known teleportation circle or some other location in another world.
+The most direct method involves the use of spells such as [[3-Mechanics/CLI/spells/teleportation-circle-xphb\|Teleportation Circle]] or [[3-Mechanics/CLI/spells/teleport-xphb\|Teleport]], or magical portals like those described in this chapter. This magic causes the user to appear in a known teleportation circle or some other location in another world.
 
 #### The Roots of the Worlds
 
@@ -827,7 +827,7 @@ Cupped like a bowl beneath the other planes, the Negative Plane is the source of
 
 To an observer, there's little to see on the Negative Plane. It is a dark, empty place, an eternal pit where a traveler can fall until the plane steals away all light and life. Merely entering the plane is comparable to the life-draining touch of a wraith, so only creatures that have Immunity to Necrotic damage can survive there for long.
 
-In some locations on the Negative Plane, the intensity of the plane is so great that the negative energy folds in on itself, stabilizing into solid chunks of matter that devour light. These chunks, called voidstones, are thought to be the source of [Spheres of Annihilation](3-Mechanics/CLI/items/sphere-of-annihilation-xdmg.md) and similar magical effects. Anything that comes into contact with a voidstone is destroyed in seconds.
+In some locations on the Negative Plane, the intensity of the plane is so great that the negative energy folds in on itself, stabilizing into solid chunks of matter that devour light. These chunks, called voidstones, are thought to be the source of [[3-Mechanics/CLI/items/sphere-of-annihilation-xdmg\|Spheres of Annihilation]] and similar magical effects. Anything that comes into contact with a voidstone is destroyed in seconds.
 
 #### Negative Plane Adventures
 
@@ -920,17 +920,17 @@ The Nine Hells has a rigid hierarchy that defines every aspect of its society. A
 A supreme tyrant, a brilliant deceiver, and a master of subtlety, Asmodeus protects his throne by keeping his friends close and his enemies closer. He delegates most matters of rulership to the pit fiends and lesser archdevils that make up the infernal bureaucracy of the Nine Hells, even as he knows that those powerful devils conspire to usurp his throne. Asmodeus appoints archdevils, and he can strip any member of the infernal hierarchy of rank and status as he likes.
 
 > [!example] Infernal Hierarchy
-> -     - [Lemure](3-Mechanics/CLI/bestiary/fiend/lemure-xmm.md)    
-> -     - [Imp](3-Mechanics/CLI/bestiary/fiend/imp-xmm.md)    
->         - [Spined devil](3-Mechanics/CLI/bestiary/fiend/spined-devil-xmm.md)    
->         - [Bearded devil](3-Mechanics/CLI/bestiary/fiend/bearded-devil-xmm.md)    
->         - [Barbed devil](3-Mechanics/CLI/bestiary/fiend/barbed-devil-xmm.md)    
->         - [Chain devil](3-Mechanics/CLI/bestiary/fiend/chain-devil-xmm.md)    
->         - [Bone devil](3-Mechanics/CLI/bestiary/fiend/bone-devil-xmm.md)    
-> -     - [Horned devil](3-Mechanics/CLI/bestiary/fiend/horned-devil-xmm.md)    
->         - [Erinyes](3-Mechanics/CLI/bestiary/fiend/erinyes-xmm.md)    
->         - [Ice devil](3-Mechanics/CLI/bestiary/fiend/ice-devil-xmm.md)    
->         - [Pit fiend](3-Mechanics/CLI/bestiary/fiend/pit-fiend-xmm.md)    
+> -     - [[3-Mechanics/CLI/bestiary/fiend/lemure-xmm\|Lemure]]    
+> -     - [[3-Mechanics/CLI/bestiary/fiend/imp-xmm\|Imp]]    
+>         - [[3-Mechanics/CLI/bestiary/fiend/spined-devil-xmm\|Spined devil]]    
+>         - [[3-Mechanics/CLI/bestiary/fiend/bearded-devil-xmm\|Bearded devil]]    
+>         - [[3-Mechanics/CLI/bestiary/fiend/barbed-devil-xmm\|Barbed devil]]    
+>         - [[3-Mechanics/CLI/bestiary/fiend/chain-devil-xmm\|Chain devil]]    
+>         - [[3-Mechanics/CLI/bestiary/fiend/bone-devil-xmm\|Bone devil]]    
+> -     - [[3-Mechanics/CLI/bestiary/fiend/horned-devil-xmm\|Horned devil]]    
+>         - [[3-Mechanics/CLI/bestiary/fiend/erinyes-xmm\|Erinyes]]    
+>         - [[3-Mechanics/CLI/bestiary/fiend/ice-devil-xmm\|Ice devil]]    
+>         - [[3-Mechanics/CLI/bestiary/fiend/pit-fiend-xmm\|Pit fiend]]    
 > -     - Duke/duchess    
 >         - Archduke/archduchess    
 
@@ -1090,7 +1090,7 @@ When you deem it appropriate, though usually not more than once per day, you can
 
 ![Shadowfell Despair](3-Mechanics/CLI/tables/shadowfell-despair-xdmg.md)
 
-If a character is already suffering a despair effect and fails the saving throw, the new despair effect replaces the old one. After finishing a Long Rest, a character can attempt to overcome the despair with a DC 15 Wisdom saving throw. (The DC is higher because it's harder to shake off despair once it has taken hold.) On a successful save, the despair effect ends for that character. A [Calm Emotions](3-Mechanics/CLI/spells/calm-emotions-xphb.md) spell or magic that removes curses cures the despair.
+If a character is already suffering a despair effect and fails the saving throw, the new despair effect replaces the old one. After finishing a Long Rest, a character can attempt to overcome the despair with a DC 15 Wisdom saving throw. (The DC is higher because it's harder to shake off despair once it has taken hold.) On a successful save, the despair effect ends for that character. A [[3-Mechanics/CLI/spells/calm-emotions-xphb\|Calm Emotions]] spell or magic that removes curses cures the despair.
 
 ### Sigil, City of Doors
 

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/monstrosity/harpy-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1","ttrpg-cli/monster/environment/coastal","ttrpg-cli/monster/environment/forest","ttrpg-cli/monster/environment/hill","ttrpg-cli/monster/environment/mountain","ttrpg-cli/monster/size/medium","ttrpg-cli/monster/type/monstrosity"],"created":"2025-03-01T17:25:19.000-05:00","updated":"2025-04-01T12:21:34.710-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/monstrosity/harpy-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1","ttrpg-cli/monster/environment/coastal","ttrpg-cli/monster/environment/forest","ttrpg-cli/monster/environment/hill","ttrpg-cli/monster/environment/mountain","ttrpg-cli/monster/size/medium","ttrpg-cli/monster/type/monstrosity"],"created":"2025-04-01T12:21:34.000-04:00","updated":"2025-04-01T12:21:34.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-monster","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1","ttrpg-cli/monster/environment/coastal","ttrpg-cli/monster/environment/forest","ttrpg-cli/monster/environment/hill","ttrpg-cli/monster/environment/mountain","ttrpg-cli/monster/size/medium","ttrpg-cli/monster/type/monstrosity"],"statblock":"inline","aliases":["Harpy"]}}
 ---
 
-# [Harpy](3-Mechanics/CLI/bestiary/monstrosity/harpy-xmm.md)
+# [[3-Mechanics/CLI/bestiary/monstrosity/harpy-xmm\|Harpy]]
 *Source: Monster Manual (2024) p. 164*  
 
 ## Harpy

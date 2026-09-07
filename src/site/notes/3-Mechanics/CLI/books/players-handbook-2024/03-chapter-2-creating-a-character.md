@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/books/players-handbook-2024/03-chapter-2-creating-a-character/","tags":["ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-03-01T17:25:19.000-05:00","updated":"2025-03-01T18:37:57.370-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/books/players-handbook-2024/03-chapter-2-creating-a-character/","tags":["ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-03-01T18:37:57.000-05:00","updated":"2025-03-01T18:37:57.000-05:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-note","tags":["ttrpg-cli/compendium/src/5e/xphb"],"aliases":["Chapter 2: Creating a Character"]}}
 ---
 
 # Chapter 2: Creating a Character
@@ -46,17 +46,17 @@ Choose a class, and write it on your character sheet. The Class Overview table s
 
 > [!note] A Balanced Party
 > 
-> The classic D&D party comprises a [Cleric](3-Mechanics/CLI/classes/cleric-xphb.md), [Fighter](3-Mechanics/CLI/classes/fighter-xphb.md), [Rogue](3-Mechanics/CLI/classes/rogue-xphb.md), and [Wizard](3-Mechanics/CLI/classes/wizard-xphb.md). Those four classes have the longest history in the game, but more importantly, they bring a balanced mix of capabilities to adventures. You're welcome to use that party setup or modify it using these guidelines:
+> The classic D&D party comprises a [[3-Mechanics/CLI/classes/cleric-xphb\|Cleric]], [[3-Mechanics/CLI/classes/fighter-xphb\|Fighter]], [[3-Mechanics/CLI/classes/rogue-xphb\|Rogue]], and [[3-Mechanics/CLI/classes/wizard-xphb\|Wizard]]. Those four classes have the longest history in the game, but more importantly, they bring a balanced mix of capabilities to adventures. You're welcome to use that party setup or modify it using these guidelines:
 > 
-> - **Cleric.** Replace with [Bard](3-Mechanics/CLI/classes/bard-xphb.md) or [Druid](3-Mechanics/CLI/classes/druid-xphb.md)  
-> - **Fighter.** Replace with [Barbarian](3-Mechanics/CLI/classes/barbarian-xphb.md), [Monk](3-Mechanics/CLI/classes/monk-xphb.md), [Paladin](3-Mechanics/CLI/classes/paladin-xphb.md), or [Ranger](3-Mechanics/CLI/classes/ranger-xphb.md)  
-> - **Rogue.** Replace with [Bard](3-Mechanics/CLI/classes/bard-xphb.md) or [Ranger](3-Mechanics/CLI/classes/ranger-xphb.md)  
-> - **Wizard.** Replace with [Bard](3-Mechanics/CLI/classes/bard-xphb.md), [Sorcerer](3-Mechanics/CLI/classes/sorcerer-xphb.md), or [Warlock](3-Mechanics/CLI/classes/warlock-xphb.md)  { #a-balanced-party}
+> - **Cleric.** Replace with [[3-Mechanics/CLI/classes/bard-xphb\|Bard]] or [[3-Mechanics/CLI/classes/druid-xphb\|Druid]]  
+> - **Fighter.** Replace with [[3-Mechanics/CLI/classes/barbarian-xphb\|Barbarian]], [[3-Mechanics/CLI/classes/monk-xphb\|Monk]], [[3-Mechanics/CLI/classes/paladin-xphb\|Paladin]], or [[3-Mechanics/CLI/classes/ranger-xphb\|Ranger]]  
+> - **Rogue.** Replace with [[3-Mechanics/CLI/classes/bard-xphb\|Bard]] or [[3-Mechanics/CLI/classes/ranger-xphb\|Ranger]]  
+> - **Wizard.** Replace with [[3-Mechanics/CLI/classes/bard-xphb\|Bard]], [[3-Mechanics/CLI/classes/sorcerer-xphb\|Sorcerer]], or [[3-Mechanics/CLI/classes/warlock-xphb\|Warlock]]  { #a-balanced-party}
 
 
 #### Write Your Level
 
-Write your character's level on your character sheet. Typically, a character starts at level 1 and advances in level by adventuring and gaining [Experience Points](3-Mechanics/CLI/rules/variant-rules/experience-points-xphb.md) (XP).
+Write your character's level on your character sheet. Typically, a character starts at level 1 and advances in level by adventuring and gaining [[3-Mechanics/CLI/rules/variant-rules/experience-points-xphb\|Experience Points]] (XP).
 
 ##### Write Your XP
 
@@ -104,7 +104,7 @@ The features table in your class description shows your Proficiency Bonus (descr
 
 #### Choose Starting Equipment
 
-Your background and class both provide starting equipment. Any coins that you gain at this step can be immediately spent on equipment from "chapter 6". In addition, you can have one [trinket](3-Mechanics/CLI/items/trinket-xphb.md) at no cost at the end of this chapter.
+Your background and class both provide starting equipment. Any coins that you gain at this step can be immediately spent on equipment from "chapter 6". In addition, you can have one [[3-Mechanics/CLI/items/trinket-xphb\|trinket]] at no cost at the end of this chapter.
 
 Record your chosen equipment on your character sheet. Equipment is described in "chapter 6", but for now you can just write it all down and look up the specifics in that chapter later. There's also space on the sample character sheet to note any coins you have left after purchasing your equipment, as well as treasure you acquire on your adventures.
 
@@ -112,9 +112,9 @@ Record your chosen equipment on your character sheet. Equipment is described in 
 
 #### Choose a Species
 
-Choose a species for your character. The following species options are detailed in "chapter 4": [Aasimar](3-Mechanics/CLI/races/aasimar-xphb.md), [Dragonborn](3-Mechanics/CLI/races/dragonborn-xphb.md), [Dwarf](3-Mechanics/CLI/races/dwarf-xphb.md), [Elf](3-Mechanics/CLI/races/elf-xphb.md), [Gnome](3-Mechanics/CLI/races/gnome-xphb.md), [Goliath](3-Mechanics/CLI/races/goliath-xphb.md), [Halfling](3-Mechanics/CLI/races/halfling-xphb.md), [Human](3-Mechanics/CLI/races/human-xphb.md), [Orc](3-Mechanics/CLI/races/orc-xphb.md), and [Tiefling](3-Mechanics/CLI/races/tiefling-xphb.md). Once you've chosen a species, write it on your character sheet. Then record your species' traits.
+Choose a species for your character. The following species options are detailed in "chapter 4": [[3-Mechanics/CLI/races/aasimar-xphb\|Aasimar]], [[3-Mechanics/CLI/races/dragonborn-xphb\|Dragonborn]], [[3-Mechanics/CLI/races/dwarf-xphb\|Dwarf]], [[3-Mechanics/CLI/races/elf-xphb\|Elf]], [[3-Mechanics/CLI/races/gnome-xphb\|Gnome]], [[3-Mechanics/CLI/races/goliath-xphb\|Goliath]], [[3-Mechanics/CLI/races/halfling-xphb\|Halfling]], [[3-Mechanics/CLI/races/human-xphb\|Human]], [[3-Mechanics/CLI/races/orc-xphb\|Orc]], and [[3-Mechanics/CLI/races/tiefling-xphb\|Tiefling]]. Once you've chosen a species, write it on your character sheet. Then record your species' traits.
 
-Your character's [size](3-Mechanics/CLI/rules/variant-rules/size-xphb.md) and [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md) are determined by the character's species; record these in the appropriate places on your character sheet as well (you may write just the first letter of your size).
+Your character's [[3-Mechanics/CLI/rules/variant-rules/size-xphb\|size]] and [[3-Mechanics/CLI/rules/variant-rules/speed-xphb\|Speed]] are determined by the character's species; record these in the appropriate places on your character sheet as well (you may write just the first letter of your size).
 
 #### Imagine Your Past and Present
 
@@ -272,7 +272,7 @@ Chaotic Evil creatures act with arbitrary violence, spurred by their hatred or b
 
 > [!note] Unaligned Creatures
 > 
-> Most creatures that lack the capacity for rational thought don't have alignments; they are unaligned. [Sharks](3-Mechanics/CLI/bestiary/beast/reef-shark-xmm.md) are savage predators, for example, but they aren't evil; they are unaligned.{ #unaligned-creatures}
+> Most creatures that lack the capacity for rational thought don't have alignments; they are unaligned. [[3-Mechanics/CLI/bestiary/beast/reef-shark-xmm\|Sharks]] are savage predators, for example, but they aren't evil; they are unaligned.{ #unaligned-creatures}
 
 
 #### Alignment and Personality
@@ -305,11 +305,11 @@ For skills you have proficiency in, add your Proficiency Bonus to the ability mo
 
 ##### Passive Perception
 
-Sometimes your DM will determine whether your character notices something without asking you to make a Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check; the DM uses your Passive Perception instead. Passive Perception is a score that reflects a general awareness of your surroundings when you're not actively looking for something. Use this formula to determine your Passive Perception score:
+Sometimes your DM will determine whether your character notices something without asking you to make a Wisdom ([[3-Mechanics/CLI/rules/skills#Perception\|Perception]]) check; the DM uses your Passive Perception instead. Passive Perception is a score that reflects a general awareness of your surroundings when you're not actively looking for something. Use this formula to determine your Passive Perception score:
 
 <span class='abilityGeneric'>**Passive Perception.**</span>
 
-Include all modifiers that apply to your Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks. For example, if your character has a Wisdom of 15 and proficiency in the [Perception](3-Mechanics/CLI/rules/skills.md#Perception) skill, you have a Passive Perception of 14 (10 + 2 for your Wisdom modifier + 2 for proficiency).
+Include all modifiers that apply to your Wisdom ([[3-Mechanics/CLI/rules/skills#Perception\|Perception]]) checks. For example, if your character has a Wisdom of 15 and proficiency in the [[3-Mechanics/CLI/rules/skills#Perception\|Perception]] skill, you have a Passive Perception of 14 (10 + 2 for your Wisdom modifier + 2 for proficiency).
 
 ##### Hit Points
 
@@ -317,7 +317,7 @@ Your class and Constitution modifier determine your Hit Point maximum at level 1
 
 ![Level 1 Hit Points by Class](3-Mechanics/CLI/tables/level-1-hit-points-by-class-xphb.md)
 
-The character sheet includes room to note your current Hit Points when you take damage, as well as any [Temporary Hit Points](3-Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) you might gain. There's also space to track [Death Saving Throw](3-Mechanics/CLI/rules/variant-rules/death-saving-throw-xphb.md).
+The character sheet includes room to note your current Hit Points when you take damage, as well as any [[3-Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb\|Temporary Hit Points]] you might gain. There's also space to track [[3-Mechanics/CLI/rules/variant-rules/death-saving-throw-xphb\|Death Saving Throw]].
 
 ##### Hit Point Dice
 
@@ -329,7 +329,7 @@ Write your Dexterity modifier in the space for Initiative on your character shee
 
 ##### Armor Class
 
-Without armor or a shield, your base [Armor Class](3-Mechanics/CLI/rules/variant-rules/armor-class-xphb.md) is 10 plus your Dexterity modifier. If your starting equipment includes armor or a Shield (or both), calculate your AC using the rules in "chapter 6". A class feature might give you a different way to calculate your AC.
+Without armor or a shield, your base [[3-Mechanics/CLI/rules/variant-rules/armor-class-xphb\|Armor Class]] is 10 plus your Dexterity modifier. If your starting equipment includes armor or a Shield (or both), calculate your AC using the rules in "chapter 6". A class feature might give you a different way to calculate your AC.
 
 ##### Attacks
 
@@ -372,7 +372,7 @@ As you finish creating your character, consider whether you'd like to make up an
 
 ![Adventuring equipment impr...](3-Mechanics/CLI/books/players-handbook-2024/img/021-02-010-adventuring-equipment.webp#center "Adventuring equipment improves as a character progresses through the tiers of play")
 
-While going on adventures, your character gains experience, represented by [Experience Points](3-Mechanics/CLI/rules/variant-rules/experience-points-xphb.md) (XP). A character who reaches a specified Experience Point total advances in capability. This advancement is called gaining a level.
+While going on adventures, your character gains experience, represented by [[3-Mechanics/CLI/rules/variant-rules/experience-points-xphb\|Experience Points]] (XP). A character who reaches a specified Experience Point total advances in capability. This advancement is called gaining a level.
 
 The Character Advancement table lists the XP you need to advance to a level and the Proficiency Bonus for a character of that level. When your XP total equals or exceeds a number in the Experience Points column, you reach the corresponding level.
 
@@ -400,7 +400,7 @@ In tier 1, characters are apprentice adventurers, though they are already set ap
 
 #### Tier 2 (Levels 5–10)
 
-In tier 2, characters are full-fledged adventurers. Spellcasters gain iconic spells such as [Fireball](3-Mechanics/CLI/spells/fireball-xphb.md), [Lightning Bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md), and [Raise Dead](3-Mechanics/CLI/spells/raise-dead-xphb.md). Most weapon-focused classes gain the ability to make multiple attacks in a round. The characters now face dangers that threaten cities and kingdoms.
+In tier 2, characters are full-fledged adventurers. Spellcasters gain iconic spells such as [[3-Mechanics/CLI/spells/fireball-xphb\|Fireball]], [[3-Mechanics/CLI/spells/lightning-bolt-xphb\|Lightning Bolt]], and [[3-Mechanics/CLI/spells/raise-dead-xphb\|Raise Dead]]. Most weapon-focused classes gain the ability to make multiple attacks in a round. The characters now face dangers that threaten cities and kingdoms.
 
 #### Tier 3 (Levels 11–16)
 
@@ -465,7 +465,7 @@ Special rules apply to Extra Attack, Spellcasting, and features (such as Unarmor
 
 #### Armor Class
 
-If you have multiple ways to calculate your [Armor Class](3-Mechanics/CLI/rules/variant-rules/armor-class-xphb.md), you can benefit from only one at a time. For example, a Monk/Sorcerer with a Monk's Unarmored Defense feature and a Sorcerer's Draconic Resilience feature must choose only one of those features as a way to calculate Armor Class.
+If you have multiple ways to calculate your [[3-Mechanics/CLI/rules/variant-rules/armor-class-xphb\|Armor Class]], you can benefit from only one at a time. For example, a Monk/Sorcerer with a Monk's Unarmored Defense feature and a Sorcerer's Draconic Resilience feature must choose only one of those features as a way to calculate Armor Class.
 
 #### Extra Attack
 
@@ -499,7 +499,7 @@ You determine your available spell slots by adding together the following:
 
 Then look up this total level in the Level column of the Multiclass Spellcaster table. You use the slots for that level to cast spells of an appropriate level from any class whose Spellcasting feature you have.
 
-This table might give you spell slots of a higher level than the spells you prepare. You can use those slots but only to cast your lower-level spells. If a lower-level spell that you cast, like [Burning Hands](3-Mechanics/CLI/spells/burning-hands-xphb.md), has an enhanced effect when cast at a higher level, you can use the enhanced effect as normal.
+This table might give you spell slots of a higher level than the spells you prepare. You can use those slots but only to cast your lower-level spells. If a lower-level spell that you cast, like [[3-Mechanics/CLI/spells/burning-hands-xphb\|Burning Hands]], has an enhanced effect when cast at a higher level, you can use the enhanced effect as normal.
 
 For example, if you are a level 4 Ranger / level 3 Sorcerer, you count as a level 5 character when determining your spell slots, counting all your levels as a Sorcerer and half your Ranger levels. As shown in the Multiclass Spellcaster table, you have four level 1 spell slots, three level 2 slots, and two level 3 slots. However, you can't prepare any level 3 spells, nor can you prepare any level 2 Ranger spells. You can use the spell slots of those levels to cast the spells you do prepare—and potentially enhance their effects.
 
@@ -511,4 +511,4 @@ If you have the Pact Magic feature from the Warlock class and the Spellcasting f
 
 ## Trinkets
 
-When you make your character, you can roll once on the [Trinkets](3-Mechanics/CLI/items/trinket-xphb.md) table to gain a Tiny trinket, a simple item lightly touched by mystery. The DM might also use this table. It can help stock a room in a dungeon or fill a creature's pockets.
+When you make your character, you can roll once on the [[3-Mechanics/CLI/items/trinket-xphb\|Trinkets]] table to gain a Tiny trinket, a simple item lightly touched by mystery. The DM might also use this table. It can help stock a room in a dungeon or fill a creature's pockets.

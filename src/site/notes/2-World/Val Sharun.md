@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/val-sharun/","created":"2026-01-10T19:22:41.863-05:00","updated":"2026-01-10T19:34:00.266-05:00"}
+{"dg-publish":true,"permalink":"/2-world/val-sharun/","created":"2026-01-10T19:34:00.000-05:00","updated":"2026-01-10T19:34:00.000-05:00","dg-note-properties":{"tags":null,"NoteIcon":"location"}}
 ---
 
 >[!infobox]
@@ -11,6 +11,7 @@
 { .block-language-dataview}
 > ###### Sessions Appeared
 >  - [[1-Session Journals/The Plague Wardens Journal/Session 14\|Session 14]]
+> - [[1-Session Journals/The Plague Wardens Journal/Session 15\|Session 15]]
 > 
 { .block-language-dataview}
 

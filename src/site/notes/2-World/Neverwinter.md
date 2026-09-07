@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/neverwinter/","tags":["Category/Settlement"],"created":"2025-03-30T08:24:32.000-04:00","updated":"2025-03-30T08:25:49.300-04:00"}
+{"dg-publish":true,"permalink":"/2-world/neverwinter/","tags":["Category/Settlement"],"created":"2025-03-30T08:25:49.000-04:00","updated":"2025-03-30T08:25:49.000-04:00","dg-note-properties":{"NoteIcon":"settlement","tags":["Category/Settlement"],"Community-Size":null,"Alignment":null,"Government":null,"type":"Settlement","politics":null,"leader":null,"guildsgroups":null,"region":null,"size":null,"population":0,"commonraces":["Humans"],"religion":null,"exports":null,"imports":null}}
 ---
 
 
@@ -44,10 +44,10 @@
 Placeholder
 
 ### Placeholder Map
-![MapPlaceholder.png|Placeholder Map](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
+![MapPlaceholder.png\|Placeholder Map](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
 
 ### Placeholder Picture
-![ImagePlaceholder.png|Placeholder Picture](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
+![ImagePlaceholder.png\|Placeholder Picture](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
 
 Placeholder
 

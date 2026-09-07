@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/druid-xphb/","tags":["ttrpg-cli/class/druid","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-03-01T17:25:17.000-05:00","updated":"2025-04-01T13:20:48.560-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/druid-xphb/","tags":["ttrpg-cli/class/druid","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-04-01T13:20:48.000-04:00","updated":"2025-04-01T13:20:48.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["ttrpg-cli/class/druid","ttrpg-cli/compendium/src/5e/xphb"],"aliases":["Druid"]}}
 ---
 
 # Druid
@@ -44,16 +44,16 @@
 ## Starting Druid
 
 - **Saving Throw Proficiencies**: Intelligence, Wisdom
-- **Skill Proficiencies**: *Choose 2:* [Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling), [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana), [Insight](3-Mechanics/CLI/rules/skills.md#Insight), [Medicine](3-Mechanics/CLI/rules/skills.md#Medicine), [Nature](3-Mechanics/CLI/rules/skills.md#Nature), [Perception](3-Mechanics/CLI/rules/skills.md#Perception), [Religion](3-Mechanics/CLI/rules/skills.md#Religion), or [Survival](3-Mechanics/CLI/rules/skills.md#Survival)
+- **Skill Proficiencies**: *Choose 2:* [[3-Mechanics/CLI/rules/skills#Animal Handling\|Animal Handling]], [[3-Mechanics/CLI/rules/skills#Arcana\|Arcana]], [[3-Mechanics/CLI/rules/skills#Insight\|Insight]], [[3-Mechanics/CLI/rules/skills#Medicine\|Medicine]], [[3-Mechanics/CLI/rules/skills#Nature\|Nature]], [[3-Mechanics/CLI/rules/skills#Perception\|Perception]], [[3-Mechanics/CLI/rules/skills#Religion\|Religion]], or [[3-Mechanics/CLI/rules/skills#Survival\|Survival]]
 - **Weapon Proficiencies**: Simple weapons
-- **Tool Proficiencies**: [Herbalism Kit](3-Mechanics/CLI/items/herbalism-kit-xphb.md)
-- **Armor Training**: [Light armor](3-Mechanics/CLI/rules/item-types.md#Light%20Armor) and [Shields](3-Mechanics/CLI/items/shield-xphb.md)
+- **Tool Proficiencies**: [[3-Mechanics/CLI/items/herbalism-kit-xphb\|Herbalism Kit]]
+- **Armor Training**: [[3-Mechanics/CLI/rules/item-types#Light Armor\|Light armor]] and [[3-Mechanics/CLI/items/shield-xphb\|Shields]]
 
-**Starting Equipment:** *Choose A or B:* (A) [Leather Armor](3-Mechanics/CLI/items/leather-armor-xphb.md), [Shield](3-Mechanics/CLI/items/shield-xphb.md), [Sickle](3-Mechanics/CLI/items/sickle-xphb.md), [Druidic Focus (Quarterstaff)](3-Mechanics/CLI/items/druidic-focus-xphb.md), [Explorer's Pack](3-Mechanics/CLI/items/explorers-pack-xphb.md), [Herbalism kit](3-Mechanics/CLI/items/herbalism-kit-xphb.md), 9 GP; or (B) 50 GP
+**Starting Equipment:** *Choose A or B:* (A) [[3-Mechanics/CLI/items/leather-armor-xphb\|Leather Armor]], [[3-Mechanics/CLI/items/shield-xphb\|Shield]], [[3-Mechanics/CLI/items/sickle-xphb\|Sickle]], [[3-Mechanics/CLI/items/druidic-focus-xphb\|Druidic Focus (Quarterstaff)]], [[3-Mechanics/CLI/items/explorers-pack-xphb\|Explorer's Pack]], [[3-Mechanics/CLI/items/herbalism-kit-xphb\|Herbalism kit]], 9 GP; or (B) 50 GP
 
 ## Multiclassing Druid
 
-- **Armor Training**: [Light armor](3-Mechanics/CLI/rules/item-types.md#Light%20Armor), [Shields](3-Mechanics/CLI/items/shield-xphb.md)
+- **Armor Training**: [[3-Mechanics/CLI/rules/item-types#Light Armor\|Light armor]], [[3-Mechanics/CLI/items/shield-xphb\|Shields]]
 
 ## Druid
 
@@ -67,9 +67,9 @@ Druids are concerned with the delicate ecological balance that sustains plant an
 
 ### Druidic (Level 1)
 
-You know Druidic, the secret language of Druids. While learning this ancient tongue, you also unlocked the magic of communicating with animals; you always have the [Speak with Animals](3-Mechanics/CLI/spells/speak-with-animals-xphb.md) spell prepared.
+You know Druidic, the secret language of Druids. While learning this ancient tongue, you also unlocked the magic of communicating with animals; you always have the [[3-Mechanics/CLI/spells/speak-with-animals-xphb\|Speak with Animals]] spell prepared.
 
-You can use Druidic to leave hidden messages. You and others who know Druidic automatically spot such a message. Others spot the message's presence with a successful DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check but can't decipher it without magic.
+You can use Druidic to leave hidden messages. You and others who know Druidic automatically spot such a message. Others spot the message's presence with a successful DC 15 Intelligence ([[3-Mechanics/CLI/rules/skills#Investigation\|Investigation]]) check but can't decipher it without magic.
 
 ### Primal Order (Level 1)
 
@@ -77,7 +77,7 @@ You have dedicated yourself to one of the following sacred roles of your choice.
 
 - **Magician**  
 
-    You know one extra cantrip from the Druid spell list. In addition, your mystical connection to nature gives you a bonus to your Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) or [Nature](3-Mechanics/CLI/rules/skills.md#Nature)) checks. The bonus equals your Wisdom modifier (minimum bonus of +1).  
+    You know one extra cantrip from the Druid spell list. In addition, your mystical connection to nature gives you a bonus to your Intelligence ([[3-Mechanics/CLI/rules/skills#Arcana\|Arcana]] or [[3-Mechanics/CLI/rules/skills#Nature\|Nature]]) checks. The bonus equals your Wisdom modifier (minimum bonus of +1).  
 
 - **Warden**  
 
@@ -89,7 +89,7 @@ You have learned to cast spells through studying the mystical forces of nature. 
 
 #### Cantrips
 
-You know two cantrips of your choice from the Druid spell list. [Druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md) and [Produce Flame](3-Mechanics/CLI/spells/produce-flame-xphb.md) are recommended.
+You know two cantrips of your choice from the Druid spell list. [[3-Mechanics/CLI/spells/druidcraft-xphb\|Druidcraft]] and [[3-Mechanics/CLI/spells/produce-flame-xphb\|Produce Flame]] are recommended.
 
 Whenever you gain a Druid level, you can replace one of your cantrips with another cantrip of your choice from the Druid spell list.
 
@@ -97,11 +97,11 @@ When you reach Druid levels 4 and 10, you learn another cantrip of your choice f
 
 #### Spell Slots
 
-The Druid Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [Long Rest](3-Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+The Druid Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[3-Mechanics/CLI/rules/variant-rules/long-rest-xphb\|Long Rest]].
 
 #### Prepared Spells of Level 1+
 
-You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Druid spell list. [Animal Friendship](3-Mechanics/CLI/spells/animal-friendship-xphb.md), [Cure Wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md), [Faerie Fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), and [Thunderwave](3-Mechanics/CLI/spells/thunderwave-xphb.md) are recommended.
+You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Druid spell list. [[3-Mechanics/CLI/spells/animal-friendship-xphb\|Animal Friendship]], [[3-Mechanics/CLI/spells/cure-wounds-xphb\|Cure Wounds]], [[3-Mechanics/CLI/spells/faerie-fire-xphb\|Faerie Fire]], and [[3-Mechanics/CLI/spells/thunderwave-xphb\|Thunderwave]] are recommended.
 
 The number of spells on your list increases as you gain Druid levels, as shown in the Prepared Spells column of the Druid Features table. Whenever that number increases, choose additional spells from the Druid spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Druid, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
@@ -109,7 +109,7 @@ If another Druid feature gives you spells that you always have prepared, those s
 
 #### Changing Your Prepared Spells
 
-Whenever you finish a [Long Rest](3-Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can change your list of prepared spells, replacing any of the spells with other Druid spells for which you have spell slots.
+Whenever you finish a [[3-Mechanics/CLI/rules/variant-rules/long-rest-xphb\|Long Rest]], you can change your list of prepared spells, replacing any of the spells with other Druid spells for which you have spell slots.
 
 #### Spellcasting Ability
 
@@ -117,29 +117,29 @@ Wisdom is your spellcasting ability for your Druid spells.
 
 #### Spellcasting Focus
 
-You can use a [Druidic Focus](3-Mechanics/CLI/items/druidic-focus-xphb.md) as a [Spellcasting Focus](3-Mechanics/CLI/rules/variant-rules/spellcasting-focus-xphb.md) for your Druid spells.
+You can use a [[3-Mechanics/CLI/items/druidic-focus-xphb\|Druidic Focus]] as a [[3-Mechanics/CLI/rules/variant-rules/spellcasting-focus-xphb\|Spellcasting Focus]] for your Druid spells.
 
 ### Wild Companion (Level 2)
 
-You can summon a nature spirit that assumes an animal form to aid you. As a [Magic](3-Mechanics/CLI/rules/actions.md#Magic) action, you can expend a spell slot or a use of Wild Shape to cast the [Find Familiar](3-Mechanics/CLI/spells/find-familiar-xphb.md) spell without Material components.
+You can summon a nature spirit that assumes an animal form to aid you. As a [[3-Mechanics/CLI/rules/actions#Magic\|Magic]] action, you can expend a spell slot or a use of Wild Shape to cast the [[3-Mechanics/CLI/spells/find-familiar-xphb\|Find Familiar]] spell without Material components.
 
-When you cast the spell in this way, the familiar is Fey and disappears when you finish a [Long Rest](3-Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+When you cast the spell in this way, the familiar is Fey and disappears when you finish a [[3-Mechanics/CLI/rules/variant-rules/long-rest-xphb\|Long Rest]].
 
 ### Wild Shape (Level 2)
 
-The power of nature allows you to assume the form of an animal. As a [Bonus Action](3-Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you shape-shift into a Beast form that you have learned for this feature (see "Known Forms" below). You stay in that form for a number of hours equal to half your Druid level or until you use Wild Shape again, have the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) condition, or die. You can also leave the form early as a [Bonus Action](3-Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md).
+The power of nature allows you to assume the form of an animal. As a [[3-Mechanics/CLI/rules/variant-rules/bonus-action-xphb\|Bonus Action]], you shape-shift into a Beast form that you have learned for this feature (see "Known Forms" below). You stay in that form for a number of hours equal to half your Druid level or until you use Wild Shape again, have the [[3-Mechanics/CLI/rules/conditions#Incapacitated\|Incapacitated]] condition, or die. You can also leave the form early as a [[3-Mechanics/CLI/rules/variant-rules/bonus-action-xphb\|Bonus Action]].
 
 #### Number of Uses
 
-You can use Wild Shape twice. You regain one expended use when you finish a [Short Rest](3-Mechanics/CLI/rules/variant-rules/short-rest-xphb.md), and you regain all expended uses when you finish a [Long Rest](3-Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can use Wild Shape twice. You regain one expended use when you finish a [[3-Mechanics/CLI/rules/variant-rules/short-rest-xphb\|Short Rest]], and you regain all expended uses when you finish a [[3-Mechanics/CLI/rules/variant-rules/long-rest-xphb\|Long Rest]].
 
 You gain additional uses when you reach certain Druid levels, as shown in the Wild Shape column of the Druid Features table.
 
 #### Known Forms
 
-You know four Beast forms for this feature, chosen from among Beast stat blocks that have a maximum [Challenge Rating](3-Mechanics/CLI/rules/variant-rules/challenge-rating-xphb.md) of 1/4 and that lack a [Fly Speed](3-Mechanics/CLI/rules/variant-rules/fly-speed-xphb.md) (see appendix B for stat block options). The [Rat](3-Mechanics/CLI/bestiary/beast/rat-xmm.md), [Riding Horse](3-Mechanics/CLI/bestiary/beast/riding-horse-xmm.md), [Spider](3-Mechanics/CLI/bestiary/beast/spider-xmm.md), and [Wolf](3-Mechanics/CLI/bestiary/beast/wolf-xmm.md) are recommended. Whenever you finish a [Long Rest](3-Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can replace one of your known forms with another eligible form.
+You know four Beast forms for this feature, chosen from among Beast stat blocks that have a maximum [[3-Mechanics/CLI/rules/variant-rules/challenge-rating-xphb\|Challenge Rating]] of 1/4 and that lack a [[3-Mechanics/CLI/rules/variant-rules/fly-speed-xphb\|Fly Speed]] (see appendix B for stat block options). The [[3-Mechanics/CLI/bestiary/beast/rat-xmm\|Rat]], [[3-Mechanics/CLI/bestiary/beast/riding-horse-xmm\|Riding Horse]], [[3-Mechanics/CLI/bestiary/beast/spider-xmm\|Spider]], and [[3-Mechanics/CLI/bestiary/beast/wolf-xmm\|Wolf]] are recommended. Whenever you finish a [[3-Mechanics/CLI/rules/variant-rules/long-rest-xphb\|Long Rest]], you can replace one of your known forms with another eligible form.
 
-When you reach certain Druid levels, your number of known forms and the maximum [Challenge Rating](3-Mechanics/CLI/rules/variant-rules/challenge-rating-xphb.md) for those forms increases, as shown in the Beast Shapes table. In addition, starting at level 8, you can adopt a form that has a [Fly Speed](3-Mechanics/CLI/rules/variant-rules/fly-speed-xphb.md).
+When you reach certain Druid levels, your number of known forms and the maximum [[3-Mechanics/CLI/rules/variant-rules/challenge-rating-xphb\|Challenge Rating]] for those forms increases, as shown in the Beast Shapes table. In addition, starting at level 8, you can adopt a form that has a [[3-Mechanics/CLI/rules/variant-rules/fly-speed-xphb\|Fly Speed]].
 
 When choosing known forms, you may look in the "Monster Manual" or elsewhere for eligible Beasts if the Dungeon Master permits you to do so.
 
@@ -156,9 +156,9 @@ When choosing known forms, you may look in the "Monster Manual" or elsewhere for
 
 While in a form, you retain your personality, memories, and ability to speak, and the following rules apply:
 
-- **Temporary Hit Points.** When you assume a Wild Shape form, you gain a number of [Temporary Hit Points](3-Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to your Druid level.  
-- **Game Statistics.** Your game statistics are replaced by the Beast's stat block, but you retain your creature type; [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md); [Hit Point Dice](3-Mechanics/CLI/rules/variant-rules/hit-point-dice-xphb.md); Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your skill and saving throw proficiencies and use your [Proficiency](3-Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) for them, in addition to gaining the proficiencies of the creature. If a skill or saving throw modifier in the Beast's stat block is higher than yours, use the one in the stat block.  
-- **No Spellcasting.** You can't cast spells, but shape-shifting doesn't break your [Concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) or otherwise interfere with a spell you've already cast.  
+- **Temporary Hit Points.** When you assume a Wild Shape form, you gain a number of [[3-Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb\|Temporary Hit Points]] equal to your Druid level.  
+- **Game Statistics.** Your game statistics are replaced by the Beast's stat block, but you retain your creature type; [[3-Mechanics/CLI/rules/variant-rules/hit-points-xphb\|Hit Points]]; [[3-Mechanics/CLI/rules/variant-rules/hit-point-dice-xphb\|Hit Point Dice]]; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your skill and saving throw proficiencies and use your [[3-Mechanics/CLI/rules/variant-rules/proficiency-xphb\|Proficiency]] for them, in addition to gaining the proficiencies of the creature. If a skill or saving throw modifier in the Beast's stat block is higher than yours, use the one in the stat block.  
+- **No Spellcasting.** You can't cast spells, but shape-shifting doesn't break your [[3-Mechanics/CLI/rules/conditions#Concentration\|Concentration]] or otherwise interfere with a spell you've already cast.  
 - **Objects.** Your ability to handle objects is determined by the form's limbs rather than your own. In addition, you choose whether your equipment falls in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it's practical for the new form to wear a piece of equipment based on the creature's size and shape. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with the form. Equipment that merges with the form has no effect while you're in that form.  
 
 ### Druid Subclass (Level 3)
@@ -167,13 +167,13 @@ You gain a Druid subclass of your choice. A subclass is a specialization that gr
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](3-Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
+You gain the [[3-Mechanics/CLI/feats/ability-score-improvement-xphb\|Ability Score Improvement]] feat or another feat of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
 
 ### Wild Resurgence (Level 5)
 
 Once on each of your turns, if you have no uses of Wild Shape left, you can give yourself one use by expending a spell slot (no action required).
 
-In addition, you can expend one use of Wild Shape (no action required) to give yourself a level 1 spell slot, but you can't do so again until you finish a [Long Rest](3-Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+In addition, you can expend one use of Wild Shape (no action required) to give yourself a level 1 spell slot, but you can't do so again until you finish a [[3-Mechanics/CLI/rules/variant-rules/long-rest-xphb\|Long Rest]].
 
 ### Subclass Feature (Level 6)
 
@@ -193,7 +193,7 @@ Once on each of your turns when you hit a creature with an attack roll using a w
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](3-Mechanics/CLI/feats/ability-score-improvement-xphb.md) Feat or another feat of your choice for which you qualify.
+You gain the [[3-Mechanics/CLI/feats/ability-score-improvement-xphb\|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 10)
 
@@ -201,7 +201,7 @@ You gain a feature from your Druid Subclass.
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](3-Mechanics/CLI/feats/ability-score-improvement-xphb.md) Feat or another feat of your choice for which you qualify.
+You gain the [[3-Mechanics/CLI/feats/ability-score-improvement-xphb\|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 14)
 
@@ -221,7 +221,7 @@ The extra damage of your Primal Strike increases to `2d8`.
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](3-Mechanics/CLI/feats/ability-score-improvement-xphb.md) Feat or another feat of your choice for which you qualify.
+You gain the [[3-Mechanics/CLI/feats/ability-score-improvement-xphb\|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
 
 ### Beast Spells (Level 18)
 
@@ -229,7 +229,7 @@ While using Wild Shape, you can cast spells in Beast form, except for any spell 
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Dimensional Travel](3-Mechanics/CLI/feats/boon-of-dimensional-travel-xphb.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [[3-Mechanics/CLI/feats/boon-of-dimensional-travel-xphb\|Boon of Dimensional Travel]] is recommended.
 
 ### Archdruid (Level 20)
 
@@ -237,11 +237,11 @@ The vitality of nature constantly blooms within you, granting you the following 
 
 #### Evergreen Wild Shape
 
-Whenever you roll [Initiative](3-Mechanics/CLI/rules/variant-rules/initiative-xphb.md) and have no uses of Wild Shape left, you regain one expended use of it.
+Whenever you roll [[3-Mechanics/CLI/rules/variant-rules/initiative-xphb\|Initiative]] and have no uses of Wild Shape left, you regain one expended use of it.
 
 #### Nature Magician
 
-You can convert uses of Wild Shape into a spell slot (no action required). Choose a number of your unexpended uses of Wild Shape and convert them into a single spell slot, with each use contributing 2 spell levels. For example, if you convert two uses of Wild Shape, you produce a level 4 spell slot. Once you use this benefit, you can't do so again until you finish a [Long Rest](3-Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can convert uses of Wild Shape into a spell slot (no action required). Choose a number of your unexpended uses of Wild Shape and convert them into a single spell slot, with each use contributing 2 spell levels. For example, if you convert two uses of Wild Shape, you produce a level 4 spell slot. Once you use this benefit, you can't do so again until you finish a [[3-Mechanics/CLI/rules/variant-rules/long-rest-xphb\|Long Rest]].
 
 #### Longevity
 

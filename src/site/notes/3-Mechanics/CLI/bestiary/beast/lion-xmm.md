@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/beast/lion-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1","ttrpg-cli/monster/environment/desert","ttrpg-cli/monster/environment/grassland","ttrpg-cli/monster/environment/hill","ttrpg-cli/monster/environment/mountain","ttrpg-cli/monster/size/large","ttrpg-cli/monster/type/beast"],"created":"2025-03-01T17:25:19.000-05:00","updated":"2025-04-01T12:21:34.710-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/beast/lion-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1","ttrpg-cli/monster/environment/desert","ttrpg-cli/monster/environment/grassland","ttrpg-cli/monster/environment/hill","ttrpg-cli/monster/environment/mountain","ttrpg-cli/monster/size/large","ttrpg-cli/monster/type/beast"],"created":"2025-04-01T12:21:34.000-04:00","updated":"2025-04-01T12:21:34.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-monster","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1","ttrpg-cli/monster/environment/desert","ttrpg-cli/monster/environment/grassland","ttrpg-cli/monster/environment/hill","ttrpg-cli/monster/environment/mountain","ttrpg-cli/monster/size/large","ttrpg-cli/monster/type/beast"],"statblock":"inline","aliases":["Lion"]}}
 ---
 
-# [Lion](3-Mechanics/CLI/bestiary/beast/lion-xmm.md)
+# [[3-Mechanics/CLI/bestiary/beast/lion-xmm\|Lion]]
 *Source: Monster Manual (2024) p. 364, Player's Handbook (2024) p. 352*  
 
 ```statblock

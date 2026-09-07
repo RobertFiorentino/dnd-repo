@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/undermountain/","created":"2025-03-13T10:25:25.000-04:00","updated":"2025-03-13T20:24:59.720-04:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/undermountain/","created":"2025-03-13T20:24:59.000-04:00","updated":"2025-03-13T20:24:59.000-04:00","dg-note-properties":{"tags":null,"NoteIcon":"location"}}
 ---
 
 >[!infobox]
@@ -16,4 +16,4 @@
 > WHERE contains(file.outlinks, this.file.link)  
 > SORT file.name ASC
 
-A mysterious network of tunnels and chambers beneath [[2-World/Faerûn/Waterdeep/Waterdeep\|Waterdeep]]. An entire city beneath.
+A mysterious network of tunnels and chambers beneath [[Waterdeep]]. An entire city beneath.

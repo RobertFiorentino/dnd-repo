@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/talona/","created":"2025-03-13T10:45:50.000-04:00","updated":"2025-03-13T17:25:16.340-04:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/talona/","created":"2025-03-13T17:25:16.000-04:00","updated":"2025-03-13T17:25:16.000-04:00","dg-note-properties":{"tags":null}}
 ---
 
-![Pasted image 20250313104646.png|center|300](/img/user/z_Assets/Pasted%20image%2020250313104646.png)
+![Pasted image 20250313104646.png\|center\|300](/img/user/z_Assets/Pasted%20image%2020250313104646.png)
 
 | Sessions Appeared                                                           |
 | --------------------------------------------------------------------------- |

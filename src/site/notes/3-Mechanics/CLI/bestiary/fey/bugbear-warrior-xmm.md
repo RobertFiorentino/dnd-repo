@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/fey/bugbear-warrior-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1","ttrpg-cli/monster/environment/feywild","ttrpg-cli/monster/environment/forest","ttrpg-cli/monster/environment/grassland","ttrpg-cli/monster/environment/planar","ttrpg-cli/monster/environment/underdark","ttrpg-cli/monster/size/medium","ttrpg-cli/monster/type/fey/goblinoid"],"created":"2025-03-01T17:25:20.000-05:00","updated":"2025-04-01T12:21:34.710-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/fey/bugbear-warrior-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1","ttrpg-cli/monster/environment/feywild","ttrpg-cli/monster/environment/forest","ttrpg-cli/monster/environment/grassland","ttrpg-cli/monster/environment/planar","ttrpg-cli/monster/environment/underdark","ttrpg-cli/monster/size/medium","ttrpg-cli/monster/type/fey/goblinoid"],"created":"2025-04-01T12:21:34.000-04:00","updated":"2025-04-01T12:21:34.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-monster","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1","ttrpg-cli/monster/environment/feywild","ttrpg-cli/monster/environment/forest","ttrpg-cli/monster/environment/grassland","ttrpg-cli/monster/environment/planar","ttrpg-cli/monster/environment/underdark","ttrpg-cli/monster/size/medium","ttrpg-cli/monster/type/fey/goblinoid"],"statblock":"inline","aliases":["Bugbear Warrior"]}}
 ---
 
-# [Bugbear Warrior](3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md)
+# [[3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm\|Bugbear Warrior]]
 *Source: Monster Manual (2024) p. 62*  
 
 Bugbear warriors serve those who offer them treasure, food, or the chance to hunt challenging prey.

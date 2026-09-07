@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/the-dream-team/kanjigar-the-courageous/","tags":["player"],"created":"2025-03-16T19:42:29.000-04:00","updated":"2025-04-01T13:26:25.180-04:00"}
+{"dg-publish":true,"permalink":"/1-party/the-dream-team/kanjigar-the-courageous/","tags":["player"],"created":"2025-04-01T13:26:25.000-04:00","updated":"2025-04-01T13:26:25.000-04:00","dg-note-properties":{"NoteIcon":"player","aliases":["Kanjigar"],"tags":["player"],"Player":"Ben","Role":"Player","Class":["[[3-Mechanics/CLI/classes/cleric-xphb|Cleric]]"],"Race":["Dwarf"],"level":3,"hp":0,"ac":0,"modifier":2,"pasperc":0,"Status":"Active","PlayerKnownLanguages":["Common","Dwarvish"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"spells":{"slots1":4,"slots2":2}}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/baldurs-gate/baldurs-gate/","tags":["Category/Settlement"],"created":"2025-02-22T16:40:09.000-05:00","updated":"2025-02-25T21:28:35.180-05:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/baldurs-gate/baldurs-gate/","tags":["Category/Settlement"],"created":"2025-02-25T21:28:35.000-05:00","updated":"2025-02-25T21:28:35.000-05:00","dg-note-properties":{"NoteIcon":"settlement","tags":["Category/Settlement"],"Community-Size":"Metropolis","Alignment":"Neutral","Government":"4 Dukes","type":"Settlement","politics":"Lordship","leader":"Council of Four","guildsgroups":["The Guild"],"region":["Sword Coast"],"size":"Medium City","population":"125,000","commonraces":["Humans","Elves","Dwarves"],"religion":["Gond","Tymora","Umberlee","Helm","Lathander","Cults of the Dead Three"],"exports":["Dyes","Fish","Lamp Oil","Trade-Coinage"],"imports":["Stone"]}}
 ---
 
 
@@ -50,10 +50,10 @@ Baldur's Gate, the Halfway to Everywhere, the City of Blood, also simply called 
 The strong peace-keeping force known as the Watch, along with the presence of the powerful [[3-Mechanics/Guilds and Groups/Flaming Fist\|Flaming Fist]] mercenary company, kept the city generally peaceful and safe. This inherent sense of security allowed the Gate to keep a tolerant and welcoming attitude towards outsiders, whether they were wealthy merchants, poor refugees or, as it historically attracted, less-scrupulous individuals such as pirates and smugglers.
 
 ### Map
-![BaldursGateMap.png|500](/img/user/z_Assets/BaldursGateMap.png)
+![BaldursGateMap.png\|500](/img/user/z_Assets/BaldursGateMap.png)
 
 ### Picture
-![BaldursGateView.png|500](/img/user/z_Assets/BaldursGateView.png)
+![BaldursGateView.png\|500](/img/user/z_Assets/BaldursGateView.png)
 
 ## Notable NPCs
 

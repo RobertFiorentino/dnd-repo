@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/the-dream-team/thertume-moonbeam/","tags":["player"],"created":"2025-03-29T14:04:49.000-04:00","updated":"2025-04-01T13:26:45.420-04:00"}
+{"dg-publish":true,"permalink":"/1-party/the-dream-team/thertume-moonbeam/","tags":["player"],"created":"2025-04-01T13:26:45.000-04:00","updated":"2025-04-01T13:26:45.000-04:00","dg-note-properties":{"NoteIcon":"player","aliases":["Thertume"],"tags":["player"],"Player":"Westley","Role":"Player","Class":["[[3-Mechanics/CLI/classes/druid-xphb|Druid]]"],"Race":["Dragonborn"],"level":3,"hp":null,"ac":0,"modifier":2,"pasperc":null,"Status":"Active","PlayerKnownLanguages":["Common"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"spells":{"slots1":4,"slots2":2},"Locations":["Neverwinter Wood"]}}
 ---
 
 

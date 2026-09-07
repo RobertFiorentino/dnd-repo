@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/undead/ghoul-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1","ttrpg-cli/monster/environment/swamp","ttrpg-cli/monster/environment/underdark","ttrpg-cli/monster/environment/urban","ttrpg-cli/monster/size/medium","ttrpg-cli/monster/type/undead"],"created":"2025-03-01T17:25:21.000-05:00","updated":"2025-03-25T22:27:48.480-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/bestiary/undead/ghoul-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1","ttrpg-cli/monster/environment/swamp","ttrpg-cli/monster/environment/underdark","ttrpg-cli/monster/environment/urban","ttrpg-cli/monster/size/medium","ttrpg-cli/monster/type/undead"],"created":"2025-03-25T22:27:48.000-04:00","updated":"2025-03-25T22:27:48.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-monster","tags":["ttrpg-cli/compendium/src/5e/xmm","ttrpg-cli/monster/cr/1","ttrpg-cli/monster/environment/swamp","ttrpg-cli/monster/environment/underdark","ttrpg-cli/monster/environment/urban","ttrpg-cli/monster/size/medium","ttrpg-cli/monster/type/undead"],"statblock":"inline","aliases":["Ghoul"]}}
 ---
 
-# [Ghoul](3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md)
+# [[3-Mechanics/CLI/bestiary/undead/ghoul-xmm\|Ghoul]]
 *Source: Monster Manual (2024) p. 132*  
 
 Ghouls rise from the bodies of cannibals and villains with depraved hungers. They form packs out of shared voracity.

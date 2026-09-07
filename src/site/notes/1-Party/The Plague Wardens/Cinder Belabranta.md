@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/the-plague-wardens/cinder-belabranta/","tags":["player"],"created":"2025-02-22T14:10:57.000-05:00","updated":"2025-04-01T17:45:02.820-04:00"}
+{"dg-publish":true,"permalink":"/1-party/the-plague-wardens/cinder-belabranta/","tags":["player"],"created":"2025-04-01T17:45:02.000-04:00","updated":"2025-04-01T17:45:02.000-04:00","dg-note-properties":{"NoteIcon":"player","aliases":["Cinder"],"tags":["player"],"Player":"Bobby","Role":"Player","Class":["[[3-Mechanics/CLI/classes/warlock-xphb|Warlock]]","[[3-Mechanics/CLI/classes/warlock-xphb-the-hexblade-xge|The Hexblade]]"],"Race":["Half-Elf"],"level":3,"hp":30,"ac":17,"modifier":2,"pasperc":12,"Status":"Active","PlayerKnownLanguages":["Common","Infernal","Elvish"],"spells":{"slots2":2}}}
 ---
 
 # Cinder Belabranta
@@ -11,7 +11,7 @@
 
 The son of the noble [[2-World/Faerûn/Waterdeep/House Belabranta\|House Belabranta]], the half-elven second son was born with the elven name Bel'cinderian though he goes by Cinder among the nobility and non-elves.
 
-![CinderYelling.png|400](/img/user/z_Assets/CinderYelling.png)
+![CinderYelling.png\|400](/img/user/z_Assets/CinderYelling.png)
 
 ### Voice and Appearance
 Received pronunciation accent, slightly breathy. Shoulder length wavy platinum hair, green eyes, 5'10"

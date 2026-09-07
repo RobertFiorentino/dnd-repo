@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/the-plague-wardens/dr-buckles/","tags":["player"],"created":"2025-02-22T17:44:04.000-05:00","updated":"2025-02-25T21:09:52.410-05:00"}
+{"dg-publish":true,"permalink":"/1-party/the-plague-wardens/dr-buckles/","tags":["player"],"created":"2025-02-25T21:09:52.000-05:00","updated":"2025-02-25T21:09:52.000-05:00","dg-note-properties":{"NoteIcon":"player","aliases":null,"tags":["player"],"Player":"Garrett","Role":"Player","Class":["[[3-Mechanics/CLI/classes/wizard-xphb|Wizard]]"],"Race":["Half-Elf"],"level":3,"hp":0,"ac":0,"modifier":2,"pasperc":0,"Status":"Active","PlayerKnownLanguages":["Common"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3}}}
 ---
 
 # Dr. Buckles

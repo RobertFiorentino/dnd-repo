@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/waterdeep/","tags":["Category/Settlement"],"created":"2025-02-22T16:39:58.000-05:00","updated":"2025-02-25T21:30:02.570-05:00"}
+{"dg-publish":true,"permalink":"/2-world/faerun/waterdeep/waterdeep/","tags":["Category/Settlement"],"created":"2025-02-25T21:30:02.000-05:00","updated":"2025-02-25T21:30:02.000-05:00","dg-note-properties":{"NoteIcon":"settlement","tags":["Category/Settlement"],"Community-Size":"Metropolis","Alignment":"Neutral","Government":"Autocracy","type":"Settlement","politics":"Lordship","leader":"Open Lord","guildsgroups":null,"region":["Sword Coast"],"size":"Large City","population":"2,000,000","commonraces":["Humans","Elves","Dwarves","Halflings","Half-Elves","Gnomes","Half-Orcs"],"religion":["Deneir","Mystra","Oghma","Tempus"],"exports":["Ale","Arms","Cloth","Fish","Furnishings","Leather Goods","Pottery","Refined Metals","Finished Goods"],"imports":["Grain","Livestock","Leather","Ore","Timer","Exotic Goods"]}}
 ---
 
 > [!infobox]
 > # Waterdeep
-> ![WaterdeepSeal.png|200](/img/user/z_Assets/WaterdeepSeal.png)
+> ![WaterdeepSeal.png\|200](/img/user/z_Assets/WaterdeepSeal.png)
 > ###### Geography
 > | |  |
 > |---|---|
@@ -32,8 +32,8 @@
 > |---|---|
 >  | Group                                                                             | Leader |
 > | --------------------------------------------------------------------------------- | ------ |
-> | [[3-Mechanics/Guilds and Groups/Council on the Plague\|Council on the Plague]] | \-     |
 > | [[3-Mechanics/Guilds and Groups/Plague Rats\|Plague Rats]]                     | \-     |
+> | [[3-Mechanics/Guilds and Groups/Council on the Plague\|Council on the Plague]] | \-     |
 > 
 { .block-language-dataview}
 > ###### Sessions Appeared
@@ -52,10 +52,10 @@ Waterdeep, also known as the City of Splendors or the Crown of the North, was th
 It was one of if not the most powerful and influential member-states of the Lords' Alliance, the coalition of nations and city-states that sought to maintain order along the Sword Coast and the North.
 
 ### Map
-![WaterDeepWardMap.png|500](/img/user/z_Assets/WaterDeepWardMap.png)
+![WaterDeepWardMap.png\|500](/img/user/z_Assets/WaterDeepWardMap.png)
 
 ### Picture
-![WaterdeepPic.png|500](/img/user/z_Assets/WaterdeepPic.png)
+![WaterdeepPic.png\|500](/img/user/z_Assets/WaterdeepPic.png)
 
 
 ## Notable NPCs
