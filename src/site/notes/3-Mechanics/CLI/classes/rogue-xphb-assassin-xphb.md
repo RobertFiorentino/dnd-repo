@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/rogue-xphb-assassin-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/subclass/rogue/assassin"],"created":"2025-03-01T17:25:17.000-05:00","updated":"2025-03-01T18:44:36.640-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/rogue-xphb-assassin-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/subclass/rogue/assassin"],"created":"2025-03-01T18:44:36.000-05:00","updated":"2025-03-01T18:44:36.000-05:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/subclass/rogue/assassin"],"aliases":["Assassin"]}}
 ---
 
 # Assassin
-*[Rogue](rogue-xphb.md): Rogue Subclass*  
+*[[3-Mechanics/CLI/classes/rogue-xphb\|Rogue]]: Rogue Subclass*  
 *Source: Player's Handbook (2024) p. 134*  
 
 > [!tldr] Class and Feature Progression
@@ -51,15 +51,15 @@ You're adept at ambushing a target, granting you the following benefits.
 
 #### Initiative
 
-You have [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on [Initiative](3-Mechanics/CLI/rules/variant-rules/initiative-xphb.md) rolls.
+You have [[3-Mechanics/CLI/rules/variant-rules/advantage-xphb\|Advantage]] on [[3-Mechanics/CLI/rules/variant-rules/initiative-xphb\|Initiative]] rolls.
 
 #### Surprising Strikes
 
-During the first round of each combat, you have [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on attack rolls against any creature that hasn't taken a turn. If your Sneak Attack hits any target during that round, the target takes extra damage of the weapon's type equal to your Rogue level.
+During the first round of each combat, you have [[3-Mechanics/CLI/rules/variant-rules/advantage-xphb\|Advantage]] on attack rolls against any creature that hasn't taken a turn. If your Sneak Attack hits any target during that round, the target takes extra damage of the weapon's type equal to your Rogue level.
 
 ### Assassin's Tools (Level 3)
 
-You gain a [Disguise Kit](3-Mechanics/CLI/items/disguise-kit-xphb.md) and a [Poisoner's Kit](3-Mechanics/CLI/items/poisoners-kit-xphb.md), and you have proficiency with them.
+You gain a [[3-Mechanics/CLI/items/disguise-kit-xphb\|Disguise Kit]] and a [[3-Mechanics/CLI/items/poisoners-kit-xphb\|Poisoner's Kit]], and you have proficiency with them.
 
 ### Infiltration Expertise (Level 9)
 
@@ -71,12 +71,12 @@ You can unerringly mimic another person's speech, handwriting, or both if you ha
 
 #### Roving Aim
 
-Your [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md) isn't reduced to 0 by using Steady Aim.
+Your [[3-Mechanics/CLI/rules/variant-rules/speed-xphb\|Speed]] isn't reduced to 0 by using Steady Aim.
 
 ### Envenom Weapons (Level 13)
 
-When you use the Poison option of your Cunning Strike, the target also takes `2d6` Poison damage whenever it fails the saving throw. This damage ignores [Resistance](3-Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to Poison damage.
+When you use the Poison option of your Cunning Strike, the target also takes `2d6` Poison damage whenever it fails the saving throw. This damage ignores [[3-Mechanics/CLI/rules/variant-rules/resistance-xphb\|Resistance]] to Poison damage.
 
 ### Death Strike (Level 17)
 
-When you hit with your Sneak Attack on the first round of a combat, the target must succeed on a Constitution saving throw (DC 8 plus your Dexterity modifier and [Proficiency](3-Mechanics/CLI/rules/variant-rules/proficiency-xphb.md)), or the attack's damage is doubled against the target.
+When you hit with your Sneak Attack on the first round of a combat, the target must succeed on a Constitution saving throw (DC 8 plus your Dexterity modifier and [[3-Mechanics/CLI/rules/variant-rules/proficiency-xphb\|Proficiency]]), or the attack's damage is doubled against the target.

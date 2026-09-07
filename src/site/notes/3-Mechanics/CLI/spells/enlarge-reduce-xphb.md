@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/enlarge-reduce-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/artificer","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/level/2nd-level","ttrpg-cli/spell/school/transmutation","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/eldritch-knight"],"created":"2025-03-01T17:25:23.000-05:00","updated":"2025-03-01T18:44:36.640-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/enlarge-reduce-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/artificer","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/level/2nd-level","ttrpg-cli/spell/school/transmutation","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/eldritch-knight"],"created":"2025-03-01T18:44:36.000-05:00","updated":"2025-03-01T18:44:36.000-05:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-spell","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/artificer","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/level/2nd-level","ttrpg-cli/spell/school/transmutation","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/eldritch-knight"],"classes":["Artificer","Bard","Bard","Druid","Druid","Sorcerer","Sorcerer","Wizard","Wizard","Rogue (Arcane Trickster)","Bard (College of Lore)","Fighter (Eldritch Knight)"],"aliases":["Enlarge/Reduce"]}}
 ---
 
 # Enlarge/Reduce
@@ -17,11 +17,11 @@ Everything that a targeted creature is wearing and carrying changes size with it
 
 ## Enlarge
 
-The target's size increases by one category—from Medium to Large, for example. The target also has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on Strength checks and Strength saving throws. The target's attacks with its enlarged weapons or Unarmed Strikes deal an extra `1d4` damage on a hit.
+The target's size increases by one category—from Medium to Large, for example. The target also has [[3-Mechanics/CLI/rules/variant-rules/advantage-xphb\|Advantage]] on Strength checks and Strength saving throws. The target's attacks with its enlarged weapons or Unarmed Strikes deal an extra `1d4` damage on a hit.
 
 ## Reduce
 
-The target's size decreases by one category—from Medium to Small, for example. The target also has [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on Strength checks and Strength saving throws. The target's attacks with its reduced weapons or Unarmed Strikes deal `1d4` less damage on a hit (this can't reduce the damage below 1).
+The target's size decreases by one category—from Medium to Small, for example. The target also has [[3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb\|Disadvantage]] on Strength checks and Strength saving throws. The target's attacks with its reduced weapons or Unarmed Strikes deal `1d4` less damage on a hit (this can't reduce the damage below 1).
 
 ## Summary
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/cure-wounds-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/artificer","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/cleric","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/paladin","ttrpg-cli/spell/class/ranger","ttrpg-cli/spell/feat/artificer-initiate","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/school/abjuration","ttrpg-cli/spell/subclass/celestial-patron","ttrpg-cli/spell/subclass/circle-of-the-moon","ttrpg-cli/spell/subclass/circle-of-wildfire","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/divine-soul","ttrpg-cli/spell/subclass/life-domain"],"created":"2025-03-01T17:25:23.000-05:00","updated":"2025-03-25T22:27:48.470-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/cure-wounds-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/artificer","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/cleric","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/paladin","ttrpg-cli/spell/class/ranger","ttrpg-cli/spell/feat/artificer-initiate","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/school/abjuration","ttrpg-cli/spell/subclass/celestial-patron","ttrpg-cli/spell/subclass/circle-of-the-moon","ttrpg-cli/spell/subclass/circle-of-wildfire","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/divine-soul","ttrpg-cli/spell/subclass/life-domain"],"created":"2025-03-25T22:27:48.000-04:00","updated":"2025-03-25T22:27:48.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-spell","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/artificer","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/cleric","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/paladin","ttrpg-cli/spell/class/ranger","ttrpg-cli/spell/feat/artificer-initiate","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/school/abjuration","ttrpg-cli/spell/subclass/celestial-patron","ttrpg-cli/spell/subclass/circle-of-the-moon","ttrpg-cli/spell/subclass/circle-of-wildfire","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/divine-soul","ttrpg-cli/spell/subclass/life-domain"],"classes":["Artificer","Bard","Bard","Cleric","Cleric","Druid","Druid","Paladin","Paladin","Ranger","Ranger","Warlock (Celestial Patron)","Druid (Circle of the Moon)","Druid (Circle of Wildfire)","Bard (College of Lore)","Sorcerer (Divine Soul)","Cleric (Life Domain)"],"aliases":["Cure Wounds"]}}
 ---
 
 # Cure Wounds
@@ -11,7 +11,7 @@
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-A creature you touch regains a number of [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to `2d8` plus your spellcasting ability modifier.
+A creature you touch regains a number of [[3-Mechanics/CLI/rules/variant-rules/hit-points-xphb\|Hit Points]] equal to `2d8` plus your spellcasting ability modifier.
 
 **Using a Higher-Level Spell Slot.** The healing increases by `2d8` for each spell slot level above 1.
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/items/mariners-armor-xdmg/","tags":["ttrpg-cli/compendium/src/5e/xdmg","ttrpg-cli/item/armor/heavy","ttrpg-cli/item/armor/light","ttrpg-cli/item/armor/medium","ttrpg-cli/item/rarity/uncommon"],"created":"2025-03-01T17:25:28.000-05:00","updated":"2025-04-10T12:09:22.450-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/items/mariners-armor-xdmg/","tags":["ttrpg-cli/compendium/src/5e/xdmg","ttrpg-cli/item/armor/heavy","ttrpg-cli/item/armor/light","ttrpg-cli/item/armor/medium","ttrpg-cli/item/rarity/uncommon"],"created":"2025-04-10T12:09:22.000-04:00","updated":"2025-04-10T12:09:22.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-item","tags":["ttrpg-cli/compendium/src/5e/xdmg","ttrpg-cli/item/armor/heavy","ttrpg-cli/item/armor/light","ttrpg-cli/item/armor/medium","ttrpg-cli/item/rarity/uncommon"],"aliases":["Mariner's Armor","Mariner's Breastplate","Mariner's Chain Mail","Mariner's Chain Shirt","Mariner's Half Plate Armor","Mariner's Hide Armor","Mariner's Leather Armor","Mariner's Padded Armor","Mariner's Plate Armor","Mariner's Ring Mail","Mariner's Scale Mail","Mariner's Splint Armor","Mariner's Studded Leather Armor"]}}
 ---
 
 # Mariner's Armor
@@ -7,7 +7,7 @@
 ![](3-Mechanics/CLI/items/img/mariners-armor.webp#right)
 
 
-While wearing this armor, you have a [Swim Speed](3-Mechanics/CLI/rules/variant-rules/swim-speed-xphb.md) equal to your [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md). In addition, if you start your turn underwater with 0 [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), you immediately regain `1d4` [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md). The armor can't heal anyone again until the next dawn.
+While wearing this armor, you have a [[3-Mechanics/CLI/rules/variant-rules/swim-speed-xphb\|Swim Speed]] equal to your [[3-Mechanics/CLI/rules/variant-rules/speed-xphb\|Speed]]. In addition, if you start your turn underwater with 0 [[3-Mechanics/CLI/rules/variant-rules/hit-points-xphb\|Hit Points]], you immediately regain `1d4` [[3-Mechanics/CLI/rules/variant-rules/hit-points-xphb\|Hit Points]]. The armor can't heal anyone again until the next dawn.
 
 The armor is decorated with fish and shell motifs.
 

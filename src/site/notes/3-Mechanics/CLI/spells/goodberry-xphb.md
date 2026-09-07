@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/goodberry-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/ranger","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/school/conjuration","ttrpg-cli/spell/subclass/college-of-lore"],"created":"2025-03-01T17:25:24.000-05:00","updated":"2025-04-01T12:21:34.700-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/goodberry-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/ranger","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/school/conjuration","ttrpg-cli/spell/subclass/college-of-lore"],"created":"2025-04-01T12:21:34.000-04:00","updated":"2025-04-01T12:21:34.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-spell","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/ranger","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/school/conjuration","ttrpg-cli/spell/subclass/college-of-lore"],"classes":["Bard","Druid","Druid","Ranger","Ranger","Bard (College of Lore)"],"aliases":["Goodberry"]}}
 ---
 
 # Goodberry
@@ -11,7 +11,7 @@
 - **Components:** V, S, a sprig of mistletoe
 - **Duration:** 24 hour
 
-Ten berries appear in your hand and are infused with magic for the duration. A creature can take a [Bonus Action](3-Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to eat one berry. Eating a berry restores 1 [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), and the berry provides enough nourishment to sustain a creature for one day.
+Ten berries appear in your hand and are infused with magic for the duration. A creature can take a [[3-Mechanics/CLI/rules/variant-rules/bonus-action-xphb\|Bonus Action]] to eat one berry. Eating a berry restores 1 [[3-Mechanics/CLI/rules/variant-rules/hit-points-xphb\|Hit Points]], and the berry provides enough nourishment to sustain a creature for one day.
 
 Uneaten berries disappear when the spell ends.
 

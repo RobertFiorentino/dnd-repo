@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/ice-storm-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/level/4th-level","ttrpg-cli/spell/school/evocation","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/artillerist","ttrpg-cli/spell/subclass/circle-of-the-land","ttrpg-cli/spell/subclass/eldritch-knight","ttrpg-cli/spell/subclass/evoker","ttrpg-cli/spell/subclass/oath-of-the-ancients"],"created":"2025-03-01T17:25:23.000-05:00","updated":"2025-04-11T16:42:20.120-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/ice-storm-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/level/4th-level","ttrpg-cli/spell/school/evocation","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/artillerist","ttrpg-cli/spell/subclass/circle-of-the-land","ttrpg-cli/spell/subclass/eldritch-knight","ttrpg-cli/spell/subclass/evoker","ttrpg-cli/spell/subclass/oath-of-the-ancients"],"created":"2025-04-11T16:42:20.000-04:00","updated":"2025-04-11T16:42:20.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-spell","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/level/4th-level","ttrpg-cli/spell/school/evocation","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/artillerist","ttrpg-cli/spell/subclass/circle-of-the-land","ttrpg-cli/spell/subclass/eldritch-knight","ttrpg-cli/spell/subclass/evoker","ttrpg-cli/spell/subclass/oath-of-the-ancients"],"classes":["Bard","Druid","Druid","Sorcerer","Sorcerer","Wizard","Wizard","Rogue (Arcane Trickster)","Artificer (Artillerist)","Druid (Circle of the Land)","Fighter (Eldritch Knight)","Wizard (Evoker)","Paladin (Oath of the Ancients)"],"aliases":["Ice Storm"]}}
 ---
 
 # Ice Storm
@@ -13,7 +13,7 @@
 
 Hail falls in a 20-foot-radius, 40-foot-high Cylinder centered on a point within range. Each creature in the Cylinder makes a Dexterity saving throw. A creature takes `2d10` Bludgeoning damage and `4d6` Cold damage on a failed save or half as much damage on a successful one.
 
-Hailstones turn ground in the Cylinder into [Difficult Terrain](3-Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md) until the end of your next turn.
+Hailstones turn ground in the Cylinder into [[3-Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb\|Difficult Terrain]] until the end of your next turn.
 
 **Using a Higher-Level Spell Slot.** The Bludgeoning damage increases by `1d10` for each spell slot level above 4.
 

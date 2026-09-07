@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/items/potion-of-frost-giant-strength-xdmg/","tags":["ttrpg-cli/compendium/src/5e/xdmg","ttrpg-cli/item/rarity/rare","ttrpg-cli/item/wondrous/potion"],"created":"2025-03-01T17:25:27.000-05:00","updated":"2025-04-10T12:09:22.440-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/items/potion-of-frost-giant-strength-xdmg/","tags":["ttrpg-cli/compendium/src/5e/xdmg","ttrpg-cli/item/rarity/rare","ttrpg-cli/item/wondrous/potion"],"created":"2025-04-10T12:09:22.000-04:00","updated":"2025-04-10T12:09:22.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-item","tags":["ttrpg-cli/compendium/src/5e/xdmg","ttrpg-cli/item/rarity/rare","ttrpg-cli/item/wondrous/potion"],"aliases":["Potion of Frost Giant Strength"]}}
 ---
 
 # Potion of Frost Giant Strength

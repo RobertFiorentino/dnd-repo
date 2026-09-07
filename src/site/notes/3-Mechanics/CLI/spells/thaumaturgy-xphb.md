@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/thaumaturgy-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/cleric","ttrpg-cli/spell/feat/blessed-warrior","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/level/cantrip","ttrpg-cli/spell/optfeature/pact-of-the-tome","ttrpg-cli/spell/race/tiefling","ttrpg-cli/spell/school/transmutation","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/divine-soul"],"created":"2025-03-01T17:25:24.000-05:00","updated":"2025-03-25T22:27:48.470-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/thaumaturgy-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/cleric","ttrpg-cli/spell/feat/blessed-warrior","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/level/cantrip","ttrpg-cli/spell/optfeature/pact-of-the-tome","ttrpg-cli/spell/race/tiefling","ttrpg-cli/spell/school/transmutation","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/divine-soul"],"created":"2025-03-25T22:27:48.000-04:00","updated":"2025-03-25T22:27:48.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-spell","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/cleric","ttrpg-cli/spell/feat/blessed-warrior","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/level/cantrip","ttrpg-cli/spell/optfeature/pact-of-the-tome","ttrpg-cli/spell/race/tiefling","ttrpg-cli/spell/school/transmutation","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/divine-soul"],"classes":["Cleric","Cleric","Bard (College of Lore)","Sorcerer (Divine Soul)"],"aliases":["Thaumaturgy"]}}
 ---
 
 # Thaumaturgy
@@ -19,7 +19,7 @@ You alter the appearance of your eyes for 1 minute.
 
 ## Booming Voice
 
-Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on Charisma ([Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)) checks.
+Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have [[3-Mechanics/CLI/rules/variant-rules/advantage-xphb\|Advantage]] on Charisma ([[3-Mechanics/CLI/rules/skills#Intimidation\|Intimidation]]) checks.
 
 ## Fire Play
 

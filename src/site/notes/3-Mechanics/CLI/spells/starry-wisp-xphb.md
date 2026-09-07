@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/starry-wisp-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/feat/druidic-warrior","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/feat/wood-elf-magic","ttrpg-cli/spell/level/cantrip","ttrpg-cli/spell/optfeature/pact-of-the-tome","ttrpg-cli/spell/school/evocation","ttrpg-cli/spell/subclass/circle-of-the-moon","ttrpg-cli/spell/subclass/college-of-lore"],"created":"2025-03-01T17:25:22.000-05:00","updated":"2025-04-01T12:21:34.700-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/starry-wisp-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/feat/druidic-warrior","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/feat/wood-elf-magic","ttrpg-cli/spell/level/cantrip","ttrpg-cli/spell/optfeature/pact-of-the-tome","ttrpg-cli/spell/school/evocation","ttrpg-cli/spell/subclass/circle-of-the-moon","ttrpg-cli/spell/subclass/college-of-lore"],"created":"2025-04-01T12:21:34.000-04:00","updated":"2025-04-01T12:21:34.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-spell","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/feat/druidic-warrior","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/feat/wood-elf-magic","ttrpg-cli/spell/level/cantrip","ttrpg-cli/spell/optfeature/pact-of-the-tome","ttrpg-cli/spell/school/evocation","ttrpg-cli/spell/subclass/circle-of-the-moon","ttrpg-cli/spell/subclass/college-of-lore"],"classes":["Bard","Druid","Druid (Circle of the Moon)","Bard (College of Lore)"],"aliases":["Starry Wisp"]}}
 ---
 
 # Starry Wisp
@@ -11,7 +11,7 @@
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You launch a mote of light at one creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes `1d8` Radiant damage, and until the end of your next turn, it emits [Dim Light](3-Mechanics/CLI/rules/variant-rules/dim-light-xphb.md) in a 10-foot radius and can't benefit from the [Invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) condition.
+You launch a mote of light at one creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes `1d8` Radiant damage, and until the end of your next turn, it emits [[3-Mechanics/CLI/rules/variant-rules/dim-light-xphb\|Dim Light]] in a 10-foot radius and can't benefit from the [[3-Mechanics/CLI/rules/conditions#Invisible\|Invisible]] condition.
 
 **Cantrip Upgrade.** The damage increases by `1d8` when you reach levels 5 (`2d8`), 11 (`3d8`), and 17 (`4d8`).
 

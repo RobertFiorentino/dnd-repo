@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/items/longsword-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/item/rarity/none","ttrpg-cli/item/weapon/martial","ttrpg-cli/item/weapon/melee"],"created":"2025-03-01T17:25:28.000-05:00","updated":"2025-03-01T18:44:36.640-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/items/longsword-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/item/rarity/none","ttrpg-cli/item/weapon/martial","ttrpg-cli/item/weapon/melee"],"created":"2025-03-01T18:44:36.000-05:00","updated":"2025-03-01T18:44:36.000-05:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-item","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/item/rarity/none","ttrpg-cli/item/weapon/martial","ttrpg-cli/item/weapon/melee"],"aliases":["Longsword"]}}
 ---
 
 # Longsword
@@ -9,7 +9,7 @@
 - **Damage**:
   - One-handed: 1d8 S
   - Two-handed: 1d10 S
-- **Properties**: [Versatile](3-Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [[3-Mechanics/CLI/rules/item-properties#Versatile\|Versatile]]
 - **Cost**: 15 gp
 - **Weight**: 3.0 lbs.
 

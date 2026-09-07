@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/cloudkill-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/level/5th-level","ttrpg-cli/spell/school/conjuration","ttrpg-cli/spell/subclass/alchemist","ttrpg-cli/spell/subclass/circle-of-spores","ttrpg-cli/spell/subclass/oath-of-conquest"],"created":"2025-03-01T17:25:24.000-05:00","updated":"2025-12-14T17:20:25.938-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/cloudkill-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/level/5th-level","ttrpg-cli/spell/school/conjuration","ttrpg-cli/spell/subclass/alchemist","ttrpg-cli/spell/subclass/circle-of-spores","ttrpg-cli/spell/subclass/oath-of-conquest"],"created":"2025-12-14T17:20:25.000-05:00","updated":"2025-12-14T17:20:25.000-05:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-spell"],"tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/level/5th-level","ttrpg-cli/spell/school/conjuration","ttrpg-cli/spell/subclass/alchemist","ttrpg-cli/spell/subclass/circle-of-spores","ttrpg-cli/spell/subclass/oath-of-conquest"],"classes":["Bard","Sorcerer","Sorcerer","Wizard","Wizard","Artificer (Alchemist)","Druid (Circle of Spores)","Paladin (Oath of Conquest)"],"aliases":["Cloudkill"]}}
 ---
 
 # Cloudkill
@@ -11,7 +11,7 @@
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minute
 
-You create a 20-foot-radius Sphere of yellow-green fog centered on a point within range. The fog lasts for the duration or until strong wind (such as the one created by [Gust of Wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md)) disperses it, ending the spell. Its area is [Heavily Obscured](3-Mechanics/CLI/rules/variant-rules/heavily-obscured-xphb.md).
+You create a 20-foot-radius Sphere of yellow-green fog centered on a point within range. The fog lasts for the duration or until strong wind (such as the one created by [[3-Mechanics/CLI/spells/gust-of-wind-xphb\|Gust of Wind]]) disperses it, ending the spell. Its area is [[3-Mechanics/CLI/rules/variant-rules/heavily-obscured-xphb\|Heavily Obscured]].
 
 Each creature in the Sphere makes a Constitution saving throw, taking `5d8` Poison damage on a failed save or half as much damage on a successful one. A creature must also make this save when the Sphere moves into its space and when it enters the Sphere or ends its turn there. A creature makes this save only once per turn.
 

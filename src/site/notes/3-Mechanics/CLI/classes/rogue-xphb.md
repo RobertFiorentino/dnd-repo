@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/rogue-xphb/","tags":["ttrpg-cli/class/rogue","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-03-01T17:25:18.000-05:00","updated":"2025-03-01T19:30:54.890-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/classes/rogue-xphb/","tags":["ttrpg-cli/class/rogue","ttrpg-cli/compendium/src/5e/xphb"],"created":"2025-03-01T19:30:54.000-05:00","updated":"2025-03-01T19:30:54.000-05:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["ttrpg-cli/class/rogue","ttrpg-cli/compendium/src/5e/xphb"],"aliases":["Rogue"]}}
 ---
 
 # Rogue
@@ -44,18 +44,18 @@
 ## Starting Rogue
 
 - **Saving Throw Proficiencies**: Dexterity, Intelligence
-- **Skill Proficiencies**: *Choose 4:* [Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics), [Athletics](3-Mechanics/CLI/rules/skills.md#Athletics), [Deception](3-Mechanics/CLI/rules/skills.md#Deception), [Insight](3-Mechanics/CLI/rules/skills.md#Insight), [Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation), [Investigation](3-Mechanics/CLI/rules/skills.md#Investigation), [Perception](3-Mechanics/CLI/rules/skills.md#Perception), [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion), [Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand), or [Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)
+- **Skill Proficiencies**: *Choose 4:* [[3-Mechanics/CLI/rules/skills#Acrobatics\|Acrobatics]], [[3-Mechanics/CLI/rules/skills#Athletics\|Athletics]], [[3-Mechanics/CLI/rules/skills#Deception\|Deception]], [[3-Mechanics/CLI/rules/skills#Insight\|Insight]], [[3-Mechanics/CLI/rules/skills#Intimidation\|Intimidation]], [[3-Mechanics/CLI/rules/skills#Investigation\|Investigation]], [[3-Mechanics/CLI/rules/skills#Perception\|Perception]], [[3-Mechanics/CLI/rules/skills#Persuasion\|Persuasion]], [[3-Mechanics/CLI/rules/skills#Sleight of Hand\|Sleight of Hand]], or [[3-Mechanics/CLI/rules/skills#Stealth\|Stealth]]
 - **Weapon Proficiencies**: Simple weapons and Martial weapons that have the Finesse or Light property
-- **Tool Proficiencies**: [Thieves' Tools](3-Mechanics/CLI/items/thieves-tools-xphb.md)
-- **Armor Training**: [Light armor](3-Mechanics/CLI/rules/item-types.md#Light%20Armor)
+- **Tool Proficiencies**: [[3-Mechanics/CLI/items/thieves-tools-xphb\|Thieves' Tools]]
+- **Armor Training**: [[3-Mechanics/CLI/rules/item-types#Light Armor\|Light armor]]
 
-**Starting Equipment:** *Choose A or B:* (A) [Leather Armor](3-Mechanics/CLI/items/leather-armor-xphb.md), 2 [Daggers](3-Mechanics/CLI/items/dagger-xphb.md), [Shortsword](3-Mechanics/CLI/items/shortsword-xphb.md), [Shortbow](3-Mechanics/CLI/items/shortbow-xphb.md), [20 Arrows](3-Mechanics/CLI/items/arrows-20-xphb.md), [Quiver](3-Mechanics/CLI/items/quiver-xphb.md), [Thieves' Tools](3-Mechanics/CLI/items/thieves-tools-xphb.md), [Burglar's Pack](3-Mechanics/CLI/items/burglars-pack-xphb.md), and 8 GP; or (B) 100 GP
+**Starting Equipment:** *Choose A or B:* (A) [[3-Mechanics/CLI/items/leather-armor-xphb\|Leather Armor]], 2 [[3-Mechanics/CLI/items/dagger-xphb\|Daggers]], [[3-Mechanics/CLI/items/shortsword-xphb\|Shortsword]], [[3-Mechanics/CLI/items/shortbow-xphb\|Shortbow]], [[3-Mechanics/CLI/items/arrows-20-xphb\|20 Arrows]], [[3-Mechanics/CLI/items/quiver-xphb\|Quiver]], [[3-Mechanics/CLI/items/thieves-tools-xphb\|Thieves' Tools]], [[3-Mechanics/CLI/items/burglars-pack-xphb\|Burglar's Pack]], and 8 GP; or (B) 100 GP
 
 ## Multiclassing Rogue
 
-- **Skill Proficiencies**: *Choose 1:* [Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics), [Athletics](3-Mechanics/CLI/rules/skills.md#Athletics), [Deception](3-Mechanics/CLI/rules/skills.md#Deception), [Insight](3-Mechanics/CLI/rules/skills.md#Insight), [Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation), [Investigation](3-Mechanics/CLI/rules/skills.md#Investigation), [Perception](3-Mechanics/CLI/rules/skills.md#Perception), [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion), [Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand), or [Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)
-- **Tool Proficiencies**: [Thieves' Tools](3-Mechanics/CLI/items/thieves-tools-xphb.md)
-- **Armor Training**: [Light armor](3-Mechanics/CLI/rules/item-types.md#Light%20Armor)
+- **Skill Proficiencies**: *Choose 1:* [[3-Mechanics/CLI/rules/skills#Acrobatics\|Acrobatics]], [[3-Mechanics/CLI/rules/skills#Athletics\|Athletics]], [[3-Mechanics/CLI/rules/skills#Deception\|Deception]], [[3-Mechanics/CLI/rules/skills#Insight\|Insight]], [[3-Mechanics/CLI/rules/skills#Intimidation\|Intimidation]], [[3-Mechanics/CLI/rules/skills#Investigation\|Investigation]], [[3-Mechanics/CLI/rules/skills#Perception\|Perception]], [[3-Mechanics/CLI/rules/skills#Persuasion\|Persuasion]], [[3-Mechanics/CLI/rules/skills#Sleight of Hand\|Sleight of Hand]], or [[3-Mechanics/CLI/rules/skills#Stealth\|Stealth]]
+- **Tool Proficiencies**: [[3-Mechanics/CLI/items/thieves-tools-xphb\|Thieves' Tools]]
+- **Armor Training**: [[3-Mechanics/CLI/rules/item-types#Light Armor\|Light armor]]
 
 ## Rogue
 
@@ -69,15 +69,15 @@ Some Rogues began their careers as criminals, while others used their cunning to
 
 ### Expertise (Level 1)
 
-You gain [Expertise](3-Mechanics/CLI/rules/variant-rules/expertise-xphb.md) in two of your skill proficiencies of your choice. [Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand) and [Stealth](3-Mechanics/CLI/rules/skills.md#Stealth) are recommended if you have proficiency in them.
+You gain [[3-Mechanics/CLI/rules/variant-rules/expertise-xphb\|Expertise]] in two of your skill proficiencies of your choice. [[3-Mechanics/CLI/rules/skills#Sleight of Hand\|Sleight of Hand]] and [[3-Mechanics/CLI/rules/skills#Stealth\|Stealth]] are recommended if you have proficiency in them.
 
-At Rogue level 6, you gain [Expertise](3-Mechanics/CLI/rules/variant-rules/expertise-xphb.md) in two more of your skill proficiencies of your choice.
+At Rogue level 6, you gain [[3-Mechanics/CLI/rules/variant-rules/expertise-xphb\|Expertise]] in two more of your skill proficiencies of your choice.
 
 ### Sneak Attack (Level 1)
 
-You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra `1d6` damage to one creature you hit with an attack roll if you have [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on the roll and the attack uses a Finesse or a Ranged weapon. The extra damage's type is the same as the weapon's type.
+You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra `1d6` damage to one creature you hit with an attack roll if you have [[3-Mechanics/CLI/rules/variant-rules/advantage-xphb\|Advantage]] on the roll and the attack uses a Finesse or a Ranged weapon. The extra damage's type is the same as the weapon's type.
 
-You don't need [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on the attack roll if at least one of your allies is within 5 feet of the target, the ally doesn't have the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) condition, and you don't have [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on the attack roll.
+You don't need [[3-Mechanics/CLI/rules/variant-rules/advantage-xphb\|Advantage]] on the attack roll if at least one of your allies is within 5 feet of the target, the ally doesn't have the [[3-Mechanics/CLI/rules/conditions#Incapacitated\|Incapacitated]] condition, and you don't have [[3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb\|Disadvantage]] on the attack roll.
 
 The extra damage increases as you gain Rogue levels, as shown in the Sneak Attack column of the Rogue Features table.
 
@@ -87,13 +87,13 @@ You picked up various languages in the communities where you plied your roguish 
 
 ### Weapon Mastery (Level 1)
 
-Your training with weapons allows you to use the [weapon mastery properties](3-Mechanics/CLI/rules/variant-rules/weapon-mastery-properties-xphb.md) of two kinds of weapons of your choice with which you have proficiency, such as [Daggers](3-Mechanics/CLI/items/dagger-xphb.md) and [Shortbows](3-Mechanics/CLI/items/shortbow-xphb.md).
+Your training with weapons allows you to use the [weapon mastery properties](3-Mechanics/CLI/rules/variant-rules/weapon-mastery-properties-xphb.md) of two kinds of weapons of your choice with which you have proficiency, such as [[3-Mechanics/CLI/items/dagger-xphb\|Daggers]] and [[3-Mechanics/CLI/items/shortbow-xphb\|Shortbows]].
 
-Whenever you finish a [Long Rest](3-Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can change the kinds of weapons you chose. For example, you could switch to using the [weapon mastery properties](3-Mechanics/CLI/rules/variant-rules/weapon-mastery-properties-xphb.md) of [Scimitars](3-Mechanics/CLI/items/scimitar-xphb.md) and [Shortswords](3-Mechanics/CLI/items/shortsword-xphb.md).
+Whenever you finish a [[3-Mechanics/CLI/rules/variant-rules/long-rest-xphb\|Long Rest]], you can change the kinds of weapons you chose. For example, you could switch to using the [weapon mastery properties](3-Mechanics/CLI/rules/variant-rules/weapon-mastery-properties-xphb.md) of [[3-Mechanics/CLI/items/scimitar-xphb\|Scimitars]] and [[3-Mechanics/CLI/items/shortsword-xphb\|Shortswords]].
 
 ### Cunning Action (Level 2)
 
-Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a [Bonus Action](3-Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md): [Dash](3-Mechanics/CLI/rules/actions.md#Dash), [Disengage](3-Mechanics/CLI/rules/actions.md#Disengage), or [Hide](3-Mechanics/CLI/rules/actions.md#Hide).
+Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a [[3-Mechanics/CLI/rules/variant-rules/bonus-action-xphb\|Bonus Action]]: [[3-Mechanics/CLI/rules/actions#Dash\|Dash]], [[3-Mechanics/CLI/rules/actions#Disengage\|Disengage]], or [[3-Mechanics/CLI/rules/actions#Hide\|Hide]].
 
 ### Rogue Subclass (Level 3)
 
@@ -101,43 +101,43 @@ You gain a Rogue subclass of your choice. A subclass is a specialization that gr
 
 ### Steady Aim (Level 3)
 
-As a [Bonus Action](3-Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you give yourself [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on your next attack roll on the current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md) is 0 until the end of the current turn.
+As a [[3-Mechanics/CLI/rules/variant-rules/bonus-action-xphb\|Bonus Action]], you give yourself [[3-Mechanics/CLI/rules/variant-rules/advantage-xphb\|Advantage]] on your next attack roll on the current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your [[3-Mechanics/CLI/rules/variant-rules/speed-xphb\|Speed]] is 0 until the end of the current turn.
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](3-Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify. You gain this feature again at Rogue levels 8, 10, 12, and 16.
+You gain the [[3-Mechanics/CLI/feats/ability-score-improvement-xphb\|Ability Score Improvement]] feat or another feat of your choice for which you qualify. You gain this feature again at Rogue levels 8, 10, 12, and 16.
 
 ### Cunning Strike (Level 5)
 
 You've developed cunning ways to use your Sneak Attack. When you deal Sneak Attack damage, you can add one of the following Cunning Strike effects. Each effect has a die cost, which is the number of Sneak Attack damage dice you must forgo to add the effect. You remove the die before rolling, and the effect occurs immediately after the attack's damage is dealt. For example, if you add the Poison effect, remove `1d6` from the Sneak Attack's damage before rolling.
 
-If a Cunning Strike effect requires a saving throw, the DC equals 8 plus your Dexterity modifier and [Proficiency](3-Mechanics/CLI/rules/variant-rules/proficiency-xphb.md).
+If a Cunning Strike effect requires a saving throw, the DC equals 8 plus your Dexterity modifier and [[3-Mechanics/CLI/rules/variant-rules/proficiency-xphb\|Proficiency]].
 
 ### Poison (Cost: 1d6) (Level 5)
 
-You add a toxin to your strike, forcing the target to make a Constitution saving throw. On a failed save, the target has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition for 1 minute. At the end of each of its turns, the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) target repeats the save, ending the effect on itself on a success.
+You add a toxin to your strike, forcing the target to make a Constitution saving throw. On a failed save, the target has the [[3-Mechanics/CLI/rules/conditions#Poisoned\|Poisoned]] condition for 1 minute. At the end of each of its turns, the [[3-Mechanics/CLI/rules/conditions#Poisoned\|Poisoned]] target repeats the save, ending the effect on itself on a success.
 
-To use this effect, you must have a [Poisoner's Kit](3-Mechanics/CLI/items/poisoners-kit-xphb.md) on your person.
+To use this effect, you must have a [[3-Mechanics/CLI/items/poisoners-kit-xphb\|Poisoner's Kit]] on your person.
 
 ### Trip (Cost: 1d6) (Level 5)
 
-If the target is Large or smaller, it must succeed on a Dexterity saving throw or have the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone) condition.
+If the target is Large or smaller, it must succeed on a Dexterity saving throw or have the [[3-Mechanics/CLI/rules/conditions#Prone\|Prone]] condition.
 
 ### Withdraw (Cost: 1d6) (Level 5)
 
-Immediately after the attack, you move up to half your [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack).
+Immediately after the attack, you move up to half your [[3-Mechanics/CLI/rules/variant-rules/speed-xphb\|Speed]] without provoking [[3-Mechanics/CLI/rules/actions#Opportunity Attack\|Opportunity Attacks]].
 
 ### Uncanny Dodge (Level 5)
 
-When an attacker that you can see hits you with an attack roll, you can take a [Reaction](3-Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to halve the attack's damage against you (round down).
+When an attacker that you can see hits you with an attack roll, you can take a [[3-Mechanics/CLI/rules/variant-rules/reaction-xphb\|Reaction]] to halve the attack's damage against you (round down).
 
 ### Expertise (Level 6)
 
-You gain [Expertise](3-Mechanics/CLI/rules/variant-rules/expertise-xphb.md) in two of your Skill Proficiencies of your choice.
+You gain [[3-Mechanics/CLI/rules/variant-rules/expertise-xphb\|Expertise]] in two of your Skill Proficiencies of your choice.
 
 ### Evasion (Level 7)
 
-You can nimbly dodge out of the way of certain dangers. When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this feature if you have the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) condition.
+You can nimbly dodge out of the way of certain dangers. When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this feature if you have the [[3-Mechanics/CLI/rules/conditions#Incapacitated\|Incapacitated]] condition.
 
 ### Reliable Talent (Level 7)
 
@@ -145,7 +145,7 @@ Whenever you make an ability check that uses one of your skill or tool proficien
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](3-Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [[3-Mechanics/CLI/feats/ability-score-improvement-xphb\|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 9)
 
@@ -153,7 +153,7 @@ You gain a feature from your Rogue Subclass.
 
 ### Ability Score Improvement (Level 10)
 
-You gain the [Ability Score Improvement](3-Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [[3-Mechanics/CLI/feats/ability-score-improvement-xphb\|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Improved Cunning Strike (Level 11)
 
@@ -161,7 +161,7 @@ You can use up to two Cunning Strike effects when you deal Sneak Attack damage, 
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](3-Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [[3-Mechanics/CLI/feats/ability-score-improvement-xphb\|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 13)
 
@@ -173,15 +173,15 @@ You've practiced new ways to use your Sneak Attack deviously. The following effe
 
 ### Daze (Cost: 2d6) (Level 14)
 
-The target must succeed on a Constitution saving throw, or on its next turn, it can do only one of the following: move or take an action or a [Bonus Action](3-Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md).
+The target must succeed on a Constitution saving throw, or on its next turn, it can do only one of the following: move or take an action or a [[3-Mechanics/CLI/rules/variant-rules/bonus-action-xphb\|Bonus Action]].
 
 ### Knock Out (Cost: 6d6) (Level 14)
 
-The target must succeed on a Constitution saving throw, or it has the [Unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) condition for 1 minute or until it takes any damage. The [Unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) target repeats the save at the end of each of its turns, ending the effect on itself on a success.
+The target must succeed on a Constitution saving throw, or it has the [[3-Mechanics/CLI/rules/conditions#Unconscious\|Unconscious]] condition for 1 minute or until it takes any damage. The [[3-Mechanics/CLI/rules/conditions#Unconscious\|Unconscious]] target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
 ### Obscure (Cost: 3d6) (Level 14)
 
-The target must succeed on a Dexterity saving throw, or it has the [Blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) condition until the end of its next turn.
+The target must succeed on a Dexterity saving throw, or it has the [[3-Mechanics/CLI/rules/conditions#Blinded\|Blinded]] condition until the end of its next turn.
 
 ### Slippery Mind (Level 15)
 
@@ -189,7 +189,7 @@ Your cunning mind is exceptionally difficult to control. You gain proficiency in
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](3-Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [[3-Mechanics/CLI/feats/ability-score-improvement-xphb\|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 17)
 
@@ -197,14 +197,14 @@ You gain a feature from your Rogue Subclass.
 
 ### Elusive (Level 18)
 
-You're so evasive that attackers rarely gain the upper hand against you. No attack roll can have [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) against you unless you have the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) condition.
+You're so evasive that attackers rarely gain the upper hand against you. No attack roll can have [[3-Mechanics/CLI/rules/variant-rules/advantage-xphb\|Advantage]] against you unless you have the [[3-Mechanics/CLI/rules/conditions#Incapacitated\|Incapacitated]] condition.
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of the Night Spirit](3-Mechanics/CLI/feats/boon-of-the-night-spirit-xphb.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [[3-Mechanics/CLI/feats/boon-of-the-night-spirit-xphb\|Boon of the Night Spirit]] is recommended.
 
 ### Stroke of Luck (Level 20)
 
-You have a marvelous knack for succeeding when you need to. If you fail a [D20 Test](3-Mechanics/CLI/rules/variant-rules/d20-test-xphb.md), you can turn the roll into a 20.
+You have a marvelous knack for succeeding when you need to. If you fail a [[3-Mechanics/CLI/rules/variant-rules/d20-test-xphb\|D20 Test]], you can turn the roll into a 20.
 
-Once you use this feature, you can't use it again until you finish a [Short Rest](3-Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](3-Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Once you use this feature, you can't use it again until you finish a [[3-Mechanics/CLI/rules/variant-rules/short-rest-xphb\|Short Rest]] or [[3-Mechanics/CLI/rules/variant-rules/long-rest-xphb\|Long Rest]].

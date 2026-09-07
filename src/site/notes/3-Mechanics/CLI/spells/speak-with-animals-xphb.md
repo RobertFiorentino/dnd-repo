@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/speak-with-animals-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/ranger","ttrpg-cli/spell/class/warlock","ttrpg-cli/spell/feat/fey-touched","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/feat/ritual-caster","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/optfeature/pact-of-the-tome","ttrpg-cli/spell/ritual","ttrpg-cli/spell/school/divination","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/oath-of-the-ancients","ttrpg-cli/spell/subclass/path-of-the-wild-heart"],"created":"2025-03-01T17:25:22.000-05:00","updated":"2025-04-01T12:21:34.700-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/speak-with-animals-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/ranger","ttrpg-cli/spell/class/warlock","ttrpg-cli/spell/feat/fey-touched","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/feat/ritual-caster","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/optfeature/pact-of-the-tome","ttrpg-cli/spell/ritual","ttrpg-cli/spell/school/divination","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/oath-of-the-ancients","ttrpg-cli/spell/subclass/path-of-the-wild-heart"],"created":"2025-04-01T12:21:34.000-04:00","updated":"2025-04-01T12:21:34.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-spell","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/ranger","ttrpg-cli/spell/class/warlock","ttrpg-cli/spell/feat/fey-touched","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/feat/ritual-caster","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/optfeature/pact-of-the-tome","ttrpg-cli/spell/ritual","ttrpg-cli/spell/school/divination","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/oath-of-the-ancients","ttrpg-cli/spell/subclass/path-of-the-wild-heart"],"classes":["Bard","Bard","Druid","Druid","Ranger","Ranger","Warlock","Bard (College of Lore)","Paladin (Oath of the Ancients)","Barbarian (Path of the Wild Heart)"],"aliases":["Speak with Animals"]}}
 ---
 
 # Speak with Animals
@@ -11,7 +11,7 @@
 - **Components:** V, S
 - **Duration:** 10 minute
 
-For the duration, you can comprehend and verbally communicate with Beasts, and you can use any of the [Influence](3-Mechanics/CLI/rules/actions.md#Influence) action's skill options with them.
+For the duration, you can comprehend and verbally communicate with Beasts, and you can use any of the [[3-Mechanics/CLI/rules/actions#Influence\|Influence]] action's skill options with them.
 
 Most Beasts have little to say about topics that don't pertain to survival or companionship, but at minimum, a Beast can give you information about nearby locations and monsters, including whatever it has perceived within the past day.
 

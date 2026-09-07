@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/shatter-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/warlock","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/level/2nd-level","ttrpg-cli/spell/school/evocation","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/armorer","ttrpg-cli/spell/subclass/artillerist","ttrpg-cli/spell/subclass/circle-of-the-sea","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/eldritch-knight","ttrpg-cli/spell/subclass/evoker"],"created":"2025-03-01T17:25:22.000-05:00","updated":"2025-03-25T22:27:48.470-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/shatter-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/warlock","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/level/2nd-level","ttrpg-cli/spell/school/evocation","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/armorer","ttrpg-cli/spell/subclass/artillerist","ttrpg-cli/spell/subclass/circle-of-the-sea","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/eldritch-knight","ttrpg-cli/spell/subclass/evoker"],"created":"2025-03-25T22:27:48.000-04:00","updated":"2025-03-25T22:27:48.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-spell","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/warlock","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/level/2nd-level","ttrpg-cli/spell/school/evocation","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/armorer","ttrpg-cli/spell/subclass/artillerist","ttrpg-cli/spell/subclass/circle-of-the-sea","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/eldritch-knight","ttrpg-cli/spell/subclass/evoker"],"classes":["Bard","Bard","Sorcerer","Sorcerer","Warlock","Wizard","Wizard","Rogue (Arcane Trickster)","Artificer (Armorer)","Artificer (Artillerist)","Druid (Circle of the Sea)","Bard (College of Lore)","Fighter (Eldritch Knight)","Wizard (Evoker)"],"aliases":["Shatter"]}}
 ---
 
 # Shatter
@@ -11,7 +11,7 @@
 - **Components:** V, S, a chip of mica
 - **Duration:** Instantaneous
 
-A loud noise erupts from a point of your choice within range. Each creature in a 10-foot-radius Sphere centered there makes a Constitution saving throw, taking `3d8` Thunder damage on a failed save or half as much damage on a successful one. A Construct has [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on the save.
+A loud noise erupts from a point of your choice within range. Each creature in a 10-foot-radius Sphere centered there makes a Constitution saving throw, taking `3d8` Thunder damage on a failed save or half as much damage on a successful one. A Construct has [[3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb\|Disadvantage]] on the save.
 
 A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area.
 

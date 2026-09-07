@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/feats/great-weapon-master-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/feat"],"created":"2025-03-01T17:25:18.000-05:00","updated":"2025-03-01T18:44:36.630-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/feats/great-weapon-master-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/feat"],"created":"2025-03-01T18:44:36.000-05:00","updated":"2025-03-01T18:44:36.000-05:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-feat","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/feat"],"aliases":["Great Weapon Master"]}}
 ---
 
 # Great Weapon Master
@@ -11,7 +11,7 @@ You gain the following benefits.
 
 ## Heavy Weapon Mastery
 
-When you hit a creature with a weapon that has the Heavy property as part of the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action on your turn, you can cause the weapon to deal extra damage to the target. The extra damage equals your Proficiency Bonus.
+When you hit a creature with a weapon that has the Heavy property as part of the [[3-Mechanics/CLI/rules/actions#Attack\|Attack]] action on your turn, you can cause the weapon to deal extra damage to the target. The extra damage equals your Proficiency Bonus.
 
 ## Hew
 

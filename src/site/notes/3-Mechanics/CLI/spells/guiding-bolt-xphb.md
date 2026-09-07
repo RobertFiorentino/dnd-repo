@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/guiding-bolt-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/cleric","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/school/evocation","ttrpg-cli/spell/subclass/celestial-patron","ttrpg-cli/spell/subclass/circle-of-the-stars","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/divine-soul","ttrpg-cli/spell/subclass/oath-of-glory","ttrpg-cli/spell/subclass/war-domain"],"created":"2025-03-01T17:25:23.000-05:00","updated":"2025-03-25T22:27:48.470-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/spells/guiding-bolt-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/cleric","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/school/evocation","ttrpg-cli/spell/subclass/celestial-patron","ttrpg-cli/spell/subclass/circle-of-the-stars","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/divine-soul","ttrpg-cli/spell/subclass/oath-of-glory","ttrpg-cli/spell/subclass/war-domain"],"created":"2025-03-25T22:27:48.000-04:00","updated":"2025-03-25T22:27:48.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-spell","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/cleric","ttrpg-cli/spell/feat/magic-initiate","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/school/evocation","ttrpg-cli/spell/subclass/celestial-patron","ttrpg-cli/spell/subclass/circle-of-the-stars","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/divine-soul","ttrpg-cli/spell/subclass/oath-of-glory","ttrpg-cli/spell/subclass/war-domain"],"classes":["Bard","Cleric","Cleric","Warlock (Celestial Patron)","Druid (Circle of the Stars)","Bard (College of Lore)","Sorcerer (Divine Soul)","Paladin (Oath of Glory)","Cleric (War Domain)"],"aliases":["Guiding Bolt"]}}
 ---
 
 # Guiding Bolt
@@ -11,7 +11,7 @@
 - **Components:** V, S
 - **Duration:** 1 round
 
-You hurl a bolt of light toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes `4d6` Radiant damage, and the next attack roll made against it before the end of your next turn has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md).
+You hurl a bolt of light toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes `4d6` Radiant damage, and the next attack roll made against it before the end of your next turn has [[3-Mechanics/CLI/rules/variant-rules/advantage-xphb\|Advantage]].
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d6` for each spell slot level above 1.
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/cli/items/2-ammunition-xdmg/","tags":["ttrpg-cli/compendium/src/5e/xdmg","ttrpg-cli/item/age/futuristic","ttrpg-cli/item/gear/ammunition","ttrpg-cli/item/gear/ammunition-firearm","ttrpg-cli/item/rarity/rare"],"created":"2025-03-01T17:25:25.000-05:00","updated":"2025-04-10T12:09:22.440-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/cli/items/2-ammunition-xdmg/","tags":["ttrpg-cli/compendium/src/5e/xdmg","ttrpg-cli/item/age/futuristic","ttrpg-cli/item/gear/ammunition","ttrpg-cli/item/gear/ammunition-firearm","ttrpg-cli/item/rarity/rare"],"created":"2025-04-10T12:09:22.000-04:00","updated":"2025-04-10T12:09:22.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-item","tags":["ttrpg-cli/compendium/src/5e/xdmg","ttrpg-cli/item/age/futuristic","ttrpg-cli/item/gear/ammunition","ttrpg-cli/item/gear/ammunition-firearm","ttrpg-cli/item/rarity/rare"],"aliases":["+2 Ammunition","+2 Arrow","+2 Bolt","+2 Energy Cell","+2 Firearm Bullet","+2 Needle","+2 Sling Bullet"]}}
 ---
 
 # +2 Ammunition
