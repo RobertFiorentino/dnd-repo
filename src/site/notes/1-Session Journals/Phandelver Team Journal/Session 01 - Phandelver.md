@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/phandelver-team-journal/session-01-phandelver/","tags":["journal"],"created":"2026-09-06T21:52:52.101-04:00","updated":"2026-09-06T23:44:19.785-04:00","dg-note-properties":{"NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Event Category 1"],"fc-display-name":null,"sessionstatus":["Occured"],"type":"Session Journal","sessionDate":"2026-09-04","players":4,"Status":["⏳"],"OneLiner":"The party travels to Phandalin but finds allies abducted by goblins","timelines":["journal"],"tags":["journal"]}}
+{"dg-publish":true,"permalink":"/1-session-journals/phandelver-team-journal/session-01-phandelver/","tags":["journal"],"created":"2026-09-06T21:52:52.101-04:00","updated":"2026-09-07T10:31:07.660-04:00","dg-note-properties":{"NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Event Category 1"],"fc-display-name":null,"sessionstatus":["Occured"],"type":"Session Journal","sessionDate":"2026-09-04","players":4,"Status":["⏳"],"OneLiner":"The party travels to Phandalin but finds allies abducted by goblins","timelines":["journal"],"tags":["journal"]}}
 ---
 
 # **Session 1: The Road to Phandalin**
@@ -23,9 +23,9 @@ The journey began peacefully enough, but the mysterious box quickly became a sou
 
 Rowan had possession of it and, despite receiving no particular instruction to guard it from his companions, apparently decided that possession was nine-tenths of paladin law.
 
-Naturally, **Brog and Dru decided to steal it from him.**
+Naturally, **Brog and Nissan decided to steal it from him.**
 
-Their conspiracy was partially successful. Dru managed to get his hands on the box and began working on its strange physical mechanism, but whatever he discovered was only part of the solution. His attempt to quietly return the box to Rowan before anyone noticed was considerably less successful.
+Their conspiracy was partially successful. Nissan managed to get his hands on the box and began working on its strange physical mechanism, but whatever he discovered was only part of the solution. His attempt to quietly return the box to Rowan before anyone noticed was considerably less successful.
 
 Before the dispute could be settled, however, the travelers found something far more concerning in the road ahead:
 
