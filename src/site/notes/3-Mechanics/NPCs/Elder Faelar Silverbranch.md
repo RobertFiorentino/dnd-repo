@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/elder-faelar-silverbranch/","tags":["NPC"],"created":"2025-12-13T10:24:16.378-05:00","updated":"2025-12-13T10:24:40.386-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/elder-faelar-silverbranch/","tags":["NPC"],"created":"2025-12-13T10:24:40.000-05:00","updated":"2025-12-13T10:24:40.000-05:00","dg-note-properties":{"obsidianUIMode":"preview","NoteIcon":"npc","Locations":["[[2-World/Suldanessellar]]"],"Gender":"Male","Race":null,"Age":null,"AssociatedGroup":null,"tags":["NPC"],"aliases":null}}
 ---
 
 
 > [!infobox]
 > ##### Elder Faelar Silverbranch
->  ![ImagePlaceholder.png|cover hsmall](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
+>  ![ImagePlaceholder.png\|cover hsmall](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
 > ##### Details
 > | | |
 > |---|---|

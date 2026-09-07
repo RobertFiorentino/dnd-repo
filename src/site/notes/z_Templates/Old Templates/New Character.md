@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-templates/old-templates/new-character/","tags":["NPC"],"created":"2025-02-19T20:56:05.000-05:00","updated":"2025-02-24T20:34:09.660-05:00"}
+{"dg-publish":true,"permalink":"/z-templates/old-templates/new-character/","tags":["NPC"],"created":"2025-02-24T20:34:09.000-05:00","updated":"2025-02-24T20:34:09.000-05:00","dg-note-properties":{"obsidianUIMode":"preview","NoteIcon":"npc","NoteStatus":"New","Locations":null,"Gender":"Male","Race":null,"Age":null,"AssociatedGroup":null,"tags":["NPC"]}}
 ---
 
 <%*
@@ -24,7 +24,7 @@ _%>
 >> Weight:
 >
 >> [!note] Column 3
->> ![Pasted image 20240607151510.png|300](/img/user/z_Assets/Pasted%20image%2020240607151510.png)
+>> ![Pasted image 20240607151510.png\|300](/img/user/z_Assets/Pasted%20image%2020240607151510.png)
 
 | Sessions Appeared |
 | ----------------- |

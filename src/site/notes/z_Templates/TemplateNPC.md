@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/z-templates/template-npc/","tags":["NPC"],"created":"2025-03-17T23:12:21.000-04:00","updated":"2025-03-31T21:52:46.380-04:00"}
+{"dg-publish":true,"permalink":"/z-templates/template-npc/","tags":["NPC"],"created":"2025-03-31T21:52:46.000-04:00","updated":"2025-03-31T21:52:46.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","NoteIcon":"npc","Locations":null,"Gender":null,"Race":null,"Age":null,"AssociatedGroup":null,"tags":["NPC"],"aliases":null}}
 ---
 
 
 > [!infobox]
 > ##### TemplateNPC
->  ![ImagePlaceholder.png|cover hsmall](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
+>  ![ImagePlaceholder.png\|cover hsmall](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
 > ##### Details
 > | | |
 > |---|---|

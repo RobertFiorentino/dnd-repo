@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/venturer-s-rest/","created":"2025-04-17T21:53:28.000-04:00","updated":"2025-04-17T22:01:54.240-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/venturer-s-rest/","created":"2025-04-17T22:01:54.000-04:00","updated":"2025-04-17T22:01:54.000-04:00","dg-note-properties":{"tags":null,"NoteIcon":"location"}}
 ---
 
 >[!infobox]

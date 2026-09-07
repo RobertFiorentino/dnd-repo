@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/guilds-and-groups/flaming-fist/","tags":["Category/Group"],"created":"2025-02-23T17:21:19.000-05:00","updated":"2025-02-25T21:49:41.480-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/guilds-and-groups/flaming-fist/","tags":["Category/Group"],"created":"2025-02-25T21:49:41.000-05:00","updated":"2025-02-25T21:49:41.000-05:00","dg-note-properties":{"tags":["Category/Group"],"PrimaryHome":["Baldur's Gate"],"Locations":null,"Leader":null,"Community-Size":null,"Alignment":null,"Government":null,"NoteIcon":"group","faction":null,"primary_contact":null,"benefits":[{"standing":1,"reward":"What do they get at level 1?"},{"standing":2,"reward":"What do they get at level 2?"},{"standing":3,"reward":"What do they get at level 3?"}]}}
 ---
 
 

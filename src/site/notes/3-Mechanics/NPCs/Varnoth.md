@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/varnoth/","tags":["NPC"],"created":"2025-03-18T16:41:41.000-04:00","updated":"2025-03-25T22:44:08.560-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/varnoth/","tags":["NPC"],"created":"2025-03-25T22:44:08.000-04:00","updated":"2025-03-25T22:44:08.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","NoteIcon":"npc","Locations":["Dragon's Rest"],"Gender":"Female","Race":null,"Age":null,"AssociatedGroup":null,"tags":["NPC"]}}
 ---
 
 

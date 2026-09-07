@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/mercer-matthews/","tags":["NPC"],"created":"2025-04-17T21:42:48.000-04:00","updated":"2025-04-17T22:26:55.980-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/mercer-matthews/","tags":["NPC"],"created":"2025-04-17T22:26:55.000-04:00","updated":"2025-04-17T22:26:55.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","NoteIcon":"npc","Locations":["Helms Hold"],"Gender":"Male","Race":["Human"],"Age":"28","AssociatedGroup":null,"tags":["NPC"],"aliases":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-templates/template-settlement/","tags":["Category/Settlement"],"created":"2025-02-19T20:56:05.000-05:00","updated":"2025-03-30T00:00:52.970-04:00"}
+{"dg-publish":true,"permalink":"/z-templates/template-settlement/","tags":["Category/Settlement"],"created":"2025-03-30T00:00:52.000-04:00","updated":"2025-03-30T00:00:52.000-04:00","dg-note-properties":{"NoteIcon":"settlement","tags":["Category/Settlement"],"Community-Size":null,"Alignment":null,"Government":null,"type":"Settlement","politics":null,"leader":null,"guildsgroups":null,"region":null,"size":null,"population":0,"commonraces":["Humans"],"religion":null,"exports":null,"imports":null}}
 ---
 
 
@@ -16,7 +16,7 @@ _%>
 
 > [!infobox]
 > # TemplateSettlement 
-> ![MapPlaceholder.png|cover hsmall](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
+> ![MapPlaceholder.png\|cover hsmall](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
 > ###### Geography
 > | |  |
 > |---|---|
@@ -54,10 +54,10 @@ _%>
 Placeholder
 
 ### Placeholder Map
-![MapPlaceholder.png|Placeholder Map](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
+![MapPlaceholder.png\|Placeholder Map](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
 
 ### Placeholder Picture
-![ImagePlaceholder.png|Placeholder Picture](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
+![ImagePlaceholder.png\|Placeholder Picture](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
 
 Placeholder
 

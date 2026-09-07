@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/baron-von-cheddarsburgh/","tags":["NPC"],"created":"2025-02-23T11:35:56.000-05:00","updated":"2025-02-25T21:53:18.710-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/baron-von-cheddarsburgh/","tags":["NPC"],"created":"2025-02-25T21:53:18.000-05:00","updated":"2025-02-25T21:53:18.000-05:00","dg-note-properties":{"obsidianUIMode":"preview","NoteIcon":"npc","NoteStatus":"New","Locations":["Waterdeep Sewers"],"FirstEncountered":null,"Gender":"Male","Race":["Wight"],"Age":null,"AssociatedGroup":null,"tags":["NPC"]}}
 ---
 
 > [!column] Basic Details

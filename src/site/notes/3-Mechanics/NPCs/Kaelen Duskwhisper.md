@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/kaelen-duskwhisper/","tags":["NPC"],"created":"2025-12-13T13:03:43.031-05:00","updated":"2025-12-13T13:04:30.407-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/kaelen-duskwhisper/","tags":["NPC"],"created":"2025-12-13T13:04:30.000-05:00","updated":"2025-12-13T13:04:30.000-05:00","dg-note-properties":{"obsidianUIMode":"preview","NoteIcon":"npc","Locations":null,"Gender":"Male","Race":["Wood Elf"],"Age":null,"AssociatedGroup":null,"tags":["NPC"],"aliases":null}}
 ---
 
 
 > [!infobox]
 > ##### Kaelen Duskwhisper
->  ![ImagePlaceholder.png|cover hsmall](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
+>  ![ImagePlaceholder.png\|cover hsmall](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
 > ##### Details
 > | | |
 > |---|---|

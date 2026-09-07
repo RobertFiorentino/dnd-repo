@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/draven-veyl/","tags":["NPC"],"created":"2025-12-13T10:25:28.780-05:00","updated":"2025-12-13T10:26:03.465-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/draven-veyl/","tags":["NPC"],"created":"2025-12-13T10:26:03.000-05:00","updated":"2025-12-13T10:26:03.000-05:00","dg-note-properties":{"obsidianUIMode":"preview","NoteIcon":"npc","Locations":["[[2-World/Suldanessellar]]"],"Gender":"Male","Race":null,"Age":null,"AssociatedGroup":null,"tags":["NPC"],"aliases":null}}
 ---
 
 
 > [!infobox]
 > ##### Draven Veyl
->  ![ImagePlaceholder.png|cover hsmall](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
+>  ![ImagePlaceholder.png\|cover hsmall](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
 > ##### Details
 > | | |
 > |---|---|

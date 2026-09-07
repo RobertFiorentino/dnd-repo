@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/mek-and-minn/","tags":["NPC"],"created":"2025-03-22T11:37:39.000-04:00","updated":"2025-03-25T22:34:59.800-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/mek-and-minn/","tags":["NPC"],"created":"2025-03-25T22:34:59.000-04:00","updated":"2025-03-25T22:34:59.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","NoteIcon":"npc","Locations":null,"Gender":"Male","Race":["Kobold"],"Age":null,"AssociatedGroup":null,"tags":["NPC"]}}
 ---
 
 
 > [!infobox]
 > ##### Mek and Minn
->  ![ImagePlaceholder.png|cover hsmall](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
+>  ![ImagePlaceholder.png\|cover hsmall](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
 > ##### Details
 > | | |
 > |---|---|

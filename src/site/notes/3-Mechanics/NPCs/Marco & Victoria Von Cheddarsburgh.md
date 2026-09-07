@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/marco-and-victoria-von-cheddarsburgh/","tags":["NPC"],"created":"2025-03-27T20:47:58.000-04:00","updated":"2025-04-01T12:21:34.710-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/marco-and-victoria-von-cheddarsburgh/","tags":["NPC"],"created":"2025-04-01T12:21:34.000-04:00","updated":"2025-04-01T12:21:34.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","NoteIcon":"npc","Locations":null,"Gender":null,"Race":null,"Age":null,"AssociatedGroup":null,"tags":["NPC"]}}
 ---
 
 
 > [!infobox]
 > ##### Marco & Victoria Von Cheddarsburgh
->  ![ImagePlaceholder.png|cover hsmall](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
+>  ![ImagePlaceholder.png\|cover hsmall](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
 > ##### Details
 > | | |
 > |---|---|

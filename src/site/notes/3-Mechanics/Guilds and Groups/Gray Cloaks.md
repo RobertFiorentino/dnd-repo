@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/guilds-and-groups/gray-cloaks/","tags":["Category/Group"],"created":"2025-02-23T15:15:16.000-05:00","updated":"2025-03-13T16:18:53.900-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/guilds-and-groups/gray-cloaks/","tags":["Category/Group"],"created":"2025-03-13T16:18:53.000-04:00","updated":"2025-03-13T16:18:53.000-04:00","dg-note-properties":{"tags":["Category/Group"],"Community-Size":null,"Alignment":null,"Government":null,"Leader":null,"PrimaryHome":null,"Locations":["Baldur's Gate"],"NoteIcon":"group","faction":null,"primary_contact":null,"benefits":[{"standing":1,"reward":"What do they get at level 1?"},{"standing":2,"reward":"What do they get at level 2?"},{"standing":3,"reward":"What do they get at level 3?"}]}}
 ---
 
 > [!infobox]

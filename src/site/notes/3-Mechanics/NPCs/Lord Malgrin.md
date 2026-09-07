@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/lord-malgrin/","tags":["NPC"],"created":"2025-03-31T22:59:34.000-04:00","updated":"2025-03-31T23:00:56.780-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/lord-malgrin/","tags":["NPC"],"created":"2025-03-31T23:00:56.000-04:00","updated":"2025-03-31T23:00:56.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","NoteIcon":"npc","Locations":null,"Gender":"Male","Race":["Human"],"Age":null,"AssociatedGroup":null,"tags":["NPC"],"aliases":null}}
 ---
 
 
 > [!infobox]
 > ##### Lord Malgrin
->  ![ImagePlaceholder.png|cover hsmall](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
+>  ![ImagePlaceholder.png\|cover hsmall](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
 > ##### Details
 > | | |
 > |---|---|

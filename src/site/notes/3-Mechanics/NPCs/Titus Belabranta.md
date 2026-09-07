@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/titus-belabranta/","tags":["NPC"],"created":"2025-03-13T09:29:13.000-04:00","updated":"2025-03-13T19:53:37.230-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/titus-belabranta/","tags":["NPC"],"created":"2025-03-13T19:53:37.000-04:00","updated":"2025-03-13T19:53:37.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","NoteIcon":"npc","NoteStatus":"New","Locations":["Waterdeep"],"Gender":"Male","Race":["Human"],"Age":null,"AssociatedGroup":["Plague Rats"],"tags":["NPC"],"aliases":["Titus"]}}
 ---
 
 > [!column] Basic Details

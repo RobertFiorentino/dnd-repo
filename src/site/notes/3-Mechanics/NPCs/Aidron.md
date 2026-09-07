@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/aidron/","tags":["NPC"],"created":"2025-03-21T18:33:11.000-04:00","updated":"2025-03-25T22:44:08.560-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/aidron/","tags":["NPC"],"created":"2025-03-25T22:44:08.000-04:00","updated":"2025-03-25T22:44:08.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","NoteIcon":"npc","Locations":["Clifftop Observatory","Dragon's Rest"],"Gender":"Male","Race":["Bronze Dragon"],"Age":"Wrymling","AssociatedGroup":null,"tags":["NPC"]}}
 ---
 
 

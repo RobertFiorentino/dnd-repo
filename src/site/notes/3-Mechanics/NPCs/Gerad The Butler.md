@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/gerad-the-butler/","tags":["NPC"],"created":"2025-04-10T11:56:32.000-04:00","updated":"2025-04-10T11:57:29.240-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/gerad-the-butler/","tags":["NPC"],"created":"2025-04-10T11:57:29.000-04:00","updated":"2025-04-10T11:57:29.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","NoteIcon":"npc","Locations":null,"Gender":null,"Race":null,"Age":null,"AssociatedGroup":null,"tags":["NPC"],"aliases":["Gerad"]}}
 ---
 
 
 > [!infobox]
 > ##### Gerad The Butler
->  ![ImagePlaceholder.png|cover hsmall](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
+>  ![ImagePlaceholder.png\|cover hsmall](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
 > ##### Details
 > | | |
 > |---|---|

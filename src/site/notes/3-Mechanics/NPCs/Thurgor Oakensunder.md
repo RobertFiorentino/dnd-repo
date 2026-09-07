@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/thurgor-oakensunder/","tags":["NPC"],"created":"2025-02-22T20:43:12.000-05:00","updated":"2025-03-17T14:03:04.470-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/thurgor-oakensunder/","tags":["NPC"],"created":"2025-03-17T14:03:04.000-04:00","updated":"2025-03-17T14:03:04.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","NoteIcon":"npc","NoteStatus":"New","Locations":["Waterdeep"],"FirstEncountered":"[[1-Session Journals/The Plague Wardens Journal/Session 01]]","Gender":"Male","Race":["Dwarf"],"Age":null,"AssociatedGroup":["Council on the Plague"],"tags":["NPC"]}}
 ---
 
 
@@ -15,7 +15,7 @@
 >> Weight:
 >
 >> [!note] Column 3
->> ![Pasted image 20240607151510.png|300](/img/user/z_Assets/Pasted%20image%2020240607151510.png)
+>> ![Pasted image 20240607151510.png\|300](/img/user/z_Assets/Pasted%20image%2020240607151510.png)
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/larassandra-de-vin/","tags":["NPC"],"created":"2025-03-30T00:29:47.000-04:00","updated":"2025-04-01T12:20:43.010-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/larassandra-de-vin/","tags":["NPC"],"created":"2025-04-01T12:20:43.000-04:00","updated":"2025-04-01T12:20:43.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","NoteIcon":"npc","Locations":["Helms Hold"],"Gender":"Female","Race":["Human"],"Age":"47","AssociatedGroup":null,"tags":["NPC"],"aliases":["Larassandra"]}}
 ---
 
 

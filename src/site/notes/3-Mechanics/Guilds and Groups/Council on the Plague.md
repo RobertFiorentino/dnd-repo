@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/guilds-and-groups/council-on-the-plague/","tags":["Category/Group"],"created":"2025-02-24T13:20:19.000-05:00","updated":"2025-02-25T16:09:53.870-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/guilds-and-groups/council-on-the-plague/","tags":["Category/Group"],"created":"2025-02-25T16:09:53.000-05:00","updated":"2025-02-25T16:09:53.000-05:00","dg-note-properties":{"tags":["Category/Group"],"PrimaryHome":["Waterdeep"],"Locations":null,"Leader":null,"Community-Size":null,"Alignment":null,"Government":null,"NoteIcon":"group","faction":null,"primary_contact":null,"benefits":[{"standing":1,"reward":"What do they get at level 1?"},{"standing":2,"reward":"What do they get at level 2?"},{"standing":3,"reward":"What do they get at level 3?"}]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/laylee/","tags":["NPC"],"created":"2025-03-18T17:44:34.000-04:00","updated":"2025-03-25T22:44:08.560-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/laylee/","tags":["NPC"],"created":"2025-03-25T22:44:08.000-04:00","updated":"2025-03-25T22:44:08.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","NoteIcon":"npc","Locations":["Dragon's Rest"],"Gender":"Female","Race":["Kobold"],"Age":null,"AssociatedGroup":null,"tags":["NPC"]}}
 ---
 
 

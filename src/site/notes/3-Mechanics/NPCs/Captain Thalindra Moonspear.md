@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/captain-thalindra-moonspear/","tags":["NPC"],"created":"2025-12-13T10:21:52.396-05:00","updated":"2025-12-13T10:24:03.965-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/captain-thalindra-moonspear/","tags":["NPC"],"created":"2025-12-13T10:24:03.000-05:00","updated":"2025-12-13T10:24:03.000-05:00","dg-note-properties":{"obsidianUIMode":"preview","NoteIcon":"npc","Locations":["[[2-World/Suldanessellar]]"],"Gender":null,"Race":null,"Age":null,"AssociatedGroup":null,"tags":["NPC"],"aliases":null}}
 ---
 
 
 > [!infobox]
 > ##### Captain Thalindra Moonspear
->  ![ImagePlaceholder.png|cover hsmall](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
+>  ![ImagePlaceholder.png\|cover hsmall](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
 > ##### Details
 > | | |
 > |---|---|

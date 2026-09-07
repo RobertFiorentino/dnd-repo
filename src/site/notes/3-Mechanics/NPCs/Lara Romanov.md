@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/lara-romanov/","tags":["NPC"],"created":"2025-02-26T20:29:10.000-05:00","updated":"2025-03-13T19:53:19.020-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/lara-romanov/","tags":["NPC"],"created":"2025-03-13T19:53:19.000-04:00","updated":"2025-03-13T19:53:19.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","NoteIcon":"npc","NoteStatus":"New","Locations":["Waterdeep"],"Gender":"Male","Race":["Half-Elf"],"Age":null,"AssociatedGroup":["Council on the Plague"],"tags":["NPC"],"aliases":["Lara"]}}
 ---
 
 > [!column] Basic Details
@@ -13,7 +13,7 @@
 >> Weight:
 >
 >> [!note] Column 3
->> ![Pasted image 20240607151510.png|300](/img/user/z_Assets/Pasted%20image%2020240607151510.png)
+>> ![Pasted image 20240607151510.png\|300](/img/user/z_Assets/Pasted%20image%2020240607151510.png)
 
 | Sessions Appeared                                                           |
 | --------------------------------------------------------------------------- |

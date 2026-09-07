@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/laverneous/","tags":["NPC"],"created":"2025-02-23T10:37:12.000-05:00","updated":"2025-02-25T21:54:36.160-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/laverneous/","tags":["NPC"],"created":"2025-02-25T21:54:36.000-05:00","updated":"2025-02-25T21:54:36.000-05:00","dg-note-properties":{"obsidianUIMode":"preview","NoteIcon":"npc","NoteStatus":"New","Locations":["Waterdeep Sewers","Circus of Hostages","Rat Hills"],"FirstEncountered":null,"Gender":"Male","Race":["Halfling"],"Age":null,"AssociatedGroup":null,"tags":["NPC"]}}
 ---
 
 > [!column] Basic Details
@@ -13,7 +13,7 @@
 >> Weight:
 >
 >> [!note] Column 3
->> ![Laverneous.png|300](/img/user/z_Assets/Laverneous.png)
+>> ![Laverneous.png\|300](/img/user/z_Assets/Laverneous.png)
 
 #### Description
 The most handsome person we've ever seen. A famous and accomplished performer.

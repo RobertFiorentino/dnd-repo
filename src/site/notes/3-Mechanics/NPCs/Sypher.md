@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/sypher/","tags":["NPC"],"created":"2025-04-04T12:51:35.000-04:00","updated":"2025-04-04T13:17:25.290-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/sypher/","tags":["NPC"],"created":"2025-04-04T13:17:25.000-04:00","updated":"2025-04-04T13:17:25.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","NoteIcon":"npc","Locations":null,"Gender":"Male","Race":["Human"],"Age":"37","AssociatedGroup":["Gilded Gallows"],"tags":["NPC"],"aliases":null}}
 ---
 
 

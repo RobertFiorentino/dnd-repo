@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/graska-and-harlan/","tags":["NPC"],"created":"2025-03-18T17:56:35.000-04:00","updated":"2025-03-25T22:44:08.560-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/graska-and-harlan/","tags":["NPC"],"created":"2025-03-25T22:44:08.000-04:00","updated":"2025-03-25T22:44:08.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","NoteIcon":"npc","Locations":null,"Gender":null,"Race":["Half-Orc","Human"],"Age":null,"AssociatedGroup":null,"tags":["NPC"]}}
 ---
 
 

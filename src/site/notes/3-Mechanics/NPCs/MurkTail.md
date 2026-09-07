@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/murk-tail/","tags":["NPC"],"created":"2025-03-12T21:01:35.000-04:00","updated":"2025-03-13T09:27:48.760-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/murk-tail/","tags":["NPC"],"created":"2025-03-13T09:27:48.000-04:00","updated":"2025-03-13T09:27:48.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","NoteIcon":"npc","NoteStatus":"New","Locations":null,"Gender":"Male","Race":["Wererat"],"Age":null,"AssociatedGroup":["Plague Rats"],"tags":["NPC"]}}
 ---
 
 > [!column] Basic Details

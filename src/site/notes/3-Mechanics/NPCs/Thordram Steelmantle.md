@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/thordram-steelmantle/","tags":["NPC"],"created":"2025-03-29T23:49:27.000-04:00","updated":"2025-04-01T12:20:32.300-04:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/thordram-steelmantle/","tags":["NPC"],"created":"2025-04-01T12:20:32.000-04:00","updated":"2025-04-01T12:20:32.000-04:00","dg-note-properties":{"obsidianUIMode":"preview","NoteIcon":"npc","Locations":["Helms Hold"],"Gender":"Male","Race":["Dwarf"],"Age":null,"AssociatedGroup":null,"tags":["NPC"],"aliases":["Thordram"]}}
 ---
 
 

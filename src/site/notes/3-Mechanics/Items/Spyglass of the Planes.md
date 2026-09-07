@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/items/spyglass-of-the-planes/","tags":["item"],"created":"2025-02-23T16:36:54.000-05:00","updated":"2025-02-24T20:33:31.250-05:00"}
+{"dg-publish":true,"permalink":"/3-mechanics/items/spyglass-of-the-planes/","tags":["item"],"created":"2025-02-24T20:33:31.000-05:00","updated":"2025-02-24T20:33:31.000-05:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-item"],"tags":["item"],"aliases":null,"SourceType":"Magic Item","NoteIcon":"magicitem","BookSource":null}}
 ---
 
 
