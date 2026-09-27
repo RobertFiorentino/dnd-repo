@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/1-party/phandelver-team/phandelver-team/","created":"2025-03-02T12:17:03.000-05:00","updated":"2026-09-06T22:25:46.885-04:00","dg-note-properties":{}}
 ---
 
-| Session                                                                                            | Summary                                                             |
-| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| [[1-Session Journals/Phandelver Team Journal/Session 01 - Phandelver\|Session 01 - Phandelver]] | The party travels to Phandalin but finds allies abducted by goblins |
+| Session                                                                                            | Summary                                                                                                                       |
+| -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| [[1-Session Journals/Phandelver Team Journal/Session 02 - Phandelver\|Session 02 - Phandelver]] | The group meets the residents of Phandalin and learns of many issues the town is facing, ending with a Redbrand confrontation |
+| [[1-Session Journals/Phandelver Team Journal/Session 01 - Phandelver\|Session 01 - Phandelver]] | The party travels to Phandalin but finds allies abducted by goblins                                                           |
 
 { .block-language-dataview}
 ### Characters

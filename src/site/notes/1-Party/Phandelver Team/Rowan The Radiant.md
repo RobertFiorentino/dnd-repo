@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/phandelver-team/rowan-the-radiant/","tags":["player"],"created":"2026-07-29T22:16:14.006-04:00","updated":"2026-09-06T22:18:35.498-04:00","dg-note-properties":{"NoteIcon":"player","aliases":["Rowan"],"tags":["player"],"Player":"Mike","Role":"Player","Class":["[[3-Mechanics/CLI/classes/paladin-xphb|Paladin]]"],"Race":["Stone Goliath"],"level":1,"hp":12,"ac":19,"modifier":2,"Passive":12,"Status":"Active","PlayerKnownLanguages":["Dwarvish","Giant"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"spells":{"slots1":2}}}
+{"dg-publish":true,"permalink":"/1-party/phandelver-team/rowan-the-radiant/","tags":["player"],"created":"2026-07-29T22:16:14.006-04:00","updated":"2026-09-25T22:09:29.088-04:00","dg-note-properties":{"NoteIcon":"player","aliases":["Rowan"],"tags":["player"],"Player":"Mike","Role":"Player","Class":["[[3-Mechanics/CLI/classes/paladin-xphb|Paladin]]"],"Race":["Stone Goliath"],"level":1,"hp":12,"ac":19,"modifier":2,"Passive":12,"Status":"Active","PlayerKnownLanguages":["Dwarvish","Giant"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"spells":{"slots1":2}}}
 ---
 
 
@@ -50,7 +50,7 @@ Before the two of you could begin that investigation, Sildar asked you to accomp
 >>> - [ ] [[3-Mechanics/CLI/spells/detect-magic-xphb\|Detect Magic]]
 >>> - [ ] [[3-Mechanics/CLI/spells/detect-poison-and-disease-xphb\|Detect Poison and Disease]]
 >>> - [x] [[3-Mechanics/CLI/spells/divine-favor-xphb\|Divine Favor]]
->>> - [ ] [[3-Mechanics/CLI/spells/divine-smite-xphb\|Divine Smite]]
+>>> - [x] [[3-Mechanics/CLI/spells/divine-smite-xphb\|Divine Smite]]
 >>> - [ ] [[3-Mechanics/CLI/spells/heroism-xphb\|Heroism]]
 >>> - [ ] [[3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb\|Protection from Evil and Good]]
 >>> - [ ] [[3-Mechanics/CLI/spells/purify-food-and-drink-xphb\|Purify Food and Drink]]
