@@ -211,43 +211,52 @@ module.exports = function (eleventyConfig) {
       };
 
       const defaultImageRule =
-        md.renderer.rules.image ||
-        function (tokens, idx, options, env, self) {
-          return self.renderToken(tokens, idx, options, env, self);
-        };
-      md.renderer.rules.image = (tokens, idx, options, env, self) => {
-        const imageName = tokens[idx].content;
-      
-        // Split on pipe to get filename and metadata
-        const [fileName, ...metaParts] = imageName.split("|");
-      
-        let width = null;
-        let alignmentClass = "";
-      
-        // Process each metadata part
-        metaParts.forEach(part => {
-          const trimmed = part.trim().toLowerCase();
-          if (!isNaN(trimmed)) {
-            width = `${trimmed}px`;
-          } else if (["left", "right", "center"].includes(trimmed)) {
-            alignmentClass = `img-${trimmed}`;
-          }
-        });
-      
-        // Set src and alt
-        tokens[idx].attrs = tokens[idx].attrs || [];
-        tokens[idx].attrs.push(["src", `/z_Assets/${fileName}`]);
-        tokens[idx].attrs.push(["alt", fileName]);
-      
-        if (width) {
-          tokens[idx].attrs.push(["width", width]);
-        }
-        if (alignmentClass) {
-          tokens[idx].attrs.push(["class", alignmentClass]);
-        }
-      
-        return self.renderToken(tokens, idx, options);
-      };
+  md.renderer.rules.image ||
+  function (tokens, idx, options, env, self) {
+    return self.renderToken(tokens, idx, options, env, self);
+  };
+
+md.renderer.rules.image = (tokens, idx, options, env, self) => {
+  const token = tokens[idx];
+
+  // Digital Garden converts Obsidian embeds such as:
+  // ![[image.png|left|200]]
+  // into Markdown with an alt value like:
+  // image.png\|left\|200
+  //
+  // Normalize the escaped pipes so we can process all modifiers.
+  const imageName = token.content.replace(/\\\|/g, "|");
+  const [fileName, ...metaParts] = imageName.split("|");
+
+  let width = null;
+  let alignmentClass = "";
+
+  // Process every modifier independently so alignment and size
+  // can be used together in any order.
+  metaParts.forEach((part) => {
+    const trimmed = part.trim().toLowerCase();
+
+    if (/^\d+$/.test(trimmed)) {
+      width = `${trimmed}px`;
+    } else if (["left", "right", "center"].includes(trimmed)) {
+      alignmentClass = `img-${trimmed}`;
+    }
+  });
+
+  // Keep the src Digital Garden already generated.
+  // Only clean the alt text and add our presentation attributes.
+  token.attrSet("alt", fileName);
+
+  if (width) {
+    token.attrSet("width", width);
+  }
+
+  if (alignmentClass) {
+    token.attrSet("class", alignmentClass);
+  }
+
+  return defaultImageRule(tokens, idx, options, env, self);
+};
 
       const defaultLinkRule =
         md.renderer.rules.link_open ||
