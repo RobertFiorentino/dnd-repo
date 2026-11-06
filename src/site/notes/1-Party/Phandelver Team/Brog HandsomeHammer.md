@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/phandelver-team/brog-handsome-hammer/","tags":["player"],"created":"2026-07-31T21:34:03.864-04:00","updated":"2026-09-04T17:59:06.523-04:00","dg-note-properties":{"NoteIcon":"player","aliases":["Brog"],"tags":["player"],"Player":"Dave","Role":"Player","Class":["Artificer"],"Race":["Dwarf"],"level":1,"hp":12,"ac":16,"modifier":2,"Passive":9,"Status":"Active","PlayerKnownLanguages":["Dwarvish","Elvish"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"spells":{"slots1":2}}}
+{"dg-publish":true,"permalink":"/1-party/phandelver-team/brog-handsome-hammer/","tags":["player"],"created":"2026-07-31T21:34:03.864-04:00","updated":"2026-09-26T20:45:33.130-04:00","dg-note-properties":{"NoteIcon":"player","aliases":["Brog"],"tags":["player"],"Player":"Dave","Role":"Player","Class":["Artificer"],"Race":["Dwarf"],"level":1,"hp":12,"ac":16,"modifier":2,"Passive":9,"Status":"Active","PlayerKnownLanguages":["Dwarvish","Elvish"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"spells":{"slots1":2}}}
 ---
 
 
@@ -40,7 +40,9 @@ Rather than celebrating your graduation, he quietly asks to speak with you in pr
 
 
 ### Brog's Spells
-
+| Modifier | Attack | DC  |
+| -------- | ------ | --- |
+| +3       | +5     | 13  
 > [!hint | clean no-i]+ Spells
 >> [!column| 3 clean no-t]
 >>> [!hint | bg-c-brown]+ Cantrips

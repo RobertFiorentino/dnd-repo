@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/phandelver-team/rowan-the-radiant/","tags":["player"],"created":"2026-07-29T22:16:14.006-04:00","updated":"2026-09-25T22:09:29.088-04:00","dg-note-properties":{"NoteIcon":"player","aliases":["Rowan"],"tags":["player"],"Player":"Mike","Role":"Player","Class":["[[3-Mechanics/CLI/classes/paladin-xphb|Paladin]]"],"Race":["Stone Goliath"],"level":1,"hp":12,"ac":19,"modifier":2,"Passive":12,"Status":"Active","PlayerKnownLanguages":["Dwarvish","Giant"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"spells":{"slots1":2}}}
+{"dg-publish":true,"permalink":"/1-party/phandelver-team/rowan-the-radiant/","tags":["player"],"created":"2026-07-29T22:16:14.006-04:00","updated":"2026-09-26T20:43:19.981-04:00","dg-note-properties":{"NoteIcon":"player","aliases":["Rowan"],"tags":["player"],"Player":"Mike","Role":"Player","Class":["[[3-Mechanics/CLI/classes/paladin-xphb|Paladin]]"],"Race":["Stone Goliath"],"level":1,"hp":12,"ac":19,"modifier":2,"Passive":12,"Status":"Active","PlayerKnownLanguages":["Dwarvish","Giant"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"spells":{"slots1":2}}}
 ---
 
 
@@ -37,6 +37,9 @@ To aid your search, Sir Garrick introduced you to **Sildar Hallwinter** of the L
 Before the two of you could begin that investigation, Sildar asked you to accompany him on one final task. He owed an old friend, **Gundren Rockseeker**, a debt, and Gundren needed help recovering a mysterious artifact. Knowing you would need someone you trusted at your side, you sought out Dru once again. Together, the three of you recovered the ancient puzzle box. Now, with that task complete, you and Sildar intend to travel to Phandalin and finally begin searching for the truth behind the tragedy that has haunted you since childhood.
 
 ### Rowan's Spells
+| Modifier | Attack | DC  |
+| -------- | ------ | --- |
+| +2       | +4     | 12  |
 > [!hint | clean no-i]+ Spells
 >> [!column| 3 clean no-t]
 >>> [!hint | bg-c-red]+ 1<sup>st</sup> level spells (`VIEW[{spells.slots1}]`/2) 

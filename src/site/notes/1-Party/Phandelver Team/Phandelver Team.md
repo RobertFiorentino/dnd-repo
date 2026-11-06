@@ -4,6 +4,7 @@
 
 | Session                                                                                            | Summary                                                                                                                       |
 | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| [[1-Session Journals/Phandelver Team Journal/Session 03 - Phandelver\|Session 03 - Phandelver]] | The party makes a peculiar alliance in the crypts beneath Phandalin as they seek to dismantle the Redbrands                   |
 | [[1-Session Journals/Phandelver Team Journal/Session 02 - Phandelver\|Session 02 - Phandelver]] | The group meets the residents of Phandalin and learns of many issues the town is facing, ending with a Redbrand confrontation |
 | [[1-Session Journals/Phandelver Team Journal/Session 01 - Phandelver\|Session 01 - Phandelver]] | The party travels to Phandalin but finds allies abducted by goblins                                                           |
 

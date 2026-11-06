@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-session-journals/phandelver-team-journal/session-02-phandelver/","tags":["journal"],"created":"2026-09-26T01:04:59.841-04:00","updated":"2026-09-26T20:05:59.512-04:00","dg-note-properties":{"NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Event Category 1"],"fc-display-name":null,"sessionstatus":["Occured"],"type":"Session Journal","sessionDate":"2026-09-25","players":4,"Status":["⏳"],"OneLiner":"The group meets the residents of Phandalin and learns of many issues the town is facing, ending with a Redbrand confrontation","timelines":["journal"],"tags":["journal"]}}
+{"dg-publish":true,"permalink":"/1-session-journals/phandelver-team-journal/session-02-phandelver/","tags":["journal"],"created":"2026-09-26T01:04:59.841-04:00","updated":"2026-09-26T21:44:15.368-04:00","dg-note-properties":{"NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Event Category 1"],"fc-display-name":null,"sessionstatus":["Occured"],"type":"Session Journal","sessionDate":"2026-09-25","players":4,"Status":["⏳"],"OneLiner":"The group meets the residents of Phandalin and learns of many issues the town is facing, ending with a Redbrand confrontation","timelines":["journal"],"tags":["journal"]}}
 ---
 
 # **Session 2: Welcome to Phandalin**

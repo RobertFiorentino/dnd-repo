@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-party/phandelver-team/dru-eghoe/","tags":["player"],"created":"2026-08-02T08:30:32.322-04:00","updated":"2026-09-06T22:17:20.879-04:00","dg-note-properties":{"NoteIcon":"player","aliases":["Dru"],"tags":["player"],"Player":"Jesse","Role":"Player","Class":["[[3-Mechanics/CLI/classes/ranger-xphb|Ranger]]"],"Race":["High Elf"],"level":1,"hp":11,"ac":14,"modifier":2,"Passive":15,"Status":"Active","PlayerKnownLanguages":["Elvish","Goblin"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"spells":{"slots1":2}}}
+{"dg-publish":true,"permalink":"/1-party/phandelver-team/dru-eghoe/","tags":["player"],"created":"2026-08-02T08:30:32.322-04:00","updated":"2026-09-26T20:46:57.674-04:00","dg-note-properties":{"NoteIcon":"player","aliases":["Dru"],"tags":["player"],"Player":"Jesse","Role":"Player","Class":["[[3-Mechanics/CLI/classes/ranger-xphb|Ranger]]"],"Race":["High Elf"],"level":1,"hp":11,"ac":14,"modifier":2,"Passive":15,"Status":"Active","PlayerKnownLanguages":["Elvish","Goblin"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"spells":{"slots1":2}}}
 ---
 
 
@@ -46,7 +46,9 @@ Now, at Gundren’s request, the two of you are traveling to Neverwinter to meet
 
 
 ### Dru's Spells
-
+| Modifier | Attack | DC  |
+| -------- | ------ | --- |
+| +3       | +5     | 13  |
 > [!hint | clean no-i]+ Spells
 >> [!column| 3 clean no-t]
 >>> [!hint | bg-c-brown]+ Cantrips

@@ -17,14 +17,14 @@
 | Character Name                                                                 | Player  | Class                                                                   | Race                         | level |
 | ------------------------------------------------------------------------------ | ------- | ----------------------------------------------------------------------- | ---------------------------- | ----- |
 | [[1-Party/The Dream Team/Aevarius Starblade\|Aevarius Starblade]]           | Westley | <ul><li>[[3-Mechanics/CLI/classes/paladin-xphb\|Paladin]]</li></ul> | <ul><li>Human</li></ul>      | 3     |
-| [[1-Party/The Dream Team/Dandydalf\|Dandydalf]]                             | Dan     | <ul><li>[[3-Mechanics/CLI/classes/wizard-xphb\|Wizard]]</li></ul>   | <ul><li>High Elf</li></ul>   | 2     |
 | [[1-Party/The Dream Team/Goliath\|Goliath]]                                 | Paul    | <ul><li>[[3-Mechanics/CLI/classes/rogue-xphb\|Rogue]]</li></ul>     | <ul><li>Half-Elf</li></ul>   | 2     |
 | [[1-Party/The Dream Team/Isarin Duskweaver\|Isarin Duskweaver]]             | Finn    | <ul><li>[[3-Mechanics/CLI/classes/wizard-xphb\|Wizard]]</li></ul>   | <ul><li>High Elf</li></ul>   | 3     |
+| [[1-Party/The Dream Team/Dandydalf\|Dandydalf]]                             | Dan     | <ul><li>[[3-Mechanics/CLI/classes/wizard-xphb\|Wizard]]</li></ul>   | <ul><li>High Elf</li></ul>   | 2     |
 | [[1-Party/The Dream Team/Kanjigar The Courageous\|Kanjigar The Courageous]] | Ben     | <ul><li>[[3-Mechanics/CLI/classes/cleric-xphb\|Cleric]]</li></ul>   | <ul><li>Dwarf</li></ul>      | 3     |
 | [[1-Party/The Dream Team/Loreanna Ashara\|Loreanna Ashara]]                 | Carla   | <ul><li>[[3-Mechanics/CLI/classes/fighter-xphb\|Fighter]]</li></ul> | <ul><li>Wood Elf</li></ul>   | 3     |
 | [[1-Party/The Dream Team/Mylo\|Mylo]]                                       | Calvin  | <ul><li>[[3-Mechanics/CLI/classes/rogue-xphb\|Rogue]]</li></ul>     | <ul><li>Halfling</li></ul>   | 2     |
-| [[1-Party/The Dream Team/Onion\|Onion]]                                     | Alex    | <ul><li>[[3-Mechanics/CLI/classes/bard-xphb\|Bard]]</li></ul>       | <ul><li>Human</li></ul>      | 2     |
 | [[1-Party/The Dream Team/Thertume Moonbeam\|Thertume Moonbeam]]             | Westley | <ul><li>[[3-Mechanics/CLI/classes/druid-xphb\|Druid]]</li></ul>     | <ul><li>Dragonborn</li></ul> | 3     |
+| [[1-Party/The Dream Team/Onion\|Onion]]                                     | Alex    | <ul><li>[[3-Mechanics/CLI/classes/bard-xphb\|Bard]]</li></ul>       | <ul><li>Human</li></ul>      | 2     |
 
 { .block-language-dataview}
 
